@@ -1,4 +1,4 @@
 .PHONY: update
 
 update:
-	cd support && python extract_tags.py
+	cd support && python difftags.py

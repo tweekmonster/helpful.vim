@@ -1,8 +1,34 @@
 # helpful.vim
 
-Displays the version when a helptag under the cursor first appeared in Vim.  It
-will also show the version that removed the helptag if you happen to be viewing
-older docs.
+A plugin for plugin developers to get the version of Vim and Neovim that
+introduced or removed features.
 
-This is a WIP.  Displaying the versions for words under the cursor in .vim
-sources is planned.
+## Usage
+
+The command `:HelpfulVersion` takes a Vim pattern to search for helptags and
+display version information.
+
+Examples:
+
+```vim
+" Search for a function
+:HelpfulVersion matchaddpos()
+
+" Search for keys
+:HelpfulVersion <.*>
+
+" Case-insensitive search
+:HelpfulVersion f11\c
+```
+
+
+## Options
+
+- `b:helpful` - If set to `1`, display version information about the text under
+  the cursor on `CursorMoved` in `help` or `vim` filetypes.
+- `g:helpful` - Same as above but always on.  It's also less humorous to read
+  out loud.
+
+## License
+
+MIT
