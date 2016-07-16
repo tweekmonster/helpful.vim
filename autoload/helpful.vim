@@ -3,8 +3,8 @@ let s:base = expand('<sfile>:p:h:h')
 " Text around the word that might produce a match, in order of 'usefulness' to
 " a developer.
 let s:ornaments = [
-      \ ['', '()'],
       \ [':', ''],
+      \ ['', '()'],
       \ [':func-', ''],
       \ ["'", "'"],
       \ ['<', '>'],
