@@ -47,11 +47,12 @@ function! s:pattern_wrap(pattern, help) abort
   let pattern = a:pattern
   if a:help
     let tagpattern = '\%(\1\@!.\)*'.pattern.'\%(\1\@!.\)*'
-    let pattern = '\zs.\{-}'.pattern.'.\{-}\ze'
-    return '\%(\([|*'']\)\zs'.tagpattern.'\ze\1\)\|'
-          \ .'\%(\%(:\%(\w\|[-_]\)\)\?<'.pattern.'>\)\|'
-          \ .'\%(\['.pattern.'\]\)\|'
-          \ .'\%({'.pattern.'}\)'
+    return '\%(\([|*]\)\zs'.tagpattern.'\ze\1\)\|'
+          \ .'\%(\zs''[^'']*'.pattern.'[^'']*''\ze\)\|'
+          \ .'\%(\zs\%(:\%(\w\|[-_]\)\)\?<[^<>]*'.pattern.'[^<>]*>\ze\)\|'
+          \ .'\%(\zs\[[^\[\]]*'.pattern.'[^\[\]]*\]\ze\)\|'
+          \ .'\%(\zs{[^{}]*'.pattern.'[^{}]*}\ze\)\|'
+          \ .'\zs\%(\k\|[_-]\)*'.pattern.'\%(\k\|[_-]\)*\ze'
   endif
   let word_atom = '\%(\w\|[&:_@#{}/\+-]\)*'
   return word_atom.pattern.word_atom
