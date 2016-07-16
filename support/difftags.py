@@ -165,8 +165,7 @@ def generate():
             hfp.write(b'A listing of helptags with the versions they became '
                       b'available or were removed.\n\n')
 
-            for helptag, targets in sorted(tags.items(),
-                                           key=lambda x: x[0].lower().decode('utf8')):
+            for helptag, targets in sorted(tags.items(), key=lambda x: x[0]):
                 # Not creating new tags since it adds too much noise to help
                 # completion.
                 # tag = b'*v/' + helptag + b'*'
@@ -174,7 +173,7 @@ def generate():
                 hfp.write(b'\n|' + helptag + b'|\n\n')
 
                 target_versions = []
-                for target, versions in targets.items():
+                for target, versions in sorted(targets.items(), key=lambda x: x[0]):
                     hfp.write(b'  ' + target.title().rjust(8) + b': ')
                     if versions['added']:
                         hfp.write(b'+' + versions['added'] + b' ')
