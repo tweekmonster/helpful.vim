@@ -53,7 +53,7 @@ function! s:pattern_wrap(pattern, help) abort
           \ .'\%(\['.pattern.'\]\)\|'
           \ .'\%({'.pattern.'}\)'
   endif
-  let word_atom = '\%(\w\|[&:_@#!{}/\+-]\)*'
+  let word_atom = '\%(\w\|[&:_@#{}/\+-]\)*'
   return word_atom.pattern.word_atom
 endfunction
 
