@@ -1,4 +1,4 @@
-.PHONY: update
+.PHONY: update auto
 
 update:
 	cd support && python difftags.py
