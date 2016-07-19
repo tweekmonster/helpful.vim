@@ -52,7 +52,7 @@ function! s:pattern_wrap(pattern, help) abort
           \ .'\%(\zs\%(:\%(\w\|[-_]\)\)\?<[^<>]*'.pattern.'[^<>]*>\ze\)\|'
           \ .'\%(\zs\[[^\[\]]*'.pattern.'[^\[\]]*\]\ze\)\|'
           \ .'\%(\zs{[^{}]*'.pattern.'[^{}]*}\ze\)\|'
-          \ .'\zs\%(\k\|[_-]\)*'.pattern.'\%(\k\|[_-]\)*\ze'
+          \ .'\zs\%(\k\|[_-]\)*'.pattern.'\%(\k\|[_-]\)*\ze('
   endif
   let word_atom = '\%(\w\|[&:_@#{}/\+-]\)*'
   return word_atom.pattern.word_atom
