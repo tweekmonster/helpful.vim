@@ -43,7 +43,8 @@ def command(cmd, print_stdout=False, print_stderr=True, cwd=None):
 def get_latest(repo):
     path = os.path.join(src, repo)
     if os.path.exists(path):
-        return command(['git', 'fetch', '-q'], True, cwd=path)
+        return command(['git', 'fetch', '-q', repos.get(repo),
+                        'master:master'], True, cwd=path)
     else:
         return command(['git', 'clone', '-q', '--bare', '--single-branch',
                         repos.get(repo), path], True)
