@@ -1,6 +1,4 @@
-                                            Generated: 2016-07-27 16:16:01 UTC
-*helpful-version.txt* *helpful-version*
-
+*helpful-version.txt*  Generated: 2016-07-27 16:23:53 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -21497,7 +21495,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |E706|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0034 -v7.4.1546 
 
 |E707|
@@ -25383,17 +25381,17 @@ A listing of helptags with the versions they became available or were removed.
 
 |assert_match()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v7.4.1663 
 
 |assert_notequal()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v7.4.1703 
 
 |assert_notmatch()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v7.4.1703 
 
 |assert_true()|
@@ -39302,7 +39300,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |no-type-checking|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v7.4.1546 
 
 |no_buffers_menu|
@@ -43422,7 +43420,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |sticky-type-checking|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.2a -v7.4.1546 
 
 |str2float()|
