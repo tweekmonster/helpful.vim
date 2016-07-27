@@ -157,11 +157,9 @@ def generate():
         with open(os.path.join(base, '..', 'doc',
                                'helpful-version.txt'), 'wb') as hfp:
 
-            hfp.write((b'Generated: ' +
-                       str(datetime.utcnow().replace(microsecond=0))
-                       .encode('utf8') + b' UTC').rjust(help_width))
-            hfp.write(b'\n')
-            hfp.write(b'*helpful-version.txt* *helpful-version*\n')
+            hfp.write(b'*helpful-version.txt*  Generated: ' +
+                      str(datetime.utcnow().replace(microsecond=0))
+                      .encode('utf8') + b' UTC')
             hfp.write(b'\n\n')
             hfp.write(b'A listing of helptags with the versions they became '
                       b'available or were removed.\n\n')
