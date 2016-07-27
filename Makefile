@@ -8,6 +8,6 @@ auto:
 		&& python3 support/difftags.py \
 		&& test " M data/tags" = "$$(git status --porcelain | grep 'data/tags')" \
 		&& git add data doc \
-		&& git commit -m "Auto-updated tags $$(date +'%Y-%m-%d')" \
+		&& git commit -m "Auto-updated tags $$(date --rfc-3339=seconds)" \
 		&& git push
 	git checkout -- doc/
