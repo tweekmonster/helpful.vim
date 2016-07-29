@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2016-07-28 22:00:24 UTC
+*helpful-version.txt*  Generated: 2016-07-29 10:00:23 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -63,6 +63,14 @@ A listing of helptags with the versions they became available or were removed.
 |$VIM_POSIX|
 
        Vim: +v7.4.1325 
+
+|$XDG_CONFIG_HOME|
+
+    Neovim: +dev 
+
+|$XDG_DATA_HOME|
+
+    Neovim: +dev 
 
 |%|
 
@@ -25498,6 +25506,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|base-directories|
+
+    Neovim: +dev 
+
 |base_font_name_list|
 
     Neovim: +v0.1.0 
@@ -47824,6 +47836,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|xdg|
+
+    Neovim: +dev 
 
 |xf86conf-syntax|
 
