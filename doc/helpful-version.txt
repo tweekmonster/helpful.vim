@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2016-07-31 22:00:24 UTC
+*helpful-version.txt*  Generated: 2016-08-01 10:00:24 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -15398,6 +15398,22 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|:tmap|
+
+    Neovim: +dev 
+
+|:tmap_l|
+
+    Neovim: +dev 
+
+|:tmapc|
+
+    Neovim: +dev 
+
+|:tmapclear|
+
+    Neovim: +dev 
+
 |:tmenu|
 
     Neovim: +v0.1.0 
@@ -15412,6 +15428,14 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|:tno|
+
+    Neovim: +dev 
+
+|:tnoremap|
+
+    Neovim: +dev 
 
 |:topleft|
 
@@ -15457,6 +15481,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|:tunmap|
+
+    Neovim: +dev 
 
 |:tunmenu|
 
@@ -32547,6 +32575,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |getcompletion()|
 
+    Neovim: +dev 
        Vim: +v7.4.2011 
 
 |getcurpos()|
@@ -36484,6 +36513,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0230 
+
+|mapmode-t|
+
+    Neovim: +dev 
 
 |mapmode-v|
 
