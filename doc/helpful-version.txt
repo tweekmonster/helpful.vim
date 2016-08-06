@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2016-08-04 22:00:24 UTC
+*helpful-version.txt*  Generated: 2016-08-06 22:00:24 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -45159,6 +45159,10 @@ A listing of helptags with the versions they became available or were removed.
 |timer-functions|
 
        Vim: +v7.4.1926 
+
+|timer_info()|
+
+       Vim: +v7.4.2170 
 
 |timer_start()|
 
