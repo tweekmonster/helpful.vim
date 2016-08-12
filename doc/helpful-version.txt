@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2016-08-07 22:00:25 UTC
+*helpful-version.txt*  Generated: 2016-08-12 16:00:25 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -43901,9 +43901,13 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|t_bool-variable|
+
+       Vim: +v7.4.2200 
+
 |t_bool-varialble|
 
-       Vim: +v7.4.2071 
+       Vim: +v7.4.2071 -v7.4.2200 
 
 |t_cd|
 
@@ -43919,9 +43923,13 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|t_channel-variable|
+
+       Vim: +v7.4.2200 
+
 |t_channel-varialble|
 
-       Vim: +v7.4.2071 
+       Vim: +v7.4.2071 -v7.4.2200 
 
 |t_ci|
 
@@ -43972,9 +43980,13 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|t_dict-variable|
+
+       Vim: +v7.4.2200 
+
 |t_dict-varialble|
 
-       Vim: +v7.4.2071 
+       Vim: +v7.4.2071 -v7.4.2200 
 
 |t_dl|
 
@@ -44029,18 +44041,26 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v7.0001 
 
+|t_float-variable|
+
+       Vim: +v7.4.2200 
+
 |t_float-varialble|
 
-       Vim: +v7.4.2071 
+       Vim: +v7.4.2071 -v7.4.2200 
 
 |t_fs|
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|t_func-variable|
+
+       Vim: +v7.4.2200 
+
 |t_func-varialble|
 
-       Vim: +v7.4.2071 
+       Vim: +v7.4.2071 -v7.4.2200 
 
 |t_help|
 
@@ -44050,9 +44070,13 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v7.0001 
 
+|t_job-variable|
+
+       Vim: +v7.4.2200 
+
 |t_job-varialble|
 
-       Vim: +v7.4.2071 
+       Vim: +v7.4.2071 -v7.4.2200 
 
 |t_k1|
 
@@ -44174,9 +44198,13 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|t_list-variable|
+
+       Vim: +v7.4.2200 
+
 |t_list-varialble|
 
-       Vim: +v7.4.2071 
+       Vim: +v7.4.2071 -v7.4.2200 
 
 |t_mb|
 
@@ -44208,13 +44236,21 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|t_none-variable|
+
+       Vim: +v7.4.2200 
+
 |t_none-varialble|
 
-       Vim: +v7.4.2071 
+       Vim: +v7.4.2071 -v7.4.2200 
+
+|t_number-variable|
+
+       Vim: +v7.4.2200 
 
 |t_number-varialble|
 
-       Vim: +v7.4.2071 
+       Vim: +v7.4.2071 -v7.4.2200 
 
 |t_op|
 
@@ -44297,9 +44333,13 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|t_string-variable|
+
+       Vim: +v7.4.2200 
+
 |t_string-varialble|
 
-       Vim: +v7.4.2071 
+       Vim: +v7.4.2071 -v7.4.2200 
 
 |t_tb|
 
