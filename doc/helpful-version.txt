@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2016-08-13 16:00:25 UTC
+*helpful-version.txt*  Generated: 2016-08-13 22:00:24 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -31431,7 +31431,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |g:ft_man_folding_enable|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |g:gnat|
 
@@ -32131,7 +32131,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |g:no_man_maps|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |g:python3_host_prog|
 

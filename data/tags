@@ -6442,7 +6442,7 @@ g:explVerticalvim:v7.0001,v7.0045
 g:explWinSizevim:v7.0001,v7.0045
 g:filetype_cshneovim:v0.1.0,vim:v7.3.255,
 g:filetype_rneovim:v0.1.0,vim:v7.3.255,
-g:ft_man_folding_enableneovim:dev,
+g:ft_man_folding_enableneovim:nightly,
 g:gnatneovim:v0.1.0,vim:v7.2a,v7.2a.00
 g:gnat.Error_Formatneovim:v0.1.0,vim:v7.2a,v7.2a.00
 g:gnat.Find()neovim:v0.1.0,vim:v7.2a,v7.2a.00
@@ -6585,7 +6585,7 @@ g:netrw_win95ftpneovim:v0.1.0,vim:v7.0129,
 g:netrw_winsizeneovim:v0.1.0,vim:v7.0129,
 g:netrw_wiwneovim:nightly,vim:v7.4.902,
 g:netrw_xstrlenneovim:v0.1.0,vim:v7.2a,
-g:no_man_mapsneovim:dev,
+g:no_man_mapsneovim:nightly,
 g:python3_host_progneovim:v0.1.0,
 g:python3_host_skip_checkneovim:v0.1.0,
 g:python_host_progneovim:v0.1.0,
