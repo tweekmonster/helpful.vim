@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2016-08-14 22:00:25 UTC
+*helpful-version.txt*  Generated: 2016-08-16 22:00:28 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -33790,10 +33790,11 @@ A listing of helptags with the versions they became available or were removed.
 |hl-EndOfBuffer|
 
     Neovim: +v0.1.0 
+       Vim: +v7.4.2218 
 
 |hl-EndofBuffer|
 
-       Vim: +v7.4.2213 
+       Vim: +v7.4.2213 -v7.4.2218 
 
 |hl-ErrorMsg|
 
@@ -39031,6 +39032,10 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v7.0062 
 
+|new-style-testing|
+
+       Vim: +v7.4.2218 
+
 |new-tab-pages|
 
        Vim: +v7.0222 
@@ -39386,6 +39391,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.3.382 -v7.3.388 
+
+|old-style-testing|
+
+       Vim: +v7.4.2218 
 
 |oldfiles-variable|
 
@@ -40198,6 +40207,7 @@ A listing of helptags with the versions they became available or were removed.
 |printf-B|
 
     Neovim: +v0.1.2 
+       Vim: +v7.4.2221 
 
 |printf-E|
 
@@ -40222,6 +40232,7 @@ A listing of helptags with the versions they became available or were removed.
 |printf-b|
 
     Neovim: +v0.1.2 
+       Vim: +v7.4.2221 
 
 |printf-c|
 
@@ -45072,6 +45083,10 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v7.4.1926 
 
+|testing|
+
+       Vim: +v7.4.2218 
+
 |testing-variable|
 
        Vim: +v7.4.1727 
@@ -45228,6 +45243,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.3 
 
+|timer|
+
+       Vim: +v7.4.2218 
+
 |timer-functions|
 
        Vim: +v7.4.1926 
@@ -45253,6 +45272,10 @@ A listing of helptags with the versions they became available or were removed.
 |timer_stopall()|
 
        Vim: +v7.4.2180 
+
+|timers|
+
+       Vim: +v7.4.2218 
 
 |timestamp|
 
