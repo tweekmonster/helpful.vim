@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2016-08-16 22:00:28 UTC
+*helpful-version.txt*  Generated: 2016-08-18 04:00:25 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -45,6 +45,10 @@ A listing of helptags with the versions they became available or were removed.
 |$NVIM_LISTEN_ADDRESS|
 
     Neovim: +v0.1.0 
+
+|$NVIM_RPLUGIN_MANIFEST|
+
+    Neovim: +dev 
 
 |$VIM|
 
@@ -9556,6 +9560,10 @@ A listing of helptags with the versions they became available or were removed.
 |:Untarvim|
 
        Vim: +v7.2.328 -v7.3 
+
+|:UpdateRemotePlugins|
+
+    Neovim: +dev 
 
 |:UseVimball|
 
