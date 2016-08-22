@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2016-08-22 04:00:24 UTC
+*helpful-version.txt*  Generated: 2016-08-22 10:00:25 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -33498,43 +33498,43 @@ A listing of helptags with the versions they became available or were removed.
 
 |health#report_error|
 
-    Neovim: +dev 
+    Neovim: +v0.1.5 
 
 |health#report_info|
 
-    Neovim: +dev 
+    Neovim: +v0.1.5 
 
 |health#report_ok|
 
-    Neovim: +dev 
+    Neovim: +v0.1.5 
 
 |health#report_start|
 
-    Neovim: +dev 
+    Neovim: +v0.1.5 
 
 |health#report_warn|
 
-    Neovim: +dev 
+    Neovim: +v0.1.5 
 
 |health.user_checker|
 
-    Neovim: +dev 
+    Neovim: +v0.1.5 
 
 |health.vim-dev|
 
-    Neovim: +dev 
+    Neovim: +v0.1.5 
 
 |health.vim-intro|
 
-    Neovim: +dev 
+    Neovim: +v0.1.5 
 
 |health.vim-manual|
 
-    Neovim: +dev 
+    Neovim: +v0.1.5 
 
 |healthcheck|
 
-    Neovim: +dev 
+    Neovim: +v0.1.5 
 
 |hebrew|
 
@@ -33936,6 +33936,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|hl-QuickFixLine|
+
+    Neovim: +dev 
 
 |hl-Scrollbar|
 
@@ -40009,7 +40013,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |pi_health.txt|
 
-    Neovim: +dev 
+    Neovim: +v0.1.5 
 
 |pi_logipat.txt|
 
