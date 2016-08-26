@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2016-08-26 04:00:25 UTC
+*helpful-version.txt*  Generated: 2016-08-26 22:00:25 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -2026,6 +2026,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.4.502 
 
+|'langremap'|
+
+       Vim: +v7.4.2261 
+
 |'laststatus'|
 
     Neovim: +v0.1.0 
@@ -2105,6 +2109,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|'lrm'|
+
+       Vim: +v7.4.2261 
 
 |'ls'|
 
@@ -2946,6 +2954,10 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v7.4.907 
 
+|'nolangremap'|
+
+       Vim: +v7.4.2261 
+
 |'nolazyredraw'|
 
     Neovim: +v0.1.0 
@@ -2984,6 +2996,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|'nolrm'|
+
+       Vim: +v7.4.2261 
 
 |'nolz'|
 
@@ -7939,6 +7955,18 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|/_CTRL-L|
+
+       Vim: +v7.4.2259 
+
+|/_CTRL-N|
+
+       Vim: +v7.4.2259 
+
+|/_CTRL-P|
+
+       Vim: +v7.4.2259 
 
 |/atom|
 
@@ -16982,7 +17010,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |<mods>|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v7.4.1898 
 
 |<nomodeline>|
@@ -22572,6 +22600,10 @@ A listing of helptags with the versions they became available or were removed.
 |E934|
 
        Vim: +v7.4.2228 
+
+|E935|
+
+       Vim: +v7.4.2261 
 
 |E94|
 
@@ -47850,6 +47882,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|windowid|
+
+       Vim: +v7.4.2261 
+
 |windowid-variable|
 
     Neovim: +v0.1.0 
@@ -47893,6 +47929,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|winid|
+
+       Vim: +v7.4.2261 
 
 |winline()|
 
