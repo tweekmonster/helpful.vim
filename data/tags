@@ -7190,6 +7190,7 @@ in-namevim:v7.4.1539,v7.4.1560
 in-topvim:v7.4.1539,v7.4.1560
 in_botvim:v7.4.1560,
 in_bufvim:v7.4.1560,
+in_io-buffervim:v7.4.2275,
 in_modevim:v7.4.1560,
 in_namevim:v7.4.1560,
 in_topvim:v7.4.1560,
@@ -8214,6 +8215,7 @@ out-namevim:v7.4.1539,v7.4.1560
 out-timeoutvim:v7.4.1382,v7.4.1560
 out_bufvim:v7.4.1560,
 out_cbvim:v7.4.1560,
+out_io-buffervim:v7.4.2275,
 out_modevim:v7.4.1560,
 out_namevim:v7.4.1560,
 out_timeoutvim:v7.4.1560,

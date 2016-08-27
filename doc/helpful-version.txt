@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2016-08-27 16:00:25 UTC
+*helpful-version.txt*  Generated: 2016-08-27 22:00:26 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -35027,6 +35027,10 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v7.4.1560 
 
+|in_io-buffer|
+
+       Vim: +v7.4.2275 
+
 |in_mode|
 
        Vim: +v7.4.1560 
@@ -39728,6 +39732,10 @@ A listing of helptags with the versions they became available or were removed.
 |out_cb|
 
        Vim: +v7.4.1560 
+
+|out_io-buffer|
+
+       Vim: +v7.4.2275 
 
 |out_mode|
 
