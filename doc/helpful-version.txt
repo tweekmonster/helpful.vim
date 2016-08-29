@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2016-08-29 10:00:25 UTC
+*helpful-version.txt*  Generated: 2016-08-29 22:00:27 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -41447,7 +41447,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |rpc-remote-ui|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |rpc-types|
 
