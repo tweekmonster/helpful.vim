@@ -5984,6 +5984,7 @@ euphoria3.vimneovim:v0.1.0,vim:v7.4.194,
 euphoria4.vimneovim:v0.1.0,vim:v7.4.194,
 evalneovim:v0.1.0,vim:v7.0001,
 eval()neovim:v0.1.0,vim:v7.0037,
+eval-apineovim:nightly,
 eval-examplesneovim:v0.1.0,vim:v7.0001,
 eval-sandboxneovim:v0.1.0,vim:v7.0001,
 eval.txtneovim:v0.1.0,vim:v7.0001,
@@ -8146,6 +8147,7 @@ nvim-terminal-emulator-inputneovim:v0.1.0,v0.1.5
 nvim-terminal-emulator-introductionneovim:v0.1.0,v0.1.5
 nvim-terminal-emulator-spawningneovim:v0.1.0,v0.1.5
 nvim.txtneovim:v0.1.0,
+nvim_...()neovim:nightly,
 nvim_clipboard.txtneovim:v0.1.0,v0.1.5
 nvim_from_vim.txtneovim:v0.1.0,v0.1.5
 nvim_provider.txtneovim:v0.1.0,v0.1.5
