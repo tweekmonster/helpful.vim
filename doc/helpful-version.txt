@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2016-08-29 22:00:27 UTC
+*helpful-version.txt*  Generated: 2016-09-01 16:00:25 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -26567,6 +26567,10 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v7.4.1244 
 
+|ch_close_in()|
+
+       Vim: +v7.4.2298 
+
 |ch_evalexpr()|
 
        Vim: +v7.4.1435 
@@ -26751,6 +26755,10 @@ A listing of helptags with the versions they became available or were removed.
 |channel-close|
 
        Vim: +v7.4.1382 
+
+|channel-close-in|
+
+       Vim: +v7.4.2298 
 
 |channel-commands|
 
