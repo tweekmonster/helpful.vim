@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2016-09-07 22:00:27 UTC
+*helpful-version.txt*  Generated: 2016-09-11 16:00:27 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -23288,6 +23288,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0007 
 
+|PEP8|
+
+       Vim: +v7.4.2363 
+
 |PHP_BracesAtCodeLevel|
 
     Neovim: +v0.1.0 
@@ -30870,6 +30874,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0139 
+
+|ft-python-plugin|
+
+       Vim: +v7.4.2363 
 
 |ft-python-syntax|
 
@@ -41582,6 +41590,34 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|ruby_fold|
+
+       Vim: +v7.4.2363 
+
+|ruby_foldable_groups|
+
+       Vim: +v7.4.2363 
+
+|ruby_minlines|
+
+       Vim: +v7.4.2363 
+
+|ruby_no_expensive|
+
+       Vim: +v7.4.2363 
+
+|ruby_operators|
+
+       Vim: +v7.4.2363 
+
+|ruby_space_errors|
+
+       Vim: +v7.4.2363 
+
+|ruby_spellcheck_strings|
+
+       Vim: +v7.4.2363 
+
 |russian|
 
     Neovim: +v0.1.0 
@@ -42409,6 +42445,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|skip_defaults_vim|
+
+       Vim: +v7.4.2363 
 
 |slice|
 
