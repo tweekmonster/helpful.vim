@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2016-09-24 16:00:26 UTC
+*helpful-version.txt*  Generated: 2016-09-25 22:00:26 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -2832,7 +2832,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'noguipty'|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |'nohid'|
@@ -3013,7 +3013,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'nomacatsui'|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0f 
 
 |'nomagic'|
@@ -3525,7 +3525,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'noweirdinvert'|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |'nowfh'|
@@ -3569,7 +3569,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'nowiv'|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |'nowmnu'|
@@ -5684,7 +5684,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'weirdinvert'|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |'wfh'|
@@ -5808,7 +5808,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'wiv'|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |'wiw'|
@@ -28408,11 +28408,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |deprecated|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |deprecated.txt|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |design-assumptions|
 
@@ -29131,7 +29131,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |errorformat-Perl|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |errorformat-ant|
@@ -40764,7 +40764,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |python-trouble|
 
-    Neovim: +v0.1.5 -dev 
+    Neovim: +v0.1.5 -nightly 
 
 |python-vars|
 
@@ -41081,12 +41081,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |quotes|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |quotes.txt|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |quotestar|
