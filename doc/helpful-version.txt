@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2016-09-25 22:00:26 UTC
+*helpful-version.txt*  Generated: 2016-09-27 04:00:26 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -1059,10 +1059,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |'emo'|
 
+    Neovim: +dev 
        Vim: +v7.4.1604 
 
 |'emoji'|
 
+    Neovim: +dev 
        Vim: +v7.4.1604 
 
 |'enc'|
