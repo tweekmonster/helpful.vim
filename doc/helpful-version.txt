@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2016-10-02 16:00:27 UTC
+*helpful-version.txt*  Generated: 2016-10-12 16:00:29 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -30567,6 +30567,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0139 
 
+|ft-dash-syntax|
+
+       Vim: +v8.0.0028 
+
 |ft-desktop-syntax|
 
     Neovim: +v0.1.0 
@@ -30866,6 +30870,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0c02 
+
+|ft-posix-synax|
+
+       Vim: +v8.0.0028 
 
 |ft-postscr-syntax|
 
@@ -32283,12 +32291,12 @@ A listing of helptags with the versions they became available or were removed.
 |g:sh_isk|
 
     Neovim: +v0.1.0 
-       Vim: +v7.3.321 
+       Vim: +v7.3.321 -v8.0.0028 
 
 |g:sh_noisk|
 
     Neovim: +v0.1.0 
-       Vim: +v7.3.321 
+       Vim: +v7.3.321 -v8.0.0028 
 
 |g:shada#add_own_header|
 
@@ -37306,7 +37314,7 @@ A listing of helptags with the versions they became available or were removed.
 |msdos-mode|
 
     Neovim: +v0.1.0 -v0.1.2 
-       Vim: +v7.0001 
+       Vim: +v7.0001 -v8.0.0029 
 
 |msdos-problems|
 
@@ -47922,6 +47930,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 -v0.1.2 
        Vim: +v7.0001 
 
+|win32-win95|
+
+       Vim: +v8.0.0029 
+
 |win32s|
 
     Neovim: +v0.1.0 -v0.1.2 
@@ -48063,6 +48075,14 @@ A listing of helptags with the versions they became available or were removed.
 |windows95|
 
        Vim: +v7.0001 
+
+|windows98|
+
+       Vim: +v8.0.0029 
+
+|windowsme|
+
+       Vim: +v8.0.0029 
 
 |winheight()|
 
