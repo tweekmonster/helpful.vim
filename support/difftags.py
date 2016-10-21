@@ -16,7 +16,7 @@ repos = {
 neovim_repo = os.path.join(src, 'neovim')
 vim_repo = os.path.join(src, 'vim')
 
-_tag_re = re.compile(br'\*([^*\s]+)\*', re.M)
+_tag_re = re.compile(br'\s\*([^*\s]+)\*\s')
 
 if not os.path.isdir(src):
     os.makedirs(os.path.join(src))
@@ -50,6 +50,17 @@ def get_latest(repo):
                         repos.get(repo), path], True)
 
 
+def normalize_hunk(lines):
+    """Normalize a hunk to give ample whitespace between tag delimiters.
+
+    Also cleans out garbage whitespace
+    """
+    out = b'  '
+    for line in lines:
+        out += re.sub(br'\s', b'  ', line[1:]).replace(b'* *', b'*   *') + b'  '
+    return out
+
+
 def doc_diff(path, a, b):
     """Parse diff lines to get tags
 
@@ -79,12 +90,12 @@ def doc_diff(path, a, b):
             added = int(delta[2].split(b',')[-1])
 
         if deleted > 0:
-            for t in _tag_re.findall(b' ' + b'  '.join(map(lambda x: x[1:], stdout[i:i+deleted])) + b' '):
+            for t in _tag_re.findall(normalize_hunk(stdout[i:i+deleted])):
                 tags[t] -= 1
             i += deleted
 
         if added > 0:
-            for t in _tag_re.findall(b' ' + b'  '.join(map(lambda x: x[1:], stdout[i:i+added])) + b' '):
+            for t in _tag_re.findall(normalize_hunk(stdout[i:i+added])):
                 tags[t] += 1
             i += added
 
@@ -151,8 +162,6 @@ def generate():
                 for item in items:
                     tags[item][target][change] = version.encode('ascii')
 
-    help_width = 78
-
     with open(os.path.join(base, '..', 'data', 'tags'), 'wb') as fp:
         with open(os.path.join(base, '..', 'doc',
                                'helpful-version.txt'), 'wb') as hfp:
@@ -167,8 +176,6 @@ def generate():
             for helptag, targets in sorted(tags.items(), key=lambda x: x[0]):
                 # Not creating new tags since it adds too much noise to help
                 # completion.
-                # tag = b'*v/' + helptag + b'*'
-                # hfp.write(tag.rjust(help_width) + b'\n')
                 hfp.write(b'\n|' + helptag + b'|\n\n')
 
                 target_versions = []
