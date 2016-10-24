@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2016-10-23 22:00:27 UTC
+*helpful-version.txt*  Generated: 2016-10-24 16:00:27 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -22580,10 +22580,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |E927|
 
+    Neovim: +dev 
        Vim: +v7.4.1806 
 
 |E928|
 
+    Neovim: +dev 
        Vim: +v7.4.1806 
 
 |E929|
@@ -22601,6 +22603,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |E931|
 
+    Neovim: +dev 
        Vim: +v7.4.2047 
 
 |E932|
@@ -47028,6 +47031,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vab|
 
+    Neovim: +dev 
        Vim: +v7.4.2047 
 
 |val-variable|
@@ -47246,6 +47250,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vib|
 
+    Neovim: +dev 
        Vim: +v7.4.2047 
 
 |view|
