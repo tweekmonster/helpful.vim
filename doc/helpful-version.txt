@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2016-10-28 22:00:26 UTC
+*helpful-version.txt*  Generated: 2016-11-09 05:00:27 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -1773,6 +1773,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|'icm'|
+
+    Neovim: +dev 
+
 |'icon'|
 
     Neovim: +v0.1.0 
@@ -1867,6 +1871,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|'inccommand'|
+
+    Neovim: +dev 
 
 |'include'|
 
@@ -23043,6 +23051,10 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v7.0001 
 
+|META|
+
+    Neovim: +dev 
+
 |MS-DOS|
 
        Vim: +v7.0001 
@@ -34129,6 +34141,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|hl-Substitute|
+
+    Neovim: +dev 
 
 |hl-TabLine|
 
