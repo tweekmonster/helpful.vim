@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2016-11-15 23:00:28 UTC
+*helpful-version.txt*  Generated: 2016-11-16 05:00:27 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -25769,6 +25769,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |beval_winid-variable|
 
+    Neovim: +dev 
        Vim: +v7.4.1894 
 
 |beval_winnr-variable|
@@ -37288,6 +37289,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |mouse_winid-variable|
 
+    Neovim: +dev 
        Vim: +v7.4.1894 
 
 |movement|
@@ -46103,6 +46105,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |v:beval_winid|
 
+    Neovim: +dev 
        Vim: +v7.4.1894 
 
 |v:beval_winnr|
@@ -46281,6 +46284,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |v:mouse_winid|
 
+    Neovim: +dev 
        Vim: +v7.4.1894 
 
 |v:msgpack_types|
