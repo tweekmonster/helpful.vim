@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2016-11-24 17:00:28 UTC
+*helpful-version.txt*  Generated: 2016-11-27 23:00:27 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -1775,7 +1775,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'icm'|
 
-    Neovim: +nightly 
+    Neovim: +v0.1.7 
 
 |'icon'|
 
@@ -1874,7 +1874,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'inccommand'|
 
-    Neovim: +nightly 
+    Neovim: +v0.1.7 
 
 |'include'|
 
@@ -20348,15 +20348,15 @@ A listing of helptags with the versions they became available or were removed.
 
 |E5003|
 
-    Neovim: +nightly 
+    Neovim: +v0.1.7 
 
 |E5004|
 
-    Neovim: +nightly 
+    Neovim: +v0.1.7 
 
 |E5005|
 
-    Neovim: +nightly 
+    Neovim: +v0.1.7 
 
 |E501|
 
@@ -22595,7 +22595,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |E925|
 
-    Neovim: +nightly 
+    Neovim: +v0.1.7 
        Vim: +v7.4.1640 
 
 |E926|
@@ -22663,15 +22663,15 @@ A listing of helptags with the versions they became available or were removed.
 
 |E951|
 
-    Neovim: +v0.1.2 -nightly 
+    Neovim: +v0.1.2 -v0.1.7 
 
 |E952|
 
-    Neovim: +v0.1.2 -nightly 
+    Neovim: +v0.1.2 -v0.1.7 
 
 |E953|
 
-    Neovim: +v0.1.4 -nightly 
+    Neovim: +v0.1.4 -v0.1.7 
 
 |E96|
 
@@ -23070,7 +23070,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |META|
 
-    Neovim: +nightly 
+    Neovim: +v0.1.7 
 
 |MS-DOS|
 
@@ -25786,7 +25786,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |beval_winid-variable|
 
-    Neovim: +nightly 
+    Neovim: +v0.1.7 
        Vim: +v7.4.1894 
 
 |beval_winnr-variable|
@@ -34162,7 +34162,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |hl-Substitute|
 
-    Neovim: +nightly 
+    Neovim: +v0.1.7 
 
 |hl-TabLine|
 
@@ -37306,7 +37306,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |mouse_winid-variable|
 
-    Neovim: +nightly 
+    Neovim: +v0.1.7 
        Vim: +v7.4.1894 
 
 |movement|
@@ -46122,7 +46122,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |v:beval_winid|
 
-    Neovim: +nightly 
+    Neovim: +v0.1.7 
        Vim: +v7.4.1894 
 
 |v:beval_winnr|
@@ -46301,7 +46301,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |v:mouse_winid|
 
-    Neovim: +nightly 
+    Neovim: +v0.1.7 
        Vim: +v7.4.1894 
 
 |v:msgpack_types|
@@ -46493,7 +46493,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |v:vim_did_enter|
 
-    Neovim: +nightly 
+    Neovim: +v0.1.7 
        Vim: +v7.4.1658 
 
 |v:warningmsg|
@@ -47421,7 +47421,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim_did_enter-variable|
 
-    Neovim: +nightly 
+    Neovim: +v0.1.7 
        Vim: +v7.4.1658 
 
 |vim_diff.txt|
