@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2016-12-12 23:00:27 UTC
+*helpful-version.txt*  Generated: 2016-12-27 23:00:27 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -10279,10 +10279,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |:cbo|
 
+    Neovim: +nightly 
        Vim: +v7.4.2010 
 
 |:cbottom|
 
+    Neovim: +nightly 
        Vim: +v7.4.2010 
 
 |:cbuffer|
@@ -12068,10 +12070,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |:lbo|
 
+    Neovim: +nightly 
        Vim: +v7.4.2010 
 
 |:lbottom|
 
+    Neovim: +nightly 
        Vim: +v7.4.2010 
 
 |:lbuffer|
