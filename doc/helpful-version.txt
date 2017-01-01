@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2016-12-27 23:00:27 UTC
+*helpful-version.txt*  Generated: 2017-01-01 23:00:27 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -4105,6 +4105,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'scl'|
 
+    Neovim: +dev 
        Vim: +v7.4.2201 
 
 |'scr'|
@@ -4326,6 +4327,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'signcolumn'|
 
+    Neovim: +dev 
        Vim: +v7.4.2201 
 
 |'siso'|
@@ -32774,6 +32776,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |getbufinfo()|
 
+    Neovim: +dev 
        Vim: +v7.4.2204 
 
 |getbufline()|
@@ -32966,6 +32969,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |gettabinfo()|
 
+    Neovim: +dev 
        Vim: +v7.4.2204 
 
 |gettabvar()|
@@ -32980,6 +32984,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |getwininfo()|
 
+    Neovim: +dev 
        Vim: +v7.4.2204 
 
 |getwinposx()|
