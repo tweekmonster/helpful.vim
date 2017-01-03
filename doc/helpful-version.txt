@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2017-01-02 23:00:27 UTC
+*helpful-version.txt*  Generated: 2017-01-03 17:00:28 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -25108,9 +25108,21 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.5 
 
+|api-buffer|
+
+    Neovim: +dev 
+
 |api-client|
 
     Neovim: +v0.1.5 
+
+|api-funcs.txt|
+
+    Neovim: +dev 
+
+|api-global|
+
+    Neovim: +dev 
 
 |api-highlights|
 
@@ -25124,9 +25136,21 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.5 
 
+|api-tabpage|
+
+    Neovim: +dev 
+
 |api-types|
 
     Neovim: +v0.1.5 
+
+|api-ui|
+
+    Neovim: +dev 
+
+|api-window|
+
+    Neovim: +dev 
 
 |api.txt|
 
@@ -39572,13 +39596,177 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.6 
 
+|nvim_buf_add_highlight()|
+
+    Neovim: +dev 
+
+|nvim_buf_clear_highlight()|
+
+    Neovim: +dev 
+
+|nvim_buf_del_var()|
+
+    Neovim: +dev 
+
+|nvim_buf_get_lines()|
+
+    Neovim: +dev 
+
+|nvim_buf_get_mark()|
+
+    Neovim: +dev 
+
+|nvim_buf_get_name()|
+
+    Neovim: +dev 
+
+|nvim_buf_get_number()|
+
+    Neovim: +dev 
+
+|nvim_buf_get_option()|
+
+    Neovim: +dev 
+
+|nvim_buf_get_var()|
+
+    Neovim: +dev 
+
+|nvim_buf_is_valid()|
+
+    Neovim: +dev 
+
+|nvim_buf_line_count()|
+
+    Neovim: +dev 
+
+|nvim_buf_set_lines()|
+
+    Neovim: +dev 
+
+|nvim_buf_set_name()|
+
+    Neovim: +dev 
+
+|nvim_buf_set_option()|
+
+    Neovim: +dev 
+
+|nvim_buf_set_var()|
+
+    Neovim: +dev 
+
+|nvim_call_atomic()|
+
+    Neovim: +dev 
+
+|nvim_call_function()|
+
+    Neovim: +dev 
+
 |nvim_clipboard.txt|
 
     Neovim: +v0.1.0 -v0.1.5 
 
+|nvim_command()|
+
+    Neovim: +dev 
+
+|nvim_command_output()|
+
+    Neovim: +dev 
+
+|nvim_del_current_line()|
+
+    Neovim: +dev 
+
+|nvim_del_var()|
+
+    Neovim: +dev 
+
+|nvim_err_write()|
+
+    Neovim: +dev 
+
+|nvim_err_writeln()|
+
+    Neovim: +dev 
+
+|nvim_eval()|
+
+    Neovim: +dev 
+
+|nvim_feedkeys()|
+
+    Neovim: +dev 
+
 |nvim_from_vim.txt|
 
     Neovim: +v0.1.0 -v0.1.5 
+
+|nvim_get_api_info()|
+
+    Neovim: +dev 
+
+|nvim_get_color_by_name()|
+
+    Neovim: +dev 
+
+|nvim_get_color_map()|
+
+    Neovim: +dev 
+
+|nvim_get_current_buf()|
+
+    Neovim: +dev 
+
+|nvim_get_current_line()|
+
+    Neovim: +dev 
+
+|nvim_get_current_tabpage()|
+
+    Neovim: +dev 
+
+|nvim_get_current_win()|
+
+    Neovim: +dev 
+
+|nvim_get_option()|
+
+    Neovim: +dev 
+
+|nvim_get_var()|
+
+    Neovim: +dev 
+
+|nvim_get_vvar()|
+
+    Neovim: +dev 
+
+|nvim_input()|
+
+    Neovim: +dev 
+
+|nvim_list_bufs()|
+
+    Neovim: +dev 
+
+|nvim_list_runtime_paths()|
+
+    Neovim: +dev 
+
+|nvim_list_tabpages()|
+
+    Neovim: +dev 
+
+|nvim_list_wins()|
+
+    Neovim: +dev 
+
+|nvim_out_write()|
+
+    Neovim: +dev 
 
 |nvim_provider.txt|
 
@@ -39588,9 +39776,161 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 -v0.1.5 
 
+|nvim_replace_termcodes()|
+
+    Neovim: +dev 
+
+|nvim_set_current_buf()|
+
+    Neovim: +dev 
+
+|nvim_set_current_dir()|
+
+    Neovim: +dev 
+
+|nvim_set_current_line()|
+
+    Neovim: +dev 
+
+|nvim_set_current_tabpage()|
+
+    Neovim: +dev 
+
+|nvim_set_current_win()|
+
+    Neovim: +dev 
+
+|nvim_set_option()|
+
+    Neovim: +dev 
+
+|nvim_set_var()|
+
+    Neovim: +dev 
+
+|nvim_strwidth()|
+
+    Neovim: +dev 
+
+|nvim_subscribe()|
+
+    Neovim: +dev 
+
+|nvim_tabpage_del_var()|
+
+    Neovim: +dev 
+
+|nvim_tabpage_get_number()|
+
+    Neovim: +dev 
+
+|nvim_tabpage_get_var()|
+
+    Neovim: +dev 
+
+|nvim_tabpage_get_win()|
+
+    Neovim: +dev 
+
+|nvim_tabpage_is_valid()|
+
+    Neovim: +dev 
+
+|nvim_tabpage_list_wins()|
+
+    Neovim: +dev 
+
+|nvim_tabpage_set_var()|
+
+    Neovim: +dev 
+
 |nvim_terminal_emulator.txt|
 
     Neovim: +v0.1.0 -v0.1.5 
+
+|nvim_ui_attach()|
+
+    Neovim: +dev 
+
+|nvim_ui_detach()|
+
+    Neovim: +dev 
+
+|nvim_ui_set_option()|
+
+    Neovim: +dev 
+
+|nvim_ui_try_resize()|
+
+    Neovim: +dev 
+
+|nvim_unsubscribe()|
+
+    Neovim: +dev 
+
+|nvim_win_del_var()|
+
+    Neovim: +dev 
+
+|nvim_win_get_buf()|
+
+    Neovim: +dev 
+
+|nvim_win_get_cursor()|
+
+    Neovim: +dev 
+
+|nvim_win_get_height()|
+
+    Neovim: +dev 
+
+|nvim_win_get_number()|
+
+    Neovim: +dev 
+
+|nvim_win_get_option()|
+
+    Neovim: +dev 
+
+|nvim_win_get_position()|
+
+    Neovim: +dev 
+
+|nvim_win_get_tabpage()|
+
+    Neovim: +dev 
+
+|nvim_win_get_var()|
+
+    Neovim: +dev 
+
+|nvim_win_get_width()|
+
+    Neovim: +dev 
+
+|nvim_win_is_valid()|
+
+    Neovim: +dev 
+
+|nvim_win_set_cursor()|
+
+    Neovim: +dev 
+
+|nvim_win_set_height()|
+
+    Neovim: +dev 
+
+|nvim_win_set_option()|
+
+    Neovim: +dev 
+
+|nvim_win_set_var()|
+
+    Neovim: +dev 
+
+|nvim_win_set_width()|
+
+    Neovim: +dev 
 
 |o|
 
@@ -41401,6 +41741,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|remote_ui_disconnect()|
+
+    Neovim: +dev 
 
 |remove()|
 
