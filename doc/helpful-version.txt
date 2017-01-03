@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2017-01-03 17:00:28 UTC
+*helpful-version.txt*  Generated: 2017-01-03 23:00:27 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -25110,7 +25110,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |api-buffer|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |api-client|
 
@@ -25118,11 +25118,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |api-funcs.txt|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |api-global|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |api-highlights|
 
@@ -25138,7 +25138,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |api-tabpage|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |api-types|
 
@@ -25146,11 +25146,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |api-ui|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |api-window|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |api.txt|
 
@@ -39598,71 +39598,71 @@ A listing of helptags with the versions they became available or were removed.
 
 |nvim_buf_add_highlight()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_buf_clear_highlight()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_buf_del_var()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_buf_get_lines()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_buf_get_mark()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_buf_get_name()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_buf_get_number()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_buf_get_option()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_buf_get_var()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_buf_is_valid()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_buf_line_count()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_buf_set_lines()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_buf_set_name()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_buf_set_option()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_buf_set_var()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_call_atomic()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_call_function()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_clipboard.txt|
 
@@ -39670,35 +39670,35 @@ A listing of helptags with the versions they became available or were removed.
 
 |nvim_command()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_command_output()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_del_current_line()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_del_var()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_err_write()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_err_writeln()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_eval()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_feedkeys()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_from_vim.txt|
 
@@ -39706,67 +39706,67 @@ A listing of helptags with the versions they became available or were removed.
 
 |nvim_get_api_info()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_get_color_by_name()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_get_color_map()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_get_current_buf()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_get_current_line()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_get_current_tabpage()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_get_current_win()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_get_option()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_get_var()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_get_vvar()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_input()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_list_bufs()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_list_runtime_paths()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_list_tabpages()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_list_wins()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_out_write()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_provider.txt|
 
@@ -39778,71 +39778,71 @@ A listing of helptags with the versions they became available or were removed.
 
 |nvim_replace_termcodes()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_set_current_buf()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_set_current_dir()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_set_current_line()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_set_current_tabpage()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_set_current_win()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_set_option()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_set_var()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_strwidth()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_subscribe()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_tabpage_del_var()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_tabpage_get_number()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_tabpage_get_var()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_tabpage_get_win()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_tabpage_is_valid()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_tabpage_list_wins()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_tabpage_set_var()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_terminal_emulator.txt|
 
@@ -39850,87 +39850,87 @@ A listing of helptags with the versions they became available or were removed.
 
 |nvim_ui_attach()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_ui_detach()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_ui_set_option()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_ui_try_resize()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_unsubscribe()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_win_del_var()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_win_get_buf()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_win_get_cursor()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_win_get_height()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_win_get_number()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_win_get_option()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_win_get_position()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_win_get_tabpage()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_win_get_var()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_win_get_width()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_win_is_valid()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_win_set_cursor()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_win_set_height()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_win_set_option()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_win_set_var()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_win_set_width()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |o|
 
@@ -41744,7 +41744,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |remote_ui_disconnect()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |remove()|
 
