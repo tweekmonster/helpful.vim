@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2017-01-24 23:00:28 UTC
+*helpful-version.txt*  Generated: 2017-01-28 17:00:28 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -3917,6 +3917,14 @@ A listing of helptags with the versions they became available or were removed.
 |'pythonthreedll'|
 
        Vim: +v7.4.918 
+
+|'pyx'|
+
+       Vim: +v8.0.0251 
+
+|'pyxversion'|
+
+       Vim: +v8.0.0251 
 
 |'qe'|
 
@@ -13637,6 +13645,22 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.3 
+
+|:pythonx|
+
+       Vim: +v8.0.0251 
+
+|:pyx|
+
+       Vim: +v8.0.0251 
+
+|:pyxdo|
+
+       Vim: +v8.0.0251 
+
+|:pyxfile|
+
+       Vim: +v8.0.0251 
 
 |:q|
 
@@ -24123,6 +24147,14 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v7.4.2144 
 
+|W20|
+
+       Vim: +v8.0.0251 
+
+|W21|
+
+       Vim: +v8.0.0251 
+
 |WORD|
 
     Neovim: +v0.1.0 
@@ -33725,6 +33757,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.3.188 
 
+|has-pythonx|
+
+       Vim: +v8.0.0251 
+
 |has_key()|
 
     Neovim: +v0.1.0 
@@ -41277,10 +41313,26 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.3.1163 
 
+|python_x|
+
+       Vim: +v8.0.0251 
+
+|python_x-special-comments|
+
+       Vim: +v8.0.0251 
+
+|pythonx|
+
+       Vim: +v8.0.0251 
+
 |pythonx-directory|
 
     Neovim: +v0.1.0 
        Vim: +v7.3.1163 
+
+|pyxeval()|
+
+       Vim: +v8.0.0251 
 
 |q|
 
