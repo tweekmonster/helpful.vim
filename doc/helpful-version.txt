@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2017-02-18 17:00:28 UTC
+*helpful-version.txt*  Generated: 2017-02-18 23:00:28 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -1054,7 +1054,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'ek'|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |'emo'|
@@ -1119,7 +1119,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'esckeys'|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |'et'|
@@ -2726,7 +2726,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'noek'|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |'noemo'|
@@ -2759,7 +2759,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'noesckeys'|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |'noet'|
