@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2017-02-20 23:00:29 UTC
+*helpful-version.txt*  Generated: 2017-02-23 17:00:29 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -11535,6 +11535,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |:func-closure|
 
+    Neovim: +dev 
        Vim: +v7.4.2120 
 
 |:func-dict|
@@ -22688,10 +22689,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |E932|
 
+    Neovim: +dev 
        Vim: +v7.4.2120 
 
 |E933|
 
+    Neovim: +dev 
        Vim: +v7.4.2137 
 
 |E934|
@@ -27314,6 +27317,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |closure|
 
+    Neovim: +dev 
        Vim: +v7.4.2119 
 
 |cmdarg-variable|
@@ -29842,6 +29846,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |expr-lambda|
 
+    Neovim: +dev 
        Vim: +v7.4.2044 
 
 |expr-nesting|
@@ -31317,6 +31322,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |funcref()|
 
+    Neovim: +dev 
        Vim: +v7.4.2137 
 
 |function()|
@@ -36091,6 +36097,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |lambda|
 
+    Neovim: +dev 
        Vim: +v7.4.2044 
 
 |lang-variable|
@@ -45849,6 +45856,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |test_garbagecollect_now()|
 
+    Neovim: +dev 
        Vim: +v7.4.1838 
 
 |test_null_channel()|
@@ -45885,6 +45893,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |testing-variable|
 
+    Neovim: +dev 
        Vim: +v7.4.1727 
 
 |tex-cchar|
@@ -46974,6 +46983,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |v:testing|
 
+    Neovim: +dev 
        Vim: +v7.4.1727 
 
 |v:this_session|
