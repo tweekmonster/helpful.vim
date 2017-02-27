@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2017-02-27 11:00:30 UTC
+*helpful-version.txt*  Generated: 2017-02-27 23:00:31 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -4113,7 +4113,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'scbk'|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |'scl'|
 
@@ -4132,7 +4132,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'scrollback'|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |'scrollbind'|
 
@@ -22736,7 +22736,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |E940|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.0.0343 
 
 |E95|
@@ -44747,11 +44747,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |t_bool-variable|
 
+    Neovim: +nightly 
        Vim: +v7.4.2200 
 
 |t_bool-varialble|
 
-    Neovim: +nightly 
        Vim: +v7.4.2071 -v7.4.2200 
 
 |t_cd|
@@ -44827,11 +44827,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |t_dict-variable|
 
+    Neovim: +nightly 
        Vim: +v7.4.2200 
 
 |t_dict-varialble|
 
-    Neovim: +nightly 
        Vim: +v7.4.2071 -v7.4.2200 
 
 |t_dl|
@@ -44889,11 +44889,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |t_float-variable|
 
+    Neovim: +nightly 
        Vim: +v7.4.2200 
 
 |t_float-varialble|
 
-    Neovim: +nightly 
        Vim: +v7.4.2071 -v7.4.2200 
 
 |t_fs|
@@ -44903,11 +44903,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |t_func-variable|
 
+    Neovim: +nightly 
        Vim: +v7.4.2200 
 
 |t_func-varialble|
 
-    Neovim: +nightly 
        Vim: +v7.4.2071 -v7.4.2200 
 
 |t_help|
@@ -45048,11 +45048,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |t_list-variable|
 
+    Neovim: +nightly 
        Vim: +v7.4.2200 
 
 |t_list-varialble|
 
-    Neovim: +nightly 
        Vim: +v7.4.2071 -v7.4.2200 
 
 |t_mb|
@@ -45095,11 +45095,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |t_number-variable|
 
+    Neovim: +nightly 
        Vim: +v7.4.2200 
 
 |t_number-varialble|
 
-    Neovim: +nightly 
        Vim: +v7.4.2071 -v7.4.2200 
 
 |t_op|
@@ -45185,11 +45185,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |t_string-variable|
 
+    Neovim: +nightly 
        Vim: +v7.4.2200 
 
 |t_string-varialble|
 
-    Neovim: +nightly 
        Vim: +v7.4.2071 -v7.4.2200 
 
 |t_tb|
@@ -45808,7 +45808,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |terminal-emulator-intro|
 
-    Neovim: +v0.1.5 -dev 
+    Neovim: +v0.1.5 -nightly 
 
 |terminal-emulator-spawning|
 
