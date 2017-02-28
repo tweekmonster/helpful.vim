@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2017-02-28 05:00:29 UTC
+*helpful-version.txt*  Generated: 2017-02-28 11:00:30 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -10470,10 +10470,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |:chi|
 
+    Neovim: +dev 
        Vim: +v7.4.2055 
 
 |:chistory|
 
+    Neovim: +dev 
        Vim: +v7.4.2055 
 
 |:cl|
@@ -12337,10 +12339,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |:lhi|
 
+    Neovim: +dev 
        Vim: +v7.4.2055 
 
 |:lhistory|
 
+    Neovim: +dev 
        Vim: +v7.4.2055 
 
 |:list|
@@ -25391,6 +25395,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |assert_inrange()|
 
+    Neovim: +dev 
        Vim: +v7.4.2095 
 
 |assert_match()|
