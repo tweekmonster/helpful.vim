@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2017-03-02 23:00:29 UTC
+*helpful-version.txt*  Generated: 2017-03-05 17:00:29 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -2168,6 +2168,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|'makeencoding'|
+
+       Vim: +v8.0.0420 
+
 |'makeprg'|
 
     Neovim: +v0.1.0 
@@ -2227,6 +2231,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|'menc'|
+
+       Vim: +v8.0.0420 
 
 |'menuitems'|
 
@@ -4885,6 +4893,14 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|'t_PE'|
+
+       Vim: +v8.0.0420 
+
+|'t_PS'|
+
+       Vim: +v8.0.0420 
 
 |'t_RB'|
 
@@ -45834,10 +45850,18 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|terminal-key-codes|
+
+       Vim: +v8.0.0420 
+
 |terminal-options|
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|terminal-output-codes|
+
+       Vim: +v8.0.0420 
 
 |terminal_emulator.txt|
 
