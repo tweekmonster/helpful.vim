@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2017-03-08 23:00:29 UTC
+*helpful-version.txt*  Generated: 2017-03-10 23:00:31 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -27979,6 +27979,10 @@ A listing of helptags with the versions they became available or were removed.
 |cpo-\|
 
        Vim: +v7.0051 
+
+|cpo-_|
+
+    Neovim: +nightly 
 
 |cpo-a|
 
