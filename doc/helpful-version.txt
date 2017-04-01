@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2017-04-01 16:00:31 UTC
+*helpful-version.txt*  Generated: 2017-04-01 22:00:35 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -2038,7 +2038,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'langremap'|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v7.4.2261 
 
 |'laststatus'|
@@ -2108,7 +2108,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'lnr'|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.4.502 
 
 |'loadplugins'|
@@ -2123,7 +2123,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'lrm'|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v7.4.2261 
 
 |'ls'|
@@ -2976,7 +2976,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'nolangremap'|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v7.4.2261 
 
 |'nolazyredraw'|
@@ -3020,7 +3020,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'nolrm'|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v7.4.2261 
 
 |'nolz'|
