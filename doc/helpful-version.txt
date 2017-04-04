@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2017-04-03 22:00:30 UTC
+*helpful-version.txt*  Generated: 2017-04-04 16:00:30 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -1473,7 +1473,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'ghr'|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |'go'|
@@ -1645,7 +1645,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'guiheadroom'|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |'guioptions'|
@@ -33560,7 +33560,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |gui-IME|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.3.313 
 
 |gui-clipboard|
@@ -34695,7 +34695,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |iBus|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.3.313 
 
 |iW|
