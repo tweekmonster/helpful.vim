@@ -8941,7 +8941,7 @@ shada-@neovim:v0.1.0,
 shada-cneovim:v0.1.0,
 shada-compatibilityneovim:v0.1.0,
 shada-critical-contents-errorsneovim:v0.1.0,
-shada-encodingneovim:v0.1.0,dev
+shada-encodingneovim:v0.1.0,nightly
 shada-error-handlingneovim:v0.1.0,
 shada-fneovim:v0.1.0,
 shada-fileneovim:v0.1.0,
