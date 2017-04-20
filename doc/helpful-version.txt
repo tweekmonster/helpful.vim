@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2017-04-20 04:00:29 UTC
+*helpful-version.txt*  Generated: 2017-04-20 22:00:31 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -22773,12 +22773,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |E934|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v7.4.2228 
 
 |E935|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v7.4.2261 
 
 |E936|
@@ -26007,7 +26007,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |binary-number|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v7.4.2228 
 
 |bitwise-function|
@@ -46308,7 +46308,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |timer|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v7.4.2218 
 
 |timer-functions|
@@ -46343,7 +46343,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |timers|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v7.4.2218 
 
 |timestamp|
@@ -48842,7 +48842,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |window-ID|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v7.4.2228 
 
 |window-contents|
@@ -48897,7 +48897,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |windowid|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v7.4.2261 
 
 |windowid-variable|
@@ -48954,7 +48954,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |winid|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v7.4.2261 
 
 |winline()|
