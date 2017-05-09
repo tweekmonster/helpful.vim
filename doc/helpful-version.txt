@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2017-05-08 16:00:31 UTC
+*helpful-version.txt*  Generated: 2017-05-09 04:00:31 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -12640,14 +12640,17 @@ A listing of helptags with the versions they became available or were removed.
 
 |:lua|
 
+    Neovim: +dev 
        Vim: +v7.3 
 
 |:luado|
 
+    Neovim: +dev 
        Vim: +v7.3 
 
 |:luafile|
 
+    Neovim: +dev 
        Vim: +v7.3 
 
 |:lunmap|
@@ -23238,6 +23241,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |Lua|
 
+    Neovim: +dev 
        Vim: +v7.3 
 
 |M|
@@ -35395,6 +35399,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |if_lua.txt|
 
+    Neovim: +dev 
        Vim: +v7.3 
 
 |if_mzsch.txt|
@@ -36756,6 +36761,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |lua|
 
+    Neovim: +dev 
        Vim: +v7.3 
 
 |lua-buffer|
@@ -36764,6 +36770,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |lua-commands|
 
+    Neovim: +dev 
        Vim: +v7.3 
 
 |lua-dict|
@@ -36776,6 +36783,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |lua-eval|
 
+    Neovim: +dev 
        Vim: +v7.3.601 
 
 |lua-funcref|
@@ -36788,6 +36796,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |lua-luaeval|
 
+    Neovim: +dev 
        Vim: +v7.3.490 
 
 |lua-syntax|
@@ -36796,6 +36805,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |lua-vim|
 
+    Neovim: +dev 
        Vim: +v7.3 
 
 |lua-window|
@@ -36809,6 +36819,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |luaeval()|
 
+    Neovim: +dev 
        Vim: +v7.3.510 
 
 |m|
