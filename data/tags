@@ -7265,7 +7265,7 @@ ident-searchneovim:v0.1.0,vim:v7.0001,
 idl-syntaxneovim:v0.1.0,vim:v7.0d04,
 idl.vimneovim:v0.1.0,vim:v7.0d04,
 if_cscop.txtneovim:v0.1.0,vim:v7.0001,
-if_luaneovim:v0.1.0,
+if_luaneovim:v0.1.0,dev
 if_lua.txtneovim:dev,vim:v7.3,
 if_mzsch.txtvim:v7.0007,
 if_mzschemeneovim:v0.1.0,

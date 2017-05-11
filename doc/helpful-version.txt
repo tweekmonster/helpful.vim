@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2017-05-09 04:00:31 UTC
+*helpful-version.txt*  Generated: 2017-05-11 16:00:31 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -35395,7 +35395,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |if_lua|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
 
 |if_lua.txt|
 
