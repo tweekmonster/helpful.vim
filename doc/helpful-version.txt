@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2017-05-23 04:00:29 UTC
+*helpful-version.txt*  Generated: 2017-05-29 22:00:30 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -43359,6 +43359,10 @@ A listing of helptags with the versions they became available or were removed.
 |sniff-intro|
 
        Vim: +v7.0001 -v7.4.1433 
+
+|sockconnect()|
+
+    Neovim: +dev 
 
 |socket-interface|
 

@@ -9000,6 +9000,7 @@ sniffvim:v7.0001,v7.4.1433
 sniff-commandsvim:v7.0001,v7.4.1433
 sniff-compilingvim:v7.0001,v7.4.1433
 sniff-introvim:v7.0001,v7.4.1433
+sockconnect()neovim:dev,
 socket-interfacevim:v7.4.1191,v7.4.1192
 sort()neovim:v0.1.0,vim:v7.0033,
 sortingneovim:v0.1.0,vim:v7.0075,
