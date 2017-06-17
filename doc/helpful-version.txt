@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2017-06-13 22:00:30 UTC
+*helpful-version.txt*  Generated: 2017-06-17 22:00:30 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -32627,6 +32627,10 @@ A listing of helptags with the versions they became available or were removed.
 |g:python_host_skip_check|
 
     Neovim: +v0.1.0 -v0.2.0 
+
+|g:ruby_host_prog|
+
+    Neovim: +dev 
 
 |g:rust_bang_comment_leader|
 
