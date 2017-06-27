@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2017-06-27 04:00:30 UTC
+*helpful-version.txt*  Generated: 2017-06-27 22:00:30 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -8036,12 +8036,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |/_CTRL-G|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v7.4.2268 
 
 |/_CTRL-L|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v7.4.2259 
 
 |/_CTRL-N|
@@ -8054,7 +8054,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |/_CTRL-T|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v7.4.2268 
 
 |/atom|
@@ -26538,7 +26538,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |c_CTRL-G|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v7.4.2268 
 
 |c_CTRL-H|
@@ -26628,7 +26628,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |c_CTRL-T|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v7.4.2268 
 
 |c_CTRL-U|
@@ -36836,11 +36836,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |lua-require|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-require-example|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-syntax|
 
