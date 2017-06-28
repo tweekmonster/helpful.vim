@@ -5623,6 +5623,7 @@ clipboard-autoselectmlneovim:v0.1.0,vim:v7.3.597,
 clipboard-autoselectplusneovim:v0.1.0,vim:v7.3.597,
 clipboard-excludevim:v7.3.597,
 clipboard-htmlvim:v7.3.597,
+clipboard-toolneovim:dev,
 clipboard-unnamedneovim:v0.1.0,vim:v7.3.597,
 clipboard-unnamedplusneovim:v0.1.0,vim:v7.3.601,
 clipboard-x11neovim:v0.1.5,
@@ -6514,6 +6515,7 @@ g:ada_space_errorsneovim:v0.1.0,vim:v7.2a,v7.2a.00
 g:ada_standard_typesneovim:v0.1.0,vim:v7.2a,v7.2a.00
 g:ada_with_gnat_project_filesneovim:v0.1.0,vim:v7.2a,v7.2a.00
 g:ada_withuse_ordinaryneovim:v0.1.0,vim:v7.2a,v7.2a.00
+g:clipboardneovim:dev,
 g:clojure_align_multiline_stringsneovim:v0.1.0,vim:v7.3.803,
 g:clojure_align_subformsneovim:v0.1.0,vim:v7.4.136,
 g:clojure_foldneovim:v0.1.0,vim:v7.4.226,
