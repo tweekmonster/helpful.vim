@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2017-06-28 10:00:32 UTC
+*helpful-version.txt*  Generated: 2017-06-28 22:00:30 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -27451,7 +27451,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |clipboard-tool|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |clipboard-unnamed|
 
@@ -31777,7 +31777,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |g:clipboard|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |g:clojure_align_multiline_strings|
 
