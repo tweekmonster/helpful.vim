@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2017-07-07 10:00:31 UTC
+*helpful-version.txt*  Generated: 2017-07-07 16:00:31 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -8763,7 +8763,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |256-color|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |26.1|
 
@@ -26270,7 +26270,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |builtin-terms|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v7.0001 
 
 |builtin-tools|
@@ -26280,7 +26280,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |builtin_terms|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v7.0001 
 
 |byte-count|
@@ -28517,7 +28517,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |cursor-shape|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |cursor-up|
 
@@ -42840,7 +42840,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |scroll-region|
 
-    Neovim: +dev -v0.2.0 
+    Neovim: +nightly -v0.2.0 
        Vim: +v7.0001 
 
 |scroll-smooth|
@@ -46142,7 +46142,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |termcap-colors|
 
-    Neovim: +dev -v0.2.0 
+    Neovim: +nightly -v0.2.0 
        Vim: +v7.0001 
 
 |termcap-cursor-color|
@@ -46152,7 +46152,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |termcap-cursor-shape|
 
-    Neovim: +dev -v0.2.0 
+    Neovim: +nightly -v0.2.0 
        Vim: +v7.0021 
 
 |termcap-options|
@@ -46247,11 +46247,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |terminfo-colors|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |terminfo-cursor-shape|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |termopen()|
 
@@ -46587,7 +46587,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |true-color|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |true-variable|
 
@@ -49488,7 +49488,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |xterm-resize|
 
-    Neovim: +dev -v0.2.0 
+    Neovim: +nightly -v0.2.0 
        Vim: +v7.2.328 
 
 |xterm-save-screen|
@@ -49503,7 +49503,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |xterm-scroll-region|
 
-    Neovim: +dev -v0.2.0 
+    Neovim: +nightly -v0.2.0 
        Vim: +v7.0001 
 
 |xterm-shifted-keys|
@@ -49513,7 +49513,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |xterm-true-color|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v7.4.1770 
 
 |y|
