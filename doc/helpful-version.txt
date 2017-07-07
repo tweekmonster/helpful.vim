@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2017-07-07 04:00:31 UTC
+*helpful-version.txt*  Generated: 2017-07-07 10:00:31 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -15567,9 +15567,14 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v7.0001 
 
+|:ter|
+
+       Vim: +v8.0.0693 
+
 |:terminal|
 
     Neovim: +v0.1.0 
+       Vim: +v8.0.0693 
 
 |:tf|
 
@@ -46167,10 +46172,15 @@ A listing of helptags with the versions they became available or were removed.
 |terminal|
 
     Neovim: +nightly 
+       Vim: +v8.0.0693 
 
 |terminal-colors|
 
        Vim: +v7.0001 
+
+|terminal-debug|
+
+       Vim: +v8.0.0693 
 
 |terminal-emulator|
 
@@ -46213,6 +46223,18 @@ A listing of helptags with the versions they became available or were removed.
 |terminal-output-codes|
 
        Vim: +v8.0.0420 
+
+|terminal-testing|
+
+       Vim: +v8.0.0693 
+
+|terminal-use|
+
+       Vim: +v8.0.0693 
+
+|terminal.txt|
+
+       Vim: +v8.0.0693 
 
 |terminal_emulator.txt|
 
