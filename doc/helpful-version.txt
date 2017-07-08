@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2017-07-08 16:00:31 UTC
+*helpful-version.txt*  Generated: 2017-07-08 22:00:30 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -28014,7 +28014,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |cpo-<|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |cpo->|
@@ -28173,7 +28173,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |cpo-k|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |cpo-l|
@@ -40001,19 +40001,19 @@ A listing of helptags with the versions they became available or were removed.
 
 |nvim__id()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim__id_array()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim__id_dictionary()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim__id_float()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_buf_add_highlight()|
 
@@ -40033,7 +40033,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |nvim_buf_get_keymap()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_buf_get_lines()|
 
@@ -40121,7 +40121,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |nvim_execute_lua()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_feedkeys()|
 
@@ -40161,7 +40161,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |nvim_get_keymap()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_get_mode()|
 
