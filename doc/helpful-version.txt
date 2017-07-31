@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2017-07-31 04:00:31 UTC
+*helpful-version.txt*  Generated: 2017-07-31 22:00:31 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -56,7 +56,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |$TERM|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |$VIM|
 
@@ -6812,7 +6812,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |--headless|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |--help|
 
@@ -8796,10 +8796,6 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
-
-|256-color|
-
-    Neovim: +nightly -dev 
 
 |26.1|
 
@@ -24056,7 +24052,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |TERM|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |TOhtml-encoding|
@@ -28563,10 +28559,6 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
-
-|cursor-shape|
-
-    Neovim: +nightly -dev 
 
 |cursor-up|
 
@@ -46284,7 +46276,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |termcap-colors|
 
-    Neovim: +nightly -dev 
+    Neovim: +v0.1.0 -v0.2.0 
        Vim: +v7.0001 
 
 |termcap-cursor-color|
@@ -46294,7 +46286,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |termcap-cursor-shape|
 
-    Neovim: +nightly -dev 
+    Neovim: +v0.1.0 -v0.2.0 
        Vim: +v7.0021 
 
 |termcap-options|
@@ -46386,14 +46378,6 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
-
-|terminfo-colors|
-
-    Neovim: +nightly -dev 
-
-|terminfo-cursor-shape|
-
-    Neovim: +nightly -dev 
 
 |termopen()|
 
@@ -46768,11 +46752,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |tui-colors|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |tui-cursor-shape|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |tutor|
 
