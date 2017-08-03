@@ -9615,6 +9615,7 @@ term_getline()vim:v8.0.0803,
 term_getsize()vim:v8.0.0712,
 term_getstatus()vim:v8.0.0821,
 term_gettitle()vim:v8.0.0821,
+term_gettty()vim:v8.0.0846,
 term_list()vim:v8.0.0803,
 term_open()vim:v8.0.0712,v8.0.0803
 term_scrape()vim:v8.0.0712,
