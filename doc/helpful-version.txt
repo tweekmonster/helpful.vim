@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2017-08-03 16:00:31 UTC
+*helpful-version.txt*  Generated: 2017-08-03 22:00:31 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -23340,7 +23340,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |MS-Windows|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |MSDOS|
@@ -24378,7 +24378,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |Win32|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |WinEnter|
@@ -28880,7 +28880,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |dev|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |dev-api|
 
@@ -28888,11 +28888,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |dev-doc|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |dev-help|
 
-    Neovim: +v0.2.0 -dev 
+    Neovim: +v0.2.0 -nightly 
 
 |dev-jargon|
 
@@ -40708,7 +40708,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |os_win32.txt|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |other-features|
@@ -46334,7 +46334,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |terminal-configuration|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |terminal-debug|
 
@@ -46346,11 +46346,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |terminal-emulator-configuration|
 
-    Neovim: +v0.1.5 -dev 
+    Neovim: +v0.1.5 -nightly 
 
 |terminal-emulator-input|
 
-    Neovim: +v0.1.5 -dev 
+    Neovim: +v0.1.5 -nightly 
 
 |terminal-emulator-intro|
 
@@ -46358,11 +46358,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |terminal-emulator-spawning|
 
-    Neovim: +v0.1.5 -dev 
+    Neovim: +v0.1.5 -nightly 
 
 |terminal-emulator-status|
 
-    Neovim: +v0.1.5 -dev 
+    Neovim: +v0.1.5 -nightly 
 
 |terminal-info|
 
@@ -46371,7 +46371,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |terminal-input|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |terminal-key-codes|
 
@@ -46388,11 +46388,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |terminal-start|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |terminal-status|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |terminal-testing|
 
@@ -46788,7 +46788,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |tui|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |tui-colors|
 
@@ -49060,7 +49060,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |win32|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |win32-!start|
@@ -49070,7 +49070,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |win32-PATH|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0c10 
 
 |win32-colors|
@@ -49084,12 +49084,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |win32-curdir|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |win32-faq|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |win32-gettext|
@@ -49109,7 +49109,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |win32-mouse|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |win32-open-with-menu|
@@ -49124,12 +49124,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |win32-problems|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |win32-quotes|
 
-    Neovim: +v0.1.5 -dev 
+    Neovim: +v0.1.5 -nightly 
        Vim: +v7.4.1511 
 
 |win32-restore|
@@ -49139,12 +49139,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |win32-startup|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |win32-term|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |win32-vimrun|
@@ -49283,7 +49283,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |windows-icon|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.4.464 
 
 |windows-intro|
