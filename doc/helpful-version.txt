@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2017-08-06 22:00:32 UTC
+*helpful-version.txt*  Generated: 2017-08-08 22:00:30 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -46252,6 +46252,10 @@ A listing of helptags with the versions they became available or were removed.
 |term_getline()|
 
        Vim: +v8.0.0803 
+
+|term_getscrolled()|
+
+       Vim: +v8.0.0893 
 
 |term_getsize()|
 
