@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2017-08-19 22:00:32 UTC
+*helpful-version.txt*  Generated: 2017-08-27 16:00:33 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -31,6 +31,10 @@ A listing of helptags with the versions they became available or were removed.
 |$HOME-use|
 
        Vim: +v7.0001 
+
+|$HOME-windows|
+
+       Vim: +v8.0.1007 
 
 |$MYGVIMRC|
 
@@ -3789,7 +3793,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'perldll'|
 
-       Vim: +v7.4.907 
+       Vim: +v7.4.907 -v8.0.1007 
 
 |'pex'|
 
@@ -4746,6 +4750,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 -v0.2.0 
        Vim: +v7.0001 
 
+|'t_EC'|
+
+       Vim: +v8.0.1007 
+
 |'t_EI'|
 
     Neovim: +v0.1.0 -v0.2.0 
@@ -4927,10 +4935,22 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 -v0.2.0 
        Vim: +v7.0001 
 
+|'t_RS'|
+
+       Vim: +v8.0.1007 
+
 |'t_RV'|
 
     Neovim: +v0.1.0 -v0.2.0 
        Vim: +v7.0001 
+
+|'t_SC'|
+
+       Vim: +v8.0.1007 
+
+|'t_SH'|
+
+       Vim: +v8.0.1007 
 
 |'t_SI'|
 
@@ -4950,6 +4970,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 -v0.2.0 
        Vim: +v7.0001 
+
+|'t_VS'|
+
+       Vim: +v8.0.1007 
 
 |'t_WP'|
 
@@ -31265,6 +31289,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0139 
 
+|ft-n1ql-syntax|
+
+       Vim: +v8.0.1007 
+
 |ft-nasm-syntax|
 
     Neovim: +v0.1.0 
@@ -38236,6 +38264,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|n1ql.vim|
+
+       Vim: +v8.0.1007 
+
 |nasm-syntax|
 
        Vim: +v7.0001 -v7.0139 
@@ -45058,6 +45090,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 -v0.2.0 
        Vim: +v7.0001 
 
+|t_EC|
+
+       Vim: +v8.0.1007 
+
 |t_EI|
 
     Neovim: +v0.1.0 -v0.2.0 
@@ -45239,10 +45275,22 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 -v0.2.0 
        Vim: +v7.0001 
 
+|t_RS|
+
+       Vim: +v8.0.1007 
+
 |t_RV|
 
     Neovim: +v0.1.0 -v0.2.0 
        Vim: +v7.0001 
+
+|t_SC|
+
+       Vim: +v8.0.1007 
+
+|t_SH|
+
+       Vim: +v8.0.1007 
 
 |t_SI|
 
@@ -45262,6 +45310,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 -v0.2.0 
        Vim: +v7.0001 
+
+|t_VS|
+
+       Vim: +v8.0.1007 
 
 |t_WP|
 
@@ -46459,6 +46511,10 @@ A listing of helptags with the versions they became available or were removed.
 |terminal-emulator-status|
 
     Neovim: +v0.1.5 -nightly 
+
+|terminal-functions|
+
+       Vim: +v8.0.1007 
 
 |terminal-info|
 
