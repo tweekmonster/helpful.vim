@@ -8709,6 +8709,7 @@ quake-syntaxvim:v7.0001,v7.0139
 quake.vimneovim:v0.1.0,vim:v7.0001,
 quickfixneovim:v0.1.0,vim:v7.0001,
 quickfix-6vim:v7.0001,
+quickfix-IDvim:v8.0.1093,
 quickfix-directory-stackneovim:v0.1.0,vim:v7.0001,
 quickfix-error-listsneovim:v0.1.0,vim:v7.0001,
 quickfix-functionsneovim:v0.1.0,vim:v7.3,

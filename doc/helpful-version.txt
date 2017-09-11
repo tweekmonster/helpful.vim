@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2017-09-10 16:00:33 UTC
+*helpful-version.txt*  Generated: 2017-09-11 22:00:33 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -41952,6 +41952,10 @@ A listing of helptags with the versions they became available or were removed.
 |quickfix-6|
 
        Vim: +v7.0001 
+
+|quickfix-ID|
+
+       Vim: +v8.0.1093 
 
 |quickfix-directory-stack|
 
