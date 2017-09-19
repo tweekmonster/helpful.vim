@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2017-09-17 22:00:43 UTC
+*helpful-version.txt*  Generated: 2017-09-19 22:00:41 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -3801,7 +3801,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'perldll'|
 
-       Vim: +v7.4.907 -v8.0.1007 
+       Vim: +v8.0.1129 -v8.0.1007 
 
 |'pex'|
 
@@ -4938,6 +4938,10 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v7.4.762 
 
+|'t_RC'|
+
+       Vim: +v8.0.1129 
+
 |'t_RI'|
 
     Neovim: +v0.1.0 -v0.2.0 
@@ -4978,6 +4982,14 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 -v0.2.0 
        Vim: +v7.0001 
+
+|'t_Te'|
+
+       Vim: +v8.0.1129 
+
+|'t_Ts'|
+
+       Vim: +v8.0.1129 
 
 |'t_VS'|
 
@@ -6699,6 +6711,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|+unix|
+
+       Vim: +v8.0.1129 
 
 |+user_commands|
 
@@ -9478,6 +9494,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|:<cexpr>|
+
+       Vim: +v8.0.1129 
 
 |:<cfile>|
 
@@ -17139,6 +17159,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0024 
 
+|<cexpr>|
+
+       Vim: +v8.0.1129 
+
 |<cfile>|
 
     Neovim: +v0.1.0 
@@ -24483,6 +24507,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
+
+|WinBar|
+
+       Vim: +v8.0.1129 
 
 |WinEnter|
 
@@ -41971,7 +41999,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |quickfix-ID|
 
-       Vim: +v8.0.1093 
+       Vim: +v8.0.1093 -v8.0.1129 
 
 |quickfix-directory-stack|
 
@@ -45314,6 +45342,10 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v7.4.762 
 
+|t_RC|
+
+       Vim: +v8.0.1129 
+
 |t_RI|
 
     Neovim: +v0.1.0 -v0.2.0 
@@ -45354,6 +45386,14 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 -v0.2.0 
        Vim: +v7.0001 
+
+|t_Te|
+
+       Vim: +v8.0.1129 
+
+|t_Ts|
+
+       Vim: +v8.0.1129 
 
 |t_VS|
 
@@ -46467,7 +46507,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |term_setsize()|
 
-       Vim: +v8.0.0712 -v8.0.0803 
+       Vim: +v8.0.1129 -v8.0.0803 
 
 |term_start()|
 
