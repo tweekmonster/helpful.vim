@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2017-09-28 22:00:43 UTC
+*helpful-version.txt*  Generated: 2017-10-08 16:00:42 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -2420,6 +2420,14 @@ A listing of helptags with the versions they became available or were removed.
 |'mzquantum'|
 
        Vim: +v7.0007 
+
+|'mzschemedll'|
+
+       Vim: +v8.0.1182 
+
+|'mzschemegcdll'|
+
+       Vim: +v8.0.1182 
 
 |'nf'|
 
