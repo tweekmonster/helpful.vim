@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2017-10-21 22:00:41 UTC
+*helpful-version.txt*  Generated: 2017-10-22 16:00:43 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -37123,6 +37123,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +nightly 
 
+|lua-special-tbl|
+
+    Neovim: +dev 
+
 |lua-syntax|
 
        Vim: +v7.0001 -v7.0139 
@@ -37131,6 +37135,22 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +nightly 
        Vim: +v7.3 
+
+|lua-vim.stricmp|
+
+    Neovim: +dev 
+
+|lua-vim.type_idx|
+
+    Neovim: +dev 
+
+|lua-vim.types|
+
+    Neovim: +dev 
+
+|lua-vim.val_idx|
+
+    Neovim: +dev 
 
 |lua-window|
 
