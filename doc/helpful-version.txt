@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2017-10-22 22:00:41 UTC
+*helpful-version.txt*  Generated: 2017-10-29 04:00:43 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -42719,7 +42719,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |rpc-remote-ui|
 
-    Neovim: +v0.1.6 
+    Neovim: +v0.1.6 -dev 
 
 |rpc-types|
 
@@ -47161,13 +47161,57 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|ui|
+
+    Neovim: +dev 
+
+|ui-cmdline|
+
+    Neovim: +dev 
+
+|ui-event-highlight_set|
+
+    Neovim: +dev 
+
+|ui-ext-options|
+
+    Neovim: +dev 
+
 |ui-ext-popupmenu|
 
-    Neovim: +v0.2.0 
+    Neovim: +v0.2.0 -dev 
 
 |ui-ext-tabline|
 
-    Neovim: +v0.2.0 
+    Neovim: +v0.2.0 -dev 
+
+|ui-global|
+
+    Neovim: +dev 
+
+|ui-grid|
+
+    Neovim: +dev 
+
+|ui-intro|
+
+    Neovim: +dev 
+
+|ui-options|
+
+    Neovim: +dev 
+
+|ui-popupmenu|
+
+    Neovim: +dev 
+
+|ui-tabline|
+
+    Neovim: +dev 
+
+|ui.txt|
+
+    Neovim: +dev 
 
 |undercurl|
 
