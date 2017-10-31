@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2017-10-29 22:00:43 UTC
+*helpful-version.txt*  Generated: 2017-10-31 10:00:44 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -47208,6 +47208,10 @@ A listing of helptags with the versions they became available or were removed.
 |ui-tabline|
 
     Neovim: +nightly 
+
+|ui-wildmenu|
+
+    Neovim: +dev 
 
 |ui.txt|
 
