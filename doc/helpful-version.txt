@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2017-10-31 22:00:42 UTC
+*helpful-version.txt*  Generated: 2017-11-02 22:00:42 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -4949,6 +4949,10 @@ A listing of helptags with the versions they became available or were removed.
 |'t_RC'|
 
        Vim: +v8.0.1129 
+
+|'t_RF'|
+
+       Vim: +dev 
 
 |'t_RI'|
 
@@ -33363,6 +33367,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.3.445 
 
+|gdb-version|
+
+       Vim: +dev 
+
 |ge|
 
     Neovim: +v0.1.0 
@@ -40849,6 +40857,10 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v7.0001 
 
+|options-in-terminal|
+
+       Vim: +dev 
+
 |options.txt|
 
     Neovim: +v0.1.0 
@@ -45415,6 +45427,10 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v8.0.1129 
 
+|t_RF|
+
+       Vim: +dev 
+
 |t_RI|
 
     Neovim: +v0.1.0 -v0.2.0 
@@ -49457,6 +49473,14 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 -nightly 
        Vim: +v7.0c10 
+
+|win32-backslashes|
+
+       Vim: +dev 
+
+|win32-cmdargs|
+
+       Vim: +dev 
 
 |win32-colors|
 
