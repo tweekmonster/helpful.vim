@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2017-11-03 04:00:43 UTC
+*helpful-version.txt*  Generated: 2017-11-05 23:00:42 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -32640,25 +32640,45 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.2a 
 
+|g:netrw_localcopycmdopt|
+
+       Vim: +v8.0.1270 
+
 |g:netrw_localcopydircmd|
 
     Neovim: +v0.1.0 
        Vim: +v7.4.567 
+
+|g:netrw_localcopydircmdopt|
+
+       Vim: +v8.0.1270 
 
 |g:netrw_localmkdir|
 
     Neovim: +v0.1.0 
        Vim: +v7.3.493 
 
+|g:netrw_localmkdiropt|
+
+       Vim: +v8.0.1270 
+
 |g:netrw_localmovecmd|
 
     Neovim: +v0.1.0 
        Vim: +v7.2a 
 
+|g:netrw_localmovecmdopt|
+
+       Vim: +v8.0.1270 
+
 |g:netrw_localrmdir|
 
     Neovim: +v0.1.0 
        Vim: +v7.3.493 
+
+|g:netrw_localrmdiropt|
+
+       Vim: +v8.0.1270 
 
 |g:netrw_longlist|
 
@@ -32713,6 +32733,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.3.347 
 
+|g:netrw_rename_cmd|
+
+       Vim: +v8.0.1270 
+
 |g:netrw_retmap|
 
     Neovim: +v0.1.0 
@@ -32737,6 +32761,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0129 
+
+|g:netrw_rsync_sep|
+
+       Vim: +v8.0.1270 
 
 |g:netrw_scp_cmd|
 
@@ -38789,10 +38817,26 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.5 
        Vim: +v7.4.902 
 
+|netrw-cB|
+
+       Vim: +v8.0.1270 
+
 |netrw-cadaver|
 
     Neovim: +v0.1.0 
        Vim: +v7.0007 
+
+|netrw-call|
+
+       Vim: +v8.0.1270 
+
+|netrw-cb|
+
+       Vim: +v8.0.1270 
+
+|netrw-cd|
+
+       Vim: +v8.0.1270 
 
 |netrw-chgup|
 
@@ -38922,6 +38966,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0122 
+
+|netrw-expose|
+
+       Vim: +v8.0.1270 
 
 |netrw-externapp|
 
@@ -39179,6 +39227,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.2a 
+
+|netrw-modify|
+
+       Vim: +v8.0.1270 
 
 |netrw-mouse|
 
