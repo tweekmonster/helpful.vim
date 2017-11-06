@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2017-11-05 23:00:42 UTC
+*helpful-version.txt*  Generated: 2017-11-06 05:00:44 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -29046,6 +29046,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.6 
 
+|dev-api-client|
+
+    Neovim: +dev 
+
 |dev-doc|
 
     Neovim: +nightly 
@@ -36282,7 +36286,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |job-control-intro|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
 
 |job-control-usage|
 
@@ -36319,6 +36323,10 @@ A listing of helptags with the versions they became available or were removed.
 |job-functions|
 
        Vim: +v7.4.1926 
+
+|job-id|
+
+    Neovim: +dev 
 
 |job-in-io|
 
@@ -36427,6 +36435,10 @@ A listing of helptags with the versions they became available or were removed.
 |jobstart()|
 
     Neovim: +v0.1.0 
+
+|jobstart-options|
+
+    Neovim: +dev 
 
 |jobstop()|
 
@@ -40509,6 +40521,14 @@ A listing of helptags with the versions they became available or were removed.
 |nvim_get_current_win()|
 
     Neovim: +v0.2.0 
+
+|nvim_get_hl_by_id()|
+
+    Neovim: +dev 
+
+|nvim_get_hl_by_name()|
+
+    Neovim: +dev 
 
 |nvim_get_keymap()|
 

@@ -5960,6 +5960,7 @@ desktop-syntaxvim:v7.0001,v7.0139
 desktop.vimneovim:v0.1.0,vim:v7.0001,
 devneovim:nightly,
 dev-apineovim:v0.1.6,
+dev-api-clientneovim:dev,
 dev-docneovim:nightly,
 dev-helpneovim:v0.2.0,nightly
 dev-jargonneovim:v0.1.5,
@@ -7464,7 +7465,7 @@ job-channel-overviewvim:v7.4.1325,
 job-close-cbvim:v7.4.1325,v7.4.1560
 job-close_cbvim:v7.4.1560,
 job-controlneovim:v0.1.0,vim:v7.4.1191,
-job-control-introneovim:v0.1.0,
+job-control-introneovim:v0.1.0,dev
 job-control-usageneovim:v0.1.0,
 job-dropvim:v8.0.0142,
 job-err-cbvim:v7.4.1325,v7.4.1560
@@ -7474,6 +7475,7 @@ job-err_iovim:v7.4.1560,
 job-exit-cbvim:v7.4.1325,v7.4.1560
 job-exit_cbvim:v7.4.1560,
 job-functionsvim:v7.4.1926,
+job-idneovim:dev,
 job-in-iovim:v7.4.1325,v7.4.1560
 job-in_iovim:v7.4.1560,
 job-killonexitvim:v7.4.1325,v7.4.1382
@@ -7501,6 +7503,7 @@ jobpid()neovim:v0.1.2,
 jobresize()neovim:v0.1.0,
 jobsend()neovim:v0.1.0,
 jobstart()neovim:v0.1.0,
+jobstart-optionsneovim:dev,
 jobstop()neovim:v0.1.0,
 jobwait()neovim:v0.1.0,
 join()neovim:v0.1.0,vim:v7.0037,
@@ -8392,6 +8395,8 @@ nvim_get_current_buf()neovim:v0.2.0,
 nvim_get_current_line()neovim:v0.2.0,
 nvim_get_current_tabpage()neovim:v0.2.0,
 nvim_get_current_win()neovim:v0.2.0,
+nvim_get_hl_by_id()neovim:dev,
+nvim_get_hl_by_name()neovim:dev,
 nvim_get_keymap()neovim:nightly,
 nvim_get_mode()neovim:v0.2.0,
 nvim_get_option()neovim:v0.2.0,
