@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2017-11-07 05:00:43 UTC
+*helpful-version.txt*  Generated: 2017-11-07 23:00:49 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -34,6 +34,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |$HOME-windows|
 
+    Neovim: +nightly 
        Vim: +v8.0.1007 
 
 |$MYGVIMRC|
@@ -9510,6 +9511,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |:<cexpr>|
 
+    Neovim: +dev 
        Vim: +v8.0.1129 
 
 |:<cfile>|
@@ -9765,37 +9767,37 @@ A listing of helptags with the versions they became available or were removed.
 
 |:RustEmitAsm|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.0.0501 
 
 |:RustEmitIr|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.0.0501 
 
 |:RustExpand|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.0.0501 
 
 |:RustFmt|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.0.0501 
 
 |:RustFmtRange|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.0.0501 
 
 |:RustPlay|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.0.0501 
 
 |:RustRun|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.0.0501 
 
 |:Sexplore|
@@ -15738,11 +15740,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |:tm|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v8.0.1108 -v8.0.1120 
 
 |:tma|
 
+    Neovim: +dev 
        Vim: +v8.0.1120 
 
 |:tmap|
@@ -15832,11 +15835,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |:tu|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v8.0.1108 -v8.0.1120 
 
 |:tunma|
 
+    Neovim: +dev 
        Vim: +v8.0.1120 
 
 |:tunmap|
@@ -17185,6 +17189,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |<cexpr>|
 
+    Neovim: +dev 
        Vim: +v8.0.1129 
 
 |<cfile>|
@@ -23057,17 +23062,17 @@ A listing of helptags with the versions they became available or were removed.
 
 |E943|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.0.0517 
 
 |E944|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.0.0642 
 
 |E945|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.0.0642 
 
 |E946|
@@ -27648,6 +27653,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |client-server-name|
 
+    Neovim: +nightly 
        Vim: +v8.0.0837 
 
 |clientserver|
@@ -31393,6 +31399,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |ft-n1ql-syntax|
 
+    Neovim: +nightly 
        Vim: +v8.0.1007 
 
 |ft-nasm-syntax|
@@ -31547,7 +31554,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |ft-rust|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.0.0501 -v8.0.0517 
 
 |ft-scheme-syntax|
@@ -31716,7 +31723,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |ft_rust.txt|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.0.0501 
 
 |ft_sql.txt|
@@ -32194,7 +32201,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |g:ftplugin_rust_source_path|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.0.0501 
 
 |g:gnat|
@@ -32659,6 +32666,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |g:netrw_localcopycmdopt|
 
+    Neovim: +dev 
        Vim: +v8.0.1270 
 
 |g:netrw_localcopydircmd|
@@ -32668,6 +32676,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |g:netrw_localcopydircmdopt|
 
+    Neovim: +dev 
        Vim: +v8.0.1270 
 
 |g:netrw_localmkdir|
@@ -32677,6 +32686,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |g:netrw_localmkdiropt|
 
+    Neovim: +dev 
        Vim: +v8.0.1270 
 
 |g:netrw_localmovecmd|
@@ -32686,6 +32696,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |g:netrw_localmovecmdopt|
 
+    Neovim: +dev 
        Vim: +v8.0.1270 
 
 |g:netrw_localrmdir|
@@ -32695,6 +32706,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |g:netrw_localrmdiropt|
 
+    Neovim: +dev 
        Vim: +v8.0.1270 
 
 |g:netrw_longlist|
@@ -32752,6 +32764,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |g:netrw_rename_cmd|
 
+    Neovim: +dev 
        Vim: +v8.0.1270 
 
 |g:netrw_retmap|
@@ -32781,6 +32794,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |g:netrw_rsync_sep|
 
+    Neovim: +dev 
        Vim: +v8.0.1270 
 
 |g:netrw_scp_cmd|
@@ -32948,72 +32962,72 @@ A listing of helptags with the versions they became available or were removed.
 
 |g:rust_bang_comment_leader|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.0.0501 
 
 |g:rust_conceal|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.0.0501 
 
 |g:rust_conceal_mod_path|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.0.0501 
 
 |g:rust_conceal_pub|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.0.0501 
 
 |g:rust_fold|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.0.0501 
 
 |g:rust_playpen_url|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.0.0501 
 
 |g:rust_recommended_style|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.0.0501 
 
 |g:rust_shortener_url|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.0.0501 
 
 |g:rustc_makeprg_no_percent|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.0.0501 
 
 |g:rustc_path|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.0.0501 
 
 |g:rustfmt_autosave|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.0.0501 
 
 |g:rustfmt_command|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.0.0501 
 
 |g:rustfmt_fail_silently|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.0.0501 
 
 |g:rustfmt_options|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.0.0501 
 
 |g:sh_isk|
@@ -35014,27 +35028,27 @@ A listing of helptags with the versions they became available or were removed.
 
 |how-do-i|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |how-to|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |howdoi|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |howto|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |howto.txt|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |hpterm|
@@ -38466,6 +38480,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |n1ql.vim|
 
+    Neovim: +nightly 
        Vim: +v8.0.1007 
 
 |nasm-syntax|
@@ -38858,6 +38873,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |netrw-cB|
 
+    Neovim: +dev 
        Vim: +v8.0.1270 
 
 |netrw-cadaver|
@@ -38867,14 +38883,17 @@ A listing of helptags with the versions they became available or were removed.
 
 |netrw-call|
 
+    Neovim: +dev 
        Vim: +v8.0.1270 
 
 |netrw-cb|
 
+    Neovim: +dev 
        Vim: +v8.0.1270 
 
 |netrw-cd|
 
+    Neovim: +dev 
        Vim: +v8.0.1270 
 
 |netrw-chgup|
@@ -39008,6 +39027,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |netrw-expose|
 
+    Neovim: +dev 
        Vim: +v8.0.1270 
 
 |netrw-externapp|
@@ -39269,6 +39289,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |netrw-modify|
 
+    Neovim: +dev 
        Vim: +v8.0.1270 
 
 |netrw-mouse|
@@ -40192,12 +40213,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |no_mail_maps|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.0.0517 
 
 |no_plugin_maps|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.0.0517 
 
 |nocombine|
@@ -42177,6 +42198,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |quickfix-ID|
 
+    Neovim: +dev 
        Vim: +v8.0.1093 -v8.0.1129 
 
 |quickfix-directory-stack|
@@ -42994,37 +43016,37 @@ A listing of helptags with the versions they became available or were removed.
 
 |rust|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.0.0501 
 
 |rust-commands|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.0.0501 
 
 |rust-intro|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.0.0501 
 
 |rust-mappings|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.0.0501 
 
 |rust-settings|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.0.0501 
 
 |rust_<D-R>|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.0.0501 
 
 |rust_<D-r>|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.0.0501 
 
 |rview|
@@ -44782,6 +44804,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |start-vimdiff|
 
+    Neovim: +dev 
        Vim: +v8.0.1158 
 
 |starting|
