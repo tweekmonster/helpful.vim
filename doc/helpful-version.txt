@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2017-11-06 23:00:44 UTC
+*helpful-version.txt*  Generated: 2017-11-07 05:00:43 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -9765,30 +9765,37 @@ A listing of helptags with the versions they became available or were removed.
 
 |:RustEmitAsm|
 
+    Neovim: +dev 
        Vim: +v8.0.0501 
 
 |:RustEmitIr|
 
+    Neovim: +dev 
        Vim: +v8.0.0501 
 
 |:RustExpand|
 
+    Neovim: +dev 
        Vim: +v8.0.0501 
 
 |:RustFmt|
 
+    Neovim: +dev 
        Vim: +v8.0.0501 
 
 |:RustFmtRange|
 
+    Neovim: +dev 
        Vim: +v8.0.0501 
 
 |:RustPlay|
 
+    Neovim: +dev 
        Vim: +v8.0.0501 
 
 |:RustRun|
 
+    Neovim: +dev 
        Vim: +v8.0.0501 
 
 |:Sexplore|
@@ -23050,14 +23057,17 @@ A listing of helptags with the versions they became available or were removed.
 
 |E943|
 
+    Neovim: +dev 
        Vim: +v8.0.0517 
 
 |E944|
 
+    Neovim: +dev 
        Vim: +v8.0.0642 
 
 |E945|
 
+    Neovim: +dev 
        Vim: +v8.0.0642 
 
 |E946|
@@ -31537,6 +31547,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |ft-rust|
 
+    Neovim: +dev 
        Vim: +v8.0.0501 -v8.0.0517 
 
 |ft-scheme-syntax|
@@ -31705,6 +31716,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |ft_rust.txt|
 
+    Neovim: +dev 
        Vim: +v8.0.0501 
 
 |ft_sql.txt|
@@ -32182,6 +32194,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |g:ftplugin_rust_source_path|
 
+    Neovim: +dev 
        Vim: +v8.0.0501 
 
 |g:gnat|
@@ -32935,58 +32948,72 @@ A listing of helptags with the versions they became available or were removed.
 
 |g:rust_bang_comment_leader|
 
+    Neovim: +dev 
        Vim: +v8.0.0501 
 
 |g:rust_conceal|
 
+    Neovim: +dev 
        Vim: +v8.0.0501 
 
 |g:rust_conceal_mod_path|
 
+    Neovim: +dev 
        Vim: +v8.0.0501 
 
 |g:rust_conceal_pub|
 
+    Neovim: +dev 
        Vim: +v8.0.0501 
 
 |g:rust_fold|
 
+    Neovim: +dev 
        Vim: +v8.0.0501 
 
 |g:rust_playpen_url|
 
+    Neovim: +dev 
        Vim: +v8.0.0501 
 
 |g:rust_recommended_style|
 
+    Neovim: +dev 
        Vim: +v8.0.0501 
 
 |g:rust_shortener_url|
 
+    Neovim: +dev 
        Vim: +v8.0.0501 
 
 |g:rustc_makeprg_no_percent|
 
+    Neovim: +dev 
        Vim: +v8.0.0501 
 
 |g:rustc_path|
 
+    Neovim: +dev 
        Vim: +v8.0.0501 
 
 |g:rustfmt_autosave|
 
+    Neovim: +dev 
        Vim: +v8.0.0501 
 
 |g:rustfmt_command|
 
+    Neovim: +dev 
        Vim: +v8.0.0501 
 
 |g:rustfmt_fail_silently|
 
+    Neovim: +dev 
        Vim: +v8.0.0501 
 
 |g:rustfmt_options|
 
+    Neovim: +dev 
        Vim: +v8.0.0501 
 
 |g:sh_isk|
@@ -34987,27 +35014,27 @@ A listing of helptags with the versions they became available or were removed.
 
 |how-do-i|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |how-to|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |howdoi|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |howto|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |howto.txt|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |hpterm|
@@ -40165,10 +40192,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |no_mail_maps|
 
+    Neovim: +dev 
        Vim: +v8.0.0517 
 
 |no_plugin_maps|
 
+    Neovim: +dev 
        Vim: +v8.0.0517 
 
 |nocombine|
@@ -42965,30 +42994,37 @@ A listing of helptags with the versions they became available or were removed.
 
 |rust|
 
+    Neovim: +dev 
        Vim: +v8.0.0501 
 
 |rust-commands|
 
+    Neovim: +dev 
        Vim: +v8.0.0501 
 
 |rust-intro|
 
+    Neovim: +dev 
        Vim: +v8.0.0501 
 
 |rust-mappings|
 
+    Neovim: +dev 
        Vim: +v8.0.0501 
 
 |rust-settings|
 
+    Neovim: +dev 
        Vim: +v8.0.0501 
 
 |rust_<D-R>|
 
+    Neovim: +dev 
        Vim: +v8.0.0501 
 
 |rust_<D-r>|
 
+    Neovim: +dev 
        Vim: +v8.0.0501 
 
 |rview|
