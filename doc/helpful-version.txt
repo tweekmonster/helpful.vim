@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2017-11-09 23:00:43 UTC
+*helpful-version.txt*  Generated: 2017-11-11 23:00:43 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -46775,6 +46775,34 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 -v0.2.0 
        Vim: +v7.0001 
 
+|termdebug-commands|
+
+       Vim: +v8.0.1290 
+
+|termdebug-communication|
+
+       Vim: +v8.0.1290 
+
+|termdebug-customizing|
+
+       Vim: +v8.0.1290 
+
+|termdebug-example|
+
+       Vim: +v8.0.1290 
+
+|termdebug-starting|
+
+       Vim: +v8.0.1290 
+
+|termdebug-stepping|
+
+       Vim: +v8.0.1290 
+
+|termdebug-variables|
+
+       Vim: +v8.0.1290 
+
 |terminal|
 
     Neovim: +v0.2.1 
@@ -46787,6 +46815,10 @@ A listing of helptags with the versions they became available or were removed.
 |terminal-configuration|
 
     Neovim: +v0.2.1 
+
+|terminal-cursor-style|
+
+       Vim: +v8.0.1290 
 
 |terminal-debug|
 
@@ -46833,6 +46865,10 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v8.0.0420 
 
+|terminal-ms-windows|
+
+       Vim: +v8.0.1290 
+
 |terminal-options|
 
     Neovim: +v0.1.0 -v0.2.0 
@@ -46841,6 +46877,18 @@ A listing of helptags with the versions they became available or were removed.
 |terminal-output-codes|
 
        Vim: +v8.0.0420 
+
+|terminal-resizing|
+
+       Vim: +v8.0.1290 
+
+|terminal-size-color|
+
+       Vim: +v8.0.1290 
+
+|terminal-special-keys|
+
+       Vim: +v8.0.1290 
 
 |terminal-start|
 
@@ -46857,6 +46905,10 @@ A listing of helptags with the versions they became available or were removed.
 |terminal-typing|
 
        Vim: +v8.0.1108 
+
+|terminal-unix|
+
+       Vim: +v8.0.1290 
 
 |terminal-use|
 
