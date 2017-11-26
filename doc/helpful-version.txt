@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2017-11-26 11:00:44 UTC
+*helpful-version.txt*  Generated: 2017-11-26 23:00:45 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -632,7 +632,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'channel'|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |'character'|
 
@@ -6913,7 +6913,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |--embed|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |--headless|
 
@@ -26122,7 +26122,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |b:terminal_job_id|
 
-    Neovim: +v0.1.5 -dev 
+    Neovim: +v0.1.5 -nightly 
 
 |b:terminal_job_pid|
 
@@ -26469,7 +26469,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |buffered|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |buffers|
 
@@ -27245,7 +27245,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |chanclose()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |change-list-jumps|
 
@@ -27366,16 +27366,16 @@ A listing of helptags with the versions they became available or were removed.
 
 |channel|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v7.4.1191 
 
 |channel-bytes|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |channel-callback|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v7.4.1191 
 
 |channel-close|
@@ -27404,11 +27404,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |channel-intro|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |channel-lines|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |channel-mode|
 
@@ -27428,7 +27428,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |channel-pty|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |channel-raw|
 
@@ -27436,11 +27436,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |channel-rpc|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |channel-stdio|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |channel-timeout|
 
@@ -27452,12 +27452,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |channel.txt|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v7.4.1191 
 
 |chansend()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |char-variable|
 
@@ -38402,7 +38402,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |msgpack_rpc.txt|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
 
 |msgpack_types-variable|
 
@@ -41013,7 +41013,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |on_data|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |on_exit|
 
@@ -41025,7 +41025,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |on_stdin|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |on_stdout|
 
@@ -44954,11 +44954,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |stderr-variable|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |stdioopen()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |sticky-type-checking|
 
@@ -48204,7 +48204,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |v:stderr|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |v:swapchoice|
 
