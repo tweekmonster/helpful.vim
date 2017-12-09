@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2017-12-02 17:00:45 UTC
+*helpful-version.txt*  Generated: 2017-12-09 23:00:45 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -30332,6 +30332,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|expr-highlight|
+
+    Neovim: +nightly 
+
 |expr-is|
 
     Neovim: +v0.1.0 
@@ -32018,7 +32022,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |g:Nvim_color_expr|
 
-    Neovim: +v0.2.1 
+    Neovim: +v0.2.1 -nightly 
 
 |g:actual_curbuf|
 
@@ -34918,6 +34922,274 @@ A listing of helptags with the versions they became available or were removed.
 |hl-NormalNC|
 
     Neovim: +v0.2.1 
+
+|hl-NvimAnd|
+
+    Neovim: +nightly 
+
+|hl-NvimArrow|
+
+    Neovim: +nightly 
+
+|hl-NvimAssignment|
+
+    Neovim: +nightly 
+
+|hl-NvimAssignmentWithAddition|
+
+    Neovim: +nightly 
+
+|hl-NvimAssignmentWithConcatenation|
+
+    Neovim: +nightly 
+
+|hl-NvimAssignmentWithSubtraction|
+
+    Neovim: +nightly 
+
+|hl-NvimAugmentedAssignment|
+
+    Neovim: +nightly 
+
+|hl-NvimBinaryMinus|
+
+    Neovim: +nightly 
+
+|hl-NvimBinaryOperator|
+
+    Neovim: +nightly 
+
+|hl-NvimBinaryPlus|
+
+    Neovim: +nightly 
+
+|hl-NvimCallingParenthesis|
+
+    Neovim: +nightly 
+
+|hl-NvimColon|
+
+    Neovim: +nightly 
+
+|hl-NvimComma|
+
+    Neovim: +nightly 
+
+|hl-NvimComparison|
+
+    Neovim: +nightly 
+
+|hl-NvimComparisonModifier|
+
+    Neovim: +nightly 
+
+|hl-NvimConcat|
+
+    Neovim: +nightly 
+
+|hl-NvimConcatOrSubscript|
+
+    Neovim: +nightly 
+
+|hl-NvimContainer|
+
+    Neovim: +nightly 
+
+|hl-NvimCurly|
+
+    Neovim: +nightly 
+
+|hl-NvimDict|
+
+    Neovim: +nightly 
+
+|hl-NvimDivision|
+
+    Neovim: +nightly 
+
+|hl-NvimDoubleQuote|
+
+    Neovim: +nightly 
+
+|hl-NvimDoubleQuotedBody|
+
+    Neovim: +nightly 
+
+|hl-NvimDoubleQuotedEscape|
+
+    Neovim: +nightly 
+
+|hl-NvimDoubleQuotedUnknownEscape|
+
+    Neovim: +nightly 
+
+|hl-NvimEnvironmentName|
+
+    Neovim: +nightly 
+
+|hl-NvimEnvironmentSigil|
+
+    Neovim: +nightly 
+
+|hl-NvimFloat|
+
+    Neovim: +nightly 
+
+|hl-NvimIdentifier|
+
+    Neovim: +nightly 
+
+|hl-NvimIdentifierKey|
+
+    Neovim: +nightly 
+
+|hl-NvimIdentifierName|
+
+    Neovim: +nightly 
+
+|hl-NvimIdentifierScope|
+
+    Neovim: +nightly 
+
+|hl-NvimIdentifierScopeDelimiter|
+
+    Neovim: +nightly 
+
+|hl-NvimInternalError|
+
+    Neovim: +nightly 
+
+|hl-NvimInvalid|
+
+    Neovim: +nightly 
+
+|hl-NvimLambda|
+
+    Neovim: +nightly 
+
+|hl-NvimList|
+
+    Neovim: +nightly 
+
+|hl-NvimMod|
+
+    Neovim: +nightly 
+
+|hl-NvimMultiplication|
+
+    Neovim: +nightly 
+
+|hl-NvimNestingParenthesis|
+
+    Neovim: +nightly 
+
+|hl-NvimNot|
+
+    Neovim: +nightly 
+
+|hl-NvimNumber|
+
+    Neovim: +nightly 
+
+|hl-NvimNumberPrefix|
+
+    Neovim: +nightly 
+
+|hl-NvimOperator|
+
+    Neovim: +nightly 
+
+|hl-NvimOptionName|
+
+    Neovim: +nightly 
+
+|hl-NvimOptionScope|
+
+    Neovim: +nightly 
+
+|hl-NvimOptionScopeDelimiter|
+
+    Neovim: +nightly 
+
+|hl-NvimOptionSigil|
+
+    Neovim: +nightly 
+
+|hl-NvimOr|
+
+    Neovim: +nightly 
+
+|hl-NvimParenthesis|
+
+    Neovim: +nightly 
+
+|hl-NvimPlainAssignment|
+
+    Neovim: +nightly 
+
+|hl-NvimRegister|
+
+    Neovim: +nightly 
+
+|hl-NvimSingleQuote|
+
+    Neovim: +nightly 
+
+|hl-NvimSingleQuotedBody|
+
+    Neovim: +nightly 
+
+|hl-NvimSingleQuotedQuote|
+
+    Neovim: +nightly 
+
+|hl-NvimString|
+
+    Neovim: +nightly 
+
+|hl-NvimStringBody|
+
+    Neovim: +nightly 
+
+|hl-NvimStringQuote|
+
+    Neovim: +nightly 
+
+|hl-NvimStringSpecial|
+
+    Neovim: +nightly 
+
+|hl-NvimSubscript|
+
+    Neovim: +nightly 
+
+|hl-NvimSubscriptBracket|
+
+    Neovim: +nightly 
+
+|hl-NvimSubscriptColon|
+
+    Neovim: +nightly 
+
+|hl-NvimTernary|
+
+    Neovim: +nightly 
+
+|hl-NvimTernaryColon|
+
+    Neovim: +nightly 
+
+|hl-NvimUnaryMinus|
+
+    Neovim: +nightly 
+
+|hl-NvimUnaryOperator|
+
+    Neovim: +nightly 
+
+|hl-NvimUnaryPlus|
+
+    Neovim: +nightly 
 
 |hl-Pmenu|
 
