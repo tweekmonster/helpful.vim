@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2017-12-09 23:00:45 UTC
+*helpful-version.txt*  Generated: 2017-12-10 17:00:46 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -42574,6 +42574,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.2.1 
        Vim: +v8.0.1093 -v8.0.1129 
 
+|quickfix-context|
+
+       Vim: +v8.0.1384 
+
 |quickfix-directory-stack|
 
     Neovim: +v0.1.0 
@@ -42598,10 +42602,22 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v7.0001 
 
+|quickfix-parse|
+
+       Vim: +v8.0.1384 
+
 |quickfix-perl|
 
     Neovim: +v0.1.0 
        Vim: +v7.2a 
+
+|quickfix-size|
+
+       Vim: +v8.0.1384 
+
+|quickfix-title|
+
+       Vim: +v8.0.1384 
 
 |quickfix-valid|
 
@@ -42612,6 +42628,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|quickfix-window-ID|
+
+       Vim: +v8.0.1384 
 
 |quickfix.txt|
 
