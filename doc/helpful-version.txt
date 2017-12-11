@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2017-12-11 05:00:44 UTC
+*helpful-version.txt*  Generated: 2017-12-11 23:00:45 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -24355,7 +24355,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |TermChanged|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |TermClose|
@@ -40991,7 +40991,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |nvim_parse_expression()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_provider.txt|
 
@@ -43042,7 +43042,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |remote_ui_disconnect()|
 
-    Neovim: +v0.2.0 -dev 
+    Neovim: +v0.2.0 -nightly 
 
 |remove()|
 
@@ -47779,7 +47779,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |ui-events|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |ui-ext-options|
 
@@ -47803,7 +47803,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |ui-intro|
 
-    Neovim: +v0.2.1 -dev 
+    Neovim: +v0.2.1 -nightly 
 
 |ui-options|
 
