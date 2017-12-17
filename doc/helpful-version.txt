@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2017-12-16 23:00:44 UTC
+*helpful-version.txt*  Generated: 2017-12-17 17:00:46 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -24389,6 +24389,7 @@ A listing of helptags with the versions they became available or were removed.
 |TextYankPost|
 
     Neovim: +v0.1.3 
+       Vim: +dev 
 
 |Transact-SQL|
 
@@ -31770,6 +31771,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0139 
 
+|ft-vim-plugin|
+
+       Vim: +dev 
+
 |ft-vim-syntax|
 
     Neovim: +v0.1.0 
@@ -31804,6 +31809,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.2 
        Vim: +v7.4.694 
+
+|ft-zimbu-plugin|
+
+       Vim: +dev 
 
 |ft-zsh-syntax|
 
@@ -41347,6 +41356,14 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.3.116 
+
+|option_restore()|
+
+       Vim: +dev 
+
+|option_save()|
+
+       Vim: +dev 
 
 |options|
 
