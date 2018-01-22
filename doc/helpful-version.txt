@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2017-12-25 17:00:46 UTC
+*helpful-version.txt*  Generated: 2018-01-22 11:00:49 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -909,7 +909,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'csverb'|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |'cuc'|
@@ -2697,7 +2697,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'nocscopeverbose'|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |'nocsre'|
@@ -2712,7 +2712,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'nocsverb'|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |'nocuc'|
@@ -28643,7 +28643,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |cscope-info|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |cscope-intro|
@@ -28666,9 +28666,13 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|cscope-usage|
+
+    Neovim: +dev 
+
 |cscope-win32|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |cscope_connection()|
@@ -28708,7 +28712,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |cscopeverbose|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |csh-syntax|
@@ -28752,7 +28756,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |csverb|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |ctags|
