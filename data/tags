@@ -4725,8 +4725,9 @@ E947vim:v8.0.0864,
 E948vim:v8.0.0960,
 E949vim:v8.0.1331,
 E95neovim:v0.1.0,vim:v7.0001,
-E951neovim:v0.1.2,v0.1.7
-E952neovim:v0.1.2,v0.1.7
+E950vim:dev,
+E951neovim:v0.1.2,v0.1.7vim:dev,
+E952neovim:v0.1.2,v0.1.7vim:dev,
 E953neovim:v0.1.4,v0.1.7
 E96neovim:v0.1.0,vim:v7.0001,
 E97neovim:v0.1.0,vim:v7.0001,
