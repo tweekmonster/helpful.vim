@@ -5283,6 +5283,7 @@ aspvbs-syntaxvim:v7.0001,v7.0139
 assertEqual()vim:v7.4.944,v7.4.945
 assertFalse()vim:v7.4.944,v7.4.945
 assertTrue()vim:v7.4.944,v7.4.945
+assert_beeps()vim:v8.0.1510,
 assert_equal()neovim:v0.1.2,vim:v7.4.945,
 assert_exception()neovim:v0.1.5,vim:v7.4.1092,
 assert_fails()neovim:v0.1.5,vim:v7.4.1096,
@@ -6905,6 +6906,7 @@ get-ms-debuggersneovim:v0.1.0,vim:v7.0g01,
 getbufinfo()neovim:v0.2.0,vim:v7.4.2204,
 getbufline()neovim:v0.1.0,vim:v7.0112,
 getbufvar()neovim:v0.1.0,vim:v7.0001,
+getchangelist()vim:v8.0.1514,
 getchar()neovim:v0.1.0,vim:v7.0001,
 getcharmod()neovim:v0.1.0,vim:v7.0001,
 getcharsearch()neovim:v0.1.0,vim:v7.4.813,
