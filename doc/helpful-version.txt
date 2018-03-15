@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2018-03-11 16:00:51 UTC
+*helpful-version.txt*  Generated: 2018-03-15 04:00:59 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -32562,6 +32562,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.3.616 
 
+|g:loaded_node_provider|
+
+    Neovim: +dev 
+
 |g:loaded_python3_provider|
 
     Neovim: +v0.1.0 
@@ -33117,6 +33121,10 @@ A listing of helptags with the versions they became available or were removed.
 |g:no_man_maps|
 
     Neovim: +v0.1.5 
+
+|g:node_host_prog|
+
+    Neovim: +dev 
 
 |g:python3_host_prog|
 
@@ -42335,6 +42343,10 @@ A listing of helptags with the versions they became available or were removed.
 |provider-clipboard|
 
     Neovim: +v0.1.5 
+
+|provider-nodejs|
+
+    Neovim: +dev 
 
 |provider-python|
 
