@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2018-03-15 04:00:59 UTC
+*helpful-version.txt*  Generated: 2018-03-15 22:00:51 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -32564,7 +32564,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |g:loaded_node_provider|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |g:loaded_python3_provider|
 
@@ -33124,7 +33124,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |g:node_host_prog|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |g:python3_host_prog|
 
@@ -42346,7 +42346,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |provider-nodejs|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |provider-python|
 
