@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2018-03-24 22:00:52 UTC
+*helpful-version.txt*  Generated: 2018-03-25 22:00:53 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -47394,9 +47394,21 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.2.1 
        Vim: +v8.0.0693 
 
+|terminal-api|
+
+       Vim: +v8.0.1641 
+
+|terminal-client-server|
+
+       Vim: +v8.0.1641 
+
 |terminal-colors|
 
        Vim: +v7.0001 
+
+|terminal-communication|
+
+       Vim: +v8.0.1641 
 
 |terminal-configuration|
 
@@ -47507,6 +47519,10 @@ A listing of helptags with the versions they became available or were removed.
 |terminal-testing|
 
        Vim: +v8.0.0693 
+
+|terminal-to-job|
+
+       Vim: +v8.0.1641 
 
 |terminal-typing|
 
