@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2018-04-15 16:00:55 UTC
+*helpful-version.txt*  Generated: 2018-04-15 22:00:54 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -21431,7 +21431,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |E6100|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |E611|
 
@@ -24593,11 +24593,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |VimResume|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |VimSuspend|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |Vimball-copyright|
 
@@ -45463,7 +45463,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |stdpath()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |sticky-type-checking|
 
