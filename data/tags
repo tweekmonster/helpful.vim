@@ -4363,6 +4363,7 @@ E608neovim:v0.1.0,vim:v7.0001,
 E609neovim:v0.1.0,vim:v7.0001,
 E61neovim:v0.1.0,vim:v7.0001,
 E610vim:v7.0001,v7.3.227
+E6100neovim:dev,
 E611vim:v7.0001,v7.3.227
 E612neovim:v0.1.0,vim:v7.0001,
 E613neovim:v0.1.0,vim:v7.0001,
@@ -9458,6 +9459,7 @@ status-lineneovim:v0.1.0,vim:v7.0001,
 statusmsg-variableneovim:v0.1.0,vim:v7.0001,
 stderr-variableneovim:nightly,
 stdioopen()neovim:nightly,
+stdpath()neovim:dev,
 sticky-type-checkingneovim:v0.1.0,v0.1.5vim:v7.2a,v7.4.1546
 str2float()neovim:v0.1.0,vim:v7.2a,
 str2list()vim:v7.0033,v7.0037
