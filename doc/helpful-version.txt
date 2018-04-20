@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2018-04-16 16:00:53 UTC
+*helpful-version.txt*  Generated: 2018-04-20 22:00:54 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -5488,15 +5488,27 @@ A listing of helptags with the versions they became available or were removed.
 
 |'terminalscroll'|
 
-       Vim: +v8.0.1712 
+       Vim: +v8.0.1712 -v8.0.1740 
 
 |'termkey'|
 
-       Vim: +v8.0.0712 
+       Vim: +v8.0.0712 -v8.0.1740 
 
 |'termsize'|
 
-       Vim: +v8.0.0761 
+       Vim: +v8.0.0761 -v8.0.1740 
+
+|'termwinkey'|
+
+       Vim: +v8.0.1740 
+
+|'termwinscroll'|
+
+       Vim: +v8.0.1740 
+
+|'termwinsize'|
+
+       Vim: +v8.0.1740 
 
 |'terse'|
 
@@ -5573,7 +5585,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'tk'|
 
-       Vim: +v8.0.0712 
+       Vim: +v8.0.0712 -v8.0.1740 
 
 |'tl'|
 
@@ -5582,7 +5594,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'tlsl'|
 
-       Vim: +v8.0.1712 
+       Vim: +v8.0.1712 -v8.0.1740 
 
 |'tm'|
 
@@ -5591,7 +5603,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'tms'|
 
-       Vim: +v8.0.0761 
+       Vim: +v8.0.0761 -v8.0.1740 
 
 |'to'|
 
@@ -5692,6 +5704,18 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|'twk'|
+
+       Vim: +v8.0.1740 
+
+|'tws'|
+
+       Vim: +v8.0.1740 
+
+|'twsl'|
+
+       Vim: +v8.0.1740 
 
 |'tx'|
 
@@ -23287,6 +23311,10 @@ A listing of helptags with the versions they became available or were removed.
 |E954|
 
        Vim: +v8.0.1531 
+
+|E955|
+
+       Vim: +v8.0.1740 
 
 |E96|
 
