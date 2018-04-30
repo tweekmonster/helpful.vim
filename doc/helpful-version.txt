@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2018-04-28 16:00:54 UTC
+*helpful-version.txt*  Generated: 2018-04-30 22:00:53 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -17747,6 +17747,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|ANSI-C|
+
+       Vim: +dev 
+
 |API|
 
     Neovim: +v0.1.5 
@@ -17925,6 +17929,14 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|C89|
+
+       Vim: +dev 
+
+|C99|
+
+       Vim: +dev 
 
 |COMSPEC|
 
@@ -18557,6 +18569,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0007 
+
+|ColorSchemePre|
+
+       Vim: +dev 
 
 |Command-line|
 
@@ -33950,6 +33966,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0064 
 
+|getqflist-examples|
+
+       Vim: +dev 
+
 |getreg()|
 
     Neovim: +v0.1.0 
@@ -44245,6 +44265,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0064 
 
+|setqflist-examples|
+
+       Vim: +dev 
+
 |setreg()|
 
     Neovim: +v0.1.0 
@@ -51493,6 +51517,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0023 
+
+|{bufname}|
+
+       Vim: +dev 
 
 |{char1-char2}|
 
