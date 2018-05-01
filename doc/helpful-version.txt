@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2018-04-30 22:00:53 UTC
+*helpful-version.txt*  Generated: 2018-05-01 16:00:52 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -17749,7 +17749,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |ANSI-C|
 
-       Vim: +dev 
+       Vim: +v8.0.1781 
 
 |API|
 
@@ -17932,11 +17932,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |C89|
 
-       Vim: +dev 
+       Vim: +v8.0.1781 
 
 |C99|
 
-       Vim: +dev 
+       Vim: +v8.0.1781 
 
 |COMSPEC|
 
@@ -18572,7 +18572,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |ColorSchemePre|
 
-       Vim: +dev 
+       Vim: +v8.0.1781 
 
 |Command-line|
 
@@ -33968,7 +33968,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |getqflist-examples|
 
-       Vim: +dev 
+       Vim: +v8.0.1781 
 
 |getreg()|
 
@@ -44267,7 +44267,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |setqflist-examples|
 
-       Vim: +dev 
+       Vim: +v8.0.1781 
 
 |setreg()|
 
@@ -51520,7 +51520,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |{bufname}|
 
-       Vim: +dev 
+       Vim: +v8.0.1781 
 
 |{char1-char2}|
 
