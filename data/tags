@@ -6434,6 +6434,7 @@ form-syntaxvim:v7.0001,v7.0139
 form.vimneovim:v0.1.0,vim:v7.0001,
 format-bullet-listneovim:v0.1.0,vim:v7.0001,
 format-commentsneovim:v0.1.0,vim:v7.0001,
+format-formatexprvim:dev,
 formattingneovim:v0.1.0,vim:v7.0001,
 formfeedneovim:v0.1.0,vim:v7.0001,
 fortran-indentvim:v7.0001,v7.0139
