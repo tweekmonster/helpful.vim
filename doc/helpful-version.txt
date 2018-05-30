@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2018-05-23 22:00:55 UTC
+*helpful-version.txt*  Generated: 2018-05-30 22:00:50 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -632,7 +632,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'channel'|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
 
 |'character'|
 
@@ -909,7 +909,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'csverb'|
 
-    Neovim: +v0.1.0 -nightly 
+    Neovim: +v0.1.0 -untagged-5db8b7983275b2607350 
        Vim: +v7.0001 
 
 |'cuc'|
@@ -2213,7 +2213,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'makeencoding'|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
        Vim: +v8.0.0420 
 
 |'makeprg'|
@@ -2253,7 +2253,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'maxmem'|
 
-    Neovim: +v0.1.0 -nightly 
+    Neovim: +v0.1.0 -untagged-5db8b7983275b2607350 
        Vim: +v7.0001 
 
 |'maxmempattern'|
@@ -2263,7 +2263,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'maxmemtot'|
 
-    Neovim: +v0.1.0 -nightly 
+    Neovim: +v0.1.0 -untagged-5db8b7983275b2607350 
        Vim: +v7.0001 
 
 |'mco'|
@@ -2278,7 +2278,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'menc'|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
        Vim: +v8.0.0420 
 
 |'menuitems'|
@@ -2323,7 +2323,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'mm'|
 
-    Neovim: +v0.1.0 -nightly 
+    Neovim: +v0.1.0 -untagged-5db8b7983275b2607350 
        Vim: +v7.0001 
 
 |'mmd'|
@@ -2338,7 +2338,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'mmt'|
 
-    Neovim: +v0.1.0 -nightly 
+    Neovim: +v0.1.0 -untagged-5db8b7983275b2607350 
        Vim: +v7.0001 
 
 |'mod'|
@@ -2701,7 +2701,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'nocscopeverbose'|
 
-    Neovim: +v0.1.0 -nightly 
+    Neovim: +v0.1.0 -untagged-5db8b7983275b2607350 
        Vim: +v7.0001 
 
 |'nocsre'|
@@ -2716,7 +2716,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'nocsverb'|
 
-    Neovim: +v0.1.0 -nightly 
+    Neovim: +v0.1.0 -untagged-5db8b7983275b2607350 
        Vim: +v7.0001 
 
 |'nocuc'|
@@ -6971,7 +6971,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |--embed|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
 
 |--headless|
 
@@ -6984,7 +6984,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |--listen|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
 
 |--literal|
 
@@ -7060,12 +7060,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |--serverlist|
 
-    Neovim: +v0.1.0 -nightly 
+    Neovim: +v0.1.0 -untagged-5db8b7983275b2607350 
        Vim: +v7.0001 
 
 |--servername|
 
-    Neovim: +v0.1.0 -nightly 
+    Neovim: +v0.1.0 -untagged-5db8b7983275b2607350 
        Vim: +v7.0001 
 
 |--socketid|
@@ -13066,7 +13066,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |:map-command|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
 
 |:map-commands|
 
@@ -16823,7 +16823,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |<Cmd>|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
 
 |<CursorHold>|
 
@@ -18522,11 +18522,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |ChanInfo|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
 
 |ChanOpen|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
 
 |Channel|
 
@@ -18567,12 +18567,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |CmdlineEnter|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
        Vim: +v8.0.1206 
 
 |CmdlineLeave|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
        Vim: +v8.0.1206 
 
 |CmdwinEnter|
@@ -20917,11 +20917,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |E5030|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
 
 |E5031|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
 
 |E504|
 
@@ -21024,7 +21024,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |E5210|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
 
 |E522|
 
@@ -21229,7 +21229,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |E5520|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
 
 |E553|
 
@@ -21551,7 +21551,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |E6100|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
 
 |E611|
 
@@ -24569,7 +24569,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |TermChanged|
 
-    Neovim: +v0.1.0 -nightly 
+    Neovim: +v0.1.0 -untagged-5db8b7983275b2607350 
        Vim: +v7.0001 
 
 |TermClose|
@@ -24614,7 +24614,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |TextChangedP|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
        Vim: +v8.0.1494 
 
 |TextYankPost|
@@ -24722,11 +24722,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |VimResume|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
 
 |VimSuspend|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
 
 |Vimball-copyright|
 
@@ -26378,7 +26378,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |b:terminal_job_id|
 
-    Neovim: +v0.1.5 -nightly 
+    Neovim: +v0.1.5 -untagged-5db8b7983275b2607350 
 
 |b:terminal_job_pid|
 
@@ -26725,7 +26725,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |buffered|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
 
 |buffers|
 
@@ -27509,7 +27509,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |chanclose()|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
 
 |change-list-jumps|
 
@@ -27634,16 +27634,16 @@ A listing of helptags with the versions they became available or were removed.
 
 |channel|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
        Vim: +v7.4.1191 
 
 |channel-bytes|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
 
 |channel-callback|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
        Vim: +v7.4.1191 
 
 |channel-close|
@@ -27672,11 +27672,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |channel-intro|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
 
 |channel-lines|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
 
 |channel-mode|
 
@@ -27696,7 +27696,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |channel-pty|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
 
 |channel-raw|
 
@@ -27704,11 +27704,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |channel-rpc|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
 
 |channel-stdio|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
 
 |channel-timeout|
 
@@ -27720,12 +27720,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |channel.txt|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
        Vim: +v7.4.1191 
 
 |chansend()|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
 
 |char-variable|
 
@@ -27852,7 +27852,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |cino-E|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
        Vim: +v8.0.0431 
 
 |cino-J|
@@ -28100,7 +28100,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |cmdline-char|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
 
 |cmdline-completion|
 
@@ -28897,7 +28897,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |cscope-info|
 
-    Neovim: +v0.1.0 -nightly 
+    Neovim: +v0.1.0 -untagged-5db8b7983275b2607350 
        Vim: +v7.0001 
 
 |cscope-intro|
@@ -28922,11 +28922,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |cscope-usage|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
 
 |cscope-win32|
 
-    Neovim: +v0.1.0 -nightly 
+    Neovim: +v0.1.0 -untagged-5db8b7983275b2607350 
        Vim: +v7.0001 
 
 |cscope_connection()|
@@ -28966,7 +28966,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |cscopeverbose|
 
-    Neovim: +v0.1.0 -nightly 
+    Neovim: +v0.1.0 -untagged-5db8b7983275b2607350 
        Vim: +v7.0001 
 
 |csh-syntax|
@@ -29010,7 +29010,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |csverb|
 
-    Neovim: +v0.1.0 -nightly 
+    Neovim: +v0.1.0 -untagged-5db8b7983275b2607350 
        Vim: +v7.0001 
 
 |ctags|
@@ -30608,7 +30608,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |expr-highlight|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
 
 |expr-is|
 
@@ -32308,7 +32308,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |g:Nvim_color_expr|
 
-    Neovim: +v0.2.1 -nightly 
+    Neovim: +v0.2.1 -untagged-5db8b7983275b2607350 
 
 |g:actual_curbuf|
 
@@ -32765,7 +32765,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |g:loaded_node_provider|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
 
 |g:loaded_python3_provider|
 
@@ -33325,7 +33325,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |g:node_host_prog|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
 
 |g:python3_host_prog|
 
@@ -35225,7 +35225,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |hl-MsgSeparator|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
 
 |hl-NonText|
 
@@ -35243,271 +35243,271 @@ A listing of helptags with the versions they became available or were removed.
 
 |hl-NvimAnd|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
 
 |hl-NvimArrow|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
 
 |hl-NvimAssignment|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
 
 |hl-NvimAssignmentWithAddition|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
 
 |hl-NvimAssignmentWithConcatenation|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
 
 |hl-NvimAssignmentWithSubtraction|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
 
 |hl-NvimAugmentedAssignment|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
 
 |hl-NvimBinaryMinus|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
 
 |hl-NvimBinaryOperator|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
 
 |hl-NvimBinaryPlus|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
 
 |hl-NvimCallingParenthesis|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
 
 |hl-NvimColon|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
 
 |hl-NvimComma|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
 
 |hl-NvimComparison|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
 
 |hl-NvimComparisonModifier|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
 
 |hl-NvimConcat|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
 
 |hl-NvimConcatOrSubscript|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
 
 |hl-NvimContainer|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
 
 |hl-NvimCurly|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
 
 |hl-NvimDict|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
 
 |hl-NvimDivision|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
 
 |hl-NvimDoubleQuote|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
 
 |hl-NvimDoubleQuotedBody|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
 
 |hl-NvimDoubleQuotedEscape|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
 
 |hl-NvimDoubleQuotedUnknownEscape|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
 
 |hl-NvimEnvironmentName|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
 
 |hl-NvimEnvironmentSigil|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
 
 |hl-NvimFloat|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
 
 |hl-NvimIdentifier|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
 
 |hl-NvimIdentifierKey|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
 
 |hl-NvimIdentifierName|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
 
 |hl-NvimIdentifierScope|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
 
 |hl-NvimIdentifierScopeDelimiter|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
 
 |hl-NvimInternalError|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
 
 |hl-NvimInvalid|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
 
 |hl-NvimLambda|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
 
 |hl-NvimList|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
 
 |hl-NvimMod|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
 
 |hl-NvimMultiplication|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
 
 |hl-NvimNestingParenthesis|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
 
 |hl-NvimNot|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
 
 |hl-NvimNumber|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
 
 |hl-NvimNumberPrefix|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
 
 |hl-NvimOperator|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
 
 |hl-NvimOptionName|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
 
 |hl-NvimOptionScope|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
 
 |hl-NvimOptionScopeDelimiter|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
 
 |hl-NvimOptionSigil|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
 
 |hl-NvimOr|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
 
 |hl-NvimParenthesis|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
 
 |hl-NvimPlainAssignment|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
 
 |hl-NvimRegister|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
 
 |hl-NvimSingleQuote|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
 
 |hl-NvimSingleQuotedBody|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
 
 |hl-NvimSingleQuotedQuote|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
 
 |hl-NvimString|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
 
 |hl-NvimStringBody|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
 
 |hl-NvimStringQuote|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
 
 |hl-NvimStringSpecial|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
 
 |hl-NvimSubscript|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
 
 |hl-NvimSubscriptBracket|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
 
 |hl-NvimSubscriptColon|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
 
 |hl-NvimTernary|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
 
 |hl-NvimTernaryColon|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
 
 |hl-NvimUnaryMinus|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
 
 |hl-NvimUnaryOperator|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
 
 |hl-NvimUnaryPlus|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
 
 |hl-Pmenu|
 
@@ -36056,7 +36056,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |i_ALT|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
 
 |i_BS|
 
@@ -36389,7 +36389,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |i_META|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
 
 |i_Tab|
 
@@ -39020,7 +39020,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |msgpack_rpc.txt|
 
-    Neovim: +v0.1.0 -nightly 
+    Neovim: +v0.1.0 -untagged-5db8b7983275b2607350 
 
 |msgpack_types-variable|
 
@@ -41341,7 +41341,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |nvim_parse_expression()|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
 
 |nvim_provider.txt|
 
@@ -41639,7 +41639,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |on_data|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
 
 |on_exit|
 
@@ -41651,7 +41651,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |on_stdin|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
 
 |on_stdout|
 
@@ -42575,7 +42575,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |provider-nodejs|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
 
 |provider-python|
 
@@ -43420,7 +43420,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |remote_ui_disconnect()|
 
-    Neovim: +v0.2.0 -nightly 
+    Neovim: +v0.2.0 -untagged-5db8b7983275b2607350 
 
 |remove()|
 
@@ -45632,15 +45632,15 @@ A listing of helptags with the versions they became available or were removed.
 
 |stderr-variable|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
 
 |stdioopen()|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
 
 |stdpath()|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
 
 |sticky-type-checking|
 
@@ -48249,7 +48249,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |ui-events|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
 
 |ui-ext-options|
 
@@ -48273,7 +48273,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |ui-intro|
 
-    Neovim: +v0.2.1 -nightly 
+    Neovim: +v0.2.1 -untagged-5db8b7983275b2607350 
 
 |ui-options|
 
@@ -48975,7 +48975,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |v:stderr|
 
-    Neovim: +nightly 
+    Neovim: +untagged-5db8b7983275b2607350 
 
 |v:swapchoice|
 
