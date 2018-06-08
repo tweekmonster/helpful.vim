@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2018-06-07 22:00:54 UTC
+*helpful-version.txt*  Generated: 2018-06-08 10:00:49 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -25844,6 +25844,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.2.0 
 
+|api-buffer-updates|
+
+    Neovim: +dev 
+
 |api-client|
 
     Neovim: +v0.1.5 
@@ -41155,6 +41159,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.2.0 
 
+|nvim_buf_changedtick_event|
+
+    Neovim: +dev 
+
 |nvim_buf_clear_highlight()|
 
     Neovim: +v0.2.0 
@@ -41162,6 +41170,10 @@ A listing of helptags with the versions they became available or were removed.
 |nvim_buf_del_var()|
 
     Neovim: +v0.2.0 
+
+|nvim_buf_detach_event|
+
+    Neovim: +dev 
 
 |nvim_buf_get_changedtick()|
 
@@ -41198,6 +41210,10 @@ A listing of helptags with the versions they became available or were removed.
 |nvim_buf_line_count()|
 
     Neovim: +v0.2.0 
+
+|nvim_buf_lines_event|
+
+    Neovim: +dev 
 
 |nvim_buf_set_lines()|
 
