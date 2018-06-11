@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2018-06-10 22:00:50 UTC
+*helpful-version.txt*  Generated: 2018-06-11 04:00:52 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -7113,6 +7113,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|-Es|
+
+    Neovim: +v0.3.0 
+
 |-F|
 
     Neovim: +v0.1.0 
@@ -7230,6 +7234,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|-es|
+
+    Neovim: +v0.3.0 
 
 |-f|
 
@@ -9458,7 +9466,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |:!start|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -v0.3.0 
        Vim: +v7.0001 
 
 |:#|
@@ -13064,9 +13072,13 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0168 
 
+|:map-cmd|
+
+    Neovim: +v0.3.0 
+
 |:map-command|
 
-    Neovim: +untagged-5db8b7983275b2607350 
+    Neovim: +untagged-5db8b7983275b2607350 -v0.3.0 
 
 |:map-commands|
 
@@ -24817,6 +24829,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |W22|
 
+    Neovim: +v0.3.0 
        Vim: +v8.0.0663 
 
 |WORD|
@@ -41155,9 +41168,17 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.2.1 
 
+|nvim__stats()|
+
+    Neovim: +v0.3.0 
+
 |nvim_buf_add_highlight()|
 
     Neovim: +v0.2.0 
+
+|nvim_buf_attach()|
+
+    Neovim: +v0.3.0 
 
 |nvim_buf_changedtick_event|
 
@@ -41171,6 +41192,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.2.0 
 
+|nvim_buf_detach()|
+
+    Neovim: +v0.3.0 
+
 |nvim_buf_detach_event|
 
     Neovim: +nightly 
@@ -41178,6 +41203,10 @@ A listing of helptags with the versions they became available or were removed.
 |nvim_buf_get_changedtick()|
 
     Neovim: +v0.2.0 
+
+|nvim_buf_get_commands()|
+
+    Neovim: +v0.3.0 
 
 |nvim_buf_get_keymap()|
 
@@ -41235,6 +41264,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.2.0 
 
+|nvim_call_dict_function()|
+
+    Neovim: +v0.3.0 
+
 |nvim_call_function()|
 
     Neovim: +v0.2.0 
@@ -41287,6 +41320,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.2.0 
 
+|nvim_get_chan_info()|
+
+    Neovim: +v0.3.0 
+
 |nvim_get_color_by_name()|
 
     Neovim: +v0.2.0 
@@ -41294,6 +41331,10 @@ A listing of helptags with the versions they became available or were removed.
 |nvim_get_color_map()|
 
     Neovim: +v0.2.0 
+
+|nvim_get_commands()|
+
+    Neovim: +v0.3.0 
 
 |nvim_get_current_buf()|
 
@@ -41331,6 +41372,14 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.2.0 
 
+|nvim_get_proc()|
+
+    Neovim: +v0.3.0 
+
+|nvim_get_proc_children()|
+
+    Neovim: +v0.3.0 
+
 |nvim_get_var()|
 
     Neovim: +v0.2.0 
@@ -41347,6 +41396,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.2.0 
 
+|nvim_list_chans()|
+
+    Neovim: +v0.3.0 
+
 |nvim_list_runtime_paths()|
 
     Neovim: +v0.2.0 
@@ -41354,6 +41407,10 @@ A listing of helptags with the versions they became available or were removed.
 |nvim_list_tabpages()|
 
     Neovim: +v0.2.0 
+
+|nvim_list_uis()|
+
+    Neovim: +v0.3.0 
 
 |nvim_list_wins()|
 
@@ -41378,6 +41435,10 @@ A listing of helptags with the versions they became available or were removed.
 |nvim_replace_termcodes()|
 
     Neovim: +v0.2.0 
+
+|nvim_set_client_info()|
+
+    Neovim: +v0.3.0 
 
 |nvim_set_current_buf()|
 
@@ -44563,6 +44624,10 @@ A listing of helptags with the versions they became available or were removed.
 |sharp-string|
 
        Vim: +v7.0037 -v7.0038 
+
+|shell-powershell|
+
+    Neovim: +v0.3.0 
 
 |shell-unquoting|
 
