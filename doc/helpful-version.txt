@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2018-06-11 10:00:52 UTC
+*helpful-version.txt*  Generated: 2018-06-17 22:00:53 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -42653,6 +42653,10 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v8.1.0027 
 
+|prompt_setinterrupt()|
+
+       Vim: +v8.1.0069 
+
 |prompt_setprompt()|
 
        Vim: +v8.1.0027 
@@ -47707,6 +47711,10 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v8.0.1290 
 
+|termdebug-prompt|
+
+       Vim: +v8.1.0071 
+
 |termdebug-starting|
 
        Vim: +v8.0.1290 
@@ -47722,6 +47730,14 @@ A listing of helptags with the versions they became available or were removed.
 |termdebug_popup|
 
        Vim: +v8.0.1562 
+
+|termdebug_shortcuts|
+
+       Vim: +v8.1.0071 
+
+|termdebug_use_prompt|
+
+       Vim: +v8.1.0071 
 
 |termdebug_wide|
 
