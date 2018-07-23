@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2018-07-18 22:00:49 UTC
+*helpful-version.txt*  Generated: 2018-07-23 04:00:50 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -23385,6 +23385,10 @@ A listing of helptags with the versions they became available or were removed.
 |E955|
 
        Vim: +v8.0.1740 
+
+|E956|
+
+       Vim: +v8.1.0201 
 
 |E96|
 
@@ -48395,9 +48399,17 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.2.1 
 
+|ui-event-grid_line|
+
+    Neovim: +nightly 
+
 |ui-event-highlight_set|
 
     Neovim: +v0.2.1 
+
+|ui-event-hl_attr_define|
+
+    Neovim: +nightly 
 
 |ui-events|
 
@@ -48421,11 +48433,23 @@ A listing of helptags with the versions they became available or were removed.
 
 |ui-grid|
 
-    Neovim: +v0.2.1 
+    Neovim: +v0.2.1 -nightly 
+
+|ui-grid-old|
+
+    Neovim: +nightly 
+
+|ui-hlstate|
+
+    Neovim: +nightly 
 
 |ui-intro|
 
     Neovim: +v0.2.1 -untagged-5db8b7983275b2607350 
+
+|ui-newgrid|
+
+    Neovim: +nightly 
 
 |ui-options|
 
