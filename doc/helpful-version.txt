@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2018-08-02 22:00:52 UTC
+*helpful-version.txt*  Generated: 2018-08-07 22:00:52 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -5010,10 +5010,18 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v8.0.1007 
 
+|'t_RT'|
+
+       Vim: +v8.1.0253 
+
 |'t_RV'|
 
     Neovim: +v0.1.0 -v0.2.0 
        Vim: +v7.0001 
+
+|'t_Ri'|
+
+       Vim: +v8.1.0253 
 
 |'t_SC'|
 
@@ -5032,6 +5040,10 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v7.4.687 
 
+|'t_ST'|
+
+       Vim: +v8.1.0253 
+
 |'t_Sb'|
 
     Neovim: +v0.1.0 -v0.2.0 
@@ -5041,6 +5053,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 -v0.2.0 
        Vim: +v7.0001 
+
+|'t_Si'|
+
+       Vim: +v8.1.0253 
 
 |'t_Te'|
 
@@ -46518,10 +46534,18 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v8.0.1007 
 
+|t_RT|
+
+       Vim: +v8.1.0253 
+
 |t_RV|
 
     Neovim: +v0.1.0 -v0.2.0 
        Vim: +v7.0001 
+
+|t_Ri|
+
+       Vim: +v8.1.0253 
 
 |t_SC|
 
@@ -46540,6 +46564,10 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v7.4.687 
 
+|t_ST|
+
+       Vim: +v8.1.0253 
+
 |t_Sb|
 
     Neovim: +v0.1.0 
@@ -46549,6 +46577,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 -v0.2.0 
        Vim: +v7.0001 
+
+|t_Si|
+
+       Vim: +v8.1.0253 
 
 |t_Te|
 
