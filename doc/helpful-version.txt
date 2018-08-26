@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2018-08-21 22:00:52 UTC
+*helpful-version.txt*  Generated: 2018-08-26 16:00:54 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -6926,7 +6926,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |+xpm_w32|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.3.397 
 
 |+xsmp|
@@ -17807,6 +17807,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|ALT|
+
+    Neovim: +nightly 
+
 |ANSI-C|
 
        Vim: +v8.0.1781 
@@ -25845,7 +25849,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |alt|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |alt-input|
@@ -26195,6 +26199,10 @@ A listing of helptags with the versions they became available or were removed.
 |auto-shortname|
 
        Vim: +v7.0001 
+
+|autocmd|
+
+    Neovim: +nightly 
 
 |autocmd-<>|
 
@@ -28169,6 +28177,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|cmdline|
+
+    Neovim: +nightly 
 
 |cmdline-arguments|
 
@@ -36611,6 +36623,10 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v7.0001 
 
+|if_pyth|
+
+    Neovim: +nightly 
+
 |if_pyth.txt|
 
     Neovim: +v0.1.0 
@@ -36618,7 +36634,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |if_ruby|
 
-    Neovim: +v0.1.0 -v0.1.5 
+    Neovim: +nightly -v0.1.5 
 
 |if_ruby.txt|
 
@@ -38771,7 +38787,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |meta|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |min()|
@@ -48509,6 +48525,10 @@ A listing of helptags with the versions they became available or were removed.
 |ui-popupmenu|
 
     Neovim: +v0.2.1 
+
+|ui-rgb|
+
+    Neovim: +nightly 
 
 |ui-tabline|
 
