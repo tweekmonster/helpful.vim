@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2018-08-26 16:00:54 UTC
+*helpful-version.txt*  Generated: 2018-08-28 22:00:54 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -31999,6 +31999,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.3.313 
 
+|ft-r-syntax|
+
+       Vim: +v8.1.0332 
+
 |ft-readline-syntax|
 
     Neovim: +v0.1.0 
@@ -32008,6 +32012,22 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0139 
+
+|ft-rmd-plugin|
+
+       Vim: +v8.1.0332 
+
+|ft-rmd-syntax|
+
+       Vim: +v8.1.0332 
+
+|ft-rrst-plugin|
+
+       Vim: +v8.1.0332 
+
+|ft-rrst-syntax|
+
+       Vim: +v8.1.0332 
 
 |ft-rst-syntax|
 
@@ -43391,6 +43411,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|r.vim|
+
+       Vim: +v8.1.0332 
+
 |range()|
 
     Neovim: +v0.1.0 
@@ -43787,6 +43811,10 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v7.0001 -v7.3.187 
 
+|rmd.vim|
+
+       Vim: +v8.1.0332 
+
 |rot13|
 
     Neovim: +v0.1.0 
@@ -43840,6 +43868,10 @@ A listing of helptags with the versions they became available or were removed.
 |rpcstop()|
 
     Neovim: +v0.1.0 
+
+|rrst.vim|
+
+       Vim: +v8.1.0332 
 
 |rst.vim|
 
