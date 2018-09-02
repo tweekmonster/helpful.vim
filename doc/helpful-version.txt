@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2018-08-28 22:00:54 UTC
+*helpful-version.txt*  Generated: 2018-09-02 22:00:52 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -46117,6 +46117,10 @@ A listing of helptags with the versions they became available or were removed.
 |swapfile-changed|
 
        Vim: +v7.0001 
+
+|swapinfo()|
+
+       Vim: +dev 
 
 |swapname-variable|
 
