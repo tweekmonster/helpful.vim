@@ -5708,6 +5708,7 @@ channel-introneovim:untagged-5db8b7983275b2607350,
 channel-linesneovim:untagged-5db8b7983275b2607350,
 channel-modevim:v7.4.1191,
 channel-morevim:v7.4.1325,
+channel-noblockvim:v8.1.0350,
 channel-openvim:v7.4.1191,
 channel-open-optionsvim:v7.4.1663,
 channel-ptyneovim:untagged-5db8b7983275b2607350,
@@ -7683,6 +7684,7 @@ job-in-iovim:v7.4.1325,v7.4.1560
 job-in_iovim:v7.4.1560,
 job-killonexitvim:v7.4.1325,v7.4.1382
 job-may-startvim:v7.4.1325,v7.4.1539
+job-noblockvim:v8.1.0350,
 job-optionsvim:v7.4.1325,
 job-out-cbvim:v7.4.1325,v7.4.1560
 job-out-iovim:v7.4.1325,v7.4.1560

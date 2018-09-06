@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2018-09-05 22:00:54 UTC
+*helpful-version.txt*  Generated: 2018-09-06 16:00:54 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -27777,6 +27777,10 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v7.4.1325 
 
+|channel-noblock|
+
+       Vim: +v8.1.0350 
+
 |channel-open|
 
        Vim: +v7.4.1191 
@@ -37218,6 +37222,10 @@ A listing of helptags with the versions they became available or were removed.
 |job-may-start|
 
        Vim: +v7.4.1325 -v7.4.1539 
+
+|job-noblock|
+
+       Vim: +v8.1.0350 
 
 |job-options|
 
