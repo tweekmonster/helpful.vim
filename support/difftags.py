@@ -120,6 +120,8 @@ def repo_tags(path):
         tag_date = date.fromtimestamp(int(timestamp))
         tag, ref = parts[-2:]
         tag = tag.split('/')[-1]
+        if tag.startswith('untagged-'):
+            continue
         tags.append((tag, ref, tag_date))
     tags.append(('dev', last, None))
     tags.append(('dev', 'HEAD', None))
