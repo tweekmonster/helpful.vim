@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2018-10-02 10:00:55 UTC
+*helpful-version.txt*  Generated: 2018-10-02 16:00:57 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -14425,15 +14425,51 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|:s_#|
+
+       Vim: +v8.1.0444 
+
+|:s_I|
+
+       Vim: +v8.1.0444 
+
 |:s_c|
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|:s_e|
+
+       Vim: +v8.1.0444 
+
 |:s_flags|
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|:s_g|
+
+       Vim: +v8.1.0444 
+
+|:s_i|
+
+       Vim: +v8.1.0444 
+
+|:s_l|
+
+       Vim: +v8.1.0444 
+
+|:s_n|
+
+       Vim: +v8.1.0444 
+
+|:s_p|
+
+       Vim: +v8.1.0444 
+
+|:s_r|
+
+       Vim: +v8.1.0444 
 
 |:sa|
 
@@ -18589,6 +18625,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|Cfilter|
+
+       Vim: +v8.1.0444 
 
 |ChanInfo|
 
@@ -23812,6 +23852,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|Lfilter|
+
+       Vim: +v8.1.0444 
 
 |Linux-backspace|
 
