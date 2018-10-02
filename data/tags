@@ -10161,10 +10161,12 @@ ui-gridneovim:v0.2.1,nightly
 ui-grid-oldneovim:nightly,
 ui-hlstateneovim:nightly,
 ui-introneovim:v0.2.1,v0.3.0
-ui-newgridneovim:nightly,
+ui-linegridneovim:dev,
+ui-newgridneovim:nightly,dev
 ui-optionsneovim:v0.2.1,
 ui-popupmenuneovim:v0.2.1,
 ui-rgbneovim:nightly,
+ui-startupneovim:dev,
 ui-tablineneovim:v0.2.1,
 ui-wildmenuneovim:v0.2.1,
 ui.txtneovim:v0.2.1,
