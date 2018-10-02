@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2018-10-02 16:00:57 UTC
+*helpful-version.txt*  Generated: 2018-10-02 22:00:55 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -48655,11 +48655,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |ui-linegrid|
 
-    Neovim: +dev 
-
-|ui-newgrid|
-
-    Neovim: +nightly -dev 
+    Neovim: +nightly 
 
 |ui-options|
 
@@ -48675,7 +48671,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |ui-startup|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |ui-tabline|
 
