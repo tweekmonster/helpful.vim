@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2018-10-04 10:00:54 UTC
+*helpful-version.txt*  Generated: 2018-10-04 22:00:54 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -16175,12 +16175,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |:unlet-$|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.0.1832 
 
 |:unlet-environment|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.0.1832 
 
 |:unlo|
