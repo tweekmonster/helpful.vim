@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2018-10-12 16:00:54 UTC
+*helpful-version.txt*  Generated: 2018-10-12 22:00:56 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -27842,7 +27842,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |channel-id|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |channel-intro|
 
@@ -29564,7 +29564,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |design-flexible|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |design-goals|
@@ -29584,7 +29584,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |design-multi-platform|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |design-not|
@@ -30047,7 +30047,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |drag-status-line|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |dtd-syntax|
@@ -34612,7 +34612,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |gui-extras|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |gui-footer|
@@ -34661,42 +34661,42 @@ A listing of helptags with the versions they became available or were removed.
 
 |gui-mouse|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |gui-mouse-focus|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |gui-mouse-mapping|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |gui-mouse-modeless|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |gui-mouse-move|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |gui-mouse-select|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |gui-mouse-status|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |gui-mouse-various|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |gui-pty|
@@ -34718,7 +34718,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |gui-selections|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |gui-shell|
@@ -38980,7 +38980,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |modeless-selection|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |modeline|
@@ -41467,7 +41467,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |nvim_buf_set_virtual_text()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_call_atomic()|
 
@@ -43161,7 +43161,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |python2|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |python2-directory|
 
@@ -51518,7 +51518,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |xterm-clipboard|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |xterm-codes|
@@ -51537,7 +51537,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |xterm-copy-paste|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |xterm-cursor-keys|
