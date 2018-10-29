@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2018-10-19 22:00:53 UTC
+*helpful-version.txt*  Generated: 2018-10-29 22:00:56 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -6887,6 +6887,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |+vtp|
 
+    Neovim: +nightly 
        Vim: +v8.0.1545 
 
 |+wildignore|
@@ -18654,6 +18655,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |Cfilter|
 
+    Neovim: +nightly 
        Vim: +v8.1.0444 
 
 |ChanInfo|
@@ -18699,6 +18701,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |CmdlineChanged|
 
+    Neovim: +nightly 
        Vim: +v8.0.1445 
 
 |CmdlineEnter|
@@ -18728,6 +18731,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |ColorSchemePre|
 
+    Neovim: +nightly 
        Vim: +v8.0.1781 
 
 |Command-line|
@@ -23460,6 +23464,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |E949|
 
+    Neovim: +nightly 
        Vim: +v8.0.1331 
 
 |E95|
@@ -23469,16 +23474,17 @@ A listing of helptags with the versions they became available or were removed.
 
 |E950|
 
+    Neovim: +nightly 
        Vim: +v8.0.1490 
 
 |E951|
 
-    Neovim: +v0.1.2 -v0.1.7 
+    Neovim: +nightly -v0.1.7 
        Vim: +v8.0.1490 
 
 |E952|
 
-    Neovim: +v0.1.2 -v0.1.7 
+    Neovim: +nightly -v0.1.7 
        Vim: +v8.0.1490 
 
 |E953|
@@ -23496,6 +23502,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |E956|
 
+    Neovim: +nightly 
        Vim: +v8.1.0201 
 
 |E957|
@@ -23881,6 +23888,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |Lfilter|
 
+    Neovim: +nightly 
        Vim: +v8.1.0444 
 
 |Linux-backspace|
@@ -24200,6 +24208,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |PHP_noArrowMatching|
 
+    Neovim: +nightly 
        Vim: +v8.1.0021 
 
 |PHP_outdentSLComments|
@@ -27622,6 +27631,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |cfilter-plugin|
 
+    Neovim: +nightly 
        Vim: +v8.1.0311 
 
 |ch-syntax|
@@ -31530,6 +31540,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |format-formatexpr|
 
+    Neovim: +nightly 
        Vim: +v8.0.1827 
 
 |formatting|
@@ -32283,6 +32294,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |ft-vim-plugin|
 
+    Neovim: +nightly 
        Vim: +v8.0.1401 
 
 |ft-vim-syntax|
@@ -32322,6 +32334,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |ft-zimbu-plugin|
 
+    Neovim: +nightly 
        Vim: +v8.0.1401 
 
 |ft-zsh-syntax|
@@ -34247,6 +34260,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |getqflist-examples|
 
+    Neovim: +nightly 
        Vim: +v8.0.1781 
 
 |getreg()|
@@ -35825,10 +35839,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |hl-StatusLineTerm|
 
+    Neovim: +nightly 
        Vim: +v8.0.1437 
 
 |hl-StatusLineTermNC|
 
+    Neovim: +nightly 
        Vim: +v8.0.1437 
 
 |hl-Substitute|
@@ -43284,10 +43300,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |quickfix-changedtick|
 
+    Neovim: +nightly 
        Vim: +v8.0.1406 
 
 |quickfix-context|
 
+    Neovim: +nightly 
        Vim: +v8.0.1384 
 
 |quickfix-directory-stack|
@@ -43316,6 +43334,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |quickfix-parse|
 
+    Neovim: +nightly 
        Vim: +v8.0.1384 
 
 |quickfix-perl|
@@ -43325,10 +43344,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |quickfix-size|
 
+    Neovim: +nightly 
        Vim: +v8.0.1384 
 
 |quickfix-title|
 
+    Neovim: +nightly 
        Vim: +v8.0.1384 
 
 |quickfix-valid|
@@ -43343,6 +43364,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |quickfix-window-ID|
 
+    Neovim: +nightly 
        Vim: +v8.0.1384 
 
 |quickfix.txt|
@@ -44679,6 +44701,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |setqflist-examples|
 
+    Neovim: +nightly 
        Vim: +v8.0.1781 
 
 |setreg()|
@@ -52038,6 +52061,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |{bufname}|
 
+    Neovim: +nightly 
        Vim: +v8.0.1781 
 
 |{char1-char2}|
