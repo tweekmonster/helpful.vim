@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2018-10-29 22:00:56 UTC
+*helpful-version.txt*  Generated: 2018-10-30 04:00:54 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -14428,10 +14428,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |:s_#|
 
+    Neovim: +dev 
        Vim: +v8.1.0444 
 
 |:s_I|
 
+    Neovim: +dev 
        Vim: +v8.1.0444 
 
 |:s_c|
@@ -14441,6 +14443,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |:s_e|
 
+    Neovim: +dev 
        Vim: +v8.1.0444 
 
 |:s_flags|
@@ -14450,26 +14453,32 @@ A listing of helptags with the versions they became available or were removed.
 
 |:s_g|
 
+    Neovim: +dev 
        Vim: +v8.1.0444 
 
 |:s_i|
 
+    Neovim: +dev 
        Vim: +v8.1.0444 
 
 |:s_l|
 
+    Neovim: +dev 
        Vim: +v8.1.0444 
 
 |:s_n|
 
+    Neovim: +dev 
        Vim: +v8.1.0444 
 
 |:s_p|
 
+    Neovim: +dev 
        Vim: +v8.1.0444 
 
 |:s_r|
 
+    Neovim: +dev 
        Vim: +v8.1.0444 
 
 |:sa|
@@ -32125,6 +32134,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |ft-r-syntax|
 
+    Neovim: +dev 
        Vim: +v8.1.0332 
 
 |ft-readline-syntax|
@@ -32139,18 +32149,22 @@ A listing of helptags with the versions they became available or were removed.
 
 |ft-rmd-plugin|
 
+    Neovim: +dev 
        Vim: +v8.1.0332 
 
 |ft-rmd-syntax|
 
+    Neovim: +dev 
        Vim: +v8.1.0332 
 
 |ft-rrst-plugin|
 
+    Neovim: +dev 
        Vim: +v8.1.0332 
 
 |ft-rrst-syntax|
 
+    Neovim: +dev 
        Vim: +v8.1.0332 
 
 |ft-rst-syntax|
@@ -43564,6 +43578,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |r.vim|
 
+    Neovim: +dev 
        Vim: +v8.1.0332 
 
 |range()|
@@ -43964,6 +43979,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |rmd.vim|
 
+    Neovim: +dev 
        Vim: +v8.1.0332 
 
 |rot13|
@@ -44022,6 +44038,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |rrst.vim|
 
+    Neovim: +dev 
        Vim: +v8.1.0332 
 
 |rst.vim|
