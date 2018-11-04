@@ -7187,7 +7187,7 @@ gui_x11.txtvim:v7.0001,
 guifontwide_gtkvim:v8.0.0337,
 guifontwide_gtk2neovim:v0.1.0,v0.1.2vim:v7.0001,v8.0.0337
 guifontwide_win_mbyteneovim:v0.1.0,vim:v7.3.782,
-guioptions_aneovim:v0.1.0,vim:v7.0001,
+guioptions_aneovim:v0.1.0,vim:v7.0001,dev
 guuneovim:v0.1.0,vim:v7.0001,
 gvneovim:v0.1.0,vim:v7.0001,
 gviewvim:v7.0001,
