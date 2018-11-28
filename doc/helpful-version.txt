@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2018-11-25 05:00:54 UTC
+*helpful-version.txt*  Generated: 2018-11-28 05:00:57 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -29675,7 +29675,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |dev-jargon|
 
-    Neovim: +v0.1.5 
+    Neovim: +v0.1.5 -dev 
 
 |dev-provider|
 
@@ -37254,6 +37254,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|jargon|
+
+    Neovim: +dev 
+
 |java-cinoptions|
 
     Neovim: +v0.1.0 
@@ -41559,6 +41563,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.2.0 
 
+|nvim_create_namespace()|
+
+    Neovim: +dev 
+
 |nvim_del_current_line()|
 
     Neovim: +v0.2.0 
@@ -41642,6 +41650,10 @@ A listing of helptags with the versions they became available or were removed.
 |nvim_get_mode()|
 
     Neovim: +v0.2.0 
+
+|nvim_get_namespaces()|
+
+    Neovim: +dev 
 
 |nvim_get_option()|
 
@@ -41846,6 +41858,10 @@ A listing of helptags with the versions they became available or were removed.
 |nvim_win_is_valid()|
 
     Neovim: +v0.2.0 
+
+|nvim_win_set_buf()|
+
+    Neovim: +dev 
 
 |nvim_win_set_cursor()|
 
