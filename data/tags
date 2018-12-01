@@ -2994,7 +2994,7 @@ $XDG_DATA_HOMEneovim:v0.1.5,
 :scpneovim:v0.1.5,vim:v7.4.902,
 :scrneovim:v0.1.0,vim:v7.4.567,
 :scripvim:v7.0001,v7.4.567
-:scriptvim:v8.1.0553,
+:scriptneovim:dev,vim:v8.1.0553,
 :scripteneovim:v0.1.0,vim:v7.0001,
 :scriptencodingneovim:v0.1.0,vim:v7.0001,
 :scriptnamesneovim:v0.1.0,vim:v7.0001,
