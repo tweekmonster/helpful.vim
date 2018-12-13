@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2018-12-10 23:00:57 UTC
+*helpful-version.txt*  Generated: 2018-12-13 23:00:58 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -23550,10 +23550,42 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v8.1.0576 
 
+|E964|
+
+       Vim: +v8.1.0579 
+
+|E965|
+
+       Vim: +v8.1.0579 
+
+|E966|
+
+       Vim: +v8.1.0579 
+
+|E967|
+
+       Vim: +v8.1.0579 
+
+|E968|
+
+       Vim: +v8.1.0579 
+
+|E969|
+
+       Vim: +v8.1.0579 
+
 |E97|
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|E970|
+
+       Vim: +v8.1.0579 
+
+|E971|
+
+       Vim: +v8.1.0579 
 
 |E98|
 
@@ -42988,6 +43020,46 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.2.328 
 
+|prop_add()|
+
+       Vim: +v8.1.0579 
+
+|prop_clear()|
+
+       Vim: +v8.1.0579 
+
+|prop_find()|
+
+       Vim: +v8.1.0579 
+
+|prop_list()|
+
+       Vim: +v8.1.0579 
+
+|prop_remove()|
+
+       Vim: +v8.1.0579 
+
+|prop_type_add()|
+
+       Vim: +v8.1.0579 
+
+|prop_type_change()|
+
+       Vim: +v8.1.0579 
+
+|prop_type_delete()|
+
+       Vim: +v8.1.0579 
+
+|prop_type_get()|
+
+       Vim: +v8.1.0579 
+
+|prop_type_list()|
+
+       Vim: +v8.1.0579 
+
 |provider|
 
     Neovim: +v0.1.5 
@@ -48483,10 +48555,26 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v7.0001 
 
+|text-prop-functions|
+
+       Vim: +v8.1.0579 
+
+|text-prop-intro|
+
+       Vim: +v8.1.0579 
+
+|text-properties|
+
+       Vim: +v8.1.0579 
+
 |textlock|
 
     Neovim: +v0.1.0 
        Vim: +v7.0183 
+
+|textprop.txt|
+
+       Vim: +v8.1.0579 
 
 |tf-syntax|
 
