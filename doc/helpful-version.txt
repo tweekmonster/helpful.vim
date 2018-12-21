@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2018-12-21 11:00:59 UTC
+*helpful-version.txt*  Generated: 2018-12-21 17:01:01 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -45109,10 +45109,22 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|sign-functions|
+
+       Vim: +v8.1.0614 
+
+|sign-group|
+
+       Vim: +v8.1.0614 
+
 |sign-intro|
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|sign-priority|
+
+       Vim: +v8.1.0614 
 
 |sign-support|
 
@@ -45123,6 +45135,30 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|sign_define()|
+
+       Vim: +v8.1.0614 
+
+|sign_getdefined()|
+
+       Vim: +v8.1.0614 
+
+|sign_getplaced()|
+
+       Vim: +v8.1.0614 
+
+|sign_place()|
+
+       Vim: +v8.1.0614 
+
+|sign_undefine()|
+
+       Vim: +v8.1.0614 
+
+|sign_unplace()|
+
+       Vim: +v8.1.0614 
 
 |signs|
 
