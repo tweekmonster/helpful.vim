@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2018-12-21 17:01:01 UTC
+*helpful-version.txt*  Generated: 2018-12-27 23:00:57 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -9757,6 +9757,10 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v8.0.1725 
 
+|:Cfilter|
+
+       Vim: +dev 
+
 |:CheckHealth|
 
     Neovim: +v0.1.5 
@@ -9851,6 +9855,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.4.156 
+
+|:Lfilter|
+
+       Vim: +dev 
 
 |:LogiPat|
 
@@ -18674,7 +18682,7 @@ A listing of helptags with the versions they became available or were removed.
 |Cfilter|
 
     Neovim: +nightly 
-       Vim: +v8.1.0444 
+       Vim: +v8.1.0444 -dev 
 
 |ChanInfo|
 
@@ -23949,7 +23957,7 @@ A listing of helptags with the versions they became available or were removed.
 |Lfilter|
 
     Neovim: +nightly 
-       Vim: +v8.1.0444 
+       Vim: +v8.1.0444 -dev 
 
 |Linux-backspace|
 
@@ -31577,6 +31585,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|forced-motion|
+
+       Vim: +dev 
 
 |foreground()|
 
