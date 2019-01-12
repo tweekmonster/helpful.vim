@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2019-01-12 17:00:56 UTC
+*helpful-version.txt*  Generated: 2019-01-12 23:00:56 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -17985,6 +17985,10 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v7.0001 
 
+|Blob|
+
+       Vim: +v8.1.0735 
+
 |Bram|
 
     Neovim: +v0.1.0 
@@ -23613,6 +23617,30 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v8.1.0579 
 
+|E973|
+
+       Vim: +v8.1.0735 
+
+|E974|
+
+       Vim: +v8.1.0735 
+
+|E975|
+
+       Vim: +v8.1.0735 
+
+|E976|
+
+       Vim: +v8.1.0735 
+
+|E977|
+
+       Vim: +v8.1.0735 
+
+|E978|
+
+       Vim: +v8.1.0735 
+
 |E98|
 
     Neovim: +v0.1.0 
@@ -26894,6 +26922,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.3.388 
 
+|blob-literal|
+
+       Vim: +v8.1.0735 
+
 |blockwise-examples|
 
     Neovim: +v0.1.0 
@@ -27790,6 +27822,10 @@ A listing of helptags with the versions they became available or were removed.
 |ch_read()|
 
        Vim: +v7.4.1382 
+
+|ch_readblob()|
+
+       Vim: +v8.1.0735 
 
 |ch_readraw()|
 
@@ -42491,6 +42527,10 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v7.0001 
 
+|perl-Blob|
+
+       Vim: +v8.1.0735 
+
 |perl-Buffer|
 
        Vim: +v7.0001 
@@ -44243,6 +44283,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.5 
        Vim: +v7.0001 
+
+|ruby-blob|
+
+       Vim: +v8.1.0735 
 
 |ruby-buffer|
 
@@ -47095,6 +47139,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 -v0.2.0 
        Vim: +v7.0001 
 
+|t_blob-variable|
+
+       Vim: +v8.1.0735 
+
 |t_bool-variable|
 
     Neovim: +v0.2.0 
@@ -49728,6 +49776,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.2.0 
        Vim: +v7.4.2071 
+
+|v:t_blob|
+
+       Vim: +v8.1.0735 
 
 |v:t_bool|
 
