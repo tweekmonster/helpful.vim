@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2019-01-12 23:00:56 UTC
+*helpful-version.txt*  Generated: 2019-01-13 17:00:58 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -4007,12 +4007,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |'pyx'|
 
-    Neovim: +nightly 
+    Neovim: +dev -v0.3.4 
        Vim: +v8.0.0251 
 
 |'pyxversion'|
 
-    Neovim: +nightly 
+    Neovim: +dev -v0.3.4 
        Vim: +v8.0.0251 
 
 |'qe'|
@@ -14096,22 +14096,22 @@ A listing of helptags with the versions they became available or were removed.
 
 |:pythonx|
 
-    Neovim: +nightly 
+    Neovim: +dev -v0.3.4 
        Vim: +v8.0.0251 
 
 |:pyx|
 
-    Neovim: +nightly 
+    Neovim: +dev -v0.3.4 
        Vim: +v8.0.0251 
 
 |:pyxdo|
 
-    Neovim: +nightly 
+    Neovim: +dev -v0.3.4 
        Vim: +v8.0.0251 
 
 |:pyxfile|
 
-    Neovim: +nightly 
+    Neovim: +dev -v0.3.4 
        Vim: +v8.0.0251 
 
 |:q|
@@ -25107,12 +25107,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |W20|
 
-    Neovim: +nightly 
+    Neovim: +dev -v0.3.4 
        Vim: +v8.0.0251 
 
 |W21|
 
-    Neovim: +nightly 
+    Neovim: +dev -v0.3.4 
        Vim: +v8.0.0251 
 
 |W22|
@@ -35176,7 +35176,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |has-pythonx|
 
-    Neovim: +nightly 
+    Neovim: +dev -v0.3.4 
        Vim: +v8.0.0251 
 
 |has_key()|
@@ -43454,17 +43454,17 @@ A listing of helptags with the versions they became available or were removed.
 
 |python_x|
 
-    Neovim: +nightly 
+    Neovim: +dev -v0.3.4 
        Vim: +v8.0.0251 
 
 |python_x-special-comments|
 
-    Neovim: +nightly 
+    Neovim: +dev -v0.3.4 
        Vim: +v8.0.0251 
 
 |pythonx|
 
-    Neovim: +nightly 
+    Neovim: +dev -v0.3.4 
        Vim: +v8.0.0251 
 
 |pythonx-directory|
@@ -43474,7 +43474,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |pyxeval()|
 
-    Neovim: +nightly 
+    Neovim: +dev -v0.3.4 
        Vim: +v8.0.0251 
 
 |q|
@@ -48556,6 +48556,10 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v8.0.0392 
 
+|test_null_blob()|
+
+       Vim: +v8.1.0736 
+
 |test_null_channel()|
 
        Vim: +v7.4.1838 
@@ -49045,7 +49049,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |ui-multigrid|
 
-    Neovim: +nightly 
+    Neovim: +dev -v0.3.4 
 
 |ui-options|
 
