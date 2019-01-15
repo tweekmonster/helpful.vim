@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2019-01-14 23:01:00 UTC
+*helpful-version.txt*  Generated: 2019-01-15 23:01:00 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -17989,6 +17989,10 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v8.1.0735 
 
+|Blobs|
+
+       Vim: +v8.1.0757 
+
 |Bram|
 
     Neovim: +v0.1.0 
@@ -18864,6 +18868,7 @@ A listing of helptags with the versions they became available or were removed.
 |Dict|
 
     Neovim: +v0.1.0 
+       Vim: +v8.1.0757 
 
 |Dictionaries|
 
@@ -23617,6 +23622,10 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v8.1.0579 
 
+|E972|
+
+       Vim: +v8.1.0757 
+
 |E973|
 
        Vim: +v8.1.0735 
@@ -23640,6 +23649,10 @@ A listing of helptags with the versions they became available or were removed.
 |E978|
 
        Vim: +v8.1.0735 
+
+|E979|
+
+       Vim: +v8.1.0757 
 
 |E98|
 
@@ -26922,9 +26935,25 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.3.388 
 
+|blob|
+
+       Vim: +v8.1.0757 
+
+|blob-identity|
+
+       Vim: +v8.1.0757 
+
+|blob-index|
+
+       Vim: +v8.1.0757 
+
 |blob-literal|
 
        Vim: +v8.1.0735 
+
+|blob-modification|
+
+       Vim: +v8.1.0757 
 
 |blockwise-examples|
 
