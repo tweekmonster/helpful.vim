@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2019-01-15 23:01:00 UTC
+*helpful-version.txt*  Generated: 2019-01-17 17:01:00 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -11214,6 +11214,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|:cprev|
+
+       Vim: +v8.1.0764 
+
 |:cprevious|
 
     Neovim: +v0.1.0 
@@ -12966,6 +12970,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0187 
+
+|:lprev|
+
+       Vim: +v8.1.0764 
 
 |:lprevious|
 
@@ -16660,7 +16668,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |:ws|
 
-       Vim: +v7.0001 
+       Vim: +v7.0001 -v8.1.0763 
 
 |:wsh|
 
@@ -16672,7 +16680,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |:wsverb|
 
-       Vim: +v7.0001 
+       Vim: +v7.0001 -v8.1.0763 
 
 |:wundo|
 
@@ -17992,6 +18000,10 @@ A listing of helptags with the versions they became available or were removed.
 |Blobs|
 
        Vim: +v8.1.0757 
+
+|Boolean|
+
+       Vim: +v8.1.0764 
 
 |Bram|
 
@@ -24168,17 +24180,29 @@ A listing of helptags with the versions they became available or were removed.
 
 |NeoVim|
 
-       Vim: +v8.1.0675 
+       Vim: +v8.1.0675 -v8.1.0764 
+
+|Neovim|
+
+       Vim: +v8.1.0764 
 
 |NetBSD-backspace|
 
     Neovim: +v0.1.0 -v0.2.0 
        Vim: +v7.0001 
 
+|NetBeans|
+
+       Vim: +v8.1.0763 
+
 |NetUserPass()|
 
     Neovim: +v0.1.0 
        Vim: +v7.2.434 
+
+|None|
+
+       Vim: +v8.1.0764 
 
 |Normal|
 
@@ -39766,6 +39790,10 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v7.0001 
 
+|netbeans-xpm|
+
+       Vim: +v8.1.0763 
+
 |netbeans.txt|
 
        Vim: +v7.0001 
@@ -45230,6 +45258,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|sign-column|
+
+       Vim: +v8.1.0764 
+
 |sign-commands|
 
     Neovim: +v0.1.0 
@@ -48741,6 +48773,10 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v7.0001 
 
+|text-prop-changes|
+
+       Vim: +v8.1.0764 
+
 |text-prop-functions|
 
        Vim: +v8.1.0579 
@@ -51725,19 +51761,19 @@ A listing of helptags with the versions they became available or were removed.
 
 |workshop-commands|
 
-       Vim: +v7.0001 
+       Vim: +v7.0001 -v8.1.0763 
 
 |workshop-compiling|
 
-       Vim: +v7.0001 
+       Vim: +v7.0001 -v8.1.0763 
 
 |workshop-configure|
 
-       Vim: +v7.0001 
+       Vim: +v7.0001 -v8.1.0763 
 
 |workshop-intro|
 
-       Vim: +v7.0001 
+       Vim: +v7.0001 -v8.1.0763 
 
 |workshop-support|
 
@@ -51745,7 +51781,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |workshop-xpm|
 
-       Vim: +v7.0001 
+       Vim: +v7.0001 -v8.1.0763 
 
 |workshop.txt|
 
