@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2019-01-26 17:01:02 UTC
+*helpful-version.txt*  Generated: 2019-01-26 23:01:01 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -29285,7 +29285,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |cs7-problem|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |cscope|
@@ -29852,6 +29852,10 @@ A listing of helptags with the versions they became available or were removed.
 |dev-doc|
 
     Neovim: +v0.2.1 
+
+|dev-guidelines|
+
+    Neovim: +dev 
 
 |dev-help|
 
@@ -38383,6 +38387,10 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v7.3.1201 
 
+|lua-intro|
+
+    Neovim: +dev 
+
 |lua-list|
 
        Vim: +v7.3.490 
@@ -38403,6 +38411,10 @@ A listing of helptags with the versions they became available or were removed.
 |lua-special-tbl|
 
     Neovim: +v0.2.1 
+
+|lua-stdlib|
+
+    Neovim: +dev 
 
 |lua-syntax|
 
@@ -41884,6 +41896,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.2.0 
 
+|nvim_input_mouse()|
+
+    Neovim: +dev 
+
 |nvim_list_bufs()|
 
     Neovim: +v0.2.0 
@@ -41928,6 +41944,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.2.0 
 
+|nvim_select_popupmenu_item()|
+
+    Neovim: +dev 
+
 |nvim_set_client_info()|
 
     Neovim: +v0.3.0 
@@ -41959,6 +41979,10 @@ A listing of helptags with the versions they became available or were removed.
 |nvim_set_var()|
 
     Neovim: +v0.2.0 
+
+|nvim_set_vvar()|
+
+    Neovim: +dev 
 
 |nvim_strwidth()|
 
@@ -42015,6 +42039,10 @@ A listing of helptags with the versions they became available or were removed.
 |nvim_ui_try_resize()|
 
     Neovim: +v0.2.0 
+
+|nvim_ui_try_resize_grid()|
+
+    Neovim: +dev 
 
 |nvim_unsubscribe()|
 
@@ -43288,7 +43316,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |python-.locked|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.3.1061 
 
 |python-2-and-3|
@@ -43297,7 +43325,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |python-Dictionary|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.3.1061 
 
 |python-Function|
@@ -43307,7 +43335,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |python-List|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.3.1061 
 
 |python-VIM_SPECIAL_PATH|
@@ -43327,7 +43355,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |python-bindeval-objects|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.3.1061 
 
 |python-buffer|
@@ -49014,6 +49042,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.2.1 
 
+|tui-cursor-tmux|
+
+    Neovim: +dev 
+
 |tutor|
 
     Neovim: +v0.1.0 
@@ -51294,7 +51326,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vt100-cursor-keys|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |vt100-function-keys|
@@ -52023,7 +52055,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |xterm-cursor-keys|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |xterm-end-home-keys|
