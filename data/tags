@@ -9498,6 +9498,7 @@ spell-CHECKCOMPOUNDDUPneovim:v0.1.0,vim:v7.0179,
 spell-CHECKCOMPOUNDPATTERNneovim:v0.1.0,vim:v7.0179,
 spell-CHECKCOMPOUNDREPneovim:v0.1.0,vim:v7.0179,
 spell-CHECKCOMPOUNDTRIPLEneovim:v0.1.0,vim:v7.0179,
+spell-CHECKSHARPSvim:v8.1.0828,
 spell-CIRCUMFIXneovim:v0.1.0,vim:v7.0179,
 spell-CMPvim:v7.0130,v7.0211
 spell-COMMONneovim:v0.1.0,vim:v7.0179,
@@ -9509,6 +9510,7 @@ spell-COMPOUNDFIRSTneovim:v0.1.0,vim:v7.0b02,
 spell-COMPOUNDFLAGneovim:v0.1.0,vim:v7.0130,
 spell-COMPOUNDFLAGSvim:v7.0130,v7.0216
 spell-COMPOUNDFORBIDFLAGneovim:v0.1.0,vim:v7.0179,
+spell-COMPOUNDLASTvim:v8.1.0828,
 spell-COMPOUNDMAXvim:v7.0132,v7.0b02
 spell-COMPOUNDMIDDLEneovim:v0.1.0,vim:v7.0179,
 spell-COMPOUNDMINneovim:v0.1.0,vim:v7.0130,
