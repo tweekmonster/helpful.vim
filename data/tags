@@ -5376,6 +5376,7 @@ api-globalneovim:v0.2.0,
 api-global-eventsneovim:v0.3.2,
 api-highlightsneovim:v0.1.5,
 api-introneovim:v0.1.5,v0.2.0
+api-levelneovim:dev,
 api-metadataneovim:v0.1.5,
 api-tabpageneovim:v0.2.0,
 api-typesneovim:v0.1.5,
