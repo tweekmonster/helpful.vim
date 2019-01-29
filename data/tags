@@ -7839,7 +7839,7 @@ lambdaneovim:v0.2.0,vim:v7.4.2044,
 lang-variableneovim:v0.1.0,vim:v7.0001,
 language-mappingneovim:v0.1.0,vim:v7.0001,
 last-patternneovim:v0.1.0,vim:v7.0001,
-last-position-jumpneovim:v0.1.0,vim:v7.0001,
+last-position-jumpneovim:v0.1.0,vim:v7.0001,v8.1.0846
 last_buffer_nr()neovim:v0.1.0,vim:v7.0001,
 latex-syntaxneovim:v0.1.0,vim:v7.3.1241,
 lc_time-variableneovim:v0.1.0,vim:v7.0001,
