@@ -1123,11 +1123,12 @@ $XDG_DATA_HOMEneovim:v0.1.5,
 'termguicolors'neovim:v0.1.5,vim:v7.4.1799,
 'terminalscroll'vim:v8.0.1712,v8.0.1740
 'termkey'vim:v8.0.0712,v8.0.1740
-'termmode'vim:v8.1.0870,
+'termmode'vim:v8.1.0870,v8.1.0880
 'termsize'vim:v8.0.0761,v8.0.1740
 'termwinkey'vim:v8.0.1740,
 'termwinscroll'vim:v8.0.1740,
 'termwinsize'vim:v8.0.1740,
+'termwintype'vim:v8.1.0880,
 'terse'neovim:v0.1.0,vim:v7.0001,
 'textauto'vim:v7.0001,
 'textmode'vim:v7.0001,
@@ -1147,7 +1148,7 @@ $XDG_DATA_HOMEneovim:v0.1.5,
 'tl'neovim:v0.1.0,vim:v7.0001,
 'tlsl'vim:v8.0.1712,v8.0.1740
 'tm'neovim:v0.1.0,vim:v7.0001,
-'tmod'vim:v8.1.0870,
+'tmod'vim:v8.1.0870,v8.1.0880
 'tms'vim:v8.0.0761,v8.0.1740
 'to'neovim:v0.1.0,vim:v7.0001,
 'toolbar'neovim:v0.1.0,vim:v7.0001,
@@ -1172,6 +1173,7 @@ $XDG_DATA_HOMEneovim:v0.1.5,
 'twk'vim:v8.0.1740,
 'tws'vim:v8.0.1740,
 'twsl'vim:v8.0.1740,
+'twt'vim:v8.1.0880,
 'tx'vim:v7.0001,
 'uc'neovim:v0.1.0,vim:v7.0001,
 'udf'neovim:v0.1.0,vim:v7.3,
@@ -4850,6 +4852,7 @@ E978vim:v8.1.0735,
 E979vim:v8.1.0757,
 E98neovim:v0.1.0,vim:v7.0001,
 E980vim:v8.1.0815,
+E981vim:v8.1.0881,
 E99neovim:v0.1.0,vim:v7.0001,
 EXneovim:v0.1.0,vim:v7.0001,
 EXINITneovim:v0.1.0,vim:v7.0001,

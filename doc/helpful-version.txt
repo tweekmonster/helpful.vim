@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2019-02-07 23:01:01 UTC
+*helpful-version.txt*  Generated: 2019-02-08 17:01:01 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -5522,7 +5522,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'termmode'|
 
-       Vim: +v8.1.0870 
+       Vim: +v8.1.0870 -v8.1.0880 
 
 |'termsize'|
 
@@ -5539,6 +5539,10 @@ A listing of helptags with the versions they became available or were removed.
 |'termwinsize'|
 
        Vim: +v8.0.1740 
+
+|'termwintype'|
+
+       Vim: +v8.1.0880 
 
 |'terse'|
 
@@ -5633,7 +5637,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'tmod'|
 
-       Vim: +v8.1.0870 
+       Vim: +v8.1.0870 -v8.1.0880 
 
 |'tms'|
 
@@ -5750,6 +5754,10 @@ A listing of helptags with the versions they became available or were removed.
 |'twsl'|
 
        Vim: +v8.0.1740 
+
+|'twt'|
+
+       Vim: +v8.1.0880 
 
 |'tx'|
 
@@ -23698,6 +23706,10 @@ A listing of helptags with the versions they became available or were removed.
 |E980|
 
        Vim: +v8.1.0815 
+
+|E981|
+
+       Vim: +v8.1.0881 
 
 |E99|
 
