@@ -10298,6 +10298,7 @@ ui-grid-oldneovim:v0.3.2,
 ui-hlstateneovim:v0.3.2,
 ui-introneovim:v0.2.1,v0.3.0
 ui-linegridneovim:v0.3.2,
+ui-messagesneovim:dev,
 ui-multigridneovim:nightly,
 ui-optionsneovim:v0.2.1,
 ui-popupmenuneovim:v0.2.1,
