@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2019-02-12 23:01:03 UTC
+*helpful-version.txt*  Generated: 2019-02-16 17:00:59 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -23723,6 +23723,10 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v8.1.0881 
 
+|E982|
+
+       Vim: +v8.1.0929 
+
 |E99|
 
     Neovim: +v0.1.0 
@@ -31294,7 +31298,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |farsi-fonts|
 
-       Vim: +v7.4.862 
+       Vim: +v7.4.862 -v8.1.0932 
 
 |farsi.txt|
 
