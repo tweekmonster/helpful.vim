@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2019-02-17 11:01:00 UTC
+*helpful-version.txt*  Generated: 2019-02-17 23:01:03 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -231,7 +231,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'akm'|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |'al'|
@@ -251,7 +251,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'altkeymap'|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |'ambiwidth'|
@@ -1314,12 +1314,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |'fk'|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |'fkmap'|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |'fl'|
@@ -2469,7 +2469,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'noakm'|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |'noallowrevins'|
@@ -2479,7 +2479,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'noaltkeymap'|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |'noanti'|
@@ -2878,12 +2878,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |'nofk'|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |'nofkmap'|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |'nofoldenable'|
@@ -6452,7 +6452,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |+farsi|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |+feature-list|
@@ -7187,7 +7187,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |-F|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |-H|
@@ -19501,7 +19501,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |E198|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |E199|
@@ -23794,7 +23794,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |Farsi|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |FileAppendCmd|
@@ -31293,7 +31293,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |farsi|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |farsi-fonts|
@@ -31302,7 +31302,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |farsi.txt|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |fasm.vim|
@@ -32438,6 +32438,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.3.2 
        Vim: +v8.1.0332 
+
+|ft-rst-plugin|
+
+       Vim: +v8.1.0946 
 
 |ft-rst-syntax|
 
@@ -44788,7 +44792,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |scratch-buffer|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |screenattr()|
 
