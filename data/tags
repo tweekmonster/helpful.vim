@@ -6863,6 +6863,7 @@ g:loaded_node_providerneovim:v0.3.0,
 g:loaded_python3_providerneovim:v0.1.0,
 g:loaded_python_providerneovim:v0.1.0,
 g:loaded_ruby_providerneovim:v0.1.5,
+g:man_hardwrapneovim:dev,
 g:netrw-avim:v7.0150,v7.0151
 g:netrw_avim:v7.0007,v7.0015
 g:netrw_altfileneovim:v0.1.0,vim:v7.4.156,

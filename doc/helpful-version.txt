@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2019-02-17 23:01:03 UTC
+*helpful-version.txt*  Generated: 2019-02-21 05:00:55 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -33315,6 +33315,10 @@ A listing of helptags with the versions they became available or were removed.
 |g:loaded_ruby_provider|
 
     Neovim: +v0.1.5 
+
+|g:man_hardwrap|
+
+    Neovim: +dev 
 
 |g:netrw-a|
 
