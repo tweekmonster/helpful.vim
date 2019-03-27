@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2019-03-26 22:00:59 UTC
+*helpful-version.txt*  Generated: 2019-03-27 22:00:57 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -26650,11 +26650,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |autocmd-pattern|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |autocmd-patterns|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |autocmd-remove|
@@ -43648,7 +43648,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |python-virtualenv|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |python-vvars|
 
