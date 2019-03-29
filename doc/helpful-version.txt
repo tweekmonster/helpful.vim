@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2019-03-27 22:00:57 UTC
+*helpful-version.txt*  Generated: 2019-03-29 04:00:57 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -37931,6 +37931,26 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 -v0.2.0 
        Vim: +v7.0020 
 
+|keypad-cursor-down|
+
+    Neovim: +nightly 
+
+|keypad-cursor-left|
+
+    Neovim: +nightly 
+
+|keypad-cursor-right|
+
+    Neovim: +nightly 
+
+|keypad-cursor-up|
+
+    Neovim: +nightly 
+
+|keypad-delete|
+
+    Neovim: +nightly 
+
 |keypad-divide|
 
     Neovim: +v0.1.0 
@@ -37960,6 +37980,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|keypad-origin|
+
+    Neovim: +nightly 
 
 |keypad-page-down|
 
