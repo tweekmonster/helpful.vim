@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2019-03-31 04:00:59 UTC
+*helpful-version.txt*  Generated: 2019-03-31 22:00:58 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -18858,7 +18858,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |CompleteChanged|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |CompleteDone|
 
@@ -24194,10 +24194,6 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0112 
 
-|MenuPopupChanged|
-
-    Neovim: +nightly -dev 
-
 |MiNT|
 
        Vim: +v7.0001 
@@ -28922,12 +28918,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |complete_info()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.1.1068 
 
 |complete_info_mode|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.1.1068 
 
 |completed_item-variable|
@@ -37942,7 +37938,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |keypad-comma|
 
-    Neovim: +v0.1.0 -v0.2.0 
+    Neovim: +dev -v0.2.0 
        Vim: +v7.0020 
 
 |keypad-cursor-down|
@@ -37979,6 +37975,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|keypad-equal|
+
+    Neovim: +dev 
 
 |keypad-home|
 
