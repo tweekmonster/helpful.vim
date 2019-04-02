@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2019-03-31 22:00:58 UTC
+*helpful-version.txt*  Generated: 2019-04-02 22:00:58 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -37938,7 +37938,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |keypad-comma|
 
-    Neovim: +dev -v0.2.0 
+    Neovim: +nightly -v0.2.0 
        Vim: +v7.0020 
 
 |keypad-cursor-down|
@@ -37978,7 +37978,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |keypad-equal|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |keypad-home|
 
