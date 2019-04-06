@@ -7925,6 +7925,7 @@ list-identityneovim:v0.1.0,vim:v7.0038,
 list-indexneovim:v0.1.0,vim:v7.0029,
 list-modificationneovim:v0.1.0,vim:v7.0034,
 list-repeatneovim:v0.1.0,vim:v7.0001,
+list2str()vim:v8.1.1122,
 lite-syntaxvim:v7.0001,v7.0139
 lite.vimneovim:v0.1.0,vim:v7.0001,
 literal-stringneovim:v0.1.0,vim:v7.0001,
@@ -9746,7 +9747,7 @@ stdioopen()neovim:v0.3.0,
 stdpath()neovim:v0.3.0,
 sticky-type-checkingneovim:v0.1.0,v0.1.5vim:v7.2a,v7.4.1546
 str2float()neovim:v0.1.0,vim:v7.2a,
-str2list()vim:v7.0033,v7.0037
+str2list()vim:v8.1.1122,v7.0037
 str2nr()neovim:v0.1.0,vim:v7.0228,
 strcasestr()neovim:v0.1.0,vim:v7.0052,
 strcharpart()neovim:v0.2.0,vim:v7.4.1761,
