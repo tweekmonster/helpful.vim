@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2019-04-08 22:00:59 UTC
+*helpful-version.txt*  Generated: 2019-04-15 22:00:59 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -4260,6 +4260,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
 
+|'sdf'|
+
+    Neovim: +dev 
+
 |'sect'|
 
     Neovim: +v0.1.0 
@@ -4308,6 +4312,10 @@ A listing of helptags with the versions they became available or were removed.
 |'shada'|
 
     Neovim: +v0.1.0 
+
+|'shadafile'|
+
+    Neovim: +dev 
 
 |'shcf'|
 
@@ -5892,6 +5900,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'viminfofile'|
 
+    Neovim: +dev 
        Vim: +v8.0.0716 
 
 |'virtualedit'|
@@ -7025,6 +7034,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |--clean|
 
+    Neovim: +dev 
        Vim: +v8.0.0716 
 
 |--cmd|
