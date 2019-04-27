@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2019-04-25 22:00:57 UTC
+*helpful-version.txt*  Generated: 2019-04-27 22:00:58 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -16013,6 +16013,7 @@ A listing of helptags with the versions they became available or were removed.
 |:tcd|
 
     Neovim: +v0.1.4 
+       Vim: +v8.1.1218 
 
 |:tcd-|
 
@@ -16021,10 +16022,12 @@ A listing of helptags with the versions they became available or were removed.
 |:tch|
 
     Neovim: +v0.1.4 
+       Vim: +v8.1.1218 
 
 |:tchdir|
 
     Neovim: +v0.1.4 
+       Vim: +v8.1.1218 
 
 |:tcl|
 
