@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2019-04-30 04:00:58 UTC
+*helpful-version.txt*  Generated: 2019-04-30 22:01:01 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -23686,6 +23686,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |E962|
 
+    Neovim: +dev 
        Vim: +v8.1.0519 
 
 |E963|
@@ -34725,6 +34726,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |gettagstack()|
 
+    Neovim: +dev 
        Vim: +v8.1.0519 
 
 |getwininfo()|
@@ -45367,6 +45369,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |settagstack()|
 
+    Neovim: +dev 
        Vim: +v8.1.0519 
 
 |setting-guifont|
@@ -46982,7 +46985,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |swapname()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.1.0401 
 
 |swapname-variable|
