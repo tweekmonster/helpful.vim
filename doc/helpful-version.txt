@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2019-05-03 22:01:01 UTC
+*helpful-version.txt*  Generated: 2019-05-04 16:01:02 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -49082,6 +49082,10 @@ A listing of helptags with the versions they became available or were removed.
 |test_scrollbar()|
 
        Vim: +v8.1.0390 
+
+|test_setmouse()|
+
+       Vim: +v8.1.1262 
 
 |test_settime()|
 
