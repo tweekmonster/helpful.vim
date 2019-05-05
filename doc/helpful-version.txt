@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2019-05-04 22:00:59 UTC
+*helpful-version.txt*  Generated: 2019-05-05 16:01:04 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -10754,6 +10754,14 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0117 
 
+|:caf|
+
+       Vim: +v8.1.1275 
+
+|:cafter|
+
+       Vim: +v8.1.1275 
+
 |:cal|
 
     Neovim: +v0.1.0 
@@ -10781,7 +10789,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |:cbe|
 
-       Vim: +v8.1.1256 
+       Vim: +v8.1.1275 
+
+|:cbefore|
+
+       Vim: +v8.1.1275 
 
 |:cbelow|
 
@@ -12566,6 +12578,14 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0187 
 
+|:laf|
+
+       Vim: +v8.1.1275 
+
+|:lafter|
+
+       Vim: +v8.1.1275 
+
 |:lan|
 
     Neovim: +v0.1.0 
@@ -12603,7 +12623,19 @@ A listing of helptags with the versions they became available or were removed.
 
 |:lbe|
 
-       Vim: +v8.1.1256 
+       Vim: +v8.1.1256 -v8.1.1275 
+
+|:lbef|
+
+       Vim: +v8.1.1275 
+
+|:lbefore|
+
+       Vim: +v8.1.1275 
+
+|:lbel|
+
+       Vim: +v8.1.1275 
 
 |:lbelow|
 
