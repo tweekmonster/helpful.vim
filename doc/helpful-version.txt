@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2019-05-07 22:01:01 UTC
+*helpful-version.txt*  Generated: 2019-05-09 16:01:01 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -17292,6 +17292,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|<Ignore>|
+
+       Vim: +v8.1.1303 
+
 |<Insert>|
 
     Neovim: +v0.1.0 
@@ -27052,6 +27056,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 -v0.1.2 
        Vim: +v7.0001 
 
+|balloon_gettext()|
+
+       Vim: +v8.1.1303 
+
 |balloon_show()|
 
        Vim: +v8.0.0396 
@@ -30680,6 +30688,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 -v0.2.0 
        Vim: +v7.0001 
+
+|environ()|
+
+       Vim: +v8.1.1305 
 
 |erlang-syntax|
 
@@ -34643,6 +34655,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|getenv()|
+
+       Vim: +v8.1.1305 
 
 |getfontname()|
 
@@ -45389,6 +45405,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|setenv()|
+
+       Vim: +v8.1.1305 
 
 |setfperm()|
 
