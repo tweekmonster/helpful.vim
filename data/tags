@@ -10402,7 +10402,9 @@ ui-introneovim:v0.2.1,v0.3.0
 ui-linegridneovim:v0.3.2,
 ui-messagesneovim:nightly,
 ui-multigridneovim:nightly,
-ui-optionsneovim:v0.2.1,
+ui-optionneovim:dev,
+ui-optionsneovim:v0.2.1,dev
+ui-overrideneovim:dev,
 ui-popupmenuneovim:v0.2.1,
 ui-rgbneovim:v0.3.2,
 ui-startupneovim:v0.3.2,
