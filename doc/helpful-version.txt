@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2019-05-12 16:01:02 UTC
+*helpful-version.txt*  Generated: 2019-05-12 22:01:01 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -42033,7 +42033,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |nvim_buf_del_keymap()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_buf_del_var()|
 
@@ -42101,7 +42101,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |nvim_buf_set_keymap()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_buf_set_lines()|
 
@@ -42161,7 +42161,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |nvim_del_keymap()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_del_var()|
 
@@ -42357,7 +42357,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |nvim_set_keymap()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_set_option()|
 
@@ -43308,6 +43308,30 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0007 
 
+|popup|
+
+       Vim: +v8.1.1329 
+
+|popup-callback|
+
+       Vim: +v8.1.1329 
+
+|popup-examples|
+
+       Vim: +v8.1.1329 
+
+|popup-filter|
+
+       Vim: +v8.1.1329 
+
+|popup-functions|
+
+       Vim: +v8.1.1329 
+
+|popup-intro|
+
+       Vim: +v8.1.1329 
+
 |popup-menu|
 
     Neovim: +v0.1.0 
@@ -43316,6 +43340,70 @@ A listing of helptags with the versions they became available or were removed.
 |popup-menu-added|
 
        Vim: +v7.0001 
+
+|popup-props|
+
+       Vim: +v8.1.1329 
+
+|popup-window|
+
+       Vim: +v8.1.1329 
+
+|popup.txt|
+
+       Vim: +v8.1.1329 
+
+|popup_atcursor()|
+
+       Vim: +v8.1.1329 
+
+|popup_close()|
+
+       Vim: +v8.1.1329 
+
+|popup_dialog()|
+
+       Vim: +v8.1.1329 
+
+|popup_filter_menu()|
+
+       Vim: +v8.1.1329 
+
+|popup_filter_yesno()|
+
+       Vim: +v8.1.1329 
+
+|popup_getlines()|
+
+       Vim: +v8.1.1329 
+
+|popup_getoptions()|
+
+       Vim: +v8.1.1329 
+
+|popup_move()|
+
+       Vim: +v8.1.1329 
+
+|popup_notification()|
+
+       Vim: +v8.1.1329 
+
+|popup_setlines()|
+
+       Vim: +v8.1.1329 
+
+|popup_setoptions()|
+
+       Vim: +v8.1.1329 
+
+|popup_show()|
+
+       Vim: +v8.1.1329 
+
+|popup_show-usage|
+
+       Vim: +v8.1.1329 
 
 |popupmenu-completion|
 
@@ -49668,15 +49756,15 @@ A listing of helptags with the versions they became available or were removed.
 
 |ui-option|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |ui-options|
 
-    Neovim: +v0.2.1 -dev 
+    Neovim: +v0.2.1 -nightly 
 
 |ui-override|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |ui-popupmenu|
 
