@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2019-05-16 10:01:04 UTC
+*helpful-version.txt*  Generated: 2019-05-16 22:01:02 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -9799,12 +9799,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |:Arguments|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.0.1725 
 
 |:Break|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.0.1725 
 
 |:Cfilter|
@@ -9817,7 +9817,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |:Clear|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.0.1725 
 
 |:CompilerSet|
@@ -9827,7 +9827,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |:Continue|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.0.1725 
 
 |:DiffOrig|
@@ -9846,7 +9846,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |:Evaluate|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.0.1725 
 
 |:Explore|
@@ -9856,7 +9856,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |:Finish|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.0.1725 
 
 |:GLVS|
@@ -9866,7 +9866,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |:Gdb|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.0.1725 
 
 |:GetLatestVimScripts_dat|
@@ -9995,7 +9995,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |:Over|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.0.1725 
 
 |:P|
@@ -10013,7 +10013,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |:Program|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.0.1725 
 
 |:Rexplore|
@@ -10028,7 +10028,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |:Run|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.0.1725 
 
 |:RustEmitAsm|
@@ -10073,17 +10073,17 @@ A listing of helptags with the versions they became available or were removed.
 
 |:Source|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.0.1725 
 
 |:Step|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.0.1725 
 
 |:Stop|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.0.1725 
 
 |:TOhtml|
@@ -10098,12 +10098,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |:Termdebug|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.0.1085 
 
 |:TermdebugCommand|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.0.1725 
 
 |:Texplore|
@@ -34601,7 +34601,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |gdb-version|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.0.1256 
 
 |ge|
@@ -36479,12 +36479,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |hl-debugBreakpoint|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.0.1437 
 
 |hl-debugPC|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.0.1437 
 
 |hlID()|
@@ -49000,22 +49000,22 @@ A listing of helptags with the versions they became available or were removed.
 
 |termdebug-commands|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.0.1290 
 
 |termdebug-communication|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.0.1290 
 
 |termdebug-customizing|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.0.1290 
 
 |termdebug-example|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.0.1290 
 
 |termdebug-prompt|
@@ -49024,17 +49024,17 @@ A listing of helptags with the versions they became available or were removed.
 
 |termdebug-starting|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.0.1290 
 
 |termdebug-stepping|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.0.1290 
 
 |termdebug-variables|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.0.1290 
 
 |termdebug_popup|
@@ -49043,7 +49043,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |termdebug_shortcuts|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.1.0071 
 
 |termdebug_use_prompt|
@@ -49052,7 +49052,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |termdebug_wide|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.0.1562 
 
 |terminal|
@@ -49086,12 +49086,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |terminal-debug|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.0.0693 
 
 |terminal-debugger|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.1.0000 
 
 |terminal-diff|
@@ -49263,6 +49263,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.2.0 
        Vim: +v7.4.1838 
+
+|test_getvalue()|
+
+       Vim: +v8.1.1334 
 
 |test_ignore_error()|
 
