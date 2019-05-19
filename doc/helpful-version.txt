@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2019-05-16 22:01:02 UTC
+*helpful-version.txt*  Generated: 2019-05-19 22:01:02 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -12783,6 +12783,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|:let-heredoc|
+
+       Vim: +v8.1.1354 
+
 |:let-option|
 
     Neovim: +v0.1.0 
@@ -12814,6 +12818,10 @@ A listing of helptags with the versions they became available or were removed.
 |:let/=|
 
        Vim: +v8.1.0902 
+
+|:let=<<|
+
+       Vim: +v8.1.1354 
 
 |:letstar=|
 
@@ -23906,6 +23914,14 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|E990|
+
+       Vim: +v8.1.1354 
+
+|E991|
+
+       Vim: +v8.1.1354 
 
 |E999|
 
@@ -38742,6 +38758,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.2.1 
        Vim: +v7.3 
 
+|lua-api|
+
+    Neovim: +nightly 
+
 |lua-blob|
 
        Vim: +v8.1.1043 
@@ -38804,6 +38824,10 @@ A listing of helptags with the versions they became available or were removed.
 |lua-syntax|
 
        Vim: +v7.0001 -v7.0139 
+
+|lua-util|
+
+    Neovim: +nightly 
 
 |lua-vim|
 
@@ -51575,11 +51599,11 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
-|vim.deepcopy|
+|vim.deepcopy()|
 
     Neovim: +nightly 
 
-|vim.gsplit|
+|vim.gsplit()|
 
     Neovim: +nightly 
 
@@ -51587,11 +51611,23 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +nightly 
 
-|vim.split|
+|vim.split()|
 
     Neovim: +nightly 
 
-|vim.trim|
+|vim.tbl_contains()|
+
+    Neovim: +nightly 
+
+|vim.tbl_extend()|
+
+    Neovim: +nightly 
+
+|vim.tbl_flatten()|
+
+    Neovim: +nightly 
+
+|vim.trim()|
 
     Neovim: +nightly 
 
