@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2019-05-21 22:01:01 UTC
+*helpful-version.txt*  Generated: 2019-05-23 16:01:00 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -2221,6 +2221,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|'makespellmem'|
+
+       Vim: +v8.1.1366 
+
 |'mat'|
 
     Neovim: +v0.1.0 
@@ -2316,6 +2320,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|'mle'|
+
+       Vim: +v8.1.1366 
+
 |'mls'|
 
     Neovim: +v0.1.0 
@@ -2350,6 +2358,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|'modelineexpr'|
+
+       Vim: +v8.1.1366 
 
 |'modelines'|
 
@@ -2434,7 +2446,7 @@ A listing of helptags with the versions they became available or were removed.
 |'msm'|
 
     Neovim: +v0.1.0 
-       Vim: +v7.0132 
+       Vim: +v8.1.1366 
 
 |'mzq'|
 
@@ -3112,6 +3124,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|'nomle'|
+
+       Vim: +v8.1.1366 
+
 |'nomod'|
 
     Neovim: +v0.1.0 
@@ -3121,6 +3137,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|'nomodelineexpr'|
+
+       Vim: +v8.1.1366 
 
 |'nomodifiable'|
 
@@ -23930,6 +23950,10 @@ A listing of helptags with the versions they became available or were removed.
 |E991|
 
        Vim: +v8.1.1354 
+
+|E992|
+
+       Vim: +v8.1.1366 
 
 |E999|
 
