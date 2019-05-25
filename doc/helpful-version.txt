@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2019-05-25 10:01:05 UTC
+*helpful-version.txt*  Generated: 2019-05-25 22:01:20 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -5999,6 +5999,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|'wcr'|
+
+       Vim: +v8.1.1391 
+
 |'wd'|
 
     Neovim: +v0.1.0 
@@ -6092,6 +6096,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|'wincolor'|
+
+       Vim: +v8.1.1391 
 
 |'window'|
 
@@ -43437,6 +43445,10 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v7.0001 
 
+|popup-position|
+
+       Vim: +v8.1.1391 
+
 |popup-props|
 
        Vim: +v8.1.1329 
@@ -43484,6 +43496,10 @@ A listing of helptags with the versions they became available or were removed.
 |popup_getoptions()|
 
        Vim: +v8.1.1329 
+
+|popup_getposition()|
+
+       Vim: +v8.1.1391 
 
 |popup_hide()|
 
