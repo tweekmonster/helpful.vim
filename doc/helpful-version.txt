@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2019-05-26 16:01:06 UTC
+*helpful-version.txt*  Generated: 2019-05-26 22:01:22 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -2223,7 +2223,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'makespellmem'|
 
-       Vim: +v8.1.1366 
+       Vim: +v8.1.1366 -v8.1.1401 
 
 |'mat'|
 
@@ -2446,7 +2446,7 @@ A listing of helptags with the versions they became available or were removed.
 |'msm'|
 
     Neovim: +v0.1.0 
-       Vim: +v8.1.1366 
+       Vim: +v8.1.1366 -v8.1.1401 
 
 |'mzq'|
 
@@ -15342,6 +15342,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|:source!|
+
+       Vim: +v8.1.1406 
+
 |:source_crnl|
 
     Neovim: +v0.1.0 
@@ -21685,6 +21689,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|E5555|
+
+    Neovim: +dev 
+
 |E556|
 
     Neovim: +v0.1.0 
@@ -23962,6 +23970,10 @@ A listing of helptags with the versions they became available or were removed.
 |E992|
 
        Vim: +v8.1.1366 
+
+|E993|
+
+       Vim: +v8.1.1406 
 
 |E999|
 
@@ -30113,6 +30125,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |deletebufline()|
 
+    Neovim: +dev 
        Vim: +v8.1.0039 
 
 |deleting|
@@ -43063,6 +43076,10 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v8.1.0000 
 
+|patches-8.2|
+
+       Vim: +v8.1.1406 
+
 |pathshorten()|
 
     Neovim: +v0.1.0 
@@ -45977,14 +45994,17 @@ A listing of helptags with the versions they became available or were removed.
 
 |sign-functions|
 
+    Neovim: +dev 
        Vim: +v8.1.0614 
 
 |sign-group|
 
+    Neovim: +dev 
        Vim: +v8.1.0614 
 
 |sign-identifier|
 
+    Neovim: +dev 
        Vim: +v8.1.0697 
 
 |sign-intro|
@@ -45994,6 +46014,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |sign-priority|
 
+    Neovim: +dev 
        Vim: +v8.1.0614 
 
 |sign-support|
@@ -46008,30 +46029,37 @@ A listing of helptags with the versions they became available or were removed.
 
 |sign_define()|
 
+    Neovim: +dev 
        Vim: +v8.1.0614 
 
 |sign_getdefined()|
 
+    Neovim: +dev 
        Vim: +v8.1.0614 
 
 |sign_getplaced()|
 
+    Neovim: +dev 
        Vim: +v8.1.0614 
 
 |sign_jump()|
 
+    Neovim: +dev 
        Vim: +v8.1.0717 
 
 |sign_place()|
 
+    Neovim: +dev 
        Vim: +v8.1.0614 
 
 |sign_undefine()|
 
+    Neovim: +dev 
        Vim: +v8.1.0614 
 
 |sign_unplace()|
 
+    Neovim: +dev 
        Vim: +v8.1.0614 
 
 |signs|
