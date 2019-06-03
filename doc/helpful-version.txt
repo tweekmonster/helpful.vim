@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2019-06-02 22:01:03 UTC
+*helpful-version.txt*  Generated: 2019-06-03 22:01:03 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -12779,7 +12779,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |:let%=|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.1.0902 
 
 |:let+=|
@@ -12846,7 +12846,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |:let/=|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.1.0902 
 
 |:let=<<|
@@ -12855,7 +12855,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |:letstar=|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.1.0902 
 
 |:lex|
@@ -31282,7 +31282,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |expr-..|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.1.1114 
 
 |expr-/|
