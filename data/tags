@@ -8059,6 +8059,7 @@ lua-stdlibneovim:nightly,
 lua-syntaxvim:v7.0001,v7.0139
 lua-utilneovim:nightly,
 lua-vimneovim:v0.2.1,vim:v7.3,
+lua-vim.scheduleneovim:dev,
 lua-vim.stricmpneovim:v0.2.1,
 lua-vim.type_idxneovim:v0.2.1,
 lua-vim.typesneovim:v0.2.1,
