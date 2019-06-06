@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2019-06-05 10:01:04 UTC
+*helpful-version.txt*  Generated: 2019-06-06 16:01:00 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -10295,6 +10295,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|:addd|
+
+       Vim: +v8.1.1473 
+
 |:al|
 
     Neovim: +v0.1.0 
@@ -10334,6 +10338,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|:arg|
+
+       Vim: +v8.1.1473 
 
 |:arga|
 
@@ -10595,6 +10603,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|:bre|
+
+       Vim: +v8.1.1473 
+
 |:brea|
 
     Neovim: +v0.1.0 
@@ -10740,6 +10752,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|:cab|
+
+       Vim: +v8.1.1473 
+
 |:cabbrev|
 
     Neovim: +v0.1.0 
@@ -10767,6 +10783,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0117 
+
+|:cadd|
+
+       Vim: +v8.1.1473 
 
 |:caddb|
 
@@ -10996,6 +11016,14 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|:chec|
+
+       Vim: +v8.1.1473 
+
+|:check|
+
+       Vim: +v8.1.1473 
+
 |:checkhealth|
 
     Neovim: +v0.2.1 
@@ -11105,6 +11133,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|:cne|
+
+       Vim: +v8.1.1473 
+
 |:cnew|
 
     Neovim: +v0.1.0 
@@ -11134,6 +11166,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|:cnor|
+
+       Vim: +v8.1.1473 
 
 |:cnorea|
 
@@ -11384,6 +11420,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|:cun|
+
+       Vim: +v8.1.1473 
+
 |:cuna|
 
     Neovim: +v0.1.0 
@@ -11504,6 +11544,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.5 
        Vim: +v7.4.923 
 
+|:diff|
+
+       Vim: +v8.1.1473 
+
 |:diffg|
 
     Neovim: +v0.1.0 
@@ -11623,6 +11667,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|:doaut|
+
+       Vim: +v8.1.1473 
 
 |:doautoa|
 
@@ -11797,6 +11845,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|:end|
+
+       Vim: +v8.1.1473 
 
 |:endf|
 
@@ -12055,6 +12107,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|:folddo|
+
+       Vim: +v8.1.1473 
 
 |:folddoc|
 
@@ -12407,6 +12463,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|:inor|
+
+       Vim: +v8.1.1473 
+
 |:inorea|
 
     Neovim: +v0.1.0 
@@ -12521,6 +12581,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|:keep|
+
+       Vim: +v8.1.1473 
 
 |:keepa|
 
@@ -12878,6 +12942,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.2 
        Vim: +v7.4.862 
 
+|:lfi|
+
+       Vim: +v8.1.1473 
+
 |:lfile|
 
     Neovim: +v0.1.0 
@@ -12897,6 +12965,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0187 
+
+|:lge|
+
+       Vim: +v8.1.1473 
 
 |:lgetb|
 
@@ -12997,6 +13069,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|:lma|
+
+       Vim: +v8.1.1473 
 
 |:lmak|
 
@@ -13100,6 +13176,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|:lock|
+
+       Vim: +v8.1.1473 
 
 |:lockmarks|
 
@@ -13552,6 +13632,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|:mkvi|
+
+       Vim: +v8.1.1473 
 
 |:mkvie|
 
@@ -15039,6 +15123,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|:sfi|
+
+       Vim: +v8.1.1473 
+
 |:sfind|
 
     Neovim: +v0.1.0 
@@ -15309,6 +15397,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0230 
+
+|:snore|
+
+       Vim: +v8.1.1473 
 
 |:snoremap|
 
@@ -15967,6 +16059,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|:syntax-off|
+
+       Vim: +v8.1.1473 
+
 |:syntax-on|
 
     Neovim: +v0.1.0 
@@ -16537,6 +16633,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|:ver|
+
+       Vim: +v8.1.1473 
 
 |:verb|
 
@@ -23977,6 +24077,10 @@ A listing of helptags with the versions they became available or were removed.
 |E993|
 
        Vim: +v8.1.1406 
+
+|E994|
+
+       Vim: +v8.1.1473 
 
 |E999|
 
@@ -38919,7 +39023,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |lua-vim.schedule|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-vim.stricmp|
 
