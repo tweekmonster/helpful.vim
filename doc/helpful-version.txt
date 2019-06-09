@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2019-06-06 16:01:00 UTC
+*helpful-version.txt*  Generated: 2019-06-09 16:01:03 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -31302,6 +31302,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|expandcmd()|
+
+       Vim: +v8.1.1510 
+
 |expl-starting|
 
        Vim: +v7.0001 -v7.0045 
@@ -46285,6 +46289,22 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0075 
+
+|sound_playevent()|
+
+       Vim: +v8.1.1502 
+
+|sound_playfile()|
+
+       Vim: +v8.1.1502 
+
+|sound_stop()|
+
+       Vim: +v8.1.1502 
+
+|sound_stopall()|
+
+       Vim: +v8.1.1502 
 
 |soundfold()|
 
