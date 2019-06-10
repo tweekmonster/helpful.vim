@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2019-06-09 16:01:03 UTC
+*helpful-version.txt*  Generated: 2019-06-10 16:01:01 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -1586,6 +1586,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'go-k'|
 
+    Neovim: +dev 
        Vim: +v8.0.1278 
 
 |'go-l'|
@@ -14127,11 +14128,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |:popupc|
 
-       Vim: +v8.1.1364 
+       Vim: +v8.1.1364 -v8.1.1513 
 
 |:popupclear|
 
-       Vim: +v8.1.1364 
+       Vim: +v8.1.1364 -v8.1.1513 
 
 |:pp|
 
@@ -38991,9 +38992,13 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v7.3.490 
 
+|lua-loop|
+
+    Neovim: +dev 
+
 |lua-luaeval|
 
-    Neovim: +v0.2.1 
+    Neovim: +v0.2.1 -dev 
        Vim: +v7.3.490 
 
 |lua-require|
@@ -39027,23 +39032,23 @@ A listing of helptags with the versions they became available or were removed.
 
 |lua-vim.schedule|
 
-    Neovim: +nightly 
+    Neovim: +nightly -dev 
 
 |lua-vim.stricmp|
 
-    Neovim: +v0.2.1 
+    Neovim: +v0.2.1 -dev 
 
 |lua-vim.type_idx|
 
-    Neovim: +v0.2.1 
+    Neovim: +v0.2.1 -dev 
 
 |lua-vim.types|
 
-    Neovim: +v0.2.1 
+    Neovim: +v0.2.1 -dev 
 
 |lua-vim.val_idx|
 
-    Neovim: +v0.2.1 
+    Neovim: +v0.2.1 -dev 
 
 |lua-window|
 
@@ -43610,6 +43615,10 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v8.1.1329 -v8.1.1364 
 
+|popup_clear()|
+
+       Vim: +v8.1.1513 
+
 |popup_close()|
 
        Vim: +v8.1.1329 
@@ -45573,6 +45582,18 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v8.1.1195 
 
+|scriptversion-1|
+
+       Vim: +v8.1.1513 
+
+|scriptversion-2|
+
+       Vim: +v8.1.1513 
+
+|scriptversion-3|
+
+       Vim: +v8.1.1513 
+
 |scroll-binding|
 
     Neovim: +v0.1.0 
@@ -46290,6 +46311,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0075 
 
+|sound_clear()|
+
+       Vim: +v8.1.1513 
+
 |sound_playevent()|
 
        Vim: +v8.1.1502 
@@ -46304,7 +46329,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |sound_stopall()|
 
-       Vim: +v8.1.1502 
+       Vim: +v8.1.1502 -v8.1.1513 
 
 |soundfold()|
 
@@ -49081,6 +49106,10 @@ A listing of helptags with the versions they became available or were removed.
 |tcl-window-option|
 
        Vim: +v7.0001 
+
+|tcp-server|
+
+    Neovim: +dev 
 
 |tcsh-style|
 
@@ -51871,9 +51900,17 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +nightly 
 
+|vim.schedule()|
+
+    Neovim: +dev 
+
 |vim.split()|
 
     Neovim: +nightly 
+
+|vim.stricmp()|
+
+    Neovim: +dev 
 
 |vim.tbl_contains()|
 
@@ -51890,6 +51927,18 @@ A listing of helptags with the versions they became available or were removed.
 |vim.trim()|
 
     Neovim: +nightly 
+
+|vim.type_idx|
+
+    Neovim: +dev 
+
+|vim.types|
+
+    Neovim: +dev 
+
+|vim.val_idx|
+
+    Neovim: +dev 
 
 |vim.vim|
 
