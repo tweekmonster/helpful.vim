@@ -9129,6 +9129,7 @@ popup_move()vim:v8.1.1329,
 popup_notification()vim:v8.1.1329,
 popup_setlines()vim:v8.1.1329,v8.1.1364
 popup_setoptions()vim:v8.1.1329,
+popup_settext()vim:v8.1.1553,
 popup_show()vim:v8.1.1329,
 popup_show-usagevim:v8.1.1329,v8.1.1364
 popupmenu-completionneovim:v0.1.0,vim:v7.0177,
