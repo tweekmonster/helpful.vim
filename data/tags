@@ -10396,6 +10396,7 @@ test_autochdir()vim:v7.4.2099,
 test_disable_char_avail()vim:v7.4.1844,v8.0.0467
 test_feedinput()vim:v8.0.1048,
 test_garbagecollect_now()neovim:v0.2.0,vim:v7.4.1838,
+test_garbagecollect_soon()vim:v8.1.1579,
 test_getvalue()vim:v8.1.1334,
 test_ignore_error()vim:v8.0.0392,
 test_null_blob()vim:v8.1.0736,
