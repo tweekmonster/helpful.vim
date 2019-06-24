@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2019-06-24 16:00:59 UTC
+*helpful-version.txt*  Generated: 2019-06-24 22:01:03 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -2323,6 +2323,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'mle'|
 
+    Neovim: +nightly 
        Vim: +v8.1.1366 
 
 |'mls'|
@@ -2362,6 +2363,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'modelineexpr'|
 
+    Neovim: +nightly 
        Vim: +v8.1.1366 
 
 |'modelines'|
@@ -3127,6 +3129,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'nomle'|
 
+    Neovim: +nightly 
        Vim: +v8.1.1366 
 
 |'nomod'|
@@ -3141,6 +3144,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'nomodelineexpr'|
 
+    Neovim: +nightly 
        Vim: +v8.1.1366 
 
 |'nomodifiable'|
@@ -11347,12 +11351,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |:cons|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.1.1539 
 
 |:const|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.1.1539 
 
 |:continue|
@@ -24091,6 +24095,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |E992|
 
+    Neovim: +nightly 
        Vim: +v8.1.1366 
 
 |E993|
@@ -24103,12 +24108,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |E995|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.1.1539 
 
 |E996|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.1.1574 -v8.1.1586 
 
 |E997|
