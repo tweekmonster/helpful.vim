@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2019-06-25 04:01:04 UTC
+*helpful-version.txt*  Generated: 2019-06-25 22:01:06 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -6101,6 +6101,14 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|'winbl'|
+
+    Neovim: +nightly 
+
+|'winblend'|
+
+    Neovim: +nightly 
 
 |'wincolor'|
 
@@ -35990,6 +35998,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|highlight-blend|
+
+    Neovim: +nightly 
+
 |highlight-changed|
 
        Vim: +v7.0001 
@@ -45874,7 +45886,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |setbufline()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.0.1039 
 
 |setbufvar()|
