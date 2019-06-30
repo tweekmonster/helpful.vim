@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2019-06-30 16:01:01 UTC
+*helpful-version.txt*  Generated: 2019-06-30 22:01:03 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -2853,7 +2853,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'noex'|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |'noexpandtab'|
@@ -2863,7 +2863,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'noexrc'|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |'nofen'|
@@ -21834,7 +21834,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |E5560|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |E557|
 
@@ -27570,6 +27570,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|bufadd()|
+
+       Vim: +v8.1.1610 
+
 |bufexists()|
 
     Neovim: +v0.1.0 
@@ -27633,6 +27637,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|bufload()|
+
+       Vim: +v8.1.1610 
 
 |bufloaded()|
 
@@ -39051,7 +39059,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |lua-loop-callbacks|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-luaeval|
 
@@ -43622,6 +43630,10 @@ A listing of helptags with the versions they became available or were removed.
 |popup-callback|
 
        Vim: +v8.1.1329 
+
+|popup-close|
+
+       Vim: +v8.1.1609 
 
 |popup-examples|
 
@@ -49478,7 +49490,6 @@ A listing of helptags with the versions they became available or were removed.
 
 |terminal-debugger|
 
-    Neovim: +nightly -dev 
        Vim: +v8.1.0000 
 
 |terminal-diff|
