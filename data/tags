@@ -9112,6 +9112,7 @@ popup-callbackvim:v8.1.1329,
 popup-closevim:v8.1.1609,
 popup-examplesvim:v8.1.1329,
 popup-filtervim:v8.1.1329,
+popup-function-detailsvim:v8.1.1628,
 popup-functionsvim:v8.1.1329,
 popup-introvim:v8.1.1329,
 popup-maskvim:v8.1.1580,
@@ -9120,13 +9121,16 @@ popup-menu-addedvim:v7.0001,
 popup-positionvim:v8.1.1391,
 popup-propsvim:v8.1.1329,
 popup-scrollbarvim:v8.1.1607,
+popup-usagevim:v8.1.1628,
 popup-windowvim:v8.1.1329,
+popup-window-functionsvim:v8.1.1628,
 popup.txtvim:v8.1.1329,
 popup_atcursor()vim:v8.1.1329,v8.1.1364
 popup_clear()vim:v8.1.1513,
 popup_close()vim:v8.1.1329,
 popup_create()vim:v8.1.1364,
-popup_create-usagevim:v8.1.1364,
+popup_create-argumentsvim:v8.1.1628,
+popup_create-usagevim:v8.1.1364,v8.1.1628
 popup_dialog()vim:v8.1.1329,
 popup_dialog-examplevim:v8.1.1574,
 popup_filter_menu()vim:v8.1.1329,
@@ -10375,6 +10379,7 @@ terminal-emulator-inputneovim:v0.1.5,v0.2.1
 terminal-emulator-introneovim:v0.1.5,v0.2.0
 terminal-emulator-spawningneovim:v0.1.5,v0.2.1
 terminal-emulator-statusneovim:v0.1.5,v0.2.1
+terminal-function-detailsvim:v8.1.1629,
 terminal-functionsvim:v8.0.1007,
 terminal-infoneovim:v0.1.0,v0.2.0vim:v7.0001,
 terminal-inputneovim:v0.2.1,

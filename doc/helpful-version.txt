@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2019-07-03 16:01:02 UTC
+*helpful-version.txt*  Generated: 2019-07-04 16:01:05 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -43643,6 +43643,10 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v8.1.1329 
 
+|popup-function-details|
+
+       Vim: +v8.1.1628 
+
 |popup-functions|
 
        Vim: +v8.1.1329 
@@ -43676,9 +43680,17 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v8.1.1607 
 
+|popup-usage|
+
+       Vim: +v8.1.1628 
+
 |popup-window|
 
        Vim: +v8.1.1329 
+
+|popup-window-functions|
+
+       Vim: +v8.1.1628 
 
 |popup.txt|
 
@@ -43700,9 +43712,13 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v8.1.1364 
 
+|popup_create-arguments|
+
+       Vim: +v8.1.1628 
+
 |popup_create-usage|
 
-       Vim: +v8.1.1364 
+       Vim: +v8.1.1364 -v8.1.1628 
 
 |popup_dialog()|
 
@@ -49527,6 +49543,10 @@ A listing of helptags with the versions they became available or were removed.
 |terminal-emulator-status|
 
     Neovim: +v0.1.5 -v0.2.1 
+
+|terminal-function-details|
+
+       Vim: +v8.1.1629 
 
 |terminal-functions|
 
