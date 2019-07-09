@@ -825,10 +825,12 @@ $XDG_DATA_HOMEneovim:v0.1.5,
 'quoteneovim:v0.1.0,vim:v7.0001,
 'quoteescape'neovim:v0.1.0,vim:v7.0045,
 'quoteescape''vim:v7.0007,v7.0045
+'rdb'neovim:dev,
 'rdt'neovim:v0.1.0,vim:v7.1.236,
 're'neovim:v0.1.0,vim:v7.3.999,
 'readonly'neovim:v0.1.0,vim:v7.0001,
 'redraw'neovim:v0.1.0,v0.1.1vim:v7.0001,
+'redrawdebug'neovim:dev,
 'redrawtime'neovim:v0.1.0,vim:v7.1.236,
 'regexpengine'neovim:v0.1.0,vim:v7.3.1088,
 'regexpengine''vim:v7.3.999,v7.3.1088
