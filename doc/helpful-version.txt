@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2019-07-09 16:01:02 UTC
+*helpful-version.txt*  Generated: 2019-07-09 22:01:07 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -4069,7 +4069,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'rdb'|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |'rdt'|
 
@@ -4093,7 +4093,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'redrawdebug'|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |'redrawtime'|
 
