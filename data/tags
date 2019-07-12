@@ -9144,6 +9144,7 @@ popup_getoptions()vim:v8.1.1329,
 popup_getpos()vim:v8.1.1429,
 popup_getposition()vim:v8.1.1391,v8.1.1429
 popup_hide()vim:v8.1.1364,
+popup_locate()vim:v8.1.1673,
 popup_menu()vim:v8.1.1364,
 popup_menu-shortcut-examplevim:v8.1.1574,
 popup_move()vim:v8.1.1329,
