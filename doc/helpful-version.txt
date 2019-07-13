@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2019-07-13 16:00:59 UTC
+*helpful-version.txt*  Generated: 2019-07-13 22:01:01 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -27580,7 +27580,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |bufadd()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.1.1610 
 
 |bufexists()|
@@ -27649,7 +27649,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |bufload()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.1.1610 
 
 |bufloaded()|
@@ -38800,6 +38800,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|literal-Dict|
+
+       Vim: +v8.1.1683 
+
 |literal-string|
 
     Neovim: +v0.1.0 
@@ -46327,6 +46331,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +nightly 
        Vim: +v8.1.0614 
 
+|sign_placelist()|
+
+       Vim: +v8.1.1682 
+
 |sign_undefine()|
 
     Neovim: +nightly 
@@ -46336,6 +46344,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +nightly 
        Vim: +v8.1.0614 
+
+|sign_unplacelist()|
+
+       Vim: +v8.1.1682 
 
 |signs|
 
