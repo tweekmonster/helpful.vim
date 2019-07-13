@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2019-07-12 22:01:04 UTC
+*helpful-version.txt*  Generated: 2019-07-13 16:00:59 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -27580,6 +27580,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |bufadd()|
 
+    Neovim: +dev 
        Vim: +v8.1.1610 
 
 |bufexists()|
@@ -27648,6 +27649,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |bufload()|
 
+    Neovim: +dev 
        Vim: +v8.1.1610 
 
 |bufloaded()|
