@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2019-07-19 04:01:02 UTC
+*helpful-version.txt*  Generated: 2019-07-19 22:01:05 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -25242,7 +25242,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |SourcePost|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.1.0729 
 
 |SourcePre|
@@ -32894,6 +32894,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0139 
+
+|ft-qf-plugin|
+
+       Vim: +v8.1.1715 
 
 |ft-quake-syntax|
 
@@ -44514,6 +44518,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|qf.vim|
+
+       Vim: +v8.1.1715 
 
 |qnx|
 
