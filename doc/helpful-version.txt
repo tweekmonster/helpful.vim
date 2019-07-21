@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2019-07-19 22:01:05 UTC
+*helpful-version.txt*  Generated: 2019-07-21 16:01:02 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -19706,7 +19706,7 @@ A listing of helptags with the versions they became available or were removed.
 |E172|
 
     Neovim: +v0.1.0 -v0.2.1 
-       Vim: +v7.0001 -v8.0.1189 
+       Vim: +v8.1.1723 -v8.0.1189 
 
 |E173|
 
@@ -19971,6 +19971,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|E221|
+
+       Vim: +v8.1.1723 
 
 |E222|
 
@@ -26870,6 +26874,10 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v7.0001 -v7.0139 
 
+|assert-functions|
+
+       Vim: +v8.1.1726 
+
 |assert-return|
 
        Vim: +v8.0.1770 
@@ -28607,6 +28615,10 @@ A listing of helptags with the versions they became available or were removed.
 |channel-functions|
 
        Vim: +v7.4.1926 
+
+|channel-functions-details|
+
+       Vim: +v8.1.1726 
 
 |channel-id|
 
@@ -38173,6 +38185,10 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v7.4.1926 
 
+|job-functions-details|
+
+       Vim: +v8.1.1726 
+
 |job-id|
 
     Neovim: +v0.2.1 
@@ -46297,6 +46313,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +nightly 
        Vim: +v8.1.0614 
 
+|sign-functions-details|
+
+       Vim: +v8.1.1726 
+
 |sign-group|
 
     Neovim: +nightly 
@@ -49718,7 +49738,7 @@ A listing of helptags with the versions they became available or were removed.
 |test-functions|
 
     Neovim: +v0.1.2 
-       Vim: +v7.4.945 
+       Vim: +v8.1.1726 
 
 |test_alloc_fail()|
 
@@ -49809,10 +49829,18 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v7.4.2218 
 
+|testing-support|
+
+       Vim: +v8.1.1726 
+
 |testing-variable|
 
     Neovim: +v0.2.0 
        Vim: +v7.4.1727 
+
+|testing.txt|
+
+       Vim: +v8.1.1726 
 
 |tex-cchar|
 
