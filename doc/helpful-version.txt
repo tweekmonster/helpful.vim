@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2019-07-28 16:01:05 UTC
+*helpful-version.txt*  Generated: 2019-07-31 22:01:04 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -20095,6 +20095,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|E242|
+
+       Vim: +v8.1.1783 
+
 |E243|
 
        Vim: +v7.0001 
@@ -20123,6 +20127,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|E249|
+
+       Vim: +v8.1.1783 
 
 |E25|
 
@@ -23985,6 +23993,10 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v8.1.0360 
 
+|E959|
+
+       Vim: +v8.1.1783 
+
 |E96|
 
     Neovim: +v0.1.0 
@@ -24836,6 +24848,14 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.4.274 
+
+|PHP_IndentFunctionCallParameters|
+
+       Vim: +v8.1.1783 
+
+|PHP_IndentFunctionDeclarationParameters|
+
+       Vim: +v8.1.1783 
 
 |PHP_autoformatcomment|
 
@@ -26886,7 +26906,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |assert-functions|
 
-       Vim: +v8.1.1726 
+       Vim: +v8.1.1726 -v8.1.1783 
+
+|assert-functions-details|
+
+       Vim: +v8.1.1783 
 
 |assert-return|
 
@@ -49752,7 +49776,11 @@ A listing of helptags with the versions they became available or were removed.
 |test-functions|
 
     Neovim: +v0.1.2 
-       Vim: +v8.1.1726 
+       Vim: +v8.1.1726 -v8.1.1783 
+
+|test-functions-details|
+
+       Vim: +v8.1.1783 
 
 |test_alloc_fail()|
 
