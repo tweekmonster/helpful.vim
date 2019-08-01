@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2019-07-31 22:01:04 UTC
+*helpful-version.txt*  Generated: 2019-08-01 16:01:06 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -8688,7 +8688,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |05.3|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |05.4|
@@ -8718,6 +8718,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |05.9|
 
+    Neovim: +dev 
        Vim: +v8.1.0872 
 
 |06.1|
@@ -9882,6 +9883,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |:Cfilter|
 
+    Neovim: +dev 
        Vim: +v8.1.0649 
 
 |:CheckHealth|
@@ -9986,6 +9988,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |:Lfilter|
 
+    Neovim: +dev 
        Vim: +v8.1.0649 
 
 |:LogiPat|
@@ -9999,7 +10002,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |:MatchDebug|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
 
 |:MkVimball|
 
@@ -11428,6 +11431,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |:cprev|
 
+    Neovim: +dev 
        Vim: +v8.1.0764 
 
 |:cprevious|
@@ -13292,6 +13296,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |:lprev|
 
+    Neovim: +dev 
        Vim: +v8.1.0764 
 
 |:lprevious|
@@ -18379,6 +18384,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |Boolean|
 
+    Neovim: +dev 
        Vim: +v8.1.0764 
 
 |Bram|
@@ -19103,7 +19109,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |Cfilter|
 
-    Neovim: +v0.3.2 
+    Neovim: +v0.3.2 -dev 
        Vim: +v8.1.0444 -v8.1.0649 
 
 |ChanInfo|
@@ -21271,7 +21277,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |E460|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 -v8.1.0675 
 
 |E461|
@@ -24018,6 +24024,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |E963|
 
+    Neovim: +dev 
        Vim: +v8.1.0576 
 
 |E964|
@@ -24525,7 +24532,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |Lfilter|
 
-    Neovim: +v0.3.2 
+    Neovim: +v0.3.2 -dev 
        Vim: +v8.1.0444 -v8.1.0649 
 
 |Linux-backspace|
@@ -24617,7 +24624,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |MatchError|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
 
 |MenuPopup|
 
@@ -25795,7 +25802,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |[%|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
 
 |['|
 
@@ -26066,7 +26073,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |]%|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
 
 |]'|
 
@@ -26307,7 +26314,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |a%|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
 
 |a'|
 
@@ -27240,55 +27247,55 @@ A listing of helptags with the versions they became available or were removed.
 
 |b:match_col|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
 
 |b:match_debug|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
 
 |b:match_ignorecase|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
 
 |b:match_ini|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
 
 |b:match_iniBR|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
 
 |b:match_match|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
 
 |b:match_pat|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
 
 |b:match_skip|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
 
 |b:match_table|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
 
 |b:match_tail|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
 
 |b:match_wholeBR|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
 
 |b:match_word|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
 
 |b:match_words|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
 
 |b:netrw_lastfile|
 
@@ -32336,6 +32343,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |forced-motion|
 
+    Neovim: +dev 
        Vim: +v8.1.0649 
 
 |foreground()|
@@ -33319,7 +33327,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |g%|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
 
 |g&|
 
@@ -39665,51 +39673,51 @@ A listing of helptags with the versions they became available or were removed.
 
 |matchit|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
 
 |matchit-%|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
 
 |matchit-\1|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
 
 |matchit-activate|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
 
 |matchit-backref|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
 
 |matchit-bugs|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
 
 |matchit-choose|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
 
 |matchit-configure|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
 
 |matchit-debug|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
 
 |matchit-details|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
 
 |matchit-highlight|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
 
 |matchit-hl|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
 
 |matchit-install|
 
@@ -39717,47 +39725,47 @@ A listing of helptags with the versions they became available or were removed.
 
 |matchit-intro|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
 
 |matchit-languages|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
 
 |matchit-modes|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
 
 |matchit-newlang|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
 
 |matchit-o_%|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
 
 |matchit-parse|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
 
 |matchit-s:notend|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
 
 |matchit-s:sol|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
 
 |matchit-spaces|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
 
 |matchit-v_%|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
 
 |matchit.vim|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
 
 |matchlist()|
 
@@ -42916,15 +42924,15 @@ A listing of helptags with the versions they became available or were removed.
 
 |o_[%|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
 
 |o_]%|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
 
 |o_g%|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
 
 |o_v|
 
@@ -43607,7 +43615,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |pi_matchit.txt|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
 
 |pi_msgpack.txt|
 
@@ -44170,6 +44178,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |promptbuffer-functions|
 
+    Neovim: +dev 
        Vim: +v8.1.0545 
 
 |pronounce|
@@ -44652,6 +44661,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |quickfix-index|
 
+    Neovim: +dev 
        Vim: +v8.1.0720 
 
 |quickfix-manx|
@@ -46339,6 +46349,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |sign-column|
 
+    Neovim: +dev 
        Vim: +v8.1.0764 
 
 |sign-commands|
@@ -46656,6 +46667,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |spell-CHECKSHARPS|
 
+    Neovim: +dev 
        Vim: +v8.1.0828 
 
 |spell-CIRCUMFIX|
@@ -46713,6 +46725,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |spell-COMPOUNDLAST|
 
+    Neovim: +dev 
        Vim: +v8.1.0828 
 
 |spell-COMPOUNDMAX|
@@ -49001,6 +49014,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |tag-functions|
 
+    Neovim: +dev 
        Vim: +v8.1.0545 
 
 |tag-highlight|
@@ -51388,11 +51402,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |v_[%|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
 
 |v_]%|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
 
 |v_a|
 
@@ -51401,7 +51415,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |v_a%|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
 
 |v_a'|
 
@@ -51570,7 +51584,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |v_g%|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
 
 |v_g?|
 
