@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2019-08-02 22:01:10 UTC
+*helpful-version.txt*  Generated: 2019-08-03 16:01:03 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -43776,6 +43776,10 @@ A listing of helptags with the versions they became available or were removed.
 |popup-intro|
 
        Vim: +v8.1.1329 
+
+|popup-mapping|
+
+       Vim: +v8.1.1799 
 
 |popup-mask|
 
