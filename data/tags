@@ -8278,6 +8278,7 @@ message-historyneovim:v0.1.0,vim:v7.0001,
 message.txtneovim:v0.1.0,vim:v7.0001,
 messagesneovim:v0.1.0,vim:v7.0001,
 metaneovim:v0.1.0,v0.3.2vim:v7.0001,
+methodvim:v8.1.1803,
 min()neovim:v0.1.0,vim:v7.0035,
 minimal-featuresvim:v7.0001,v7.4.1425
 missing-commandsvim:v7.0001,v7.0051
