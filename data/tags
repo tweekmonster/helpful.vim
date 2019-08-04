@@ -9250,7 +9250,7 @@ providerneovim:v0.1.5,
 provider-clipboardneovim:v0.1.5,
 provider-nodejsneovim:v0.3.0,
 provider-pythonneovim:v0.1.5,
-provider-reloadneovim:dev,
+provider-reloadneovim:nightly,
 provider-rubyneovim:v0.1.5,
 provider.txtneovim:v0.1.5,
 psqlneovim:v0.1.0,vim:v7.2a,v7.2a.00
