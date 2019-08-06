@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2019-08-06 04:01:00 UTC
+*helpful-version.txt*  Generated: 2019-08-06 22:01:08 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -31082,7 +31082,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |environ()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.1.1305 
 
 |erlang-syntax|
@@ -35076,7 +35076,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |getenv()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.1.1305 
 
 |getfontname()|
@@ -46118,7 +46118,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |setenv()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.1.1305 
 
 |setfperm()|
