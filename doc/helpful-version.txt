@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2019-08-13 22:01:07 UTC
+*helpful-version.txt*  Generated: 2019-08-16 22:01:02 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -15582,7 +15582,11 @@ A listing of helptags with the versions they became available or were removed.
 |:spellr|
 
     Neovim: +v0.1.0 
-       Vim: +v8.1.1838 
+       Vim: +v8.1.1838 -v8.1.1865 
+
+|:spellra|
+
+       Vim: +v8.1.1865 
 
 |:spellrare|
 
