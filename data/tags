@@ -1,6 +1,7 @@
 !neovim:v0.1.0,vim:v7.0001,
 !!neovim:v0.1.0,vim:v7.0001,
 #neovim:v0.1.0,vim:v7.0001,
+#{}vim:v8.1.1876,
 $neovim:v0.1.0,vim:v7.0001,
 $HOMEneovim:v0.1.0,vim:v7.0001,
 $HOME-usevim:v7.0001,
@@ -1314,6 +1315,7 @@ $XDG_DATA_HOMEneovim:v0.1.5,
 +cindentneovim:v0.1.0,nightlyvim:v7.0001,
 +clientserverneovim:v0.1.0,nightlyvim:v7.0001,
 +clipboardneovim:v0.1.0,nightlyvim:v7.0001,
++clipboard_workingvim:v8.1.1876,
 +cmdneovim:v0.1.0,vim:v7.0001,
 +cmdline_complneovim:v0.1.0,nightlyvim:v7.0001,
 +cmdline_histneovim:v0.1.0,nightlyvim:v7.0001,
@@ -4148,7 +4150,7 @@ E272neovim:v0.1.5,vim:v7.0001,
 E273neovim:v0.1.5,vim:v7.0001,
 E274vim:v8.1.1828,v7.4.1433
 E275vim:v8.1.1844,v7.4.1433
-E276vim:v7.0001,v7.4.1433
+E276vim:v8.1.1876,v7.4.1433
 E277neovim:v0.1.0,vim:v7.0001,
 E278vim:v7.0001,v7.4.1433
 E279vim:v7.0001,v7.4.1433
@@ -9260,6 +9262,7 @@ psqlneovim:v0.1.0,vim:v7.2a,v7.2a.00
 ptcap-syntaxvim:v7.0001,v7.0139
 ptcap.vimneovim:v0.1.0,vim:v7.0001,
 pterm-mousevim:v7.0001,
+pum_getpos()vim:v8.1.1875,
 pumvisible()neovim:v0.1.0,vim:v7.0197,
 pushkeys()vim:v7.0e07,v7.0f
 putneovim:v0.1.0,vim:v7.0001,

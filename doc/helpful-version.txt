@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2019-08-16 22:01:02 UTC
+*helpful-version.txt*  Generated: 2019-08-17 22:01:02 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -17,6 +17,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|#{}|
+
+       Vim: +v8.1.1876 
 
 |$|
 
@@ -6425,6 +6429,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
+
+|+clipboard_working|
+
+       Vim: +v8.1.1876 
 
 |+cmd|
 
@@ -20326,7 +20334,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |E276|
 
-       Vim: +v7.0001 -v7.4.1433 
+       Vim: +v8.1.1876 -v7.4.1433 
 
 |E277|
 
@@ -44334,6 +44342,10 @@ A listing of helptags with the versions they became available or were removed.
 |pterm-mouse|
 
        Vim: +v7.0001 
+
+|pum_getpos()|
+
+       Vim: +v8.1.1875 
 
 |pumvisible()|
 
