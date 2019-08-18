@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2019-08-17 22:01:02 UTC
+*helpful-version.txt*  Generated: 2019-08-18 16:00:59 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -783,6 +783,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0153 
 
+|'completepopup'|
+
+       Vim: +v8.1.1882 
+
 |'completeslash'|
 
        Vim: +v8.1.1769 
@@ -834,6 +838,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|'cpp'|
+
+       Vim: +v8.1.1882 
 
 |'cpt'|
 
@@ -29451,6 +29459,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0220 
+
+|complete-popup|
+
+       Vim: +v8.1.1882 
 
 |complete_CTRL-E|
 
