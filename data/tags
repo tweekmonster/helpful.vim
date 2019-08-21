@@ -9166,11 +9166,13 @@ popup_dialog()vim:v8.1.1329,
 popup_dialog-examplevim:v8.1.1574,
 popup_filter_menu()vim:v8.1.1329,
 popup_filter_yesno()vim:v8.1.1329,
+popup_findinfo()vim:v8.1.1905,
+popup_findpreview()vim:v8.1.1905,
 popup_getlines()vim:v8.1.1329,v8.1.1364
 popup_getoptions()vim:v8.1.1329,
 popup_getpos()vim:v8.1.1429,
 popup_getposition()vim:v8.1.1391,v8.1.1429
-popup_getpreview()vim:v8.1.1770,
+popup_getpreview()vim:v8.1.1770,v8.1.1905
 popup_hide()vim:v8.1.1364,
 popup_locate()vim:v8.1.1673,
 popup_menu()vim:v8.1.1364,
