@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2019-08-21 22:01:02 UTC
+*helpful-version.txt*  Generated: 2019-08-23 22:01:03 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -26865,6 +26865,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |appendbufline()|
 
+    Neovim: +nightly 
        Vim: +v8.1.0037 
 
 |aquote|
@@ -30995,6 +30996,10 @@ A listing of helptags with the versions they became available or were removed.
 |easy|
 
        Vim: +v7.0001 
+
+|echospace-variable|
+
+       Vim: +v8.1.1913 
 
 |edit-a-file|
 
@@ -50953,6 +50958,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|v:echospace|
+
+       Vim: +v8.1.1913 
 
 |v:errmsg|
 
