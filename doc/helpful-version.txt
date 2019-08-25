@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2019-08-23 22:01:03 UTC
+*helpful-version.txt*  Generated: 2019-08-25 22:01:00 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -30999,6 +30999,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |echospace-variable|
 
+    Neovim: +nightly 
        Vim: +v8.1.1913 
 
 |edit-a-file|
@@ -38162,6 +38163,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |isinf()|
 
+    Neovim: +nightly 
        Vim: +v8.1.1111 
 
 |islocked()|
@@ -38171,6 +38173,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |isnan()|
 
+    Neovim: +nightly 
        Vim: +v7.4.1416 
 
 |it|
@@ -43852,6 +43855,10 @@ A listing of helptags with the versions they became available or were removed.
 |popup-scrollbar|
 
        Vim: +v8.1.1607 
+
+|popup-textprop-pos|
+
+       Vim: +v8.1.1928 
 
 |popup-usage|
 
@@ -50961,6 +50968,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |v:echospace|
 
+    Neovim: +nightly 
        Vim: +v8.1.1913 
 
 |v:errmsg|
