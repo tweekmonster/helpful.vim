@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2019-08-25 22:01:00 UTC
+*helpful-version.txt*  Generated: 2019-08-28 04:01:00 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -42793,9 +42793,17 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.3.0 
 
+|nvim_paste()|
+
+    Neovim: +dev 
+
 |nvim_provider.txt|
 
     Neovim: +v0.1.0 -v0.1.5 
+
+|nvim_put()|
+
+    Neovim: +dev 
 
 |nvim_python.txt|
 
@@ -43425,6 +43433,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|paste|
+
+    Neovim: +dev 
 
 |patches-8|
 
@@ -44340,6 +44352,10 @@ A listing of helptags with the versions they became available or were removed.
 |provider-nodejs|
 
     Neovim: +v0.3.0 
+
+|provider-paste|
+
+    Neovim: +dev 
 
 |provider-python|
 
@@ -50482,6 +50498,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +nightly 
 
+|ui-paste|
+
+    Neovim: +dev 
+
 |ui-popupmenu|
 
     Neovim: +v0.2.1 
@@ -52294,6 +52314,10 @@ A listing of helptags with the versions they became available or were removed.
 |vim.inspect()|
 
     Neovim: +nightly 
+
+|vim.paste()|
+
+    Neovim: +dev 
 
 |vim.schedule()|
 
