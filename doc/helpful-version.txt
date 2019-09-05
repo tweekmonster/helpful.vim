@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2019-09-05 16:00:56 UTC
+*helpful-version.txt*  Generated: 2019-09-05 22:01:00 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -9825,10 +9825,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |:<sflnum>|
 
+    Neovim: +dev 
        Vim: +v8.1.0362 
 
 |:<slnum>|
 
+    Neovim: +dev 
        Vim: +v8.1.0362 
 
 |:=|
@@ -17970,6 +17972,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |<cWORD>|
 
+    Neovim: +dev 
        Vim: +v8.1.0362 
 
 |<cexpr>|
@@ -17994,6 +17997,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |<cword>|
 
+    Neovim: +dev 
        Vim: +v8.1.0362 
 
 |<f-args>|
@@ -18153,6 +18157,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |<sflnum>|
 
+    Neovim: +dev 
        Vim: +v8.1.0362 
 
 |<slnum>|
@@ -24078,6 +24083,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |E961|
 
+    Neovim: +dev 
        Vim: +v8.1.0362 
 
 |E962|
@@ -45891,7 +45897,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |screenpos()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.1.1645 
 
 |screenrow()|
