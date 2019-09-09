@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2019-09-08 22:00:59 UTC
+*helpful-version.txt*  Generated: 2019-09-09 22:00:59 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -942,6 +942,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0222 
 
+|'culopt'|
+
+       Vim: +v8.1.2019 
+
 |'cursorbind'|
 
     Neovim: +v0.1.0 
@@ -956,6 +960,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0222 
+
+|'cursorlineopt'|
+
+       Vim: +v8.1.2019 
 
 |'cwh'|
 
@@ -19282,6 +19290,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|Context|
+
+    Neovim: +dev 
+
 |Cscope|
 
     Neovim: +v0.1.0 
@@ -25561,6 +25573,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|UI|
+
+    Neovim: +dev 
+
 |UTF-8|
 
     Neovim: +v0.1.0 
@@ -26808,6 +26824,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +nightly 
 
+|api-fast|
+
+    Neovim: +dev 
+
 |api-floatwin|
 
     Neovim: +nightly 
@@ -26836,9 +26856,21 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +nightly 
 
+|api-lua-detach|
+
+    Neovim: +dev 
+
+|api-mapping|
+
+    Neovim: +dev 
+
 |api-metadata|
 
     Neovim: +v0.1.5 
+
+|api-rpc|
+
+    Neovim: +dev 
 
 |api-tabpage|
 
@@ -29553,6 +29585,22 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|context|
+
+    Neovim: +dev 
+
+|context-dict|
+
+    Neovim: +dev 
+
+|context-stack|
+
+    Neovim: +dev 
+
+|context-types|
+
+    Neovim: +dev 
+
 |control|
 
     Neovim: +v0.1.0 
@@ -30129,6 +30177,30 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|ctx-functions|
+
+    Neovim: +dev 
+
+|ctxget()|
+
+    Neovim: +dev 
+
+|ctxpop()|
+
+    Neovim: +dev 
+
+|ctxpush()|
+
+    Neovim: +dev 
+
+|ctxset()|
+
+    Neovim: +dev 
+
+|ctxsize()|
+
+    Neovim: +dev 
 
 |ctype-variable|
 
@@ -38260,6 +38332,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |job|
 
+    Neovim: +dev 
        Vim: +v7.4.1325 
 
 |job-callback|
@@ -42479,6 +42552,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.6 
 
+|nvim__buf_stats()|
+
+    Neovim: +dev 
+
 |nvim__id()|
 
     Neovim: +v0.2.1 
@@ -42707,6 +42784,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.3.0 
 
+|nvim_get_context()|
+
+    Neovim: +dev 
+
 |nvim_get_current_buf()|
 
     Neovim: +v0.2.0 
@@ -42794,6 +42875,10 @@ A listing of helptags with the versions they became available or were removed.
 |nvim_list_wins()|
 
     Neovim: +v0.2.0 
+
+|nvim_load_context()|
+
+    Neovim: +dev 
 
 |nvim_open_win()|
 
@@ -45473,11 +45558,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |rpc-api|
 
-    Neovim: +v0.1.5 
+    Neovim: +v0.1.5 -dev 
 
 |rpc-api-client|
 
-    Neovim: +v0.1.5 
+    Neovim: +v0.1.5 -dev 
 
 |rpc-connecting|
 
@@ -45485,7 +45570,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |rpc-intro|
 
-    Neovim: +v0.1.5 
+    Neovim: +v0.1.5 -dev 
 
 |rpc-remote-ui|
 
@@ -45493,7 +45578,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |rpc-types|
 
-    Neovim: +v0.1.5 
+    Neovim: +v0.1.5 -dev 
 
 |rpcnotify()|
 
@@ -52338,9 +52423,17 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +nightly 
 
+|vim.pesc()|
+
+    Neovim: +dev 
+
 |vim.schedule()|
 
     Neovim: +nightly 
+
+|vim.schedule_wrap()|
+
+    Neovim: +dev 
 
 |vim.split()|
 
