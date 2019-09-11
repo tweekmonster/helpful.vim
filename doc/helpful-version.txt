@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2019-09-10 22:01:00 UTC
+*helpful-version.txt*  Generated: 2019-09-11 10:01:00 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -43004,6 +43004,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.2.0 
 
+|nvim_ui_pum_set_height()|
+
+    Neovim: +dev 
+
 |nvim_ui_set_option()|
 
     Neovim: +v0.2.0 
@@ -49933,6 +49937,10 @@ A listing of helptags with the versions they became available or were removed.
 |terminal-key-codes|
 
        Vim: +v8.0.0420 
+
+|terminal-mode-index|
+
+    Neovim: +dev 
 
 |terminal-ms-windows|
 
