@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2019-09-11 10:01:00 UTC
+*helpful-version.txt*  Generated: 2019-09-11 22:01:00 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -19292,7 +19292,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |Context|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |Cscope|
 
@@ -25575,7 +25575,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |UI|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |UTF-8|
 
@@ -26826,7 +26826,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |api-fast|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |api-floatwin|
 
@@ -26858,11 +26858,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |api-lua-detach|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |api-mapping|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |api-metadata|
 
@@ -26870,7 +26870,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |api-rpc|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |api-tabpage|
 
@@ -29587,19 +29587,19 @@ A listing of helptags with the versions they became available or were removed.
 
 |context|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |context-dict|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |context-stack|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |context-types|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |control|
 
@@ -30180,27 +30180,27 @@ A listing of helptags with the versions they became available or were removed.
 
 |ctx-functions|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |ctxget()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |ctxpop()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |ctxpush()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |ctxset()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |ctxsize()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |ctype-variable|
 
@@ -38332,7 +38332,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |job|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v7.4.1325 
 
 |job-callback|
@@ -42554,7 +42554,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |nvim__buf_stats()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim__id()|
 
@@ -42786,7 +42786,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |nvim_get_context()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_get_current_buf()|
 
@@ -42878,7 +42878,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |nvim_load_context()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_open_win()|
 
@@ -43006,7 +43006,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |nvim_ui_pum_set_height()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_ui_set_option()|
 
@@ -45562,11 +45562,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |rpc-api|
 
-    Neovim: +v0.1.5 -dev 
+    Neovim: +v0.1.5 -nightly 
 
 |rpc-api-client|
 
-    Neovim: +v0.1.5 -dev 
+    Neovim: +v0.1.5 -nightly 
 
 |rpc-connecting|
 
@@ -45574,7 +45574,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |rpc-intro|
 
-    Neovim: +v0.1.5 -dev 
+    Neovim: +v0.1.5 -nightly 
 
 |rpc-remote-ui|
 
@@ -45582,7 +45582,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |rpc-types|
 
-    Neovim: +v0.1.5 -dev 
+    Neovim: +v0.1.5 -nightly 
 
 |rpcnotify()|
 
@@ -49940,7 +49940,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |terminal-mode-index|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |terminal-ms-windows|
 
@@ -52433,7 +52433,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.pesc()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.schedule()|
 
@@ -52441,7 +52441,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.schedule_wrap()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.split()|
 
