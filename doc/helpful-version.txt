@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2019-09-11 22:01:00 UTC
+*helpful-version.txt*  Generated: 2019-09-13 04:00:57 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -25577,6 +25577,14 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +nightly 
 
+|UIEnter|
+
+    Neovim: +dev 
+
+|UILeave|
+
+    Neovim: +dev 
+
 |UTF-8|
 
     Neovim: +v0.1.0 
@@ -27802,7 +27810,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |buffers-menu|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |buflisted()|
@@ -42348,7 +42356,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |no_buffers_menu|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |no_mail_maps|
