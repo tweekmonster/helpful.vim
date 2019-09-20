@@ -6791,6 +6791,7 @@ ft-ia64-syntaxneovim:v0.1.0,vim:v7.0139,
 ft-inform-syntaxneovim:v0.1.0,vim:v7.0139,
 ft-java-syntaxneovim:v0.1.0,vim:v7.0139,
 ft-javascript-omnineovim:v0.1.0,vim:v7.0191,
+ft-json-syntaxvim:v8.1.2060,
 ft-ksh-syntaxneovim:v0.1.0,vim:v7.0139,
 ft-lace-syntaxneovim:v0.1.0,vim:v7.0139,
 ft-lex-syntaxneovim:v0.1.0,vim:v7.0139,
@@ -7984,6 +7985,7 @@ js_encode()neovim:v0.1.4,vim:v7.4.1304,
 jsbterm-mousevim:v7.0001,
 jsdecode()vim:v7.4.1279,v7.4.1304
 jsencode()vim:v7.4.1279,v7.4.1304
+json.vimvim:v8.1.2060,
 json_decode()neovim:v0.1.4,vim:v7.4.1304,
 json_encode()neovim:v0.1.4,vim:v7.4.1304,
 jsondecode()vim:v7.4.1154,v7.4.1304
