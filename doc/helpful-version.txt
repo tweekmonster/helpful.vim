@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2019-09-27 22:00:59 UTC
+*helpful-version.txt*  Generated: 2019-09-28 22:00:59 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -39382,6 +39382,18 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v7.0001 -v7.0139 
 
+|lua-treesitter|
+
+    Neovim: +nightly 
+
+|lua-treesitter-node|
+
+    Neovim: +nightly 
+
+|lua-treesitter-tree|
+
+    Neovim: +nightly 
+
 |lua-util|
 
     Neovim: +v0.4.0 
@@ -50519,6 +50531,74 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|tsnode:child()|
+
+    Neovim: +nightly 
+
+|tsnode:child_count()|
+
+    Neovim: +nightly 
+
+|tsnode:descendant_for_range()|
+
+    Neovim: +nightly 
+
+|tsnode:end_()|
+
+    Neovim: +nightly 
+
+|tsnode:has_error()|
+
+    Neovim: +nightly 
+
+|tsnode:missing()|
+
+    Neovim: +nightly 
+
+|tsnode:named()|
+
+    Neovim: +nightly 
+
+|tsnode:named_child()|
+
+    Neovim: +nightly 
+
+|tsnode:named_child_count()|
+
+    Neovim: +nightly 
+
+|tsnode:named_descendant_for_range()|
+
+    Neovim: +nightly 
+
+|tsnode:parent()|
+
+    Neovim: +nightly 
+
+|tsnode:range()|
+
+    Neovim: +nightly 
+
+|tsnode:sexpr()|
+
+    Neovim: +nightly 
+
+|tsnode:start()|
+
+    Neovim: +nightly 
+
+|tsnode:symbol()|
+
+    Neovim: +nightly 
+
+|tsnode:type()|
+
+    Neovim: +nightly 
+
+|tstree:root()|
+
+    Neovim: +nightly 
 
 |tui|
 
