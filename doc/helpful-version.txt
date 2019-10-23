@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2019-10-21 22:01:00 UTC
+*helpful-version.txt*  Generated: 2019-10-23 04:00:58 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -5519,6 +5519,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'tagfunc'|
 
+    Neovim: +dev 
        Vim: +v8.1.1228 
 
 |'taglength'|
@@ -5662,6 +5663,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'tfu'|
 
+    Neovim: +dev 
        Vim: +v8.1.1228 
 
 |'tgc'|
@@ -24224,10 +24226,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |E986|
 
+    Neovim: +dev 
        Vim: +v8.1.1228 
 
 |E987|
 
+    Neovim: +dev 
        Vim: +v8.1.1228 
 
 |E988|
@@ -49345,6 +49349,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |tag-function|
 
+    Neovim: +dev 
        Vim: +v8.1.1228 
 
 |tag-functions|
