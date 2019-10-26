@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2019-10-26 16:00:57 UTC
+*helpful-version.txt*  Generated: 2019-10-26 22:01:02 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -30408,6 +30408,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|dart.vim|
+
+       Vim: +v8.1.2222 
+
 |das|
 
     Neovim: +v0.1.0 
@@ -32807,6 +32811,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0139 
+
+|ft-dart-syntax|
+
+       Vim: +v8.1.2222 
 
 |ft-dash-syntax|
 
