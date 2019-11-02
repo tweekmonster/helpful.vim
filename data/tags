@@ -7339,7 +7339,7 @@ glvs-installneovim:v0.1.0,v0.1.2vim:v7.1a,
 glvs-optionsneovim:v0.1.0,v0.1.2vim:v7.1a,
 glvs-pluginsneovim:v0.1.0,v0.1.2vim:v7.0231,
 glvs-usageneovim:v0.1.0,v0.1.2vim:v7.1a,
-gmneovim:v0.1.0,vim:v8.1.2231,dev
+gmneovim:v0.1.0,vim:v8.1.2231,v8.1.2239
 gnneovim:v0.1.0,vim:v7.3.610,
 gnat#Insert_Tags_Header()neovim:v0.1.0,vim:v7.2a,v7.2a.00
 gnat#New()neovim:v0.1.0,vim:v7.2a,v7.2a.00
