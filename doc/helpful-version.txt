@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2019-11-05 23:01:01 UTC
+*helpful-version.txt*  Generated: 2019-11-06 11:01:04 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -5535,7 +5535,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'tagfunc'|
 
-    Neovim: +nightly 
+    Neovim: +dev -stable 
        Vim: +v8.1.1228 
 
 |'taglength'|
@@ -5679,7 +5679,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'tfu'|
 
-    Neovim: +nightly 
+    Neovim: +dev -stable 
        Vim: +v8.1.1228 
 
 |'tgc'|
@@ -10885,12 +10885,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |:cabo|
 
-    Neovim: +nightly 
+    Neovim: +dev -stable 
        Vim: +v8.1.1256 
 
 |:cabove|
 
-    Neovim: +nightly 
+    Neovim: +dev -stable 
        Vim: +v8.1.1256 
 
 |:cad|
@@ -10967,7 +10967,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |:cbe|
 
-    Neovim: +nightly 
+    Neovim: +dev -stable 
        Vim: +v8.1.1275 -v8.1.1281 
 
 |:cbefore|
@@ -10980,7 +10980,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |:cbelow|
 
-    Neovim: +nightly 
+    Neovim: +dev -stable 
        Vim: +v8.1.1256 
 
 |:cbo|
@@ -12796,12 +12796,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |:lab|
 
-    Neovim: +nightly 
+    Neovim: +dev -stable 
        Vim: +v8.1.1256 
 
 |:labove|
 
-    Neovim: +nightly 
+    Neovim: +dev -stable 
        Vim: +v8.1.1256 
 
 |:lad|
@@ -12879,7 +12879,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |:lbe|
 
-    Neovim: +nightly 
+    Neovim: +dev -stable 
        Vim: +v8.1.1281 -v8.1.1275 
 
 |:lbef|
@@ -12896,7 +12896,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |:lbelow|
 
-    Neovim: +nightly 
+    Neovim: +dev -stable 
        Vim: +v8.1.1256 
 
 |:lbo|
@@ -13025,7 +13025,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |:let-heredoc|
 
-    Neovim: +nightly 
+    Neovim: +dev -stable 
        Vim: +v8.1.1354 
 
 |:let-option|
@@ -13063,7 +13063,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |:let=<<|
 
-    Neovim: +nightly 
+    Neovim: +dev -stable 
        Vim: +v8.1.1354 
 
 |:letstar=|
@@ -19838,7 +19838,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |E172|
 
-    Neovim: +nightly -v0.2.1 
+    Neovim: +dev -stable 
        Vim: +v8.1.1723 -v8.0.1189 
 
 |E173|
@@ -20107,7 +20107,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |E221|
 
-    Neovim: +nightly 
+    Neovim: +dev -stable 
        Vim: +v8.1.1723 
 
 |E222|
@@ -24250,12 +24250,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |E986|
 
-    Neovim: +nightly 
+    Neovim: +dev -stable 
        Vim: +v8.1.1228 
 
 |E987|
 
-    Neovim: +nightly 
+    Neovim: +dev -stable 
        Vim: +v8.1.1228 
 
 |E988|
@@ -24273,12 +24273,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |E990|
 
-    Neovim: +nightly 
+    Neovim: +dev -stable 
        Vim: +v8.1.1354 
 
 |E991|
 
-    Neovim: +nightly 
+    Neovim: +dev -stable 
        Vim: +v8.1.1354 
 
 |E992|
@@ -27103,7 +27103,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |assert-return|
 
-    Neovim: +nightly 
+    Neovim: +dev -stable 
        Vim: +v8.0.1770 
 
 |assertEqual()|
@@ -27130,7 +27130,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |assert_equalfile()|
 
-    Neovim: +nightly 
+    Neovim: +dev -stable 
        Vim: +v8.0.1523 
 
 |assert_exception()|
@@ -30718,6 +30718,14 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.5 -v0.3.2 
 
+|dev-lua|
+
+    Neovim: +dev 
+
+|dev-lua-doc|
+
+    Neovim: +dev 
+
 |dev-provider|
 
     Neovim: +v0.1.5 
@@ -32146,6 +32154,10 @@ A listing of helptags with the versions they became available or were removed.
 |file-browser-5.2|
 
        Vim: +v7.0001 
+
+|file-change-detect|
+
+    Neovim: +dev 
 
 |file-explorer|
 
@@ -35079,7 +35091,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |gM|
 
-    Neovim: +nightly 
+    Neovim: +dev -stable 
        Vim: +v8.1.2231 
 
 |gN|
@@ -39387,7 +39399,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |lua-api|
 
-    Neovim: +v0.4.0 
+    Neovim: +v0.4.0 -dev 
 
 |lua-blob|
 
@@ -39396,6 +39408,10 @@ A listing of helptags with the versions they became available or were removed.
 |lua-buffer|
 
        Vim: +v7.3 
+
+|lua-builtin|
+
+    Neovim: +dev 
 
 |lua-commands|
 
@@ -39462,19 +39478,19 @@ A listing of helptags with the versions they became available or were removed.
 
 |lua-treesitter|
 
-    Neovim: +nightly 
+    Neovim: +dev -stable 
 
 |lua-treesitter-node|
 
-    Neovim: +nightly 
+    Neovim: +dev -stable 
 
 |lua-treesitter-tree|
 
-    Neovim: +nightly 
+    Neovim: +dev -stable 
 
 |lua-util|
 
-    Neovim: +v0.4.0 
+    Neovim: +v0.4.0 -dev 
 
 |lua-vim|
 
@@ -42499,7 +42515,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |nocombine|
 
-    Neovim: +nightly 
+    Neovim: +dev -stable 
        Vim: +v8.0.0914 
 
 |non-greedy|
@@ -49402,7 +49418,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |tag-function|
 
-    Neovim: +nightly 
+    Neovim: +dev -stable 
        Vim: +v8.1.1228 
 
 |tag-functions|
@@ -50633,71 +50649,71 @@ A listing of helptags with the versions they became available or were removed.
 
 |tsnode:child()|
 
-    Neovim: +nightly 
+    Neovim: +dev -stable 
 
 |tsnode:child_count()|
 
-    Neovim: +nightly 
+    Neovim: +dev -stable 
 
 |tsnode:descendant_for_range()|
 
-    Neovim: +nightly 
+    Neovim: +dev -stable 
 
 |tsnode:end_()|
 
-    Neovim: +nightly 
+    Neovim: +dev -stable 
 
 |tsnode:has_error()|
 
-    Neovim: +nightly 
+    Neovim: +dev -stable 
 
 |tsnode:missing()|
 
-    Neovim: +nightly 
+    Neovim: +dev -stable 
 
 |tsnode:named()|
 
-    Neovim: +nightly 
+    Neovim: +dev -stable 
 
 |tsnode:named_child()|
 
-    Neovim: +nightly 
+    Neovim: +dev -stable 
 
 |tsnode:named_child_count()|
 
-    Neovim: +nightly 
+    Neovim: +dev -stable 
 
 |tsnode:named_descendant_for_range()|
 
-    Neovim: +nightly 
+    Neovim: +dev -stable 
 
 |tsnode:parent()|
 
-    Neovim: +nightly 
+    Neovim: +dev -stable 
 
 |tsnode:range()|
 
-    Neovim: +nightly 
+    Neovim: +dev -stable 
 
 |tsnode:sexpr()|
 
-    Neovim: +nightly 
+    Neovim: +dev -stable 
 
 |tsnode:start()|
 
-    Neovim: +nightly 
+    Neovim: +dev -stable 
 
 |tsnode:symbol()|
 
-    Neovim: +nightly 
+    Neovim: +dev -stable 
 
 |tsnode:type()|
 
-    Neovim: +nightly 
+    Neovim: +dev -stable 
 
 |tstree:root()|
 
-    Neovim: +nightly 
+    Neovim: +dev -stable 
 
 |tui|
 
@@ -51015,9 +51031,13 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|user-function|
+
+    Neovim: +dev 
+
 |user-functions|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |user-manual|
@@ -52591,6 +52611,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
 
+|vim-function|
+
+    Neovim: +dev 
+
 |vim-indent|
 
        Vim: +v7.0015 -v7.0139 
@@ -52652,11 +52676,19 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.api|
 
-    Neovim: +nightly 
+    Neovim: +dev -stable 
+
+|vim.call()|
+
+    Neovim: +dev 
 
 |vim.deepcopy()|
 
     Neovim: +v0.4.0 
+
+|vim.fn|
+
+    Neovim: +dev 
 
 |vim.gsplit()|
 
@@ -52672,7 +52704,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.loop|
 
-    Neovim: +nightly 
+    Neovim: +dev -stable 
 
 |vim.paste()|
 
