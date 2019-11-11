@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2019-11-10 17:00:58 UTC
+*helpful-version.txt*  Generated: 2019-11-11 23:01:01 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -26897,6 +26897,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.4.0 
 
+|api-extended-marks|
+
+    Neovim: +dev 
+
 |api-fast|
 
     Neovim: +v0.4.0 
@@ -42753,6 +42757,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.3.2 
 
+|nvim_buf_del_extmark()|
+
+    Neovim: +dev 
+
 |nvim_buf_del_keymap()|
 
     Neovim: +v0.4.0 
@@ -42776,6 +42784,14 @@ A listing of helptags with the versions they became available or were removed.
 |nvim_buf_get_commands()|
 
     Neovim: +v0.3.0 
+
+|nvim_buf_get_extmark_by_id()|
+
+    Neovim: +dev 
+
+|nvim_buf_get_extmarks()|
+
+    Neovim: +dev 
 
 |nvim_buf_get_keymap()|
 
@@ -42824,6 +42840,10 @@ A listing of helptags with the versions they became available or were removed.
 |nvim_buf_lines_event|
 
     Neovim: +v0.3.0 
+
+|nvim_buf_set_extmark()|
+
+    Neovim: +dev 
 
 |nvim_buf_set_keymap()|
 
