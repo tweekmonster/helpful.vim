@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2019-11-11 23:01:01 UTC
+*helpful-version.txt*  Generated: 2019-11-12 11:01:01 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -52730,6 +52730,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.4.0 
 
+|vim.is_callable()|
+
+    Neovim: +dev 
+
 |vim.loop|
 
     Neovim: +nightly 
@@ -52801,6 +52805,10 @@ A listing of helptags with the versions they became available or were removed.
 |vim.val_idx|
 
     Neovim: +v0.4.0 
+
+|vim.validate()|
+
+    Neovim: +dev 
 
 |vim.vim|
 
