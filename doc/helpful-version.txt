@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2019-11-12 11:01:01 UTC
+*helpful-version.txt*  Generated: 2019-11-13 23:01:01 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -26799,6 +26799,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0c11 
 
+|after|
+
+    Neovim: +dev 
+
 |after-directory|
 
     Neovim: +v0.1.0 
@@ -39396,6 +39400,66 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|lsp#add_filetype_config()|
+
+    Neovim: +dev 
+
+|lsp#get_log_path()|
+
+    Neovim: +dev 
+
+|lsp#omnifunc|
+
+    Neovim: +dev 
+
+|lsp#set_log_level()|
+
+    Neovim: +dev 
+
+|lsp-advanced-js-example|
+
+    Neovim: +dev 
+
+|lsp-api|
+
+    Neovim: +dev 
+
+|lsp-buf-methods|
+
+    Neovim: +dev 
+
+|lsp-callbacks|
+
+    Neovim: +dev 
+
+|lsp-client|
+
+    Neovim: +dev 
+
+|lsp-core-api|
+
+    Neovim: +dev 
+
+|lsp-filetype-config|
+
+    Neovim: +dev 
+
+|lsp-logging|
+
+    Neovim: +dev 
+
+|lsp-omnifunc|
+
+    Neovim: +dev 
+
+|lsp-vim-functions|
+
+    Neovim: +dev 
+
+|lsp.txt|
+
+    Neovim: +dev 
+
 |lua|
 
     Neovim: +v0.2.1 
@@ -43435,6 +43499,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|only|
+
+    Neovim: +dev 
 
 |opening-window|
 
@@ -52737,6 +52805,82 @@ A listing of helptags with the versions they became available or were removed.
 |vim.loop|
 
     Neovim: +nightly 
+
+|vim.lsp.add_filetype_config()|
+
+    Neovim: +dev 
+
+|vim.lsp.buf_attach_client()|
+
+    Neovim: +dev 
+
+|vim.lsp.buf_notify()|
+
+    Neovim: +dev 
+
+|vim.lsp.buf_request()|
+
+    Neovim: +dev 
+
+|vim.lsp.buf_request_sync()|
+
+    Neovim: +dev 
+
+|vim.lsp.builtin_callbacks|
+
+    Neovim: +dev 
+
+|vim.lsp.copy_filetype_config()|
+
+    Neovim: +dev 
+
+|vim.lsp.get_active_clients()|
+
+    Neovim: +dev 
+
+|vim.lsp.get_client_by_id()|
+
+    Neovim: +dev 
+
+|vim.lsp.get_filetype_client_by_name()|
+
+    Neovim: +dev 
+
+|vim.lsp.get_log_path()|
+
+    Neovim: +dev 
+
+|vim.lsp.log_levels|
+
+    Neovim: +dev 
+
+|vim.lsp.omnifunc()|
+
+    Neovim: +dev 
+
+|vim.lsp.protocol|
+
+    Neovim: +dev 
+
+|vim.lsp.rpc_response_error()|
+
+    Neovim: +dev 
+
+|vim.lsp.start_client()|
+
+    Neovim: +dev 
+
+|vim.lsp.stop_all_clients()|
+
+    Neovim: +dev 
+
+|vim.lsp.stop_client()|
+
+    Neovim: +dev 
+
+|vim.lsp.util|
+
+    Neovim: +dev 
 
 |vim.paste()|
 
