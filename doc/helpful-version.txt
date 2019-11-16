@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2019-11-14 23:01:02 UTC
+*helpful-version.txt*  Generated: 2019-11-16 23:01:02 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -35397,6 +35397,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.1.040 
 
+|getmousepos()|
+
+       Vim: +v8.1.2304 
+
 |getpid()|
 
     Neovim: +v0.1.0 
@@ -39559,6 +39563,10 @@ A listing of helptags with the versions they became available or were removed.
 |lua-util|
 
     Neovim: +v0.4.0 -nightly 
+
+|lua-variable|
+
+    Neovim: +dev 
 
 |lua-vim|
 
@@ -51562,6 +51570,14 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|v:lua|
+
+    Neovim: +dev 
+
+|v:lua-call|
+
+    Neovim: +dev 
 
 |v:mouse_col|
 
