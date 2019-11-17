@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2019-11-17 05:01:00 UTC
+*helpful-version.txt*  Generated: 2019-11-17 17:01:00 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -25491,6 +25491,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.3.616 
 
+|TOhtml-progress-color|
+
+       Vim: +v8.1.2312 
+
 |TOhtml-uncopyable-text|
 
     Neovim: +v0.1.0 
@@ -34129,6 +34133,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.3.616 
 
+|g:html_use_input_for_pc|
+
+       Vim: +v8.1.2312 
+
 |g:html_use_xhtml|
 
     Neovim: +v0.1.0 
@@ -37043,6 +37051,10 @@ A listing of helptags with the versions they became available or were removed.
 |hl-Substitute|
 
     Neovim: +v0.1.7 
+
+|hl-TOhtmlProgress|
+
+       Vim: +v8.1.2312 
 
 |hl-TabLine|
 
