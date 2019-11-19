@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2019-11-18 05:01:01 UTC
+*helpful-version.txt*  Generated: 2019-11-19 11:01:03 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -13435,7 +13435,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |:lua-heredoc|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |:luado|
 
@@ -32171,10 +32171,6 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v7.0001 
 
-|file-change-detect|
-
-    Neovim: +nightly -dev 
-
 |file-explorer|
 
        Vim: +v7.0066 -v7.0122 
@@ -37960,7 +37956,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |if_lua.txt|
 
-    Neovim: +v0.2.1 -dev 
+    Neovim: +v0.2.1 -nightly 
        Vim: +v7.3 
 
 |if_mzsch.txt|
@@ -39546,7 +39542,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |lua-package-path|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-require|
 
@@ -39615,7 +39611,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |lua.txt|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua.vim|
 
@@ -52820,7 +52816,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.deep_equal()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.deepcopy()|
 
@@ -52848,7 +52844,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.list_extend()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.loop|
 
@@ -52972,7 +52968,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.tbl_add_reverse_lookup()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.tbl_contains()|
 
@@ -52988,19 +52984,19 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.tbl_isempty()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.tbl_islist()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.tbl_keys()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.tbl_values()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.trim()|
 
@@ -53462,7 +53458,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |watch-file|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |white-space|
 
