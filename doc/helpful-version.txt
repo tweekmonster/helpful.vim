@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2019-11-21 17:01:01 UTC
+*helpful-version.txt*  Generated: 2019-11-24 17:00:59 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -27635,6 +27635,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|before|
+
+    Neovim: +dev 
+
 |beos-colors|
 
        Vim: +v7.0001 
@@ -39418,19 +39422,19 @@ A listing of helptags with the versions they became available or were removed.
 
 |lsp#add_filetype_config()|
 
-    Neovim: +nightly 
+    Neovim: +nightly -dev 
 
 |lsp#get_log_path()|
 
-    Neovim: +nightly 
+    Neovim: +nightly -dev 
 
 |lsp#omnifunc|
 
-    Neovim: +nightly 
+    Neovim: +nightly -dev 
 
 |lsp#set_log_level()|
 
-    Neovim: +nightly 
+    Neovim: +nightly -dev 
 
 |lsp-advanced-js-example|
 
@@ -39458,7 +39462,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |lsp-filetype-config|
 
-    Neovim: +nightly 
+    Neovim: +nightly -dev 
 
 |lsp-logging|
 
@@ -52856,7 +52860,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.lsp.add_filetype_config()|
 
-    Neovim: +nightly 
+    Neovim: +nightly -dev 
 
 |vim.lsp.buf_attach_client()|
 
@@ -52876,11 +52880,15 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.lsp.builtin_callbacks|
 
-    Neovim: +nightly 
+    Neovim: +nightly -dev 
 
 |vim.lsp.copy_filetype_config()|
 
-    Neovim: +nightly 
+    Neovim: +nightly -dev 
+
+|vim.lsp.default_callbacks|
+
+    Neovim: +dev 
 
 |vim.lsp.get_active_clients()|
 
@@ -52892,7 +52900,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.lsp.get_filetype_client_by_name()|
 
-    Neovim: +nightly 
+    Neovim: +nightly -dev 
 
 |vim.lsp.get_log_path()|
 
@@ -52913,6 +52921,10 @@ A listing of helptags with the versions they became available or were removed.
 |vim.lsp.rpc_response_error()|
 
     Neovim: +nightly 
+
+|vim.lsp.set_log_level()|
+
+    Neovim: +dev 
 
 |vim.lsp.start_client()|
 
