@@ -9494,6 +9494,7 @@ quotestarneovim:v0.1.0,vim:v7.0001,
 quote~neovim:v0.1.0,v0.1.2vim:v7.0001,
 rneovim:v0.1.0,vim:v7.0001,
 r.vimneovim:v0.3.2,vim:v8.1.0332,
+rand()vim:v8.1.2342,
 range()neovim:v0.1.0,vim:v7.0038,
 raw-terminal-modeneovim:v0.1.0,v0.2.0vim:v7.0001,
 rcpneovim:v0.1.0,vim:v7.0001,
@@ -10027,6 +10028,7 @@ sqljneovim:v0.1.0,vim:v7.2a,v7.2a.00
 sqlserverneovim:v0.1.0,vim:v7.2a,v7.2a.00
 sqlsettypeneovim:v0.1.0,vim:v7.2a,v7.2a.00
 sqrt()neovim:v0.1.0,vim:v7.2a,
+srand()vim:v8.1.2342,
 sscanfneovim:v0.1.0,vim:v7.0001,
 standard-pathneovim:v0.2.1,
 standard-pluginneovim:v0.1.0,vim:v7.0001,
