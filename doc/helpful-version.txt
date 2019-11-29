@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2019-11-26 23:01:03 UTC
+*helpful-version.txt*  Generated: 2019-11-29 05:00:59 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -28955,12 +28955,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |characterwise-register|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |characterwise-visual|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |charconvert_from-variable|
@@ -28990,15 +28990,15 @@ A listing of helptags with the versions they became available or were removed.
 
 |charwise|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |charwise-register|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |charwise-visual|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |chdir()|
 
@@ -39450,7 +39450,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |lsp|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lsp-advanced-js-example|
 
