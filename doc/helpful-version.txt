@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2019-11-29 05:00:59 UTC
+*helpful-version.txt*  Generated: 2019-11-30 17:01:00 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -26770,6 +26770,10 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v8.1.0000 
 
+|added-8.2|
+
+       Vim: +v8.1.2365 
+
 |added-BeOS|
 
        Vim: +v7.0001 
@@ -28793,6 +28797,10 @@ A listing of helptags with the versions they became available or were removed.
 |changed-8.1|
 
        Vim: +v8.1.0000 
+
+|changed-8.2|
+
+       Vim: +v8.1.2365 
 
 |changelist|
 
@@ -42477,6 +42485,10 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v7.0001 
 
+|new-popup-window|
+
+       Vim: +v8.1.2365 
+
 |new-posix|
 
        Vim: +v7.0050 
@@ -42541,6 +42553,10 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v8.1.0000 
 
+|new-text-properties|
+
+       Vim: +v8.1.2365 
+
 |new-undo-branches|
 
        Vim: +v7.0224 
@@ -42580,6 +42596,10 @@ A listing of helptags with the versions they became available or were removed.
 |new-vimgrep|
 
        Vim: +v7.0026 
+
+|new-vimscript-8.2|
+
+       Vim: +v8.1.2365 
 
 |new-virtedit|
 
@@ -44413,6 +44433,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0231 
+
+|popupwin|
+
+       Vim: +v8.1.2365 
 
 |ports-5.2|
 
@@ -52625,6 +52649,10 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v8.1.0000 
 
+|version-8.2|
+
+       Vim: +v8.1.2365 
+
 |version-variable|
 
     Neovim: +v0.1.0 
@@ -52673,6 +52701,10 @@ A listing of helptags with the versions they became available or were removed.
 |version8.1|
 
        Vim: +v8.1.0000 
+
+|version8.2|
+
+       Vim: +v8.1.2365 
 
 |version8.txt|
 
@@ -52741,6 +52773,10 @@ A listing of helptags with the versions they became available or were removed.
 |vim-8.1|
 
        Vim: +v8.1.0000 
+
+|vim-8.2|
+
+       Vim: +v8.1.2365 
 
 |vim-additions|
 
