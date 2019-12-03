@@ -8966,6 +8966,8 @@ nvim_err_write()neovim:v0.2.0,
 nvim_err_writeln()neovim:v0.2.0,
 nvim_error_eventneovim:v0.3.2,
 nvim_eval()neovim:v0.2.0,
+nvim_exec()neovim:dev,
+nvim_exec_lua()neovim:dev,
 nvim_execute_lua()neovim:v0.2.1,
 nvim_feedkeys()neovim:v0.2.0,
 nvim_from_vim.txtneovim:v0.1.0,v0.1.5
