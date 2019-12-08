@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2019-12-07 17:01:01 UTC
+*helpful-version.txt*  Generated: 2019-12-08 17:00:59 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -33132,6 +33132,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0139 
 
+|ft-matlab-indent|
+
+       Vim: +v8.1.2411 
+
 |ft-mma-syntax|
 
     Neovim: +v0.1.0 
@@ -40235,6 +40239,14 @@ A listing of helptags with the versions they became available or were removed.
 |mathematica-syntax|
 
        Vim: +v7.0072 -v7.0139 
+
+|matlab-indent|
+
+       Vim: +v8.1.2411 
+
+|matlab-indenting|
+
+       Vim: +v8.1.2411 
 
 |max()|
 
