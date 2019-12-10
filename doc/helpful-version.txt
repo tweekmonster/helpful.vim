@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2019-12-10 11:01:05 UTC
+*helpful-version.txt*  Generated: 2019-12-10 23:01:02 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -2057,7 +2057,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'jop'|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |'js'|
 
@@ -2066,7 +2066,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'jumpoptions'|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |'key'|
 
@@ -38806,7 +38806,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |jumplist-stack|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |jumpto-diffs|
 
@@ -39488,10 +39488,6 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +nightly 
 
-|lsp-api|
-
-    Neovim: +nightly -dev 
-
 |lsp-buf-methods|
 
     Neovim: +nightly 
@@ -39506,7 +39502,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |lsp-config|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lsp-core-api|
 
@@ -39514,19 +39510,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |lsp-intro|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lsp-logging|
 
     Neovim: +nightly 
-
-|lsp-omnifunc|
-
-    Neovim: +nightly -dev 
-
-|lsp-vim-functions|
-
-    Neovim: +nightly -dev 
 
 |lsp.txt|
 
@@ -52988,11 +52976,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.lsp.callbacks|
 
-    Neovim: +dev 
-
-|vim.lsp.default_callbacks|
-
-    Neovim: +nightly -dev 
+    Neovim: +nightly 
 
 |vim.lsp.get_active_clients()|
 
