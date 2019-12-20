@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2019-12-19 23:01:05 UTC
+*helpful-version.txt*  Generated: 2019-12-20 23:01:02 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -33306,7 +33306,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |ft-rego-syntax|
 
-       Vim: +dev 
+       Vim: +v8.2.0025 
 
 |ft-rexx-syntax|
 
@@ -45642,7 +45642,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |rego.vim|
 
-       Vim: +dev 
+       Vim: +v8.2.0025 
 
 |regular-expression|
 
