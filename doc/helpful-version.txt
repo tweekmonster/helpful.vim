@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2019-12-22 23:01:03 UTC
+*helpful-version.txt*  Generated: 2019-12-26 17:01:02 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -30609,7 +30609,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |debugger-integration|
 
-       Vim: +v7.0001 
+       Vim: +v7.0001 -dev 
 
 |debugger-support|
 

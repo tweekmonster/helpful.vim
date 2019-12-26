@@ -6310,7 +6310,7 @@ debug.txtneovim:v0.1.0,vim:v7.0140,
 debugbreak()vim:v8.1.0091,
 debugger-compilationvim:v7.0001,
 debugger-featuresneovim:v0.1.0,v0.1.2vim:v7.0001,
-debugger-integrationvim:v7.0001,
+debugger-integrationvim:v7.0001,dev
 debugger-supportneovim:v0.1.0,v0.1.2vim:v7.0001,
 debugger.txtneovim:v0.1.0,v0.1.2vim:v7.0001,
 dec-mousevim:v7.0001,
