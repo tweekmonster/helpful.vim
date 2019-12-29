@@ -11129,7 +11129,6 @@ vim.lsp.buf_request_sync()neovim:nightly,
 vim.lsp.callbacksneovim:nightly,
 vim.lsp.get_active_clients()neovim:nightly,
 vim.lsp.get_client_by_id()neovim:nightly,
-vim.lsp.get_client_by_name()neovim:nightly,dev
 vim.lsp.get_log_path()neovim:nightly,
 vim.lsp.log_levelsneovim:nightly,
 vim.lsp.omnifunc()neovim:nightly,
