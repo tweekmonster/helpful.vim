@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2019-12-30 17:01:02 UTC
+*helpful-version.txt*  Generated: 2019-12-30 23:01:04 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -4054,7 +4054,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'pumwidth'|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.0.1491 
 
 |'pvh'|
@@ -4073,7 +4073,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'pw'|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.0.1491 
 
 |'python3dll'|
@@ -17656,7 +17656,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |<Ignore>|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.1.1303 
 
 |<Insert>|
@@ -42886,11 +42886,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |nvim__buf_redraw_range()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim__buf_set_luahl()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim__buf_stats()|
 
@@ -42918,7 +42918,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |nvim__put_attr()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim__stats()|
 
@@ -43186,7 +43186,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |nvim_get_hl_id_by_name()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_get_keymap()|
 
