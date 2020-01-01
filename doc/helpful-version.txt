@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2020-01-01 17:01:01 UTC
+*helpful-version.txt*  Generated: 2020-01-01 23:01:04 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -20502,6 +20502,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |E292|
 
+    Neovim: +nightly 
        Vim: +v8.2.0074 -v7.3.471 
 
 |E293|
@@ -24098,7 +24099,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |E950|
 
-    Neovim: +v0.3.2 
+    Neovim: +v0.3.2 -nightly 
        Vim: +v8.0.1490 
 
 |E951|
@@ -26830,10 +26831,6 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0c11 
 
-|after|
-
-    Neovim: +nightly -dev 
-
 |after-directory|
 
     Neovim: +v0.1.0 
@@ -27657,10 +27654,6 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
-
-|before|
-
-    Neovim: +nightly -dev 
 
 |beos-colors|
 
@@ -39491,29 +39484,17 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +nightly 
 
-|lsp-advanced-js-example|
-
-    Neovim: +nightly -dev 
-
 |lsp-api|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lsp-buf|
 
-    Neovim: +dev 
-
-|lsp-buf-methods|
-
-    Neovim: +nightly -dev 
+    Neovim: +nightly 
 
 |lsp-callbacks|
 
     Neovim: +nightly 
-
-|lsp-client|
-
-    Neovim: +nightly -dev 
 
 |lsp-config|
 
@@ -39521,43 +39502,31 @@ A listing of helptags with the versions they became available or were removed.
 
 |lsp-core|
 
-    Neovim: +dev 
-
-|lsp-core-api|
-
-    Neovim: +nightly -dev 
+    Neovim: +nightly 
 
 |lsp-extension-example|
 
-    Neovim: +dev 
-
-|lsp-intro|
-
-    Neovim: +nightly -dev 
+    Neovim: +nightly 
 
 |lsp-log|
 
-    Neovim: +dev 
-
-|lsp-logging|
-
-    Neovim: +nightly -dev 
+    Neovim: +nightly 
 
 |lsp-protocol|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lsp-quickstart|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lsp-rpc|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lsp-util|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lsp.txt|
 
@@ -43670,10 +43639,6 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
-
-|only|
-
-    Neovim: +nightly -dev 
 
 |opening-window|
 
@@ -53010,6 +52975,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.4.0 
 
+|vim.empty_dict()|
+
+    Neovim: +nightly 
+
 |vim.fn|
 
     Neovim: +nightly 
@@ -53040,63 +53009,63 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.lsp.buf.completion()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.buf.declaration()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.buf.definition()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.buf.formatting()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.buf.hover()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.buf.implementation()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.buf.npcall()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.buf.ok_or_nil()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.buf.peek_definition()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.buf.range_formatting()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.buf.references()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.buf.rename()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.buf.request()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.buf.signature_help()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.buf.type_definition()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.buf_attach_client()|
 
@@ -53104,15 +53073,15 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.lsp.buf_get_clients()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.buf_get_full_text()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.buf_is_attached()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.buf_notify()|
 
@@ -53126,45 +53095,41 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +nightly 
 
-|vim.lsp.callbacks|
-
-    Neovim: +nightly -dev 
-
 |vim.lsp.callbacks.err_message()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.callbacks.location_callback()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.callbacks.log_message()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.callbacks.signature_help_to_preview_contents()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.cancel_request()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.client|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.client_is_stopped()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.err_message()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.for_each_buffer_client()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.get_active_clients()|
 
@@ -53180,47 +53145,43 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.lsp.initialize()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.is_dir()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.is_stopped()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.log.get_filename()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.log.path_join()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.log.set_level()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.log.should_log()|
 
-    Neovim: +dev 
-
-|vim.lsp.log_levels|
-
-    Neovim: +nightly -dev 
+    Neovim: +nightly 
 
 |vim.lsp.next_client_id()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.notification()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.notify()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.omnifunc()|
 
@@ -53228,19 +53189,19 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.lsp.on_error()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.on_exit()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.once()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.optional_validator()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.protocol|
 
@@ -53248,135 +53209,131 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.lsp.protocol.ifnil()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.protocol.make_client_capabilities()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.protocol.resolve_capabilities()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.protocol.transform_schema_comments()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.protocol.transform_schema_to_table()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.request()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.resolve_bufnr()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.resolve_callback()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.rpc.convert_NIL()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.rpc.create_and_start_client()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.rpc.encode_and_send()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.rpc.force_env_list()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.rpc.format_message_with_content_length()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.rpc.format_rpc_error()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.rpc.handle_body()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.rpc.is_dir()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.rpc.json_decode()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.rpc.json_encode()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.rpc.notification()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.rpc.on_error()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.rpc.on_exit()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.rpc.onexit()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.rpc.parse_headers()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.rpc.pcall_handler()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.rpc.request_parser_loop()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.rpc.rpc_response_error()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.rpc.send_notification()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.rpc.send_request()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.rpc.send_response()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.rpc.server_request()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.rpc.try_call()|
 
-    Neovim: +dev 
-
-|vim.lsp.rpc_response_error()|
-
-    Neovim: +nightly -dev 
+    Neovim: +nightly 
 
 |vim.lsp.server_request()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.set_log_level()|
 
@@ -53388,11 +53345,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.lsp.stop()|
 
-    Neovim: +dev 
-
-|vim.lsp.stop_all_clients()|
-
-    Neovim: +nightly -dev 
+    Neovim: +nightly 
 
 |vim.lsp.stop_client()|
 
@@ -53400,175 +53353,171 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.lsp.text_document_did_open_handler()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.unsupported_method()|
 
-    Neovim: +dev 
-
-|vim.lsp.util|
-
-    Neovim: +nightly -dev 
+    Neovim: +nightly 
 
 |vim.lsp.util.apply_text_document_edit()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.util.apply_text_edits()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.util.apply_workspace_edit()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.util.buf_clear_diagnostics()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.util.buf_diagnostics_save_positions()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.util.buf_diagnostics_underline()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.util.buf_diagnostics_virtual_text()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.util.character_offset()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.util.close_preview_autocmd()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.util.convert_input_to_markdown_lines()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.util.extract_completion_items()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.util.fancy_floating_markdown()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.util.find_window_by_var()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.util.focusable_float()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.util.focusable_preview()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.util.get_current_line_to_cursor()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.util.get_severity_highlight_name()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.util.highlight_range()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.util.highlight_region()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.util.jump_to_location()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.util.locations_to_items()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.util.make_floating_popup_options()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.util.make_position_params()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.util.npcall()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.util.ok_or_nil()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.util.open_floating_peek_preview()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.util.open_floating_preview()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.util.set_lines()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.util.set_loclist()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.util.set_qflist()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.util.show_line_diagnostics()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.util.sort_by_key()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.util.split_lines()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.util.text_document_completion_list_to_complete_items()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.util.trim_empty_lines()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.util.try_trim_markdown_code_blocks()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.util.validate_lsp_position()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.validate_client_config()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.validate_command()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.validate_encoding()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.paste()|
 
