@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2020-01-09 11:01:05 UTC
+*helpful-version.txt*  Generated: 2020-01-09 23:01:06 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -39369,6 +39369,10 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v7.4.1725 
 
+|logiPat-cmd|
+
+       Vim: +dev 
+
 |logiPat-contents|
 
        Vim: +v7.4.1725 
@@ -39510,11 +39514,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |lsp-faq|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lsp-highlight|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lsp-log|
 
