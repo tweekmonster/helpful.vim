@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2020-01-10 23:01:05 UTC
+*helpful-version.txt*  Generated: 2020-01-13 11:01:04 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -18680,6 +18680,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0c10 
 
+|CTRL-<Tab>|
+
+    Neovim: +dev 
+
 |CTRL-A|
 
     Neovim: +v0.1.0 
@@ -19070,6 +19074,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|CTRL-W_g<Tab>|
+
+    Neovim: +dev 
 
 |CTRL-W_gF|
 
@@ -35101,6 +35109,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|g<Tab>|
+
+    Neovim: +dev 
 
 |g<Up>|
 
@@ -52991,6 +53003,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +nightly 
 
+|vim.endswith()|
+
+    Neovim: +dev 
+
 |vim.fn|
 
     Neovim: +nightly 
@@ -53558,6 +53574,10 @@ A listing of helptags with the versions they became available or were removed.
 |vim.split()|
 
     Neovim: +v0.4.0 
+
+|vim.startswith()|
+
+    Neovim: +dev 
 
 |vim.str_byteindex()|
 
