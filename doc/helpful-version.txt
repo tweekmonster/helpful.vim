@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2020-01-14 23:01:04 UTC
+*helpful-version.txt*  Generated: 2020-01-19 11:01:04 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -25894,6 +25894,10 @@ A listing of helptags with the versions they became available or were removed.
 |WinBar|
 
        Vim: +v8.0.1129 
+
+|WinClosed|
+
+    Neovim: +dev 
 
 |WinEnter|
 
