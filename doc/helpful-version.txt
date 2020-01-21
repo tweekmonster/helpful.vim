@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2020-01-19 23:01:04 UTC
+*helpful-version.txt*  Generated: 2020-01-21 05:01:03 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -34215,6 +34215,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.3.0 
 
+|g:loaded_perl_provider|
+
+    Neovim: +dev 
+
 |g:loaded_python3_provider|
 
     Neovim: +v0.1.0 
@@ -34778,6 +34782,10 @@ A listing of helptags with the versions they became available or were removed.
 |g:node_host_prog|
 
     Neovim: +v0.3.0 
+
+|g:perl_host_prog|
+
+    Neovim: +dev 
 
 |g:python3_host_prog|
 
@@ -44880,6 +44888,10 @@ A listing of helptags with the versions they became available or were removed.
 |provider-paste|
 
     Neovim: +v0.4.0 
+
+|provider-perl|
+
+    Neovim: +dev 
 
 |provider-python|
 
