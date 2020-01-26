@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2020-01-21 23:01:03 UTC
+*helpful-version.txt*  Generated: 2020-01-26 17:01:02 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -11636,6 +11636,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|:def|
+
+       Vim: +v8.2.0149 
+
 |:del|
 
     Neovim: +v0.1.0 
@@ -12000,6 +12004,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.4.0 
        Vim: +v8.1.1473 
 
+|:enddef|
+
+       Vim: +v8.2.0149 
+
 |:endf|
 
     Neovim: +v0.1.0 
@@ -12098,6 +12106,14 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|:exp|
+
+       Vim: +v8.2.0149 
+
+|:export|
+
+       Vim: +v8.2.0149 
 
 |:exu|
 
@@ -12602,6 +12618,18 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|:imp|
+
+       Vim: +v8.2.0149 
+
+|:import|
+
+       Vim: +v8.2.0149 
+
+|:import-cycle|
+
+       Vim: +v8.2.0149 
 
 |:in|
 
@@ -16885,6 +16913,14 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0025 
+
+|:vim9|
+
+       Vim: +v8.2.0149 
+
+|:vim9script|
+
+       Vim: +v8.2.0149 
 
 |:vimgrep|
 
@@ -32185,6 +32221,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|fast-functions|
+
+       Vim: +v8.2.0149 
 
 |fcs_choice-variable|
 
@@ -51056,6 +51096,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|type-inference|
+
+       Vim: +v8.2.0149 
+
 |type-mistakes|
 
     Neovim: +v0.1.0 
@@ -53679,6 +53723,38 @@ A listing of helptags with the versions they became available or were removed.
 |vim8|
 
        Vim: +v7.4.1725 
+
+|vim9-differences|
+
+       Vim: +v8.2.0149 
+
+|vim9-export|
+
+       Vim: +v8.2.0149 
+
+|vim9-import|
+
+       Vim: +v8.2.0149 
+
+|vim9-rationale|
+
+       Vim: +v8.2.0149 
+
+|vim9-script|
+
+       Vim: +v8.2.0149 
+
+|vim9-types|
+
+       Vim: +v8.2.0149 
+
+|vim9.txt|
+
+       Vim: +v8.2.0149 
+
+|vim9script|
+
+       Vim: +v8.2.0149 
 
 |vim:|
 
