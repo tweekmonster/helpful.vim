@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2020-01-27 05:01:05 UTC
+*helpful-version.txt*  Generated: 2020-01-27 23:01:03 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -19386,7 +19386,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |CompleteDonePre|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.2.0158 
 
 |ConPTY|
