@@ -4845,7 +4845,7 @@ E86neovim:v0.1.0,vim:v7.0001,
 E860neovim:v0.1.0,v0.2.0vim:v7.3.601,v7.4.1761
 E861vim:v7.3.601,v7.3.999
 E862neovim:v0.1.0,vim:v7.3.832,
-E863neovim:v0.1.0,v0.2.0vim:v7.3.964,v7.4.1761
+E863neovim:v0.1.0,v0.2.0vim:v8.2.0210,v7.4.1761
 E864neovim:v0.1.0,vim:v7.3.970,
 E865neovim:v0.1.0,vim:v7.3.970,
 E866neovim:v0.1.0,vim:v7.3.970,
@@ -9289,6 +9289,7 @@ popup-menu-addedvim:v7.0001,
 popup-positionvim:v8.1.1391,
 popup-propsvim:v8.1.1329,
 popup-scrollbarvim:v8.1.1607,
+popup-terminalvim:v8.2.0210,
 popup-textprop-posvim:v8.1.1928,
 popup-usagevim:v8.1.1628,
 popup-windowvim:v8.1.1329,
