@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2020-02-04 23:01:04 UTC
+*helpful-version.txt*  Generated: 2020-02-05 23:01:04 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -50582,6 +50582,10 @@ A listing of helptags with the versions they became available or were removed.
 |test_autochdir()|
 
        Vim: +v7.4.2099 
+
+|test_clear_search_pat()|
+
+       Vim: +v8.2.0212 
 
 |test_disable_char_avail()|
 
