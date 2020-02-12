@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2020-02-08 17:01:02 UTC
+*helpful-version.txt*  Generated: 2020-02-12 11:01:05 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -30645,6 +30645,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |debugbreak()|
 
+    Neovim: +dev 
        Vim: +v8.1.0091 
 
 |debugger-compilation|
@@ -44862,14 +44863,17 @@ A listing of helptags with the versions they became available or were removed.
 
 |prompt_setcallback()|
 
+    Neovim: +dev 
        Vim: +v8.1.0027 
 
 |prompt_setinterrupt()|
 
+    Neovim: +dev 
        Vim: +v8.1.0069 
 
 |prompt_setprompt()|
 
+    Neovim: +dev 
        Vim: +v8.1.0027 
 
 |promptbuffer-functions|
@@ -50333,6 +50337,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |termdebug-prompt|
 
+    Neovim: +dev 
        Vim: +v8.1.0071 
 
 |termdebug-starting|
@@ -50361,6 +50366,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |termdebug_use_prompt|
 
+    Neovim: +dev 
        Vim: +v8.1.0071 
 
 |termdebug_wide|
