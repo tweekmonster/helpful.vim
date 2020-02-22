@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2020-02-22 17:01:03 UTC
+*helpful-version.txt*  Generated: 2020-02-22 23:01:04 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -50695,6 +50695,14 @@ A listing of helptags with the versions they became available or were removed.
 |test_srand_seed()|
 
        Vim: +v8.2.0233 
+
+|test_unknown()|
+
+       Vim: +v8.2.0299 
+
+|test_void()|
+
+       Vim: +v8.2.0299 
 
 |testing|
 
