@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2020-02-26 23:01:06 UTC
+*helpful-version.txt*  Generated: 2020-02-27 17:01:03 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -39795,6 +39795,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +nightly 
 
+|lua-regex|
+
+    Neovim: +dev 
+
 |lua-require|
 
     Neovim: +v0.2.1 
@@ -45864,6 +45868,14 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.4.0 
        Vim: +v8.1.0020 
+
+|regex:match_line()|
+
+    Neovim: +dev 
+
+|regex:match_str()|
+
+    Neovim: +dev 
 
 |regexp|
 
@@ -53644,6 +53656,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +nightly 
 
+|vim.lsp.util.buf_diagnostics_signs()|
+
+    Neovim: +dev 
+
 |vim.lsp.util.buf_diagnostics_underline()|
 
     Neovim: +nightly 
@@ -53791,6 +53807,10 @@ A listing of helptags with the versions they became available or were removed.
 |vim.pesc()|
 
     Neovim: +v0.4.0 
+
+|vim.regex()|
+
+    Neovim: +dev 
 
 |vim.rpcnotify()|
 
