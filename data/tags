@@ -4977,7 +4977,7 @@ E978vim:v8.1.0735,
 E979vim:v8.1.0757,
 E98neovim:v0.1.0,vim:v7.0001,
 E980vim:v8.1.0815,
-E981vim:v8.1.0881,
+E981neovim:dev,vim:v8.1.0881,
 E982vim:v8.1.0929,
 E983neovim:v0.4.0,vim:v8.1.1138,
 E984vim:v8.1.1116,
@@ -6568,7 +6568,7 @@ exp()neovim:v0.1.0,vim:v7.3,
 expand()neovim:v0.1.0,vim:v7.0001,
 expand-envneovim:v0.1.0,vim:v7.0001,
 expand-environment-varneovim:v0.1.0,vim:v7.0001,
-expandcmd()vim:v8.1.1510,
+expandcmd()neovim:dev,vim:v8.1.1510,
 expl-startingvim:v7.0001,v7.0045
 explorer-deletevim:v7.0001,v7.0045
 explorer-renamevim:v7.0001,v7.0045
