@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2020-04-10 22:01:08 UTC
+*helpful-version.txt*  Generated: 2020-04-11 16:01:04 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -21436,7 +21436,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |E452|
 
-       Vim: +dev -v7.4.1425 
+       Vim: +v8.2.0540 -v7.4.1425 
 
 |E453|
 
@@ -50052,7 +50052,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |tagstack-examples|
 
-       Vim: +dev 
+       Vim: +v8.2.0540 
 
 |tan()|
 
