@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2020-05-16 04:01:04 UTC
+*helpful-version.txt*  Generated: 2020-05-18 04:01:07 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -39894,6 +39894,14 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.2.1 
        Vim: +v7.3 
 
+|lua-vim-internal-options|
+
+    Neovim: +dev 
+
+|lua-vim-internal-variables|
+
+    Neovim: +dev 
+
 |lua-vim.stricmp|
 
     Neovim: +v0.2.1 -v0.4.0 
@@ -53302,6 +53310,14 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +nightly 
 
+|vim.b|
+
+    Neovim: +dev 
+
+|vim.bo|
+
+    Neovim: +dev 
+
 |vim.call()|
 
     Neovim: +nightly 
@@ -53325,6 +53341,10 @@ A listing of helptags with the versions they became available or were removed.
 |vim.fn|
 
     Neovim: +nightly 
+
+|vim.g|
+
+    Neovim: +dev 
 
 |vim.gsplit()|
 
@@ -53890,6 +53910,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +nightly 
 
+|vim.o|
+
+    Neovim: +dev 
+
 |vim.paste()|
 
     Neovim: +v0.4.0 
@@ -53937,6 +53961,10 @@ A listing of helptags with the versions they became available or were removed.
 |vim.stricmp()|
 
     Neovim: +v0.4.0 
+
+|vim.t|
+
+    Neovim: +dev 
 
 |vim.tbl_add_reverse_lookup()|
 
@@ -53986,6 +54014,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.4.0 
 
+|vim.v|
+
+    Neovim: +dev 
+
 |vim.val_idx|
 
     Neovim: +v0.4.0 
@@ -53998,6 +54030,14 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|vim.w|
+
+    Neovim: +dev 
+
+|vim.wo|
+
+    Neovim: +dev 
 
 |vim7|
 
