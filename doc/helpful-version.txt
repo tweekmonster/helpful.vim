@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2020-05-18 22:01:07 UTC
+*helpful-version.txt*  Generated: 2020-05-20 16:01:05 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -39814,7 +39814,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |lua-highlight|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-intro|
 
@@ -39900,11 +39900,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |lua-vim-internal-options|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-vim-internal-variables|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-vim.stricmp|
 
@@ -53316,11 +53316,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.b|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.bo|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.call()|
 
@@ -53348,7 +53348,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.g|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.gsplit()|
 
@@ -53356,7 +53356,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.highlight.on_yank()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.in_fast_event()|
 
@@ -53380,7 +53380,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.lsp.buf.code_action()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.buf.completion()|
 
@@ -53920,7 +53920,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.o|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.paste()|
 
@@ -53936,7 +53936,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.region()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.rpcnotify()|
 
@@ -53976,7 +53976,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.t|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.tbl_add_reverse_lookup()|
 
@@ -54028,7 +54028,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.v|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.val_idx|
 
@@ -54045,11 +54045,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.w|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.wo|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim7|
 
