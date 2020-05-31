@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2020-05-30 22:01:07 UTC
+*helpful-version.txt*  Generated: 2020-05-31 16:01:06 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -4872,6 +4872,10 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v7.4.1770 
 
+|'t_8u'|
+
+       Vim: +v8.2.0863 
+
 |'t_@7'|
 
     Neovim: +v0.1.0 -v0.2.0 
@@ -4891,6 +4895,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 -v0.2.0 
        Vim: +v7.0001 
+
+|'t_AU'|
+
+       Vim: +v8.2.0863 
 
 |'t_BD'|
 
@@ -21456,7 +21464,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |E453|
 
-       Vim: +v7.0001 -v7.4.1425 
+       Vim: +v8.2.0863 -v7.4.1425 
 
 |E454|
 
@@ -35573,6 +35581,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0188 
 
+|getmarklist()|
+
+       Vim: +v8.2.0861 
+
 |getmatches()|
 
     Neovim: +v0.1.0 
@@ -36636,6 +36648,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|highlight-ctermul|
+
+       Vim: +v8.2.0863 
 
 |highlight-default|
 
@@ -48979,6 +48995,10 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v7.4.1770 
 
+|t_8u|
+
+       Vim: +v8.2.0863 
+
 |t_@7|
 
     Neovim: +v0.1.0 -v0.2.0 
@@ -48998,6 +49018,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 -v0.2.0 
        Vim: +v7.0001 
+
+|t_AU|
+
+       Vim: +v8.2.0863 
 
 |t_BD|
 
@@ -53354,7 +53378,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.defer_fn|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.empty_dict()|
 
@@ -54075,7 +54099,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.wait()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.wo|
 
