@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2020-05-31 22:01:08 UTC
+*helpful-version.txt*  Generated: 2020-06-01 16:01:05 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -14577,6 +14577,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|:pwd-verbose|
+
+       Vim: +v8.2.0876 
 
 |:py|
 
@@ -45923,6 +45927,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.4.0 
        Vim: +v8.1.1120 
 
+|readdirex()|
+
+       Vim: +v8.2.0875 
+
 |readfile()|
 
     Neovim: +v0.1.0 
@@ -46923,6 +46931,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0019 
+
+|searchcount()|
+
+       Vim: +v8.2.0877 
 
 |searchdecl()|
 
@@ -53422,7 +53434,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.highlight.range()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.in_fast_event()|
 
@@ -53895,14 +53907,6 @@ A listing of helptags with the versions they became available or were removed.
 |vim.lsp.util.get_severity_highlight_name()|
 
     Neovim: +nightly 
-
-|vim.lsp.util.highlight_range()|
-
-    Neovim: +nightly -dev 
-
-|vim.lsp.util.highlight_region()|
-
-    Neovim: +nightly -dev 
 
 |vim.lsp.util.jump_to_location()|
 
