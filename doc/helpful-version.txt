@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2020-06-05 22:01:08 UTC
+*helpful-version.txt*  Generated: 2020-06-07 22:01:11 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -27776,61 +27776,65 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|beos|
+
+       Vim: +v8.2.0931 
+
 |beos-colors|
 
-       Vim: +v7.0001 
+       Vim: +v7.0001 -v8.2.0931 
 
 |beos-compiling|
 
-       Vim: +v7.0001 
+       Vim: +v7.0001 -v8.2.0931 
 
 |beos-dragndrop|
 
-       Vim: +v7.0001 
+       Vim: +v7.0001 -v8.2.0931 
 
 |beos-fonts|
 
-       Vim: +v7.0001 
+       Vim: +v7.0001 -v8.2.0931 
 
 |beos-general|
 
-       Vim: +v7.0001 
+       Vim: +v7.0001 -v8.2.0931 
 
 |beos-gui|
 
-       Vim: +v7.0001 
+       Vim: +v7.0001 -v8.2.0931 
 
 |beos-launch|
 
-       Vim: +v7.0001 
+       Vim: +v7.0001 -v8.2.0931 
 
 |beos-meta|
 
-       Vim: +v7.0001 
+       Vim: +v7.0001 -v8.2.0931 
 
 |beos-mouse|
 
-       Vim: +v7.0001 
+       Vim: +v7.0001 -v8.2.0931 
 
 |beos-perl|
 
-       Vim: +v7.0001 
+       Vim: +v7.0001 -v8.2.0931 
 
 |beos-timeout|
 
-       Vim: +v7.0001 
+       Vim: +v7.0001 -v8.2.0931 
 
 |beos-unicode|
 
-       Vim: +v7.0001 
+       Vim: +v7.0001 -v8.2.0931 
 
 |beos-utf8|
 
-       Vim: +v7.0001 
+       Vim: +v7.0001 -v8.2.0931 
 
 |beos-vimdir|
 
-       Vim: +v7.0001 
+       Vim: +v7.0001 -v8.2.0931 
 
 |better-python-interface|
 
@@ -35641,6 +35645,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|getreginfo()|
+
+       Vim: +v8.2.0924 
+
 |getregtype()|
 
     Neovim: +v0.1.0 
@@ -35996,6 +36004,10 @@ A listing of helptags with the versions they became available or were removed.
 |gtk-tooltip-colors|
 
        Vim: +v7.0001 
+
+|gtk3-slow|
+
+       Vim: +v8.2.0929 
 
 |gu|
 
