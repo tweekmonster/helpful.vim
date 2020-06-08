@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2020-06-07 22:01:11 UTC
+*helpful-version.txt*  Generated: 2020-06-08 22:01:08 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -24274,7 +24274,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |E964|
 
-       Vim: +v8.1.0579 
+       Vim: +v8.2.0935 
 
 |E965|
 
@@ -32563,6 +32563,10 @@ A listing of helptags with the versions they became available or were removed.
 |fixed-7.4|
 
        Vim: +v7.4a 
+
+|flatten()|
+
+       Vim: +v8.2.0935 
 
 |flexwiki.vim|
 
