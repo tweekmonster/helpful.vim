@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2020-06-08 22:01:08 UTC
+*helpful-version.txt*  Generated: 2020-06-10 22:01:09 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -4668,6 +4668,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0062 
 
+|'spelloptions'|
+
+       Vim: +v8.2.0953 
+
 |'spellsuggest'|
 
     Neovim: +v0.1.0 
@@ -4692,6 +4696,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|'spo'|
+
+       Vim: +v8.2.0953 
 
 |'spr'|
 
@@ -25548,6 +25556,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0220 
+
+|SigUSR1|
+
+       Vim: +v8.2.0952 
 
 |Signal|
 
