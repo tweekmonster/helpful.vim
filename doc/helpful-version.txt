@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2020-06-10 22:01:09 UTC
+*helpful-version.txt*  Generated: 2020-06-13 16:01:06 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -50888,6 +50888,10 @@ A listing of helptags with the versions they became available or were removed.
 |terminal_emulator.txt|
 
     Neovim: +v0.1.5 
+
+|terminalprops()|
+
+       Vim: +v8.2.0970 
 
 |terminfo|
 
