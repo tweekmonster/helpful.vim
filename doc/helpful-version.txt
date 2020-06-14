@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2020-06-13 16:01:06 UTC
+*helpful-version.txt*  Generated: 2020-06-14 16:01:06 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -9678,6 +9678,22 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|46.1|
+
+       Vim: +dev 
+
+|46.2|
+
+       Vim: +dev 
+
+|46.3|
+
+       Vim: +dev 
+
+|46.?|
+
+       Vim: +dev 
 
 |755|
 
@@ -19597,6 +19613,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|E1042|
+
+       Vim: +dev 
+
 |E105|
 
     Neovim: +v0.1.0 
@@ -23960,7 +23980,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |E900|
 
-       Vim: +v7.4.1229 -v7.4.1761 
+       Vim: +dev -v7.4.1761 
 
 |E901|
 
@@ -24282,7 +24302,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |E964|
 
-       Vim: +v8.2.0935 
+       Vim: +v8.2.0935 -dev 
 
 |E965|
 
@@ -32481,6 +32501,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|filler-lines|
+
+       Vim: +dev 
 
 |filter|
 
@@ -47621,6 +47645,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0096 
 
+|source-vim9-script|
+
+       Vim: +dev 
+
 |space|
 
     Neovim: +v0.1.0 
@@ -51952,6 +51980,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|usr_46.txt|
+
+       Vim: +dev 
+
 |usr_90.txt|
 
        Vim: +v7.0001 
@@ -53076,6 +53108,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.3 
 
+|variable-scope|
+
+       Vim: +dev 
+
 |variables|
 
     Neovim: +v0.1.0 
@@ -54191,6 +54227,14 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v8.2.0676 
 
+|vim9-declaration|
+
+       Vim: +dev 
+
+|vim9-declarations|
+
+       Vim: +dev 
+
 |vim9-differences|
 
        Vim: +v8.2.0149 
@@ -54207,9 +54251,17 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v8.2.0149 
 
+|vim9-scopes|
+
+       Vim: +dev 
+
 |vim9-script|
 
        Vim: +v8.2.0149 
+
+|vim9-script-intro|
+
+       Vim: +dev 
 
 |vim9-types|
 
