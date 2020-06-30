@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2020-06-27 16:01:07 UTC
+*helpful-version.txt*  Generated: 2020-06-30 04:01:08 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -40005,6 +40005,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +nightly 
 
+|lua-treesitter-parser|
+
+    Neovim: +dev 
+
 |lua-treesitter-query|
 
     Neovim: +nightly 
@@ -51490,6 +51494,14 @@ A listing of helptags with the versions they became available or were removed.
 |tsnode:type()|
 
     Neovim: +nightly 
+
+|tsparser:parse()|
+
+    Neovim: +dev 
+
+|tsparser:set_included_ranges()|
+
+    Neovim: +dev 
 
 |tstree:root()|
 
