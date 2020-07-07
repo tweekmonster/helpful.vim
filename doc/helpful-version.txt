@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2020-07-06 22:01:09 UTC
+*helpful-version.txt*  Generated: 2020-07-07 16:01:07 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -33941,7 +33941,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |g:actual_curwin|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.1.1372 
 
 |g:ada#Comment|
@@ -35082,7 +35082,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |g:statusline_winid|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.1.1372 
 
 |g:syntax_on|

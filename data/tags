@@ -7005,7 +7005,7 @@ g:Netrw_funcrefneovim:v0.1.0,vim:v7.2.328,
 g:Nvim_color_cmdlineneovim:v0.2.1,
 g:Nvim_color_exprneovim:v0.2.1,v0.3.0
 g:actual_curbufneovim:v0.1.5,vim:v7.4.931,
-g:actual_curwinneovim:dev,vim:v8.1.1372,
+g:actual_curwinneovim:nightly,vim:v8.1.1372,
 g:ada#Commentneovim:v0.1.0,vim:v7.2a,v7.2a.00
 g:ada#Ctags_Kindsneovim:v0.1.0,vim:v7.2a,v7.2a.00
 g:ada#DotWordRegexneovim:v0.1.0,vim:v7.2a,v7.2a.00
@@ -7242,7 +7242,7 @@ g:sh_iskneovim:v0.1.0,v0.2.0vim:v7.3.321,v8.0.0028
 g:sh_noiskneovim:v0.1.0,v0.2.0vim:v7.3.321,v8.0.0028
 g:shada#add_own_headerneovim:v0.1.1,
 g:shada#keep_old_headerneovim:v0.1.1,
-g:statusline_winidneovim:dev,vim:v8.1.1372,
+g:statusline_winidneovim:nightly,vim:v8.1.1372,
 g:syntax_onneovim:v0.1.0,vim:v7.3,
 g:tar_browseoptionsneovim:v0.1.0,vim:v7.0c10,
 g:tar_cmdneovim:v0.1.0,vim:v7.0c10,
