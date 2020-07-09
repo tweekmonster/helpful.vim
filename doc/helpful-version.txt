@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2020-07-08 16:01:11 UTC
+*helpful-version.txt*  Generated: 2020-07-09 16:01:06 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -39997,11 +39997,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |lua-syntax-call-function|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-syntax-help|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-treesitter|
 
