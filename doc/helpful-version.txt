@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2020-08-13 22:01:13 UTC
+*helpful-version.txt*  Generated: 2020-08-14 16:01:10 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -25009,6 +25009,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|NOT|
+
+    Neovim: +dev 
+
 |NeoVim|
 
        Vim: +v8.1.0675 -v8.1.0764 
@@ -40042,7 +40046,15 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +nightly 
 
+|lua-treesitter-not-predicate|
+
+    Neovim: +nightly 
+
 |lua-treesitter-parser|
+
+    Neovim: +nightly 
+
+|lua-treesitter-predicates|
 
     Neovim: +nightly 
 
@@ -51443,6 +51455,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0007 
 
+|treesitter-parsers|
+
+    Neovim: +nightly 
+
 |trim()|
 
     Neovim: +v0.3.2 
@@ -51491,6 +51507,22 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|ts-predicate-contains?|
+
+    Neovim: +nightly 
+
+|ts-predicate-eq?|
+
+    Neovim: +nightly 
+
+|ts-predicate-match?|
+
+    Neovim: +nightly 
+
+|ts-predicate-vim-match?|
+
+    Neovim: +nightly 
 
 |tsnode:child()|
 
@@ -54288,6 +54320,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +nightly 
 
+|vim.register_keystroke_callback()|
+
+    Neovim: +dev 
+
 |vim.rpcnotify()|
 
     Neovim: +nightly 
@@ -54376,7 +54412,11 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +nightly 
 
-|vim.treesitter.parse_query(()|
+|vim.treesitter.parse_query()|
+
+    Neovim: +nightly 
+
+|vim.treesitter.query.add_predicate()|
 
     Neovim: +nightly 
 
