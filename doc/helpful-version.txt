@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2020-08-15 16:01:10 UTC
+*helpful-version.txt*  Generated: 2020-08-15 22:01:13 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -44416,6 +44416,10 @@ A listing of helptags with the versions they became available or were removed.
 |patches-8.2|
 
        Vim: +v8.1.1406 
+
+|patches-after-8.2|
+
+       Vim: +v8.2.1462 
 
 |pathshorten()|
 
