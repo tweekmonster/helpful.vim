@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2020-08-28 22:01:12 UTC
+*helpful-version.txt*  Generated: 2020-08-30 16:01:09 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -19617,6 +19617,14 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|E1023|
+
+       Vim: +v8.2.1545 
+
+|E1024|
+
+       Vim: +v8.2.1545 
+
 |E103|
 
     Neovim: +v0.1.0 
@@ -22493,7 +22501,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |E610|
 
-       Vim: +v7.0001 -v7.3.227 
+       Vim: +v8.2.1545 -v7.3.227 
 
 |E6100|
 
@@ -35818,6 +35826,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.4.0 
        Vim: +v8.1.0519 
 
+|gettext()|
+
+       Vim: +v8.2.1544 
+
 |getwininfo()|
 
     Neovim: +v0.2.0 
@@ -42968,6 +42980,10 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v7.0001 
 
+|new-multibyte|
+
+       Vim: +v8.2.1545 
+
 |new-netrw-explore|
 
        Vim: +v7.0123 
@@ -43022,7 +43038,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |new-print-multi-byte|
 
-       Vim: +v7.0007 
+       Vim: +v7.0007 -v8.2.1545 
+
+|new-print-multibyte|
+
+       Vim: +v8.2.1545 
 
 |new-printing|
 
@@ -44469,6 +44489,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|pattern-multibyte|
+
+       Vim: +v8.2.1545 
 
 |pattern-overview|
 
@@ -51668,6 +51692,10 @@ A listing of helptags with the versions they became available or were removed.
 |type-casting|
 
        Vim: +v8.2.1408 
+
+|type-checking|
+
+       Vim: +v8.2.1545 
 
 |type-inference|
 
