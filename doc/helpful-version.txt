@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2020-09-05 22:01:13 UTC
+*helpful-version.txt*  Generated: 2020-09-06 16:01:10 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -14369,7 +14369,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |:perl|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v7.0001 
 
 |:perld|
@@ -14378,12 +14378,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |:perldo|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v7.0001 
 
 |:perlfile|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |:po|
 
@@ -38464,7 +38464,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |if_perl.txt|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v7.0001 
 
 |if_pyth|
@@ -44558,7 +44558,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |perl|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v7.0001 
 
 |perl-Append|
@@ -44575,35 +44575,35 @@ A listing of helptags with the versions they became available or were removed.
 
 |perl-Buffer-Append|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |perl-Buffer-Count|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |perl-Buffer-Delete|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |perl-Buffer-Get|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |perl-Buffer-Name|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |perl-Buffer-Number|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |perl-Buffer-Set|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |perl-Buffers|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v7.0001 
 
 |perl-Count|
@@ -44616,12 +44616,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |perl-DoCommand|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v7.0001 
 
 |perl-Eval|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v7.0001 
 
 |perl-Get|
@@ -44634,7 +44634,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |perl-Msg|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v7.0001 
 
 |perl-Name|
@@ -44655,33 +44655,33 @@ A listing of helptags with the versions they became available or were removed.
 
 |perl-SetOption|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v7.0001 
 
 |perl-Window-Buffer|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |perl-Window-GetCursor|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |perl-Window-SetHeight|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |perl-Windows|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v7.0001 
 
 |perl-buffer|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |perl-commands|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |perl-compiling|
 
@@ -44697,11 +44697,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |perl-examples|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |perl-globals|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |perl-overview|
 
@@ -44722,11 +44722,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |perl-vim|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |perl-window|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |perl.vim|
 
@@ -44735,7 +44735,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |perleval()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v7.4.1125 
 
 |persistent-undo|
@@ -51673,6 +51673,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +nightly 
 
 |ts-predicate-eq?|
+
+    Neovim: +nightly 
+
+|ts-predicate-lua-match?|
 
     Neovim: +nightly 
 
