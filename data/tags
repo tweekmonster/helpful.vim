@@ -8440,6 +8440,7 @@ matchaddpos()neovim:v0.1.0,vim:v7.4.330,
 matcharg()neovim:v0.1.0,vim:v7.0c10,
 matchdelete()neovim:v0.1.0,vim:v7.1.040,
 matchend()neovim:v0.1.0,vim:v7.0001,
+matchfuzzy()vim:v8.2.1665,
 matchitneovim:v0.1.0,v0.4.0
 matchit-%neovim:v0.1.0,v0.4.0
 matchit-\1neovim:v0.1.0,v0.4.0
