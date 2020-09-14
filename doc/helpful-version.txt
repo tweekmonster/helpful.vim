@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2020-09-11 22:01:14 UTC
+*helpful-version.txt*  Generated: 2020-09-14 16:01:09 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -40122,6 +40122,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +nightly 
 
+|lua-uri|
+
+    Neovim: +nightly 
+
 |lua-util|
 
     Neovim: +v0.4.0 -nightly 
@@ -54371,6 +54375,22 @@ A listing of helptags with the versions they became available or were removed.
 |vim.types|
 
     Neovim: +v0.4.0 
+
+|vim.uri_from_bufnr()|
+
+    Neovim: +nightly 
+
+|vim.uri_from_fname()|
+
+    Neovim: +nightly 
+
+|vim.uri_to_bufnr()|
+
+    Neovim: +nightly 
+
+|vim.uri_to_fname()|
+
+    Neovim: +nightly 
 
 |vim.v|
 
