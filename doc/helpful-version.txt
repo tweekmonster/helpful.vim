@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2020-09-16 16:01:09 UTC
+*helpful-version.txt*  Generated: 2020-09-19 22:01:12 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -9913,6 +9913,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|:<client>|
+
+       Vim: +dev 
+
 |:<cword>|
 
     Neovim: +v0.1.0 
@@ -15901,6 +15905,10 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v7.0001 
 
+|:star-visual-range|
+
+       Vim: +dev 
+
 |:start|
 
     Neovim: +v0.1.0 
@@ -18186,6 +18194,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|<client>|
+
+       Vim: +dev 
+
 |<count>|
 
     Neovim: +v0.1.0 
@@ -18330,6 +18342,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|<q-mods>|
+
+       Vim: +dev 
 
 |<range>|
 
@@ -41838,7 +41854,7 @@ A listing of helptags with the versions they became available or were removed.
 |netrw-c|
 
     Neovim: +v0.1.0 
-       Vim: +v7.0015 
+       Vim: +v7.0015 -dev 
 
 |netrw-c-l|
 
@@ -44952,6 +44968,10 @@ A listing of helptags with the versions they became available or were removed.
 |popup-filter|
 
        Vim: +v8.1.1329 
+
+|popup-filter-errors|
+
+       Vim: +dev 
 
 |popup-filter-mode|
 
@@ -54440,6 +54460,10 @@ A listing of helptags with the versions they became available or were removed.
 |vim9|
 
        Vim: +v8.2.0676 
+
+|vim9-classes|
+
+       Vim: +dev 
 
 |vim9-const|
 
