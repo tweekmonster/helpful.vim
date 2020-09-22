@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2020-09-20 22:01:21 UTC
+*helpful-version.txt*  Generated: 2020-09-22 22:01:13 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -40669,6 +40669,10 @@ A listing of helptags with the versions they became available or were removed.
 |matchfuzzy()|
 
        Vim: +v8.2.1665 
+
+|matchfuzzypos()|
+
+       Vim: +v8.2.1726 
 
 |matchit|
 
