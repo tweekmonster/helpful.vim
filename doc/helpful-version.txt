@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2020-09-22 22:01:13 UTC
+*helpful-version.txt*  Generated: 2020-09-24 10:01:13 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -4670,6 +4670,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'spelloptions'|
 
+    Neovim: +dev 
        Vim: +v8.2.0953 
 
 |'spellsuggest'|
@@ -4699,6 +4700,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'spo'|
 
+    Neovim: +dev 
        Vim: +v8.2.0953 
 
 |'spr'|
