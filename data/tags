@@ -8243,7 +8243,7 @@ listener_flush()vim:v8.1.1332,
 listener_remove()vim:v8.1.1321,
 lite-syntaxvim:v7.0001,v7.0139
 lite.vimneovim:v0.1.0,vim:v7.0001,
-literal-Dictneovim:dev,vim:v8.1.1683,
+literal-Dictneovim:nightly,vim:v8.1.1683,
 literal-stringneovim:v0.1.0,vim:v7.0001,
 lnum-variableneovim:v0.1.0,vim:v7.0001,
 load-pluginvim:v7.4.1384,v7.4.1486
