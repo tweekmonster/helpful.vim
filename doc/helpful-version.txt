@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2020-10-12 16:01:09 UTC
+*helpful-version.txt*  Generated: 2020-10-20 22:01:14 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -43493,7 +43493,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |nvim__buf_set_luahl()|
 
-    Neovim: +nightly 
+    Neovim: +nightly -dev 
 
 |nvim__buf_stats()|
 
@@ -43525,7 +43525,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |nvim__put_attr()|
 
-    Neovim: +nightly 
+    Neovim: +nightly -dev 
 
 |nvim__screenshot()|
 
@@ -43542,6 +43542,10 @@ A listing of helptags with the versions they became available or were removed.
 |nvim_buf_attach()|
 
     Neovim: +v0.3.0 
+
+|nvim_buf_call()|
+
+    Neovim: +dev 
 
 |nvim_buf_changedtick_event|
 
@@ -43926,6 +43930,10 @@ A listing of helptags with the versions they became available or were removed.
 |nvim_set_current_win()|
 
     Neovim: +v0.2.0 
+
+|nvim_set_decoration_provider()|
+
+    Neovim: +dev 
 
 |nvim_set_keymap()|
 
@@ -53961,6 +53969,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +nightly 
 
+|vim.is_valid()|
+
+    Neovim: +dev 
+
 |vim.list_extend()|
 
     Neovim: +nightly 
@@ -54024,6 +54036,10 @@ A listing of helptags with the versions they became available or were removed.
 |vim.lsp.buf.outgoing_calls()|
 
     Neovim: +nightly 
+
+|vim.lsp.buf.range_code_action()|
+
+    Neovim: +dev 
 
 |vim.lsp.buf.range_formatting()|
 
@@ -54264,6 +54280,10 @@ A listing of helptags with the versions they became available or were removed.
 |vim.lsp.util.make_formatting_params()|
 
     Neovim: +nightly 
+
+|vim.lsp.util.make_given_range_params()|
+
+    Neovim: +dev 
 
 |vim.lsp.util.make_position_params()|
 
