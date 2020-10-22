@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2020-10-21 16:01:12 UTC
+*helpful-version.txt*  Generated: 2020-10-22 04:01:09 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -46811,6 +46811,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |ruby-rubyeval|
 
+    Neovim: +dev 
        Vim: +v8.1.1056 
 
 |ruby-set_option|
@@ -46874,6 +46875,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |rubyeval()|
 
+    Neovim: +dev 
        Vim: +v8.1.1056 
 
 |russian|
