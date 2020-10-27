@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2020-10-27 04:01:11 UTC
+*helpful-version.txt*  Generated: 2020-10-27 22:01:14 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -789,7 +789,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'completeslash'|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.1.1769 
 
 |'concealcursor'|
@@ -896,7 +896,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'csl'|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.1.1769 
 
 |'cspc'|
