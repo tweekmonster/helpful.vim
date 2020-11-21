@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2020-11-14 23:01:16 UTC
+*helpful-version.txt*  Generated: 2020-11-21 17:01:12 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -33598,7 +33598,11 @@ A listing of helptags with the versions they became available or were removed.
 |ft-posix-synax|
 
     Neovim: +v0.2.0 
-       Vim: +v8.0.0028 
+       Vim: +v8.0.0028 -v8.2.2026 
+
+|ft-posix-syntax|
+
+       Vim: +v8.2.2026 
 
 |ft-postscr-syntax|
 
