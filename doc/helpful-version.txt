@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2020-11-21 17:01:12 UTC
+*helpful-version.txt*  Generated: 2020-11-23 11:01:16 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -52039,7 +52039,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |tsparser:set_included_ranges()|
 
-    Neovim: +nightly 
+    Neovim: +nightly -dev 
+
+|tsparser:set_included_regions()|
+
+    Neovim: +dev 
 
 |tstree:copy()|
 
