@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2020-11-23 11:01:16 UTC
+*helpful-version.txt*  Generated: 2020-11-25 23:01:18 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -54165,6 +54165,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +nightly 
 
+|vim.lsp.buf.add_workspace_folder()|
+
+    Neovim: +dev 
+
 |vim.lsp.buf.clear_references()|
 
     Neovim: +nightly 
@@ -54217,6 +54221,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +nightly 
 
+|vim.lsp.buf.list_workspace_folders()|
+
+    Neovim: +dev 
+
 |vim.lsp.buf.outgoing_calls()|
 
     Neovim: +nightly 
@@ -54232,6 +54240,10 @@ A listing of helptags with the versions they became available or were removed.
 |vim.lsp.buf.references()|
 
     Neovim: +nightly 
+
+|vim.lsp.buf.remove_workspace_folder()|
+
+    Neovim: +dev 
 
 |vim.lsp.buf.rename()|
 
