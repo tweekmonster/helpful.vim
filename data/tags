@@ -8052,6 +8052,7 @@ info-messageneovim:v0.1.0,nightlyvim:v7.0001,
 inform-syntaxvim:v7.0001,v7.0139
 inform.vimneovim:v0.1.0,vim:v7.0001,
 informixneovim:v0.1.0,vim:v7.2a,v7.2a.00
+init.luaneovim:dev,
 init.vimneovim:v0.1.0,
 initializationneovim:v0.1.0,vim:v7.0001,
 input()neovim:v0.1.0,vim:v7.0001,
