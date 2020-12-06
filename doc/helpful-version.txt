@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2020-12-04 17:01:14 UTC
+*helpful-version.txt*  Generated: 2020-12-06 05:01:10 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -7452,7 +7452,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |-Z|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |-b|
@@ -19953,7 +19953,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |E145|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |E146|
@@ -24496,7 +24496,6 @@ A listing of helptags with the versions they became available or were removed.
 
 |E981|
 
-    Neovim: +nightly -dev 
        Vim: +v8.1.0881 
 
 |E982|
@@ -28706,7 +28705,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |c_CTRL-Z|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |c_CTRL-[|
 
@@ -37163,131 +37162,83 @@ A listing of helptags with the versions they became available or were removed.
 
 |hl-LspDiagnosticsDefaultError|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |hl-LspDiagnosticsDefaultHint|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |hl-LspDiagnosticsDefaultInformation|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |hl-LspDiagnosticsDefaultWarning|
 
-    Neovim: +dev 
-
-|hl-LspDiagnosticsError|
-
-    Neovim: +nightly -dev 
-
-|hl-LspDiagnosticsErrorFloating|
-
-    Neovim: +nightly -dev 
-
-|hl-LspDiagnosticsErrorSign|
-
-    Neovim: +nightly -dev 
+    Neovim: +nightly 
 
 |hl-LspDiagnosticsFloatingError|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |hl-LspDiagnosticsFloatingHint|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |hl-LspDiagnosticsFloatingInformation|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |hl-LspDiagnosticsFloatingWarning|
 
-    Neovim: +dev 
-
-|hl-LspDiagnosticsHint|
-
-    Neovim: +nightly -dev 
-
-|hl-LspDiagnosticsHintFloating|
-
-    Neovim: +nightly -dev 
-
-|hl-LspDiagnosticsHintSign|
-
-    Neovim: +nightly -dev 
-
-|hl-LspDiagnosticsInformation|
-
-    Neovim: +nightly -dev 
-
-|hl-LspDiagnosticsInformationFloating|
-
-    Neovim: +nightly -dev 
-
-|hl-LspDiagnosticsInformationSign|
-
-    Neovim: +nightly -dev 
+    Neovim: +nightly 
 
 |hl-LspDiagnosticsSignError|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |hl-LspDiagnosticsSignHint|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |hl-LspDiagnosticsSignInformation|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |hl-LspDiagnosticsSignWarning|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |hl-LspDiagnosticsUnderlineError|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |hl-LspDiagnosticsUnderlineHint|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |hl-LspDiagnosticsUnderlineInformation|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |hl-LspDiagnosticsUnderlineWarning|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |hl-LspDiagnosticsVirtualTextError|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |hl-LspDiagnosticsVirtualTextHint|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |hl-LspDiagnosticsVirtualTextInformation|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |hl-LspDiagnosticsVirtualTextWarning|
 
-    Neovim: +dev 
-
-|hl-LspDiagnosticsWarning|
-
-    Neovim: +nightly -dev 
-
-|hl-LspDiagnosticsWarningFloating|
-
-    Neovim: +nightly -dev 
-
-|hl-LspDiagnosticsWarningSign|
-
-    Neovim: +nightly -dev 
+    Neovim: +nightly 
 
 |hl-LspReferenceRead|
 
@@ -38851,7 +38802,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |init.lua|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |init.vim|
 
@@ -40132,7 +40083,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |lsp-diagnostic|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lsp-extension-example|
 
@@ -40140,7 +40091,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |lsp-extension.txt|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lsp-faq|
 
@@ -40148,15 +40099,15 @@ A listing of helptags with the versions they became available or were removed.
 
 |lsp-handler|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lsp-handler-configuration|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lsp-handler-resolution|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lsp-highlight|
 
@@ -40164,7 +40115,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |lsp-highlight-diagnostics|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lsp-log|
 
@@ -40172,11 +40123,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |lsp-method|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lsp-notification|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lsp-protocol|
 
@@ -40188,7 +40139,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |lsp-response|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lsp-rpc|
 
@@ -40200,7 +40151,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |lsp-vs-treesitter|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lsp.txt|
 
@@ -43669,7 +43620,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |nvim__get_hl_defs()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim__get_lib_dir()|
 
@@ -43989,11 +43940,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |nvim_get_option_info()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_get_options_info()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_get_proc()|
 
@@ -44117,11 +44068,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |nvim_set_hl()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_set_hl_ns()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_set_keymap()|
 
@@ -46781,7 +46732,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |restricted-mode|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |retab-example|
@@ -52054,13 +52005,9 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +nightly 
 
-|tsparser:set_included_ranges()|
-
-    Neovim: +nightly -dev 
-
 |tsparser:set_included_regions()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |tstree:copy()|
 
@@ -54185,7 +54132,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.lsp.buf.add_workspace_folder()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.buf.clear_references()|
 
@@ -54241,7 +54188,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.lsp.buf.list_workspace_folders()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.buf.outgoing_calls()|
 
@@ -54261,7 +54208,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.lsp.buf.remove_workspace_folder()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.buf.rename()|
 
@@ -54309,7 +54256,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.lsp.callbacks|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.client|
 
@@ -54321,79 +54268,79 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.lsp.diagnostic.clear()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.diagnostic.get()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.diagnostic.get_all()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.diagnostic.get_count()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.diagnostic.get_line_diagnostics()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.diagnostic.get_next()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.diagnostic.get_next_pos()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.diagnostic.get_prev()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.diagnostic.get_prev_pos()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.diagnostic.get_virtual_text_chunks_for_line()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.diagnostic.goto_next()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.diagnostic.goto_prev()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.diagnostic.on_publish_diagnostics()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.diagnostic.save()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.diagnostic.set_loclist()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.diagnostic.set_signs()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.diagnostic.set_underline()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.diagnostic.set_virtual_text()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.diagnostic.show_line_diagnostics()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.get_active_clients()|
 
@@ -54409,7 +54356,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.lsp.handlers|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.log.get_filename()|
 
@@ -54483,33 +54430,9 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +nightly 
 
-|vim.lsp.util.buf_clear_diagnostics()|
-
-    Neovim: +nightly -dev 
-
 |vim.lsp.util.buf_clear_references()|
 
     Neovim: +nightly 
-
-|vim.lsp.util.buf_diagnostics_count()|
-
-    Neovim: +nightly -dev 
-
-|vim.lsp.util.buf_diagnostics_save_positions()|
-
-    Neovim: +nightly -dev 
-
-|vim.lsp.util.buf_diagnostics_signs()|
-
-    Neovim: +nightly -dev 
-
-|vim.lsp.util.buf_diagnostics_underline()|
-
-    Neovim: +nightly -dev 
-
-|vim.lsp.util.buf_diagnostics_virtual_text()|
-
-    Neovim: +nightly -dev 
 
 |vim.lsp.util.buf_highlight_references()|
 
@@ -54531,10 +54454,6 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +nightly 
 
-|vim.lsp.util.diagnostics_group_by_line()|
-
-    Neovim: +nightly -dev 
-
 |vim.lsp.util.extract_completion_items()|
 
     Neovim: +nightly 
@@ -54554,14 +54473,6 @@ A listing of helptags with the versions they became available or were removed.
 |vim.lsp.util.get_effective_tabstop()|
 
     Neovim: +nightly 
-
-|vim.lsp.util.get_line_diagnostics()|
-
-    Neovim: +nightly -dev 
-
-|vim.lsp.util.get_severity_highlight_name()|
-
-    Neovim: +nightly -dev 
 
 |vim.lsp.util.jump_to_location()|
 
@@ -54619,10 +54530,6 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +nightly 
 
-|vim.lsp.util.show_line_diagnostics()|
-
-    Neovim: +nightly -dev 
-
 |vim.lsp.util.symbols_to_items()|
 
     Neovim: +nightly 
@@ -54641,7 +54548,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.lsp.with()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.make_meta_accessor()|
 
@@ -55546,7 +55453,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |win_gettype()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.2.0257 
 
 |win_gotoid()|
