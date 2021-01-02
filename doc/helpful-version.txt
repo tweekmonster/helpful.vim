@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2021-01-02 11:01:15 UTC
+*helpful-version.txt*  Generated: 2021-01-02 17:01:12 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -10418,6 +10418,26 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|:_%%|
+
+       Vim: +v8.2.2276 
+
+|:_%%%|
+
+       Vim: +v8.2.2276 
+
+|:_%%0|
+
+       Vim: +v8.2.2276 
+
+|:_%%<|
+
+       Vim: +v8.2.2276 
+
+|:_%%n|
+
+       Vim: +v8.2.2276 
+
 |:_%:|
 
     Neovim: +v0.1.0 
@@ -17039,11 +17059,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |:vim9|
 
-       Vim: +v8.2.0149 -v8.2.2239 
+       Vim: +v8.2.2276 -v8.2.2239 
 
 |:vim9script|
 
-       Vim: +v8.2.0149 -v8.2.2239 
+       Vim: +v8.2.2276 -v8.2.2239 
 
 |:vimgrep|
 
@@ -28389,6 +28409,22 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.2.031 
 
+|c_%%|
+
+       Vim: +v8.2.2276 
+
+|c_%%%#|
+
+       Vim: +v8.2.2276 
+
+|c_%%<|
+
+       Vim: +v8.2.2276 
+
+|c_%%n|
+
+       Vim: +v8.2.2276 
+
 |c_<BS>|
 
     Neovim: +v0.1.0 
@@ -36843,6 +36879,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|help-curwin|
+
+       Vim: +v8.2.2276 
 
 |help-summary|
 
