@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2021-01-01 23:01:17 UTC
+*helpful-version.txt*  Generated: 2021-01-02 11:01:15 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -11013,12 +11013,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |:caf|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.1.1275 
 
 |:cafter|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.1.1275 
 
 |:cal|
@@ -11053,12 +11053,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |:cbefore|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.1.1275 
 
 |:cbel|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.1.1281 
 
 |:cbelow|
@@ -12971,12 +12971,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |:laf|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.1.1275 
 
 |:lafter|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.1.1275 
 
 |:lan|
@@ -13025,12 +13025,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |:lbefore|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.1.1275 
 
 |:lbel|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.1.1275 
 
 |:lbelow|
@@ -43814,7 +43814,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |nvim_buf_set_text()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_buf_set_var()|
 
