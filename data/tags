@@ -7414,7 +7414,7 @@ getlatestvimscripts-installneovim:v0.1.0,v0.1.2vim:v7.1a,
 getlatestvimscripts-pluginsvim:v7.0231,v7.1a
 getline()neovim:v0.1.0,vim:v7.0001,
 getloclist()neovim:v0.1.0,vim:v7.0188,
-getmarklist()neovim:dev,vim:v8.2.0861,
+getmarklist()neovim:nightly,vim:v8.2.0861,
 getmatches()neovim:v0.1.0,vim:v7.1.040,
 getmousepos()vim:v8.1.2304,
 getpid()neovim:v0.1.0,vim:v7.1.262,
