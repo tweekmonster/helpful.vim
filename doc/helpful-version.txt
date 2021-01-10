@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2021-01-05 11:01:18 UTC
+*helpful-version.txt*  Generated: 2021-01-10 23:01:17 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -8959,6 +8959,14 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|0o|
+
+       Vim: +v8.2.2324 
+
+|0x|
+
+       Vim: +v8.2.2324 
 
 |10.1|
 
@@ -29350,6 +29358,10 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v8.2.1536 
 
+|charcol()|
+
+       Vim: +v8.2.2324 
+
 |charconvert_from-variable|
 
     Neovim: +v0.1.0 
@@ -35784,6 +35796,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|getcharpos()|
+
+       Vim: +v8.2.2324 
+
 |getcharsearch()|
 
     Neovim: +v0.1.0 
@@ -35818,6 +35834,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.4.313 
+
+|getcursorcharpos()|
+
+       Vim: +v8.2.2324 
 
 |getcwd()|
 
@@ -47673,6 +47693,10 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v8.2.1535 
 
+|setcharpos()|
+
+       Vim: +v8.2.2324 
+
 |setcharsearch()|
 
     Neovim: +v0.1.0 
@@ -47682,6 +47706,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|setcursorcharpos()|
+
+       Vim: +v8.2.2324 
 
 |setenv()|
 
