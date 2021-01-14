@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2021-01-13 23:01:17 UTC
+*helpful-version.txt*  Generated: 2021-01-14 17:01:13 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -5210,7 +5210,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'t_TI'|
 
-       Vim: +v8.1.2144 
+       Vim: +v8.2.2345 
 
 |'t_Te'|
 
@@ -50056,7 +50056,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |t_TI|
 
-       Vim: +v8.1.2144 
+       Vim: +v8.2.2345 
 
 |t_Te|
 
@@ -56114,6 +56114,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 -v0.2.0 
        Vim: +v7.0001 
+
+|xterm-focus-event|
+
+       Vim: +v8.2.2345 
 
 |xterm-function-keys|
 
