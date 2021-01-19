@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2021-01-19 11:01:17 UTC
+*helpful-version.txt*  Generated: 2021-01-19 17:01:13 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -5210,7 +5210,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'t_TI'|
 
-       Vim: +v8.2.2345 -dev 
+       Vim: +v8.2.2345 -v8.2.2375 
 
 |'t_Te'|
 
@@ -5296,11 +5296,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |'t_fd'|
 
-       Vim: +dev 
+       Vim: +v8.2.2375 
 
 |'t_fe'|
 
-       Vim: +dev 
+       Vim: +v8.2.2375 
 
 |'t_fs'|
 
@@ -15661,7 +15661,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |:sl!|
 
-       Vim: +dev 
+       Vim: +v8.2.2375 
 
 |:sla|
 
@@ -15680,7 +15680,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |:sleep!|
 
-       Vim: +dev 
+       Vim: +v8.2.2375 
 
 |:sm|
 
@@ -20299,7 +20299,7 @@ A listing of helptags with the versions they became available or were removed.
 |E198|
 
     Neovim: +v0.1.0 -v0.4.0 
-       Vim: +v7.0001 -dev 
+       Vim: +v7.0001 -v8.2.2375 
 
 |E199|
 
@@ -20730,7 +20730,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |E278|
 
-       Vim: +v8.1.2076 -dev 
+       Vim: +v8.1.2076 -v8.2.2375 
 
 |E279|
 
@@ -21069,7 +21069,7 @@ A listing of helptags with the versions they became available or were removed.
 |E340|
 
     Neovim: +v0.1.0 
-       Vim: +v7.0001 -dev 
+       Vim: +v7.0001 -v8.2.2375 
 
 |E341|
 
@@ -22176,7 +22176,7 @@ A listing of helptags with the versions they became available or were removed.
 |E538|
 
     Neovim: +v0.1.0 
-       Vim: +v7.0001 -dev 
+       Vim: +v7.0001 -v8.2.2375 
 
 |E539|
 
@@ -50076,7 +50076,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |t_TI|
 
-       Vim: +v8.2.2345 -dev 
+       Vim: +v8.2.2345 -v8.2.2375 
 
 |t_Te|
 
@@ -50268,11 +50268,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |t_fd|
 
-       Vim: +dev 
+       Vim: +v8.2.2375 
 
 |t_fe|
 
-       Vim: +dev 
+       Vim: +v8.2.2375 
 
 |t_float-variable|
 
