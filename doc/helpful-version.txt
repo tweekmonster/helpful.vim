@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2021-01-24 11:01:17 UTC
+*helpful-version.txt*  Generated: 2021-01-25 23:01:18 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -32955,10 +32955,86 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|fo-1|
+
+       Vim: +v8.2.2410 
+
+|fo-2|
+
+       Vim: +v8.2.2410 
+
+|fo-B|
+
+       Vim: +v8.2.2410 
+
+|fo-M|
+
+       Vim: +v8.2.2410 
+
+|fo-]|
+
+       Vim: +v8.2.2410 
+
+|fo-a|
+
+       Vim: +v8.2.2410 
+
+|fo-b|
+
+       Vim: +v8.2.2410 
+
+|fo-c|
+
+       Vim: +v8.2.2410 
+
+|fo-j|
+
+       Vim: +v8.2.2410 
+
+|fo-l|
+
+       Vim: +v8.2.2410 
+
+|fo-m|
+
+       Vim: +v8.2.2410 
+
+|fo-n|
+
+       Vim: +v8.2.2410 
+
+|fo-o|
+
+       Vim: +v8.2.2410 
+
+|fo-p|
+
+       Vim: +v8.2.2410 
+
+|fo-q|
+
+       Vim: +v8.2.2410 
+
+|fo-r|
+
+       Vim: +v8.2.2410 
+
+|fo-t|
+
+       Vim: +v8.2.2410 
+
 |fo-table|
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|fo-v|
+
+       Vim: +v8.2.2410 
+
+|fo-w|
+
+       Vim: +v8.2.2410 
 
 |fold-behavior|
 
@@ -43609,9 +43685,13 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v8.2.2388 
 
+|numbermin-variable|
+
+       Vim: +v8.2.2410 
+
 |numbermix-variable|
 
-       Vim: +v8.2.2388 
+       Vim: +v8.2.2388 -v8.2.2410 
 
 |numbersize-variable|
 
@@ -53032,9 +53112,13 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v8.2.2388 
 
+|v:numbermin|
+
+       Vim: +v8.2.2410 
+
 |v:numbermix|
 
-       Vim: +v8.2.2388 
+       Vim: +v8.2.2388 -v8.2.2410 
 
 |v:numbersize|
 
@@ -54981,6 +55065,10 @@ A listing of helptags with the versions they became available or were removed.
 |vim9-const|
 
        Vim: +v8.2.1685 
+
+|vim9-curly|
+
+       Vim: +v8.2.2410 
 
 |vim9-declaration|
 
