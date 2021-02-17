@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2021-02-17 17:01:13 UTC
+*helpful-version.txt*  Generated: 2021-02-17 23:01:16 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -55142,6 +55142,10 @@ A listing of helptags with the versions they became available or were removed.
 |vim9-import|
 
        Vim: +v8.2.0149 
+
+|vim9-mix|
+
+       Vim: +v8.2.2529 
 
 |vim9-namespace|
 
