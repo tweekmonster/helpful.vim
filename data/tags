@@ -10374,6 +10374,7 @@ str2float()neovim:v0.1.0,vim:v7.2a,
 str2list()neovim:nightly,vim:v8.1.1122,v7.0037
 str2nr()neovim:v0.1.0,vim:v7.0228,
 strcasestr()neovim:v0.1.0,vim:v7.0052,
+strcharlen()vim:v8.2.2606,
 strcharpart()neovim:v0.2.0,vim:v7.4.1761,
 strchars()neovim:v0.1.0,vim:v7.3,
 strchr()neovim:v0.1.0,vim:v7.0052,
