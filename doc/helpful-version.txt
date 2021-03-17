@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2021-03-15 10:01:18 UTC
+*helpful-version.txt*  Generated: 2021-03-17 10:01:19 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -43915,7 +43915,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |nvim__set_hl_ns()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim__stats()|
 
@@ -44075,7 +44075,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |nvim_chan_send()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_clipboard.txt|
 
@@ -44287,7 +44287,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |nvim_open_term()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_open_win()|
 
@@ -44356,10 +44356,6 @@ A listing of helptags with the versions they became available or were removed.
 |nvim_set_hl()|
 
     Neovim: +nightly 
-
-|nvim_set_hl_ns()|
-
-    Neovim: +nightly -dev 
 
 |nvim_set_keymap()|
 
