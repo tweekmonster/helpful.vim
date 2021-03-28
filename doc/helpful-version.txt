@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2021-03-28 10:01:17 UTC
+*helpful-version.txt*  Generated: 2021-03-28 22:01:19 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -5995,10 +5995,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |'varsofttabstop'|
 
+    Neovim: +dev 
        Vim: +v8.1.0105 
 
 |'vartabstop'|
 
+    Neovim: +dev 
        Vim: +v8.1.0105 
 
 |'vb'|
@@ -6082,10 +6084,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |'vsts'|
 
+    Neovim: +dev 
        Vim: +v8.1.0105 
 
 |'vts'|
 
+    Neovim: +dev 
        Vim: +v8.1.0105 
 
 |'w1200'|
@@ -44500,6 +44504,10 @@ A listing of helptags with the versions they became available or were removed.
 |nvim_win_get_width()|
 
     Neovim: +v0.2.0 
+
+|nvim_win_hide()|
+
+    Neovim: +dev 
 
 |nvim_win_is_valid()|
 
