@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2021-03-29 10:01:18 UTC
+*helpful-version.txt*  Generated: 2021-03-29 22:01:18 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -318,6 +318,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 -v0.1.1 
        Vim: +v7.0001 
 
+|'asd'|
+
+       Vim: +v8.2.2675 
+
 |'autochdir'|
 
     Neovim: +v0.1.0 
@@ -342,6 +346,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 -v0.1.1 
        Vim: +v7.0001 
+
+|'autoshelldir'|
+
+       Vim: +v8.2.2675 
 
 |'autowrite'|
 
@@ -2585,6 +2593,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 -v0.1.1 
        Vim: +v7.0001 
 
+|'noasd'|
+
+       Vim: +v8.2.2675 
+
 |'noautochdir'|
 
     Neovim: +v0.1.0 
@@ -2604,6 +2616,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 -v0.1.1 
        Vim: +v7.0001 
+
+|'noautoshelldir'|
+
+       Vim: +v8.2.2675 
 
 |'noautowrite'|
 
