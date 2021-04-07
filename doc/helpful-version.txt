@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2021-04-05 10:01:18 UTC
+*helpful-version.txt*  Generated: 2021-04-07 22:01:20 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -39077,6 +39077,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|inline-function|
+
+       Vim: +v8.2.2734 
+
 |input()|
 
     Neovim: +v0.1.0 
@@ -46054,6 +46058,30 @@ A listing of helptags with the versions they became available or were removed.
 |provider.txt|
 
     Neovim: +v0.1.5 
+
+|ps1-about|
+
+       Vim: +v8.2.2734 
+
+|ps1-compiler|
+
+       Vim: +v8.2.2734 
+
+|ps1-folding|
+
+       Vim: +v8.2.2734 
+
+|ps1-keyword|
+
+       Vim: +v8.2.2734 
+
+|ps1-syntax|
+
+       Vim: +v8.2.2734 
+
+|ps1.txt|
+
+       Vim: +v8.2.2734 
 
 |psql|
 
@@ -54768,6 +54796,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +nightly 
 
+|vim.lsp.handlers.signature_help()|
+
+    Neovim: +dev 
+
 |vim.lsp.log.get_filename()|
 
     Neovim: +nightly 
@@ -55236,6 +55268,10 @@ A listing of helptags with the versions they became available or were removed.
 |vim9-import|
 
        Vim: +v8.2.0149 
+
+|vim9-lambda|
+
+       Vim: +v8.2.2734 
 
 |vim9-mix|
 
