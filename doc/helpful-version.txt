@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2021-04-08 10:01:18 UTC
+*helpful-version.txt*  Generated: 2021-04-10 16:01:16 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -19825,6 +19825,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|E1091|
+
+       Vim: +v8.2.2744 
 
 |E1092|
 
@@ -55265,6 +55269,10 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v8.2.1098 
 
+|vim9-ignored-argument|
+
+       Vim: +v8.2.2744 
+
 |vim9-import|
 
        Vim: +v8.2.0149 
@@ -55272,6 +55280,10 @@ A listing of helptags with the versions they became available or were removed.
 |vim9-lambda|
 
        Vim: +v8.2.2734 
+
+|vim9-lambda-arguments|
+
+       Vim: +v8.2.2744 
 
 |vim9-mix|
 
@@ -55308,6 +55320,10 @@ A listing of helptags with the versions they became available or were removed.
 |vim9-user-command|
 
        Vim: +v8.2.2329 
+
+|vim9-variable-arguments|
+
+       Vim: +v8.2.2744 
 
 |vim9.txt|
 
