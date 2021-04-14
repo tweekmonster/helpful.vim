@@ -9642,7 +9642,7 @@ progname-variableneovim:v0.1.0,vim:v7.0001,
 progpath-variableneovim:v0.1.0,vim:v7.4.234,
 progress-syntaxvim:v7.0001,v7.0139
 progress.vimneovim:v0.1.0,vim:v7.0001,
-prompt-buffervim:v8.1.0027,
+prompt-bufferneovim:dev,vim:v8.1.0027,
 prompt_getprompt()vim:v8.2.1588,
 prompt_setcallback()neovim:nightly,vim:v8.1.0027,
 prompt_setinterrupt()neovim:nightly,vim:v8.1.0069,
