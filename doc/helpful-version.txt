@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2021-04-14 04:01:15 UTC
+*helpful-version.txt*  Generated: 2021-04-14 10:01:20 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -40560,7 +40560,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |lua-treesitter-language-injection|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-treesitter-node|
 
