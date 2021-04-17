@@ -11686,6 +11686,7 @@ vim9-scopesvim:v8.2.0980,
 vim9-scriptvim:v8.2.0149,v8.2.2222
 vim9-script-introvim:v8.2.0980,
 vim9-typesvim:v8.2.0149,
+vim9-unpack-ignorevim:v8.2.2774,
 vim9-user-commandvim:v8.2.2329,
 vim9-variable-argumentsvim:v8.2.2744,
 vim9.txtvim:v8.2.0149,
