@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2021-04-22 16:01:15 UTC
+*helpful-version.txt*  Generated: 2021-04-22 22:01:19 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -46767,7 +46767,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |raku-unicode|
 
-       Vim: +dev 
+       Vim: +v8.2.2800 
 
 |rand()|
 
@@ -54446,11 +54446,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim-raku|
 
-       Vim: +dev 
+       Vim: +v8.2.2800 
 
 |vim-raku.txt|
 
-       Vim: +dev 
+       Vim: +v8.2.2800 
 
 |vim-script-intro|
 
