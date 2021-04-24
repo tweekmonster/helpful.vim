@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2021-04-22 22:01:19 UTC
+*helpful-version.txt*  Generated: 2021-04-24 16:01:16 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -13205,6 +13205,14 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|:leg|
+
+       Vim: +v8.2.2805 
+
+|:legacy|
+
+       Vim: +v8.2.2805 
 
 |:let|
 
@@ -54699,6 +54707,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +nightly 
 
+|vim.lsp.buf_request_all()|
+
+    Neovim: +dev 
+
 |vim.lsp.buf_request_sync()|
 
     Neovim: +nightly 
@@ -54795,6 +54807,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +nightly 
 
+|vim.lsp.flush()|
+
+    Neovim: +dev 
+
 |vim.lsp.get_active_clients()|
 
     Neovim: +nightly 
@@ -54823,6 +54839,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +nightly 
 
+|vim.lsp.init()|
+
+    Neovim: +dev 
+
 |vim.lsp.log.get_filename()|
 
     Neovim: +nightly 
@@ -54839,6 +54859,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +nightly 
 
+|vim.lsp.prepare()|
+
+    Neovim: +dev 
+
 |vim.lsp.protocol|
 
     Neovim: +nightly 
@@ -54850,6 +54874,14 @@ A listing of helptags with the versions they became available or were removed.
 |vim.lsp.protocol.resolve_capabilities()|
 
     Neovim: +nightly 
+
+|vim.lsp.reset()|
+
+    Neovim: +dev 
+
+|vim.lsp.reset_buf()|
+
+    Neovim: +dev 
 
 |vim.lsp.rpc.format_rpc_error()|
 
