@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2021-05-01 16:01:15 UTC
+*helpful-version.txt*  Generated: 2021-05-02 10:01:17 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -25075,71 +25075,71 @@ A listing of helptags with the versions they became available or were removed.
 
 |LanguageTree:add_child()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |LanguageTree:children()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |LanguageTree:contains()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |LanguageTree:destroy()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |LanguageTree:for_each_child()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |LanguageTree:for_each_tree()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |LanguageTree:included_regions()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |LanguageTree:invalidate()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |LanguageTree:is_valid()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |LanguageTree:lang()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |LanguageTree:language_for_range()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |LanguageTree:parse()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |LanguageTree:register_cbs()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |LanguageTree:remove_child()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |LanguageTree:set_included_regions()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |LanguageTree:source()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |LanguageTree:trees()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |Lfilter|
 
@@ -25763,11 +25763,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |Query:iter_captures()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |Query:iter_matches()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |QuickFixCmdPost|
 
@@ -26017,11 +26017,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |TSHighlighter:destroy()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |TSHighlighter:get_query()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |TSQL|
 
@@ -27234,11 +27234,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |add_directive()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |add_predicate()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |added-5.1|
 
@@ -29599,7 +29599,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |check_health()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |chill-syntax|
 
@@ -36054,23 +36054,23 @@ A listing of helptags with the versions they became available or were removed.
 
 |get_node_text()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |get_parser()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |get_query()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |get_query_files()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |get_string_parser()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |getbufinfo()|
 
@@ -37379,7 +37379,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |highlighter.new()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |highlighting-functions|
 
@@ -39340,7 +39340,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |inspect_language()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |install|
 
@@ -40003,7 +40003,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |languagetree.new()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |last-pattern|
 
@@ -40230,11 +40230,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |list_parsers()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |list_predicates()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |listener_add()|
 
@@ -40697,7 +40697,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |lua-treesitter-core|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-treesitter-directives|
 
@@ -40706,10 +40706,6 @@ A listing of helptags with the versions they became available or were removed.
 |lua-treesitter-highlight|
 
     Neovim: +nightly 
-
-|lua-treesitter-language-injection|
-
-    Neovim: +nightly -dev 
 
 |lua-treesitter-node|
 
@@ -45155,7 +45151,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |parse_query()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |pascal-syntax|
 
@@ -46613,14 +46609,6 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
-|query:iter_captures()|
-
-    Neovim: +nightly -dev 
-
-|query:iter_matches()|
-
-    Neovim: +nightly -dev 
-
 |quickfix|
 
     Neovim: +v0.1.0 
@@ -47233,7 +47221,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |require_language()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |reselect-Visual|
 
@@ -48107,7 +48095,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |set_query()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |setbufline()|
 
@@ -52411,19 +52399,19 @@ A listing of helptags with the versions they became available or were removed.
 
 |treesitter-health|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |treesitter-highlighter|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |treesitter-language|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |treesitter-languagetree|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |treesitter-parsers|
 
@@ -52431,7 +52419,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |treesitter-query|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |treesitter.txt|
 
@@ -55366,22 +55354,6 @@ A listing of helptags with the versions they became available or were removed.
 |vim.treesitter.language_version|
 
     Neovim: +nightly 
-
-|vim.treesitter.parse_query()|
-
-    Neovim: +nightly -dev 
-
-|vim.treesitter.query.add_directive()|
-
-    Neovim: +nightly -dev 
-
-|vim.treesitter.query.add_predicate()|
-
-    Neovim: +nightly -dev 
-
-|vim.treesitter.query.list_predicates()|
-
-    Neovim: +nightly -dev 
 
 |vim.trim()|
 
