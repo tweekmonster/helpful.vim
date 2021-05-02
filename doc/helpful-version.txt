@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2021-05-02 16:01:16 UTC
+*helpful-version.txt*  Generated: 2021-05-02 22:01:20 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -33105,7 +33105,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |fname-variable|
 
-       Vim: +dev 
+       Vim: +v8.2.2824 
 
 |fname_diff-variable|
 
@@ -53324,7 +53324,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |v:fname|
 
-       Vim: +dev 
+       Vim: +v8.2.2824 
 
 |v:fname_diff|
 
