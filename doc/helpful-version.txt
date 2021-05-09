@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2021-05-08 10:01:20 UTC
+*helpful-version.txt*  Generated: 2021-05-09 22:01:21 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -30047,6 +30047,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |collate-variable|
 
+    Neovim: +dev 
        Vim: +v8.2.0988 
 
 |color-xterm|
@@ -53336,6 +53337,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |v:collate|
 
+    Neovim: +dev 
        Vim: +v8.2.0988 
 
 |v:completed_item|
