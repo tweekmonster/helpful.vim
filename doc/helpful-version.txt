@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2021-05-10 16:01:15 UTC
+*helpful-version.txt*  Generated: 2021-05-14 16:01:16 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -52580,6 +52580,10 @@ A listing of helptags with the versions they became available or were removed.
 |ts-directive-set!|
 
     Neovim: +nightly 
+
+|ts-predicate-any-of?|
+
+    Neovim: +dev 
 
 |ts-predicate-contains?|
 
