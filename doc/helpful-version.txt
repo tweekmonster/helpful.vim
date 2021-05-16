@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2021-05-16 10:01:19 UTC
+*helpful-version.txt*  Generated: 2021-05-16 16:01:15 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -16028,6 +16028,10 @@ A listing of helptags with the versions they became available or were removed.
 |:star|
 
        Vim: +v7.0001 
+
+|:star-compatible|
+
+       Vim: +v8.2.2857 
 
 |:star-visual-range|
 
@@ -34406,6 +34410,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|fuzzy-match|
+
+       Vim: +v8.2.2857 
+
 |fvwm-syntax|
 
        Vim: +v7.0001 -v7.0139 
@@ -41098,6 +41106,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.5 
        Vim: +v7.4.1098 
+
+|map-table|
+
+       Vim: +v8.2.2857 
 
 |map-typing|
 
