@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2021-05-20 22:01:31 UTC
+*helpful-version.txt*  Generated: 2021-05-21 10:01:21 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -4132,12 +4132,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |'qftf'|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.2.0869 
 
 |'quickfixtextfunc'|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.2.0869 
 
 |'quote|
@@ -46793,7 +46793,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |quickfix-window-function|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.2.0869 
 
 |quickfix.txt|
