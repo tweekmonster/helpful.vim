@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2021-05-27 10:01:20 UTC
+*helpful-version.txt*  Generated: 2021-05-28 16:01:16 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -40820,9 +40820,25 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.2.1 
        Vim: +v7.3 
 
+|lua-vim-opt|
+
+    Neovim: +dev 
+
 |lua-vim-options|
 
     Neovim: +nightly 
+
+|lua-vim-optlocal|
+
+    Neovim: +dev 
+
+|lua-vim-set|
+
+    Neovim: +dev 
+
+|lua-vim-setlocal|
+
+    Neovim: +dev 
 
 |lua-vim-variables|
 
@@ -54832,6 +54848,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +nightly 
 
+|vim.go|
+
+    Neovim: +dev 
+
 |vim.gsplit()|
 
     Neovim: +v0.4.0 
@@ -55367,6 +55387,26 @@ A listing of helptags with the versions they became available or were removed.
 |vim.o|
 
     Neovim: +nightly 
+
+|vim.opt|
+
+    Neovim: +dev 
+
+|vim.opt:append()|
+
+    Neovim: +dev 
+
+|vim.opt:get()|
+
+    Neovim: +dev 
+
+|vim.opt:prepend()|
+
+    Neovim: +dev 
+
+|vim.opt:remove()|
+
+    Neovim: +dev 
 
 |vim.paste()|
 
