@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2021-06-01 04:01:16 UTC
+*helpful-version.txt*  Generated: 2021-06-01 10:01:22 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -25331,10 +25331,6 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
-
-|NOT|
-
-    Neovim: +nightly -dev 
 
 |NeoVim|
 
@@ -54842,7 +54838,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.defer_fn()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.empty_dict()|
 
@@ -54886,7 +54882,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.insert_keys()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.inspect()|
 
@@ -54918,7 +54914,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.lsp.buf.call_hierarchy()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.buf.clear_references()|
 
@@ -54958,7 +54954,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.lsp.buf.formatting_seq_sync()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.buf.formatting_sync()|
 
@@ -55270,7 +55266,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.lsp.util.buf_lines()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.util.character_offset()|
 
@@ -55304,29 +55300,17 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +nightly 
 
-|vim.lsp.util.fancy_floating_markdown()|
-
-    Neovim: +nightly -dev 
-
-|vim.lsp.util.focusable_float()|
-
-    Neovim: +nightly -dev 
-
-|vim.lsp.util.focusable_preview()|
-
-    Neovim: +nightly -dev 
-
 |vim.lsp.util.get_effective_tabstop()|
 
     Neovim: +nightly 
 
 |vim.lsp.util.get_line()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.util.get_lines()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.util.get_progress_messages()|
 
@@ -55402,7 +55386,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.lsp.util.stylize_markdown()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.util.symbols_to_items()|
 
@@ -55426,15 +55410,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.make_dict_accessor()|
 
-    Neovim: +dev 
-
-|vim.make_meta_accessor()|
-
-    Neovim: +nightly -dev 
+    Neovim: +nightly 
 
 |vim.notify()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.o|
 
@@ -57129,7 +57109,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |zP|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.2.2914 
 
 |zR|
@@ -57277,7 +57257,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |zp|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.2.2914 
 
 |zr|
