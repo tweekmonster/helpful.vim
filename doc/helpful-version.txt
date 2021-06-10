@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2021-06-10 10:01:23 UTC
+*helpful-version.txt*  Generated: 2021-06-10 22:01:21 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -54409,6 +54409,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|v_zy|
+
+       Vim: +v8.2.2971 
+
 |v_~|
 
     Neovim: +v0.1.0 
@@ -57334,6 +57338,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|zy|
+
+       Vim: +v8.2.2971 
 
 |zz|
 
