@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2021-06-13 10:01:21 UTC
+*helpful-version.txt*  Generated: 2021-06-13 22:01:22 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -41784,6 +41784,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0034 
 
+|motion-count-multiplied|
+
+       Vim: +v8.2.2993 
+
 |motion.txt|
 
     Neovim: +v0.1.0 
@@ -44999,6 +45003,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|operator-doubled|
+
+       Vim: +v8.2.2993 
+
 |operator-pending-index|
 
     Neovim: +v0.4.0 
@@ -45266,6 +45274,10 @@ A listing of helptags with the versions they became available or were removed.
 |parse_query()|
 
     Neovim: +nightly 
+
+|partial|
+
+       Vim: +v8.2.2993 
 
 |pascal-syntax|
 
