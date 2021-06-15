@@ -11565,7 +11565,7 @@ vim.list_extend()neovim:nightly,
 vim.list_slice()neovim:nightly,
 vim.loopneovim:nightly,
 vim.lsp.buf.add_workspace_folder()neovim:nightly,
-vim.lsp.buf.call_hierarchy()neovim:nightly,
+vim.lsp.buf.call_hierarchy()neovim:nightly,dev
 vim.lsp.buf.clear_references()neovim:nightly,
 vim.lsp.buf.code_action()neovim:nightly,
 vim.lsp.buf.completion()neovim:nightly,
