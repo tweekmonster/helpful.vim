@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2021-06-14 22:01:21 UTC
+*helpful-version.txt*  Generated: 2021-06-15 10:01:23 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -40583,7 +40583,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |lsp-codelens|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lsp-config|
 
@@ -55089,27 +55089,27 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.lsp.codelens.display()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.codelens.get()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.codelens.on_codelens()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.codelens.refresh()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.codelens.run()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.codelens.save()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.diagnostic.clear()|
 
