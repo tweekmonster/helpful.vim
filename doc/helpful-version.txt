@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2021-06-16 10:01:23 UTC
+*helpful-version.txt*  Generated: 2021-06-20 04:01:18 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -14575,7 +14575,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |:pro|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |:prof|
@@ -14600,17 +14600,17 @@ A listing of helptags with the versions they became available or were removed.
 
 |:promptfind|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |:promptr|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |:promptrepl|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |:ps|
@@ -37635,6 +37635,10 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v8.1.2229 
 
+|hl-LspCodeLens|
+
+    Neovim: +dev 
+
 |hl-LspDiagnosticsDefaultError|
 
     Neovim: +nightly 
@@ -40628,6 +40632,10 @@ A listing of helptags with the versions they became available or were removed.
 |lsp-highlight|
 
     Neovim: +nightly 
+
+|lsp-highlight-codelens|
+
+    Neovim: +dev 
 
 |lsp-highlight-diagnostics|
 
@@ -48112,7 +48120,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |search-replace|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0019 
 
 |searchcount()|
