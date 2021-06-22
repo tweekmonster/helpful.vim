@@ -251,7 +251,7 @@ endfunction
 
 " Reverses the result of s:parse_version()
 function! s:unparse_version(version) abort
-  if !a:version
+  if !a:version || a:version == 99999999
     return '???'
   endif
 
@@ -314,12 +314,12 @@ function! helpful#lookup(pattern) abort
 endfunction
 
 
-function! s:minPair(x, y) abort
+function! s:min_pair(x, y) abort
   return a:x[0] < a:y[0] ? a:x : a:y
 endfunction
 
 
-function! s:maxPair(x, y) abort
+function! s:max_pair(x, y) abort
   return a:x[0] > a:y[0] ? a:x : a:y
 endfunction
 
@@ -334,7 +334,7 @@ function! helpful#buffer_version() abort
   let b = getreg('b')
   let bt = getregtype('b')
   normal! qbq
-  g/\k\+(/normal! gn"By
+  silent g/\k\+(/normal! gn"By
   let @/ = s
   call histdel('search', -1)
 
@@ -352,13 +352,17 @@ function! helpful#buffer_version() abort
       let vinfo = s:data[f]
 
       if has_key(vinfo, 'neovim')
-        let neovim_max = s:minPair(neovim_max, [s:parse_version(vinfo['neovim']['-']), f])
-        let neovim_min = s:maxPair(neovim_min, [s:parse_version(vinfo['neovim']['+']), f])
+        let neovim_max = s:min_pair(neovim_max,
+              \ [s:parse_version(vinfo['neovim']['-']), f])
+        let neovim_min = s:max_pair(neovim_min,
+              \ [s:parse_version(vinfo['neovim']['+']), f])
       endif
 
       if has_key(vinfo, 'vim')
-        let vim_max = s:minPair(vim_max, [s:parse_version(vinfo['vim']['-']), f])
-        let vim_min = s:maxPair(vim_min, [s:parse_version(vinfo['vim']['+']), f])
+        let vim_max = s:min_pair(vim_max,
+              \ [s:parse_version(vinfo['vim']['-']), f])
+        let vim_min = s:max_pair(vim_min,
+              \ [s:parse_version(vinfo['vim']['+']), f])
       endif
     endif
   endfor
