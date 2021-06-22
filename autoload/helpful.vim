@@ -314,6 +314,16 @@ function! helpful#lookup(pattern) abort
 endfunction
 
 
+function! s:minPair(x, y) abort
+  return a:x[0] < a:y[0] ? a:x : a:y
+endfunction
+
+
+function! s:maxPair(x, y) abort
+  return a:x[0] > a:y[0] ? a:x : a:y
+endfunction
+
+
 " Find functions in the buffer and print min and max versions that are
 " required.  Only a proof of concept, there is no plan for it to be smarter.
 function! helpful#buffer_version() abort
@@ -332,29 +342,33 @@ function! helpful#buffer_version() abort
   call setreg('b', b, bt)
   call winrestview(view)
 
-  let neovim_min = 0
-  let neovim_max = 99999999
-  let vim_min = 0
-  let vim_max = 99999999
+  let neovim_min = [0, '']
+  let neovim_max = [99999999, '']
+  let vim_min = [0, '']
+  let vim_max = [99999999, '']
 
   for f in funcs
     if has_key(s:data, f)
       let vinfo = s:data[f]
 
       if has_key(vinfo, 'neovim')
-        let neovim_max = min([neovim_max, s:parse_version(vinfo['neovim']['-'])])
-        let neovim_min = max([neovim_min, s:parse_version(vinfo['neovim']['+'])])
+        let neovim_max = s:minPair(neovim_max, [s:parse_version(vinfo['neovim']['-']), f])
+        let neovim_min = s:maxPair(neovim_min, [s:parse_version(vinfo['neovim']['+']), f])
       endif
 
       if has_key(vinfo, 'vim')
-        let vim_max = min([vim_max, s:parse_version(vinfo['vim']['-'])])
-        let vim_min = max([vim_min, s:parse_version(vinfo['vim']['+'])])
+        let vim_max = s:minPair(vim_max, [s:parse_version(vinfo['vim']['-']), f])
+        let vim_min = s:maxPair(vim_min, [s:parse_version(vinfo['vim']['+']), f])
       endif
     endif
   endfor
 
-  echo 'Neovim:' s:unparse_version(neovim_min) ' - ' s:unparse_version(neovim_max)
-  echo 'Vim:' s:unparse_version(vim_min) ' - ' s:unparse_version(vim_max)
+  echo printf('Neovim: %s (%s) - %s (%s)',
+        \ s:unparse_version(neovim_min[0]), neovim_min[1],
+        \ s:unparse_version(neovim_max[0]), neovim_max[1])
+  echo printf('Vim: %s (%s) - %s (%s)',
+        \ s:unparse_version(vim_min[0]), vim_min[1],
+        \ s:unparse_version(vim_max[0]), vim_max[1])
 endfunction
 
 
