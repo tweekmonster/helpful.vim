@@ -11894,10 +11894,8 @@ vim.lsp.util.try_trim_markdown_code_blocks()neovim:v0.5.0,
 vim.lsp.with()neovim:v0.5.0,
 vim.make_dict_accessor()neovim:v0.5.0,
 vim.mpackneovim:nightly,
-vim.mpack.decodeneovim:dev,
-vim.mpack.encodeneovim:dev,
-vim.mpack.packneovim:nightly,dev
-vim.mpack.unpackneovim:nightly,dev
+vim.mpack.decodeneovim:nightly,
+vim.mpack.encodeneovim:nightly,
 vim.notify()neovim:v0.5.0,
 vim.oneovim:v0.5.0,
 vim.on_key()neovim:nightly,
