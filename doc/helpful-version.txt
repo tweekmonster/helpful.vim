@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2021-11-04 00:14:04 UTC
+*helpful-version.txt*  Generated: 2021-11-08 00:14:39 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -35039,6 +35039,11 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.4.136 
 
+|g:clojure_discard_macro|
+
+    Neovim: +dev 
+       Vim: +dev 
+
 |g:clojure_fold|
 
     Neovim: +v0.1.0 
@@ -49364,6 +49369,18 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.3 
 
+|sizeofint-variable|
+
+       Vim: +dev 
+
+|sizeoflong-variable|
+
+       Vim: +dev 
+
+|sizeofpointer-variable|
+
+       Vim: +dev 
+
 |skeleton|
 
     Neovim: +v0.1.0 
@@ -54402,6 +54419,18 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|v:sizeofint|
+
+       Vim: +dev 
+
+|v:sizeoflong|
+
+       Vim: +dev 
+
+|v:sizeofpointer|
+
+       Vim: +dev 
+
 |v:statusmsg|
 
     Neovim: +v0.1.0 
@@ -56512,6 +56541,10 @@ A listing of helptags with the versions they became available or were removed.
 |vim.types|
 
     Neovim: +v0.4.0 
+
+|vim.ui.input()|
+
+    Neovim: +dev 
 
 |vim.ui.select()|
 
