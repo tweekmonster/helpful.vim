@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2021-11-08 00:14:39 UTC
+*helpful-version.txt*  Generated: 2021-11-09 00:13:26 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -35041,7 +35041,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |g:clojure_discard_macro|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +dev 
 
 |g:clojure_fold|
@@ -56544,7 +56544,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.ui.input()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.ui.select()|
 
