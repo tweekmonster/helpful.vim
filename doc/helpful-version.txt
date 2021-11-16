@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2021-11-14 00:14:46 UTC
+*helpful-version.txt*  Generated: 2021-11-16 00:14:15 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -5778,6 +5778,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'thesaurusfunc'|
 
+    Neovim: +nightly 
        Vim: +v8.2.3520 
 
 |'tildeop'|
@@ -5889,6 +5890,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v8.0.0712 -v8.0.0761 
+
+|'tsrfu'|
+
+    Neovim: +nightly 
 
 |'ttimeout'|
 
@@ -30447,10 +30452,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |compl-thesaurus|
 
+    Neovim: +nightly 
        Vim: +v8.2.3528 
 
 |compl-thesaurusfunc|
 
+    Neovim: +nightly 
        Vim: +v8.2.3528 
 
 |compl-vim|
