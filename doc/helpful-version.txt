@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2021-11-16 00:14:15 UTC
+*helpful-version.txt*  Generated: 2021-11-17 00:14:08 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -11601,6 +11601,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.1a 
+
+|:command-keepscript|
+
+       Vim: +v8.2.3606 
 
 |:command-modifiers|
 
@@ -37770,7 +37774,7 @@ A listing of helptags with the versions they became available or were removed.
 |helpfile_name.txt|
 
     Neovim: +v0.1.0 
-       Vim: +v7.3 
+       Vim: +v7.3 -v8.2.3606 
 
 |helphelp|
 
@@ -46382,6 +46386,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|plugin_name.txt|
+
+       Vim: +v8.2.3606 
+
 |pmbcs-option|
 
     Neovim: +v0.1.0 
@@ -47176,6 +47184,10 @@ A listing of helptags with the versions they became available or were removed.
 |python-dynamic|
 
        Vim: +v7.0158 
+
+|python-environment|
+
+       Vim: +v8.2.3606 
 
 |python-error|
 
