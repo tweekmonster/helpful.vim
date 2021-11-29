@@ -7000,7 +7000,7 @@ format-commentsneovim:v0.1.0,vim:v7.0001,
 format-formatexprneovim:v0.3.2,vim:v8.0.1827,
 formattingneovim:v0.1.0,vim:v7.0001,
 formfeedneovim:v0.1.0,nightlyvim:v7.0001,v8.2.3474
-forth.vimvim:v8.2.3686,
+forth.vimneovim:dev,vim:v8.2.3686,
 fortran-indentvim:v7.0001,v7.0139
 fortran-pluginvim:v7.0001,v7.0139
 fortran-syntaxvim:v7.0001,v7.0139
@@ -7059,7 +7059,7 @@ ft-erlang-syntaxneovim:v0.1.0,vim:v7.0139,
 ft-euphoria-syntaxneovim:v0.1.0,vim:v7.4.194,
 ft-flexwiki-syntaxneovim:v0.1.0,vim:v7.0g01,
 ft-form-syntaxneovim:v0.1.0,vim:v7.0139,
-ft-forth-syntaxvim:v8.2.3686,
+ft-forth-syntaxneovim:dev,vim:v8.2.3686,
 ft-fortran-indentneovim:v0.1.0,vim:v7.0139,
 ft-fortran-pluginneovim:v0.1.0,vim:v7.0139,
 ft-fortran-syntaxneovim:v0.1.0,vim:v7.0139,
