@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2021-11-29 00:14:57 UTC
+*helpful-version.txt*  Generated: 2021-11-30 00:14:21 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -33850,7 +33850,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |forth.vim|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.2.3686 
 
 |fortran-indent|
@@ -34140,7 +34140,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |ft-forth-syntax|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.2.3686 
 
 |ft-fortran-indent|
