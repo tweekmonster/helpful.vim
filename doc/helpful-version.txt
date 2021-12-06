@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2021-12-02 00:14:17 UTC
+*helpful-version.txt*  Generated: 2021-12-06 00:14:50 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -27852,6 +27852,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.5.0 
        Vim: +v8.1.2233 
 
+|arrow_modifiers|
+
+       Vim: +v8.2.3750 
+
 |as|
 
     Neovim: +v0.1.0 
@@ -34173,7 +34177,7 @@ A listing of helptags with the versions they became available or were removed.
 |ft-gprof-plugin|
 
     Neovim: +stable 
-       Vim: +v8.2.3686 
+       Vim: +v8.2.3686 -v8.2.3750 
 
 |ft-groff-syntax|
 
@@ -34608,6 +34612,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0139 
+
+|ft-squirrel-syntax|
+
+       Vim: +v8.2.3750 
 
 |ft-syntax-omni|
 
@@ -50393,6 +50401,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.2a 
+
+|squirrel.vim|
+
+       Vim: +v8.2.3750 
 
 |srand()|
 
