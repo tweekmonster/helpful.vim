@@ -7154,7 +7154,7 @@ ft-sql-omnineovim:v0.1.0,vim:v7.0c03,
 ft-sql-syntaxneovim:v0.1.0,vim:v7.0139,
 ft-sqlanywhere-syntaxneovim:v0.1.0,vim:v7.0219,
 ft-sqlinformix-syntaxneovim:v0.1.0,vim:v7.0139,
-ft-squirrel-syntaxvim:v8.2.3750,
+ft-squirrel-syntaxneovim:dev,vim:v8.2.3750,
 ft-syntax-omnineovim:v0.1.0,vim:v7.0179,
 ft-tcsh-syntaxneovim:v0.1.0,vim:v7.0139,
 ft-termcap-syntaxneovim:v0.1.0,vim:v7.0139,
@@ -10586,7 +10586,7 @@ sqljneovim:v0.1.0,vim:v7.2a,v7.2a.00
 sqlserverneovim:v0.1.0,vim:v7.2a,v7.2a.00
 sqlsettypeneovim:v0.1.0,vim:v7.2a,v7.2a.00
 sqrt()neovim:v0.1.0,vim:v7.2a,
-squirrel.vimvim:v8.2.3750,
+squirrel.vimneovim:dev,vim:v8.2.3750,
 srand()vim:v8.1.2342,
 sscanfneovim:v0.1.0,vim:v7.0001,
 standard-pathneovim:v0.2.1,

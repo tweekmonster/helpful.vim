@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2021-12-06 00:14:50 UTC
+*helpful-version.txt*  Generated: 2021-12-07 00:15:17 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -34615,6 +34615,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |ft-squirrel-syntax|
 
+    Neovim: +dev 
        Vim: +v8.2.3750 
 
 |ft-syntax-omni|
@@ -50404,6 +50405,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |squirrel.vim|
 
+    Neovim: +dev 
        Vim: +v8.2.3750 
 
 |srand()|
