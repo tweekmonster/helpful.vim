@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2021-12-08 00:15:04 UTC
+*helpful-version.txt*  Generated: 2021-12-11 00:13:54 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -26080,6 +26080,10 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v8.1.2046 
 
+|SearchWrapped|
+
+    Neovim: +dev 
+
 |Select|
 
     Neovim: +v0.1.0 
@@ -38055,6 +38059,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |hl-CursorLineFold|
 
+    Neovim: +nightly 
        Vim: +v8.2.3664 
 
 |hl-CursorLineNr|
@@ -38064,6 +38069,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |hl-CursorLineSign|
 
+    Neovim: +nightly 
        Vim: +v8.2.3664 
 
 |hl-DiagnosticError|
