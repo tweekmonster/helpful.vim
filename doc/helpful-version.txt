@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2021-12-16 00:14:31 UTC
+*helpful-version.txt*  Generated: 2021-12-17 00:15:35 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -13856,6 +13856,11 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0168 
 
+|:map-buffer|
+
+    Neovim: +dev 
+       Vim: +v8.2.3825 
+
 |:map-cmd|
 
     Neovim: +v0.3.0 
@@ -13920,6 +13925,11 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|:map-unique|
+
+    Neovim: +dev 
+       Vim: +v8.2.3825 
 
 |:map-verbose|
 
@@ -37782,6 +37792,11 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|help-buffer-options|
+
+    Neovim: +dev 
+       Vim: +v8.2.3825 
+
 |help-context|
 
     Neovim: +v0.1.0 
@@ -45247,7 +45262,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |nvim_get_option_value()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_get_proc()|
 
@@ -45391,7 +45406,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |nvim_set_option_value()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_set_var()|
 
@@ -56325,7 +56340,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.lsp.util.close_preview_autocmd()|
 
-    Neovim: +v0.5.0 -dev 
+    Neovim: +v0.5.0 -nightly 
 
 |vim.lsp.util.compute_diff()|
 
