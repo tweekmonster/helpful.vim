@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2021-12-18 00:15:17 UTC
+*helpful-version.txt*  Generated: 2021-12-19 00:16:24 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -26040,6 +26040,14 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.5 
 
+|RecordingEnter|
+
+    Neovim: +dev 
+
+|RecordingLeave|
+
+    Neovim: +dev 
+
 |RemoteReply|
 
     Neovim: +v0.1.0 
@@ -47933,6 +47941,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.4.0 
        Vim: +v8.1.0020 
+
+|reg_recorded()|
+
+    Neovim: +dev 
 
 |reg_recording()|
 
