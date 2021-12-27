@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2021-12-26 00:16:39 UTC
+*helpful-version.txt*  Generated: 2021-12-27 00:16:27 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -619,10 +619,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |'cdh'|
 
+    Neovim: +nightly 
        Vim: +v8.2.3784 
 
 |'cdhome'|
 
+    Neovim: +nightly 
        Vim: +v8.2.3784 
 
 |'cdpath'|
@@ -34835,6 +34837,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |fullcommand()|
 
+    Neovim: +nightly 
        Vim: +v8.2.2468 
 
 |funcref()|
@@ -41475,7 +41478,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |lua-spell|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-stdlib|
 
@@ -56604,7 +56607,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.spell.check()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.split()|
 
