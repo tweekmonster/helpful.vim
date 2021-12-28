@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2021-12-27 00:16:27 UTC
+*helpful-version.txt*  Generated: 2021-12-28 00:15:27 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -20019,7 +20019,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |E1135|
 
-       Vim: +v8.2.1978 
+       Vim: +v8.2.1978 -v8.2.3918 
 
 |E1136|
 
@@ -20182,6 +20182,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|E1255|
+
+       Vim: +v8.2.3918 
 
 |E126|
 
@@ -28837,6 +28841,18 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|builtin-function-details|
+
+       Vim: +v8.2.3917 
+
+|builtin-function-list|
+
+       Vim: +v8.2.3917 
+
+|builtin-functions|
+
+       Vim: +v8.2.3917 
+
 |builtin-terms|
 
     Neovim: +v0.2.1 
@@ -28846,6 +28862,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|builtin.txt|
+
+       Vim: +v8.2.3917 
 
 |builtin_terms|
 
@@ -33129,6 +33149,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|expr10|
+
+       Vim: +v8.2.3913 
 
 |expr2|
 
@@ -56785,6 +56809,10 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v8.2.2239 -v8.2.2198 
 
+|vim9-boolean|
+
+       Vim: +v8.2.3913 
+
 |vim9-classes|
 
        Vim: +v8.2.1713 
@@ -56844,6 +56872,14 @@ A listing of helptags with the versions they became available or were removed.
 |vim9-lambda-arguments|
 
        Vim: +v8.2.2744 
+
+|vim9-line-continuation|
+
+       Vim: +v8.2.3913 
+
+|vim9-literal-dict|
+
+       Vim: +v8.2.3913 
 
 |vim9-mix|
 
