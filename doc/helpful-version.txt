@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2021-12-29 00:15:30 UTC
+*helpful-version.txt*  Generated: 2021-12-30 00:15:34 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -30386,7 +30386,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |command-attributes|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |command-block|
 
@@ -41159,7 +41159,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |log_levels|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |logiPat|
 
@@ -45005,7 +45005,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |nvim_add_user_command()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_buf_add_highlight()|
 
@@ -45013,7 +45013,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |nvim_buf_add_user_command()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_buf_attach()|
 
@@ -45049,7 +45049,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |nvim_buf_del_user_command()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_buf_del_var()|
 
@@ -45213,7 +45213,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |nvim_del_user_command()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_del_var()|
 
@@ -55979,7 +55979,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.log.levels|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.loop|
 
@@ -56331,7 +56331,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.lsp.log_levels|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.omnifunc()|
 
