@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2022-01-01 00:15:42 UTC
+*helpful-version.txt*  Generated: 2022-01-02 00:16:12 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -36076,6 +36076,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |g:no_mail_maps|
 
+    Neovim: +dev 
        Vim: +v8.2.3952 
 
 |g:no_man_maps|
@@ -36084,6 +36085,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |g:no_plugin_maps|
 
+    Neovim: +dev 
        Vim: +v8.2.3952 
 
 |g:node_host_prog|
@@ -42280,6 +42282,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0035 
+
+|maxcol-variable|
+
+       Vim: +v8.2.3969 
 
 |mbyte-IME|
 
@@ -54500,6 +54506,10 @@ A listing of helptags with the versions they became available or were removed.
 |v:lua-call|
 
     Neovim: +v0.5.0 
+
+|v:maxcol|
+
+       Vim: +v8.2.3969 
 
 |v:mouse_col|
 
