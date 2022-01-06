@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2022-01-05 00:16:40 UTC
+*helpful-version.txt*  Generated: 2022-01-06 00:16:55 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -35242,11 +35242,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |g:did_load_filetypes|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |g:do_filetype_lua|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |g:explDateFormat|
 
@@ -41479,7 +41479,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |lua-filetype|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-funcref|
 
@@ -55968,7 +55968,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.filetype.add()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.fn|
 
