@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2022-01-06 00:16:55 UTC
+*helpful-version.txt*  Generated: 2022-01-07 00:16:10 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -41493,6 +41493,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.4.0 
 
+|lua-keymap|
+
+    Neovim: +dev 
+
 |lua-list|
 
        Vim: +v7.3.490 
@@ -56015,6 +56019,14 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.5.0 -v0.6.0 
 
+|vim.keymap.del()|
+
+    Neovim: +dev 
+
+|vim.keymap.set()|
+
+    Neovim: +dev 
+
 |vim.list_extend()|
 
     Neovim: +v0.5.0 
@@ -56643,6 +56655,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.5.0 
 
+|vim.notify_once()|
+
+    Neovim: +dev 
+
 |vim.o|
 
     Neovim: +v0.5.0 
@@ -56678,6 +56694,10 @@ A listing of helptags with the versions they became available or were removed.
 |vim.pesc()|
 
     Neovim: +v0.4.0 
+
+|vim.pretty_print()|
+
+    Neovim: +dev 
 
 |vim.regex()|
 
