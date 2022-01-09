@@ -1208,7 +1208,7 @@ $XDG_DATA_HOMEneovim:v0.1.5,
 'ts'neovim:v0.1.0,vim:v7.0001,
 'tsl'neovim:v0.1.0,vim:v7.0001,
 'tsr'neovim:v0.1.0,vim:v8.0.0712,v8.0.0761
-'tsrfu'neovim:v0.6.0,
+'tsrfu'neovim:v0.6.0,vim:dev,
 'ttimeout'neovim:v0.1.0,vim:v7.0001,
 'ttimeoutlen'neovim:v0.1.0,vim:v7.0001,
 'ttm'neovim:v0.1.0,vim:v7.0001,
@@ -2321,6 +2321,7 @@ $XDG_DATA_HOMEneovim:v0.1.5,
 :cexprneovim:v0.1.0,vim:v7.0117,
 :cfneovim:v0.1.0,vim:v7.0001,
 :cfdoneovim:v0.1.2,vim:v7.4.862,
+:cfivim:dev,
 :cfileneovim:v0.1.0,vim:v7.0001,
 :cfirneovim:v0.1.0,vim:v7.0001,
 :cfirstneovim:v0.1.0,vim:v7.0001,
@@ -4138,7 +4139,7 @@ E127neovim:v0.1.0,vim:v7.0001,
 E128neovim:v0.1.0,vim:v7.0001,
 E129neovim:v0.1.0,vim:v7.0001,
 E13neovim:v0.1.0,vim:v7.0001,
-E130neovim:v0.1.0,vim:v7.0001,
+E130neovim:v0.1.0,vim:v7.0001,dev
 E131neovim:v0.1.0,vim:v7.0001,
 E132neovim:v0.1.0,vim:v7.0001,
 E133neovim:v0.1.0,vim:v7.0001,
@@ -4281,7 +4282,7 @@ E257neovim:v0.1.0,vim:v7.0001,
 E258neovim:v0.1.0,v0.6.0vim:v7.0001,
 E259neovim:v0.1.0,vim:v7.0001,
 E26vim:v7.0001,
-E260vim:v7.0001,v7.3.020
+E260vim:dev,v7.3.020
 E261neovim:v0.1.0,vim:v7.0001,
 E262neovim:v0.1.0,vim:v7.0001,
 E263neovim:v0.1.0,vim:v7.0001,
@@ -4314,7 +4315,7 @@ E287neovim:v0.1.0,vim:v7.0001,
 E288neovim:v0.1.0,vim:v7.0001,
 E289neovim:v0.1.0,vim:v7.0001,
 E29neovim:v0.1.0,vim:v7.0001,
-E290vim:v7.0001,v7.3.471
+E290vim:dev,v7.3.471
 E291vim:v7.0001,v7.3.471
 E292neovim:v0.5.0,vim:v8.2.0074,v7.3.471
 E293neovim:v0.1.0,vim:v7.0001,
@@ -4323,7 +4324,7 @@ E295neovim:v0.1.0,vim:v7.0001,
 E296neovim:v0.1.0,vim:v7.0001,
 E297neovim:v0.1.0,vim:v7.0001,
 E298neovim:v0.1.0,vim:v7.0001,
-E299vim:v7.0001,
+E299vim:v7.0001,dev
 E30neovim:v0.1.0,vim:v7.0001,
 E300neovim:v0.1.0,vim:v7.0001,
 E301neovim:v0.1.0,vim:v7.0001,
@@ -4393,11 +4394,11 @@ E359neovim:v0.1.0,v0.2.0vim:v7.0001,
 E36neovim:v0.1.0,vim:v7.0001,
 E360neovim:v0.1.0,vim:v7.0001,
 E361vim:v7.0001,v7.0057
-E362neovim:v0.1.0,v0.2.0vim:v7.0001,v7.4.1761
+E362neovim:v0.1.0,v0.2.0vim:dev,v7.4.1761
 E363neovim:v0.1.0,vim:v7.0001,
 E364neovim:v0.1.0,vim:v7.0001,
 E365neovim:v0.1.0,vim:v7.0001,
-E366vim:v7.0001,v7.3.227
+E366vim:dev,v7.3.227
 E367neovim:v0.1.0,vim:v7.0001,
 E368neovim:v0.1.0,vim:v7.0001,
 E369neovim:v0.1.0,vim:v7.0001,
@@ -4490,11 +4491,11 @@ E447neovim:v0.1.0,vim:v7.0001,
 E448neovim:v0.1.0,v0.4.0vim:v7.0001,
 E449neovim:v0.1.0,vim:v7.0001,
 E45neovim:v0.1.0,vim:v7.0001,
-E450vim:v7.0001,v7.4.1425
-E451vim:v7.0001,v7.4.1425
+E450vim:dev,v7.4.1425
+E451vim:dev,v7.4.1425
 E452neovim:v0.5.0,vim:v8.2.0540,v7.4.1425
 E453vim:v8.2.0863,v7.4.1425
-E454vim:v7.0001,v7.4.1425
+E454vim:dev,v7.4.1425
 E455neovim:v0.1.0,vim:v7.0001,
 E456neovim:v0.1.0,vim:v7.0001,
 E457neovim:v0.1.0,vim:v7.0001,
@@ -4532,9 +4533,10 @@ E485neovim:v0.1.0,vim:v7.0001,
 E486neovim:v0.1.0,vim:v7.0001,
 E487neovim:v0.1.0,vim:v7.0001,
 E488neovim:v0.1.0,vim:v7.0001,
-E489vim:v7.0001,v7.3.020
+E489vim:dev,v7.3.020
 E49neovim:v0.1.0,vim:v7.0001,
 E490neovim:v0.1.0,vim:v7.0001,
+E491vim:dev,
 E492neovim:v0.1.0,vim:v7.0001,
 E493neovim:v0.1.0,vim:v7.0001,
 E494neovim:v0.1.0,vim:v7.0001,
@@ -4595,7 +4597,7 @@ E534neovim:v0.1.0,vim:v7.0001,
 E535neovim:v0.1.0,vim:v7.0001,
 E536neovim:v0.1.0,vim:v7.0001,
 E537neovim:v0.1.0,vim:v7.0001,
-E538neovim:v0.1.0,v0.5.0vim:v7.0001,v8.2.2375
+E538neovim:v0.1.0,v0.5.0vim:dev,v8.2.2375
 E539neovim:v0.1.0,vim:v7.0001,
 E54neovim:v0.1.0,vim:v7.0001,
 E540neovim:v0.1.0,vim:v7.0001,
@@ -4690,7 +4692,7 @@ E609neovim:v0.1.0,vim:v7.0001,
 E61neovim:v0.1.0,vim:v7.0001,
 E610neovim:v0.5.0,vim:v8.2.1545,v7.3.227
 E6100neovim:v0.3.0,
-E611vim:v7.0001,v7.3.227
+E611vim:dev,v7.3.227
 E612neovim:v0.1.0,vim:v7.0001,
 E613neovim:v0.1.0,vim:v7.0001,
 E614neovim:v0.1.0,vim:v7.0001,
@@ -7514,6 +7516,7 @@ g:tex_subscriptsneovim:v0.1.0,vim:v7.4.442,
 g:tex_superscriptsneovim:v0.1.0,vim:v7.4.442,
 g:tex_verbspellneovim:v0.1.0,vim:v7.3.1241,
 g:varneovim:v0.1.0,vim:v7.0001,
+g:vim_indent_contvim:dev,
 g:vimball_homeneovim:v0.1.0,v0.1.5vim:v7.1a,
 g:vimball_mkdirneovim:v0.1.0,v0.1.5vim:v7.2a,
 g:vimball_path_escapevim:v7.2a,v7.2.328
@@ -11315,7 +11318,7 @@ tsnode:symbol()neovim:v0.5.0,
 tsnode:type()neovim:v0.5.0,
 tsparser:parse()neovim:v0.5.0,
 tsparser:set_included_regions()neovim:v0.5.0,
-tsrfu'vim:v8.2.3520,
+tsrfu'vim:v8.2.3520,dev
 tstree:copy()neovim:v0.5.0,
 tstree:root()neovim:v0.5.0,
 tuineovim:v0.2.1,
