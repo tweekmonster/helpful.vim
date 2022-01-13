@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2022-01-12 00:17:21 UTC
+*helpful-version.txt*  Generated: 2022-01-13 00:17:01 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -11287,7 +11287,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |:cfi|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.2.4047 
 
 |:cfile|
@@ -20224,7 +20224,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |E130|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 -v8.2.4047 
 
 |E131|
@@ -20935,7 +20935,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |E260|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.2.4047 -v7.3.020 
 
 |E261|
@@ -21018,7 +21018,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |E276|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.1.1876 -v7.4.1433 
 
 |E277|
@@ -21485,7 +21485,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |E362|
 
-    Neovim: +dev -v0.2.0 
+    Neovim: +nightly -v0.2.0 
        Vim: +v8.2.4047 -v7.4.1761 
 
 |E363|
@@ -24492,7 +24492,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |E907|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v7.4.1274 
 
 |E908|
@@ -36359,7 +36359,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |g:vim_indent_cont|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.2.4047 
 
 |g:vimball_home|
