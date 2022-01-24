@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2022-01-23 00:15:16 UTC
+*helpful-version.txt*  Generated: 2022-01-24 00:15:11 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -12893,6 +12893,10 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v8.2.0149 
 
+|:import-as|
+
+       Vim: +v8.2.4189 
+
 |:import-cycle|
 
        Vim: +v8.2.0149 
@@ -19914,15 +19918,103 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|E1001|
+
+       Vim: +v8.2.4189 
+
+|E1002|
+
+       Vim: +v8.2.4189 
+
+|E1003|
+
+       Vim: +v8.2.4189 
+
+|E1004|
+
+       Vim: +v8.2.4189 
+
+|E1005|
+
+       Vim: +v8.2.4189 
+
+|E1006|
+
+       Vim: +v8.2.4189 
+
+|E1007|
+
+       Vim: +v8.2.4189 
+
+|E1008|
+
+       Vim: +v8.2.4189 
+
+|E1009|
+
+       Vim: +v8.2.4189 
+
 |E101|
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|E1010|
+
+       Vim: +v8.2.4189 
+
+|E1011|
+
+       Vim: +v8.2.4189 
+
+|E1012|
+
+       Vim: +v8.2.4189 
+
+|E1013|
+
+       Vim: +v8.2.4189 
+
+|E1014|
+
+       Vim: +v8.2.4189 
+
+|E1015|
+
+       Vim: +v8.2.4189 
+
+|E1016|
+
+       Vim: +v8.2.4189 
+
+|E1017|
+
+       Vim: +v8.2.4189 
+
+|E1018|
+
+       Vim: +v8.2.4189 
+
+|E1019|
+
+       Vim: +v8.2.4189 
+
 |E102|
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|E1020|
+
+       Vim: +v8.2.4189 
+
+|E1021|
+
+       Vim: +v8.2.4189 
+
+|E1022|
+
+       Vim: +v8.2.4189 
 
 |E1023|
 
@@ -19932,19 +20024,107 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v8.2.1545 
 
+|E1025|
+
+       Vim: +v8.2.4189 
+
+|E1026|
+
+       Vim: +v8.2.4189 
+
+|E1027|
+
+       Vim: +v8.2.4189 
+
+|E1028|
+
+       Vim: +v8.2.4189 
+
+|E1029|
+
+       Vim: +v8.2.4189 
+
 |E103|
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|E1030|
+
+       Vim: +v8.2.4189 
+
+|E1031|
+
+       Vim: +v8.2.4189 
+
+|E1032|
+
+       Vim: +v8.2.4189 
+
+|E1033|
+
+       Vim: +v8.2.4189 
+
+|E1034|
+
+       Vim: +v8.2.4189 
+
+|E1035|
+
+       Vim: +v8.2.4189 
+
+|E1036|
+
+       Vim: +v8.2.4189 
+
+|E1037|
+
+       Vim: +v8.2.4189 
+
+|E1038|
+
+       Vim: +v8.2.4189 
+
+|E1039|
+
+       Vim: +v8.2.4189 
 
 |E104|
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|E1040|
+
+       Vim: +v8.2.4189 
+
+|E1041|
+
+       Vim: +v8.2.4189 
+
 |E1042|
 
        Vim: +v8.2.0980 
+
+|E1043|
+
+       Vim: +v8.2.4189 
+
+|E1044|
+
+       Vim: +v8.2.4189 
+
+|E1047|
+
+       Vim: +v8.2.4189 
+
+|E1048|
+
+       Vim: +v8.2.4189 
+
+|E1049|
+
+       Vim: +v8.2.4189 
 
 |E105|
 
@@ -19955,19 +20135,127 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v8.2.1042 
 
+|E1051|
+
+       Vim: +v8.2.4189 
+
+|E1052|
+
+       Vim: +v8.2.4189 
+
+|E1053|
+
+       Vim: +v8.2.4189 
+
+|E1054|
+
+       Vim: +v8.2.4189 
+
+|E1055|
+
+       Vim: +v8.2.4189 
+
+|E1056|
+
+       Vim: +v8.2.4189 
+
+|E1057|
+
+       Vim: +v8.2.4189 
+
+|E1058|
+
+       Vim: +v8.2.4189 
+
+|E1059|
+
+       Vim: +v8.2.4189 
+
 |E106|
 
        Vim: +v7.0001 -v7.3.020 
+
+|E1060|
+
+       Vim: +v8.2.4189 
+
+|E1061|
+
+       Vim: +v8.2.4189 
+
+|E1062|
+
+       Vim: +v8.2.4189 
+
+|E1063|
+
+       Vim: +v8.2.4189 
+
+|E1064|
+
+       Vim: +v8.2.4189 
+
+|E1066|
+
+       Vim: +v8.2.4189 
+
+|E1067|
+
+       Vim: +v8.2.4189 
+
+|E1068|
+
+       Vim: +v8.2.4189 
+
+|E1069|
+
+       Vim: +v8.2.4189 
 
 |E107|
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|E1071|
+
+       Vim: +v8.2.4189 
+
+|E1072|
+
+       Vim: +v8.2.4189 
+
+|E1073|
+
+       Vim: +v8.2.4189 
+
+|E1074|
+
+       Vim: +v8.2.4189 
+
+|E1075|
+
+       Vim: +v8.2.4189 
+
+|E1076|
+
+       Vim: +v8.2.4189 
+
+|E1077|
+
+       Vim: +v8.2.4189 
+
 |E108|
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|E1081|
+
+       Vim: +v8.2.4189 
+
+|E1083|
+
+       Vim: +v8.2.4189 
 
 |E109|
 
@@ -20136,6 +20424,11 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v8.2.3184 
 
+|E1208|
+
+    Neovim: +dev 
+       Vim: +v8.2.4189 
+
 |E121|
 
     Neovim: +v0.1.0 
@@ -20205,6 +20498,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|E1263|
+
+       Vim: +v8.2.4189 
 
 |E127|
 
@@ -23144,7 +23441,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |E654|
 
-       Vim: +v7.0001 -v7.4.1761 
+       Vim: +v8.2.4189 -v7.4.1761 
 
 |E655|
 
@@ -23914,7 +24211,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |E796|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.1a 
 
 |E797|
@@ -24139,7 +24436,7 @@ A listing of helptags with the versions they became available or were removed.
 |E839|
 
     Neovim: +v0.1.0 -v0.6.0 
-       Vim: +v7.3.063 
+       Vim: +v7.3.063 -v8.2.4189 
 
 |E84|
 
@@ -24231,6 +24528,11 @@ A listing of helptags with the versions they became available or were removed.
 |E856|
 
     Neovim: +v0.2.0 
+       Vim: +v8.2.4189 
+
+|E857|
+
+       Vim: +v8.2.4189 
 
 |E858|
 
@@ -24760,7 +25062,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |E959|
 
-    Neovim: +v0.4.0 
+    Neovim: +v0.4.0 -dev 
        Vim: +v8.1.1783 
 
 |E96|
