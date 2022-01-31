@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2022-01-30 00:15:50 UTC
+*helpful-version.txt*  Generated: 2022-01-31 00:15:42 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -20259,23 +20259,23 @@ A listing of helptags with the versions they became available or were removed.
 
 |E1084|
 
-       Vim: +dev 
+       Vim: +v8.2.4258 
 
 |E1085|
 
-       Vim: +dev 
+       Vim: +v8.2.4258 
 
 |E1086|
 
-       Vim: +dev 
+       Vim: +v8.2.4258 
 
 |E1087|
 
-       Vim: +dev 
+       Vim: +v8.2.4258 
 
 |E1089|
 
-       Vim: +dev 
+       Vim: +v8.2.4258 
 
 |E109|
 
@@ -20284,7 +20284,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |E1090|
 
-       Vim: +dev 
+       Vim: +v8.2.4258 
 
 |E1091|
 
@@ -20296,7 +20296,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |E1093|
 
-       Vim: +dev 
+       Vim: +v8.2.4258 
 
 |E1094|
 
@@ -20304,23 +20304,23 @@ A listing of helptags with the versions they became available or were removed.
 
 |E1095|
 
-       Vim: +dev 
+       Vim: +v8.2.4258 
 
 |E1096|
 
-       Vim: +dev 
+       Vim: +v8.2.4258 
 
 |E1097|
 
-       Vim: +dev 
+       Vim: +v8.2.4258 
 
 |E1098|
 
-       Vim: +dev 
+       Vim: +v8.2.4258 
 
 |E1099|
 
-       Vim: +dev 
+       Vim: +v8.2.4258 
 
 |E11|
 
@@ -20334,39 +20334,39 @@ A listing of helptags with the versions they became available or were removed.
 
 |E1100|
 
-       Vim: +dev 
+       Vim: +v8.2.4258 
 
 |E1101|
 
-       Vim: +dev 
+       Vim: +v8.2.4258 
 
 |E1102|
 
-       Vim: +dev 
+       Vim: +v8.2.4258 
 
 |E1103|
 
-       Vim: +dev 
+       Vim: +v8.2.4258 
 
 |E1104|
 
-       Vim: +dev 
+       Vim: +v8.2.4258 
 
 |E1105|
 
-       Vim: +dev 
+       Vim: +v8.2.4258 
 
 |E1106|
 
-       Vim: +dev 
+       Vim: +v8.2.4258 
 
 |E1107|
 
-       Vim: +dev 
+       Vim: +v8.2.4258 
 
 |E1108|
 
-       Vim: +dev 
+       Vim: +v8.2.4258 
 
 |E1109|
 
@@ -20395,27 +20395,27 @@ A listing of helptags with the versions they became available or were removed.
 
 |E1114|
 
-       Vim: +dev 
+       Vim: +v8.2.4258 
 
 |E1115|
 
-       Vim: +dev 
+       Vim: +v8.2.4258 
 
 |E1116|
 
-       Vim: +dev 
+       Vim: +v8.2.4258 
 
 |E1117|
 
-       Vim: +dev 
+       Vim: +v8.2.4258 
 
 |E1118|
 
-       Vim: +dev 
+       Vim: +v8.2.4258 
 
 |E1119|
 
-       Vim: +dev 
+       Vim: +v8.2.4258 
 
 |E112|
 
@@ -20424,43 +20424,43 @@ A listing of helptags with the versions they became available or were removed.
 
 |E1120|
 
-       Vim: +dev 
+       Vim: +v8.2.4258 
 
 |E1121|
 
-       Vim: +dev 
+       Vim: +v8.2.4258 
 
 |E1122|
 
-       Vim: +dev 
+       Vim: +v8.2.4258 
 
 |E1123|
 
-       Vim: +dev 
+       Vim: +v8.2.4258 
 
 |E1124|
 
-       Vim: +dev 
+       Vim: +v8.2.4258 
 
 |E1125|
 
-       Vim: +dev 
+       Vim: +v8.2.4258 
 
 |E1126|
 
-       Vim: +dev 
+       Vim: +v8.2.4258 
 
 |E1127|
 
-       Vim: +dev 
+       Vim: +v8.2.4258 
 
 |E1128|
 
-       Vim: +dev 
+       Vim: +v8.2.4258 
 
 |E1129|
 
-       Vim: +dev 
+       Vim: +v8.2.4258 
 
 |E113|
 
@@ -20469,27 +20469,27 @@ A listing of helptags with the versions they became available or were removed.
 
 |E1130|
 
-       Vim: +dev 
+       Vim: +v8.2.4258 
 
 |E1131|
 
-       Vim: +dev 
+       Vim: +v8.2.4258 
 
 |E1132|
 
-       Vim: +dev 
+       Vim: +v8.2.4258 
 
 |E1133|
 
-       Vim: +dev 
+       Vim: +v8.2.4258 
 
 |E1134|
 
-       Vim: +dev 
+       Vim: +v8.2.4258 
 
 |E1135|
 
-       Vim: +dev -v8.2.3918 
+       Vim: +v8.2.4258 -v8.2.3918 
 
 |E1136|
 
@@ -20501,11 +20501,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |E1138|
 
-       Vim: +dev 
+       Vim: +v8.2.4258 
 
 |E1139|
 
-       Vim: +dev 
+       Vim: +v8.2.4258 
 
 |E114|
 
@@ -20514,23 +20514,23 @@ A listing of helptags with the versions they became available or were removed.
 
 |E1140|
 
-       Vim: +dev 
+       Vim: +v8.2.4258 
 
 |E1141|
 
-       Vim: +dev 
+       Vim: +v8.2.4258 
 
 |E1143|
 
-       Vim: +dev 
+       Vim: +v8.2.4258 
 
 |E1144|
 
-       Vim: +dev 
+       Vim: +v8.2.4258 
 
 |E1145|
 
-       Vim: +dev 
+       Vim: +v8.2.4258 
 
 |E115|
 
@@ -20543,7 +20543,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |E1158|
 
-       Vim: +dev 
+       Vim: +v8.2.4258 
 
 |E116|
 
@@ -20552,7 +20552,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |E1169|
 
-       Vim: +dev 
+       Vim: +v8.2.4258 
 
 |E117|
 
@@ -21642,7 +21642,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |E299|
 
-       Vim: +dev -v8.2.4047 
+       Vim: +v8.2.4258 -v8.2.4047 
 
 |E30|
 
@@ -27165,12 +27165,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |W20|
 
-    Neovim: +v0.4.0 -dev 
+    Neovim: +v0.4.0 -nightly 
        Vim: +v8.0.0251 
 
 |W21|
 
-    Neovim: +v0.4.0 -dev 
+    Neovim: +v0.4.0 -nightly 
        Vim: +v8.0.0251 
 
 |W22|
@@ -29370,17 +29370,17 @@ A listing of helptags with the versions they became available or were removed.
 
 |builtin-function-details|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.2.3917 
 
 |builtin-function-list|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.2.3917 
 
 |builtin-functions|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.2.3917 
 
 |builtin-terms|
@@ -29395,7 +29395,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |builtin.txt|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.2.3917 
 
 |builtin_terms|
@@ -36053,7 +36053,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |g:loaded_python_provider|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
 
 |g:loaded_ruby_provider|
 
@@ -36645,7 +36645,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |g:python_host_prog|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
 
 |g:python_host_skip_check|
 
@@ -48063,11 +48063,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |python2|
 
-    Neovim: +v0.3.2 -dev 
+    Neovim: +v0.3.2 -nightly 
 
 |python2-directory|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.3.1163 
 
 |python3|
@@ -53623,19 +53623,23 @@ A listing of helptags with the versions they became available or were removed.
 
 |test_gui_drop_files()|
 
-       Vim: +v8.2.3040 
+       Vim: +v8.2.3040 -v8.2.4259 
+
+|test_gui_event()|
+
+       Vim: +v8.2.4259 
 
 |test_gui_mouse_event()|
 
-       Vim: +v8.2.3028 
+       Vim: +v8.2.3028 -v8.2.4259 
 
 |test_gui_tabline_event()|
 
-       Vim: +v8.2.4228 
+       Vim: +v8.2.4228 -v8.2.4259 
 
 |test_gui_tabmenu_event()|
 
-       Vim: +v8.2.4228 
+       Vim: +v8.2.4228 -v8.2.4259 
 
 |test_ignore_error()|
 
@@ -58259,12 +58263,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |win_move_separator()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.2.4052 
 
 |win_move_statusline()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.2.4052 
 
 |win_screenpos()|
