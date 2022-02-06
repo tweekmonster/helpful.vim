@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2022-02-05 00:13:27 UTC
+*helpful-version.txt*  Generated: 2022-02-06 00:19:38 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -9051,10 +9051,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |0o|
 
+    Neovim: +dev 
        Vim: +v8.2.2324 
 
 |0x|
 
+    Neovim: +dev 
        Vim: +v8.2.2324 
 
 |10.1|
@@ -30792,6 +30794,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |charcol()|
 
+    Neovim: +dev 
        Vim: +v8.2.2324 
 
 |charconvert_from-variable|
@@ -37625,6 +37628,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |getcharpos()|
 
+    Neovim: +dev 
        Vim: +v8.2.2324 
 
 |getcharsearch()|
@@ -37669,6 +37673,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |getcursorcharpos()|
 
+    Neovim: +dev 
        Vim: +v8.2.2324 
 
 |getcwd()|
@@ -48840,6 +48845,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |rand()|
 
+    Neovim: +dev 
        Vim: +v8.1.2342 
 
 |random|
@@ -50059,6 +50065,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |setcharpos()|
 
+    Neovim: +dev 
        Vim: +v8.2.2324 
 
 |setcharsearch()|
@@ -50073,6 +50080,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |setcursorcharpos()|
 
+    Neovim: +dev 
        Vim: +v8.2.2324 
 
 |setdigraph()|
@@ -51485,6 +51493,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |srand()|
 
+    Neovim: +dev 
        Vim: +v8.1.2342 
 
 |sscanf|
