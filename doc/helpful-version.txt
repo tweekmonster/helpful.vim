@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2022-02-07 00:15:39 UTC
+*helpful-version.txt*  Generated: 2022-02-08 00:16:12 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -35830,6 +35830,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |fuzzy-match|
 
+    Neovim: +dev 
        Vim: +v8.2.2857 
 
 |fvwm-syntax|
@@ -43084,10 +43085,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |matchfuzzy()|
 
+    Neovim: +dev 
        Vim: +v8.2.1665 
 
 |matchfuzzypos()|
 
+    Neovim: +dev 
        Vim: +v8.2.1726 
 
 |matchit|
