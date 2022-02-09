@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2022-02-08 00:16:12 UTC
+*helpful-version.txt*  Generated: 2022-02-09 00:15:28 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -25843,6 +25843,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |E998|
 
+    Neovim: +dev 
        Vim: +v8.2.0878 
 
 |E999|
@@ -35830,7 +35831,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |fuzzy-match|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.2.2857 
 
 |fvwm-syntax|
@@ -43085,12 +43086,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |matchfuzzy()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.2.1665 
 
 |matchfuzzypos()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.2.1726 
 
 |matchit|
@@ -48947,6 +48948,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |reduce()|
 
+    Neovim: +dev 
        Vim: +v8.2.0878 
 
 |ref|
