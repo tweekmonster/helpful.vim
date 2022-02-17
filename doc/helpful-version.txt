@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2022-02-16 00:15:31 UTC
+*helpful-version.txt*  Generated: 2022-02-17 00:15:18 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -19907,6 +19907,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |DirChangedPre|
 
+    Neovim: +dev 
        Vim: +v8.2.4335 
 
 |E|
