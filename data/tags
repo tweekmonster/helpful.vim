@@ -12042,6 +12042,7 @@ vim.gneovim:v0.5.0,vim:v8.2.3288,
 vim.goneovim:v0.5.0,
 vim.gsplit()neovim:v0.4.0,
 vim.highlight.on_yank()neovim:v0.5.0,
+vim.highlight.prioritiesneovim:dev,
 vim.highlight.range()neovim:v0.5.0,
 vim.in_fast_event()neovim:v0.4.0,
 vim.insert_keys()neovim:v0.5.0,v0.6.0
