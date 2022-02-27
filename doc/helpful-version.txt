@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2022-02-25 00:19:10 UTC
+*helpful-version.txt*  Generated: 2022-02-27 00:20:42 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -29756,6 +29756,10 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v7.4.1725 
 
+|bug-fixes-9|
+
+       Vim: +v8.2.4477 
+
 |bug-report|
 
     Neovim: +v0.4.0 
@@ -31365,6 +31369,10 @@ A listing of helptags with the versions they became available or were removed.
 |compile-changes-8|
 
        Vim: +v7.4.1725 
+
+|compile-changes-9|
+
+       Vim: +v8.2.4477 
 
 |compiler-compaqada|
 
@@ -40819,6 +40827,10 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v7.4.1725 
 
+|improvements-9|
+
+       Vim: +v8.2.4477 
+
 |in-bot|
 
        Vim: +v7.4.1539 -v7.4.1560 
@@ -40898,6 +40910,10 @@ A listing of helptags with the versions they became available or were removed.
 |incompatible-8|
 
        Vim: +v7.4.1725 
+
+|incompatible-9|
+
+       Vim: +v8.2.4477 
 
 |indent()|
 
@@ -45308,6 +45324,10 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v7.4.1725 
 
+|new-9|
+
+       Vim: +v8.2.4477 
+
 |new-GTK-GUI|
 
        Vim: +v7.0001 
@@ -45449,6 +45469,10 @@ A listing of helptags with the versions they became available or were removed.
 |new-items-8|
 
        Vim: +v7.4.1725 
+
+|new-items-9|
+
+       Vim: +v8.2.4477 
 
 |new-line-continuation|
 
@@ -45654,6 +45678,10 @@ A listing of helptags with the versions they became available or were removed.
 |new-vim-script-8|
 
        Vim: +v7.4.1725 
+
+|new-vim-script-9|
+
+       Vim: +v8.2.4477 
 
 |new-vim-server|
 
@@ -47121,6 +47149,10 @@ A listing of helptags with the versions they became available or were removed.
 |patches-8.2|
 
        Vim: +v8.1.1406 
+
+|patches-9|
+
+       Vim: +v8.2.4477 
 
 |patches-after-8.2|
 
@@ -54004,6 +54036,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|ternary|
+
+       Vim: +v8.2.4477 
+
 |test-functions|
 
     Neovim: +v0.1.2 
@@ -54495,7 +54531,7 @@ A listing of helptags with the versions they became available or were removed.
 |trinary|
 
     Neovim: +v0.5.0 
-       Vim: +v8.2.1769 
+       Vim: +v8.2.1769 -v8.2.4477 
 
 |trojan-horse|
 
@@ -56568,6 +56604,10 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v8.1.2365 
 
+|version-9.0|
+
+       Vim: +v8.2.4477 
+
 |version-variable|
 
     Neovim: +v0.1.0 
@@ -56624,6 +56664,14 @@ A listing of helptags with the versions they became available or were removed.
 |version8.txt|
 
        Vim: +v7.4.1725 
+
+|version9.0|
+
+       Vim: +v8.2.4477 
+
+|version9.txt|
+
+       Vim: +v8.2.4477 
 
 |versionlong-variable|
 
@@ -56692,6 +56740,14 @@ A listing of helptags with the versions they became available or were removed.
 |vim-8.2|
 
        Vim: +v8.1.2365 
+
+|vim-9|
+
+       Vim: +v8.2.4477 
+
+|vim-9.0|
+
+       Vim: +v8.2.4477 
 
 |vim-additions|
 
