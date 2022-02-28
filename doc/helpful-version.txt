@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2022-02-27 00:20:42 UTC
+*helpful-version.txt*  Generated: 2022-02-28 00:21:12 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -42476,6 +42476,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.4.0 
 
+|lua-loop-threading|
+
+    Neovim: +dev 
+
 |lua-luaeval|
 
     Neovim: +v0.2.1 -v0.4.0 
@@ -54038,6 +54042,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |ternary|
 
+    Neovim: +dev 
        Vim: +v8.2.4477 
 
 |test-functions|
@@ -54530,7 +54535,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |trinary|
 
-    Neovim: +v0.5.0 
+    Neovim: +v0.5.0 -dev 
        Vim: +v8.2.1769 -v8.2.4477 
 
 |trojan-horse|
