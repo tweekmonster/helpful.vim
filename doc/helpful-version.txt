@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2022-02-28 00:21:12 UTC
+*helpful-version.txt*  Generated: 2022-03-01 00:21:13 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -28646,6 +28646,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.5 
 
+|api-autocmd|
+
+    Neovim: +dev 
+
 |api-buffer|
 
     Neovim: +v0.2.0 
@@ -42478,7 +42482,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |lua-loop-threading|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-luaeval|
 
@@ -46214,6 +46218,14 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.2.0 
 
+|nvim_create_augroup()|
+
+    Neovim: +dev 
+
+|nvim_create_autocmd()|
+
+    Neovim: +dev 
+
 |nvim_create_buf()|
 
     Neovim: +v0.4.0 
@@ -46221,6 +46233,18 @@ A listing of helptags with the versions they became available or were removed.
 |nvim_create_namespace()|
 
     Neovim: +v0.3.2 
+
+|nvim_del_augroup_by_id()|
+
+    Neovim: +dev 
+
+|nvim_del_augroup_by_name()|
+
+    Neovim: +dev 
+
+|nvim_del_autocmd()|
+
+    Neovim: +dev 
 
 |nvim_del_current_line()|
 
@@ -46241,6 +46265,10 @@ A listing of helptags with the versions they became available or were removed.
 |nvim_del_var()|
 
     Neovim: +v0.2.0 
+
+|nvim_do_autocmd()|
+
+    Neovim: +dev 
 
 |nvim_echo()|
 
@@ -46293,6 +46321,10 @@ A listing of helptags with the versions they became available or were removed.
 |nvim_get_api_info()|
 
     Neovim: +v0.2.0 
+
+|nvim_get_autocmds()|
+
+    Neovim: +dev 
 
 |nvim_get_chan_info()|
 
@@ -54042,7 +54074,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |ternary|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.2.4477 
 
 |test-functions|
@@ -54535,7 +54567,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |trinary|
 
-    Neovim: +v0.5.0 -dev 
+    Neovim: +v0.5.0 -nightly 
        Vim: +v8.2.1769 -v8.2.4477 
 
 |trojan-horse|
