@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2022-03-01 00:21:13 UTC
+*helpful-version.txt*  Generated: 2022-03-02 00:20:02 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -28648,7 +28648,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |api-autocmd|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |api-buffer|
 
@@ -46220,11 +46220,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |nvim_create_augroup()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_create_autocmd()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_create_buf()|
 
@@ -46236,15 +46236,15 @@ A listing of helptags with the versions they became available or were removed.
 
 |nvim_del_augroup_by_id()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_del_augroup_by_name()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_del_autocmd()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_del_current_line()|
 
@@ -46268,7 +46268,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |nvim_do_autocmd()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_echo()|
 
@@ -46324,7 +46324,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |nvim_get_autocmds()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_get_chan_info()|
 
