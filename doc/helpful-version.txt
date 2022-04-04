@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2022-04-03 00:22:30 UTC
+*helpful-version.txt*  Generated: 2022-04-04 00:21:08 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -2482,10 +2482,18 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|'mousemev'|
+
+       Vim: +v8.2.4674 
+
 |'mousemodel'|
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|'mousemoveevent'|
+
+       Vim: +v8.2.4674 
 
 |'mouses'|
 
@@ -2719,12 +2727,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |'nobreakindent'|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v7.4.907 
 
 |'nobri'|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v7.4.907 
 
 |'nobuflisted'|
@@ -2896,12 +2904,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |'noemo'|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v7.4.1725 
 
 |'noemoji'|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v7.4.1725 
 
 |'noendofline'|
@@ -2991,12 +2999,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |'nofs'|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v7.4.907 
 
 |'nofsync'|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v7.4.907 
 
 |'nogd'|
@@ -3612,7 +3620,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'notermguicolors'|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |'noterse'|
 
@@ -3634,7 +3642,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'notgc'|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |'notgst'|
 
@@ -18984,7 +18992,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |Athena|
 
-       Vim: +v7.0001 
+       Vim: +v7.0001 -v8.2.4677 
 
 |B|
 
@@ -29083,7 +29091,7 @@ A listing of helptags with the versions they became available or were removed.
 |athena-intellimouse|
 
     Neovim: +v0.1.0 -v0.1.2 
-       Vim: +v7.0001 
+       Vim: +v7.0001 -v8.2.4677 
 
 |attr-list|
 
@@ -43659,6 +43667,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0034 
+
+|motif-intellimouse|
+
+       Vim: +v8.2.4677 
 
 |motion-count-multiplied|
 
