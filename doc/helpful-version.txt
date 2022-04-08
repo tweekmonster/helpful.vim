@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2022-04-05 00:21:20 UTC
+*helpful-version.txt*  Generated: 2022-04-08 00:23:54 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -700,6 +700,14 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|'cinscopedecls'|
+
+       Vim: +v8.2.4702 
+
+|'cinsd'|
+
+       Vim: +v8.2.4702 
 
 |'cinw'|
 
