@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2022-04-08 00:23:54 UTC
+*helpful-version.txt*  Generated: 2022-04-09 00:21:57 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -12809,6 +12809,11 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|:hi-clear|
+
+    Neovim: +dev 
+       Vim: +v8.2.4715 
+
 |:hi-default|
 
     Neovim: +v0.1.0 
@@ -18213,6 +18218,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|<MouseMove>|
+
+       Vim: +v8.2.4715 
 
 |<MouseUp>|
 
@@ -27726,6 +27735,7 @@ A listing of helptags with the versions they became available or were removed.
 |WinScrolled|
 
     Neovim: +v0.5.0 
+       Vim: +v8.2.4713 
 
 |X|
 
@@ -39048,6 +39058,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |highlight-clear|
 
+    Neovim: +dev 
        Vim: +v8.2.3578 
 
 |highlight-cterm|
