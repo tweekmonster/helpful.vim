@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2022-04-09 00:21:57 UTC
+*helpful-version.txt*  Generated: 2022-04-10 00:21:56 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -703,10 +703,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |'cinscopedecls'|
 
+    Neovim: +dev 
        Vim: +v8.2.4702 
 
 |'cinsd'|
 
+    Neovim: +dev 
        Vim: +v8.2.4702 
 
 |'cinw'|
@@ -10072,6 +10074,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|:<script>|
+
+       Vim: +v8.2.4726 
+
 |:<sfile>|
 
     Neovim: +v0.1.0 
@@ -12811,7 +12817,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |:hi-clear|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.2.4715 
 
 |:hi-default|
@@ -18729,6 +18735,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|<script>|
+
+       Vim: +v8.2.4726 
+
 |<sfile>|
 
     Neovim: +v0.1.0 
@@ -21221,6 +21231,10 @@ A listing of helptags with the versions they became available or were removed.
 |E1271|
 
        Vim: +v8.2.4595 
+
+|E1274|
+
+       Vim: +v8.2.4726 
 
 |E128|
 
@@ -39058,7 +39072,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |highlight-clear|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.2.3578 
 
 |highlight-cterm|
@@ -39222,6 +39236,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.3 
+
+|hl-CurSearch|
+
+       Vim: +v8.2.4724 
 
 |hl-Cursor|
 
