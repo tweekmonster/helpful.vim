@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2022-04-11 00:21:26 UTC
+*helpful-version.txt*  Generated: 2022-04-12 00:21:57 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -46179,17 +46179,9 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.3.0 
 
-|nvim_add_user_command()|
-
-    Neovim: +nightly 
-
 |nvim_buf_add_highlight()|
 
     Neovim: +v0.2.0 
-
-|nvim_buf_add_user_command()|
-
-    Neovim: +nightly 
 
 |nvim_buf_attach()|
 
@@ -46210,6 +46202,10 @@ A listing of helptags with the versions they became available or were removed.
 |nvim_buf_clear_namespace()|
 
     Neovim: +v0.3.2 
+
+|nvim_buf_create_user_command()|
+
+    Neovim: +nightly 
 
 |nvim_buf_del_extmark()|
 
@@ -46390,6 +46386,10 @@ A listing of helptags with the versions they became available or were removed.
 |nvim_create_namespace()|
 
     Neovim: +v0.3.2 
+
+|nvim_create_user_command()|
+
+    Neovim: +nightly 
 
 |nvim_del_augroup_by_id()|
 
@@ -54939,6 +54939,10 @@ A listing of helptags with the versions they became available or were removed.
 |tui-cursor-tmux|
 
     Neovim: +v0.4.0 
+
+|tui-input|
+
+    Neovim: +dev 
 
 |tutor|
 
