@@ -3,7 +3,7 @@ name: Update Tags
 on:
   # Run at midnight every day
   schedule:
-  - cron: '@daily'
+  - cron: '0 0 * * *'
 
 jobs:
   update:
