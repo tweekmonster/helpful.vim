@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2022-04-21 00:15:05 UTC
+*helpful-version.txt*  Generated: 2022-04-22 00:14:51 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -42675,6 +42675,10 @@ A listing of helptags with the versions they became available or were removed.
 |lua-package-path|
 
     Neovim: +v0.5.0 
+
+|lua-patterns|
+
+    Neovim: +dev 
 
 |lua-regex|
 
