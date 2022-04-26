@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2022-04-25 00:13:27 UTC
+*helpful-version.txt*  Generated: 2022-04-26 00:14:10 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -37975,7 +37975,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |getmappings()|
 
-       Vim: +v8.2.4820 
+       Vim: +v8.2.4820 -v8.2.4825 
 
 |getmarklist()|
 
@@ -43174,6 +43174,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|maplist()|
+
+       Vim: +v8.2.4825 
 
 |maplocalleader|
 

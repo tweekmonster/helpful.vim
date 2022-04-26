@@ -7888,7 +7888,7 @@ getlatestvimscripts-installneovim:v0.1.0,v0.1.2vim:v7.1a,
 getlatestvimscripts-pluginsvim:v7.0231,v7.1a
 getline()neovim:v0.1.0,vim:v7.0001,
 getloclist()neovim:v0.1.0,vim:v7.0188,
-getmappings()vim:v8.2.4820,
+getmappings()vim:v8.2.4820,v8.2.4825
 getmarklist()neovim:v0.5.0,vim:v8.2.0861,
 getmatches()neovim:v0.1.0,vim:v7.1.040,
 getmousepos()neovim:v0.6.0,vim:v8.1.2304,
@@ -9025,6 +9025,7 @@ mapcheck()neovim:v0.1.0,vim:v7.0001,
 maple-syntaxvim:v7.0001,v7.0139
 maple.vimneovim:v0.1.0,vim:v7.0001,
 mapleaderneovim:v0.1.0,vim:v7.0001,
+maplist()vim:v8.2.4825,
 maplocalleaderneovim:v0.1.0,vim:v7.0001,
 mapmode-cneovim:v0.1.0,vim:v7.0196,
 mapmode-ineovim:v0.1.0,vim:v7.0196,
