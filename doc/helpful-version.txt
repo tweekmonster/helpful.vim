@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2022-04-26 00:14:10 UTC
+*helpful-version.txt*  Generated: 2022-04-27 00:14:56 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -54982,6 +54982,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.2.1 
 
+|tui-csiu|
+
+    Neovim: +nightly 
+
 |tui-cursor-shape|
 
     Neovim: +v0.2.1 
@@ -54993,6 +54997,10 @@ A listing of helptags with the versions they became available or were removed.
 |tui-input|
 
     Neovim: +stable 
+
+|tui-modifyOtherKeys|
+
+    Neovim: +nightly 
 
 |tutor|
 
