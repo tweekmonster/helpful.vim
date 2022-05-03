@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2022-05-02 00:13:26 UTC
+*helpful-version.txt*  Generated: 2022-05-03 00:14:11 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -55188,6 +55188,10 @@ A listing of helptags with the versions they became available or were removed.
 |ui-startup|
 
     Neovim: +v0.3.2 
+
+|ui-startup-stdin|
+
+    Neovim: +dev 
 
 |ui-tabline|
 
