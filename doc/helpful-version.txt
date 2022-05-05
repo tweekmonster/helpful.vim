@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2022-05-04 00:13:06 UTC
+*helpful-version.txt*  Generated: 2022-05-05 00:13:44 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -53,7 +53,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |$NVIM|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |$NVIM_LISTEN_ADDRESS|
 
@@ -21252,6 +21252,10 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v8.2.4726 
 
+|E1276|
+
+       Vim: +v8.2.4861 
+
 |E128|
 
     Neovim: +v0.1.0 
@@ -21877,7 +21881,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |E241|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |E242|
@@ -23002,7 +23006,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |E449|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |E45|
@@ -25725,12 +25729,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |E941|
 
-    Neovim: +v0.3.1 -dev 
+    Neovim: +v0.3.1 -nightly 
        Vim: +v8.0.0475 
 
 |E942|
 
-    Neovim: +v0.3.1 -dev 
+    Neovim: +v0.3.1 -nightly 
        Vim: +v8.0.0475 
 
 |E943|
@@ -35019,7 +35023,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |foreground()|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |fork|
@@ -41685,7 +41689,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |jobstart-env|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |jobstart-options|
 
@@ -49410,17 +49414,17 @@ A listing of helptags with the versions they became available or were removed.
 
 |remote_expr()|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |remote_foreground()|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |remote_peek()|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |remote_plugin.txt|
@@ -49429,17 +49433,17 @@ A listing of helptags with the versions they became available or were removed.
 
 |remote_read()|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |remote_send()|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |remote_startserver()|
 
-    Neovim: +v0.3.1 -dev 
+    Neovim: +v0.3.1 -nightly 
        Vim: +v8.0.0475 
 
 |remote_ui_disconnect()|
@@ -50346,7 +50350,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |server2client()|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |serverlist()|
@@ -57204,7 +57208,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.deprecate()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.diagnostic|
 
