@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2022-05-09 00:13:13 UTC
+*helpful-version.txt*  Generated: 2022-05-10 00:14:18 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -37881,6 +37881,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |getcmdcompltype()|
 
+    Neovim: +nightly 
        Vim: +v8.2.4903 
 
 |getcmdline()|
@@ -37895,6 +37896,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |getcmdscreenpos()|
 
+    Neovim: +nightly 
        Vim: +v8.2.4903 
 
 |getcmdtype()|
