@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2022-05-12 00:15:40 UTC
+*helpful-version.txt*  Generated: 2022-05-13 00:16:59 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -96,6 +96,10 @@ A listing of helptags with the versions they became available or were removed.
 |$XDG_DATA_HOME|
 
     Neovim: +v0.1.5 
+
+|$XDG_STATE_HOME|
+
+    Neovim: +dev 
 
 |%|
 
@@ -21255,6 +21259,10 @@ A listing of helptags with the versions they became available or were removed.
 |E1276|
 
        Vim: +v8.2.4861 
+
+|E1278|
+
+       Vim: +v8.2.4945 
 
 |E128|
 
@@ -42734,7 +42742,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |lua-package-path|
 
-    Neovim: +v0.5.0 -dev 
+    Neovim: +v0.5.0 -nightly 
 
 |lua-patterns|
 
@@ -46467,7 +46475,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |nvim_cmd()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_command()|
 
