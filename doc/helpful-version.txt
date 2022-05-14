@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2022-05-13 00:16:59 UTC
+*helpful-version.txt*  Generated: 2022-05-14 00:17:12 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -99,7 +99,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |$XDG_STATE_HOME|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |%|
 
@@ -56208,6 +56208,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|v_#-default|
+
+    Neovim: +nightly 
+
 |v_$|
 
     Neovim: +v0.1.0 
@@ -56751,6 +56755,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|v_star-default|
+
+    Neovim: +nightly 
 
 |v_u|
 
