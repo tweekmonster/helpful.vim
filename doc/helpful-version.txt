@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2022-05-14 00:17:12 UTC
+*helpful-version.txt*  Generated: 2022-05-15 00:17:22 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -9648,32 +9648,32 @@ A listing of helptags with the versions they became available or were removed.
 |41.11|
 
     Neovim: +v0.1.0 
-       Vim: +v7.0001 
+       Vim: +v7.0001 -v8.2.4954 
 
 |41.12|
 
     Neovim: +v0.1.0 
-       Vim: +v7.0001 
+       Vim: +v7.0001 -v8.2.4954 
 
 |41.13|
 
     Neovim: +v0.1.0 
-       Vim: +v7.0049 
+       Vim: +v7.0049 -v8.2.4954 
 
 |41.14|
 
     Neovim: +v0.1.0 
-       Vim: +v7.0052 
+       Vim: +v7.0052 -v8.2.4954 
 
 |41.15|
 
     Neovim: +v0.1.0 
-       Vim: +v7.0052 
+       Vim: +v7.0052 -v8.2.4954 
 
 |41.16|
 
     Neovim: +v0.1.0 
-       Vim: +v7.0231 
+       Vim: +v7.0231 -v8.2.4954 
 
 |41.2|
 
@@ -9837,19 +9837,63 @@ A listing of helptags with the versions they became available or were removed.
 
 |46.1|
 
-       Vim: +v8.2.0980 
+       Vim: +v8.2.0980 -v8.2.4954 
 
 |46.2|
 
-       Vim: +v8.2.0980 
+       Vim: +v8.2.0980 -v8.2.4954 
 
 |46.3|
 
-       Vim: +v8.2.0980 
+       Vim: +v8.2.0980 -v8.2.4954 
 
 |46.?|
 
-       Vim: +v8.2.0980 
+       Vim: +v8.2.0980 -v8.2.4954 
+
+|50.1|
+
+       Vim: +v8.2.4954 
+
+|51.1|
+
+       Vim: +v8.2.4954 
+
+|51.2|
+
+       Vim: +v8.2.4954 
+
+|51.3|
+
+       Vim: +v8.2.4954 
+
+|51.4|
+
+       Vim: +v8.2.4954 
+
+|51.5|
+
+       Vim: +v8.2.4954 
+
+|51.6|
+
+       Vim: +v8.2.4954 
+
+|52.1|
+
+       Vim: +v8.2.4954 
+
+|52.2|
+
+       Vim: +v8.2.4954 
+
+|52.3|
+
+       Vim: +v8.2.4954 
+
+|52.4|
+
+       Vim: +v8.2.4954 
 
 |755|
 
@@ -55610,7 +55654,19 @@ A listing of helptags with the versions they became available or were removed.
 
 |usr_46.txt|
 
-       Vim: +v8.2.0980 
+       Vim: +v8.2.0980 -v8.2.4954 
+
+|usr_50.txt|
+
+       Vim: +v8.2.4954 
+
+|usr_51.txt|
+
+       Vim: +v8.2.4954 
+
+|usr_52.txt|
+
+       Vim: +v8.2.4954 
 
 |usr_90.txt|
 
