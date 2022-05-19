@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2022-05-15 00:17:22 UTC
+*helpful-version.txt*  Generated: 2022-05-19 00:14:48 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -6219,6 +6219,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|'wbr'|
+
+    Neovim: +dev 
+
 |'wc'|
 
     Neovim: +v0.1.0 
@@ -6326,6 +6330,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|'winbar'|
+
+    Neovim: +dev 
 
 |'winbl'|
 
@@ -21313,6 +21321,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|E1281|
+
+       Vim: +v8.2.4978 
+
 |E129|
 
     Neovim: +v0.1.0 
@@ -26538,6 +26550,14 @@ A listing of helptags with the versions they became available or were removed.
 |LogiPat-flags|
 
        Vim: +v7.4.748 
+
+|LspAttach|
+
+    Neovim: +dev 
+
+|LspDetach|
+
+    Neovim: +dev 
 
 |LspDiagnosticsChanged|
 
@@ -40155,6 +40175,14 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|hl-WinBar|
+
+    Neovim: +dev 
+
+|hl-WinBarNC|
+
+    Neovim: +dev 
 
 |hl-WinSeparator|
 
