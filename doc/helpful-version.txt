@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2022-05-22 00:14:15 UTC
+*helpful-version.txt*  Generated: 2022-05-23 00:15:15 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -21325,6 +21325,14 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v8.2.4978 
 
+|E1282|
+
+       Vim: +v8.2.5003 
+
+|E1283|
+
+       Vim: +v8.2.5003 
+
 |E129|
 
     Neovim: +v0.1.0 
@@ -27812,6 +27820,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|WSL|
+
+       Vim: +v8.2.5000 
+
 |WWW|
 
     Neovim: +v0.1.0 -v0.4.0 
@@ -29774,6 +29786,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.3.388 
+
+|bitwise-shift|
+
+       Vim: +v8.2.5003 
 
 |blob|
 
@@ -34175,6 +34191,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|expr-<<|
+
+       Vim: +v8.2.5003 
+
 |expr-<=|
 
     Neovim: +v0.1.0 
@@ -34249,6 +34269,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|expr->>|
+
+       Vim: +v8.2.5003 
 
 |expr->?|
 
@@ -34387,6 +34411,10 @@ A listing of helptags with the versions they became available or were removed.
 |expr10|
 
        Vim: +v8.2.3913 
+
+|expr11|
+
+       Vim: +v8.2.5003 
 
 |expr2|
 
