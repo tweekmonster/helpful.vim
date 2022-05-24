@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2022-05-23 00:15:15 UTC
+*helpful-version.txt*  Generated: 2022-05-24 00:14:59 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -3097,7 +3097,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'noim'|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |'noimc'|
@@ -3137,7 +3137,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'noinsertmode'|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |'nois'|
@@ -37535,6 +37535,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0c10 
 
+|g:termdebug_config|
+
+       Vim: +v8.2.5010 
+
 |g:termdebugger|
 
        Vim: +v8.2.3346 
@@ -40733,7 +40737,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |i_CTRL-L|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |i_CTRL-M|
@@ -40931,7 +40935,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |i_CTRL-Z|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |i_CTRL-[|
