@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2022-05-24 00:14:59 UTC
+*helpful-version.txt*  Generated: 2022-05-26 00:15:01 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -37537,10 +37537,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |g:termdebug_config|
 
+    Neovim: +dev 
        Vim: +v8.2.5010 
 
 |g:termdebugger|
 
+    Neovim: +dev 
        Vim: +v8.2.3346 
 
 |g:terminal_ansi_colors|
@@ -54245,6 +54247,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |termdebug_map_K|
 
+    Neovim: +dev 
        Vim: +v8.2.0830 
 
 |termdebug_popup|
