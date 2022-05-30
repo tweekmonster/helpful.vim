@@ -12380,9 +12380,9 @@ vim.tbl_map()neovim:v0.5.0,
 vim.tbl_values()neovim:v0.5.0,
 vim.treesitter.language_versionneovim:v0.5.0,
 vim.treesitter.minimum_language_versionneovim:stable,
-vim.treesitter.query.add_directive()neovim:v0.6.0,dev
+vim.treesitter.query.add_directive()neovim:v0.6.0,nightly
 vim.treesitter.query.add_predicate()neovim:v0.6.0,
-vim.treesitter.query.list_directives()neovim:v0.6.0,dev
+vim.treesitter.query.list_directives()neovim:v0.6.0,nightly
 vim.treesitter.query.list_predicates()neovim:v0.6.0,
 vim.trim()neovim:v0.4.0,
 vim.type_idxneovim:v0.4.0,
