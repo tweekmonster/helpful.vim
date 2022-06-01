@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2022-05-31 00:14:08 UTC
+*helpful-version.txt*  Generated: 2022-06-01 00:15:57 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -11776,6 +11776,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.1a 
+
+|:command-preview|
+
+    Neovim: +dev 
 
 |:command-range|
 
@@ -23670,7 +23674,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |E5430|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |E544|
 
@@ -39120,23 +39124,23 @@ A listing of helptags with the versions they became available or were removed.
 
 |health.report_error()|
 
-    Neovim: +v0.6.0 
+    Neovim: +v0.6.0 -dev 
 
 |health.report_info()|
 
-    Neovim: +v0.6.0 
+    Neovim: +v0.6.0 -dev 
 
 |health.report_ok()|
 
-    Neovim: +v0.6.0 
+    Neovim: +v0.6.0 -dev 
 
 |health.report_start()|
 
-    Neovim: +v0.6.0 
+    Neovim: +v0.6.0 -dev 
 
 |health.report_warn()|
 
-    Neovim: +v0.6.0 
+    Neovim: +v0.6.0 -dev 
 
 |health.user_checker|
 
@@ -42828,6 +42832,10 @@ A listing of helptags with the versions they became available or were removed.
 |lua-filetype|
 
     Neovim: +stable 
+
+|lua-fs|
+
+    Neovim: +dev 
 
 |lua-funcref|
 
@@ -57524,6 +57532,30 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.5.0 
 
+|vim.fs.basename()|
+
+    Neovim: +dev 
+
+|vim.fs.dir()|
+
+    Neovim: +dev 
+
+|vim.fs.dirname()|
+
+    Neovim: +dev 
+
+|vim.fs.find()|
+
+    Neovim: +dev 
+
+|vim.fs.normalize()|
+
+    Neovim: +dev 
+
+|vim.fs.parents()|
+
+    Neovim: +dev 
+
 |vim.g|
 
     Neovim: +v0.5.0 
@@ -57536,6 +57568,30 @@ A listing of helptags with the versions they became available or were removed.
 |vim.gsplit()|
 
     Neovim: +v0.4.0 
+
+|vim.health|
+
+    Neovim: +dev 
+
+|vim.health.report_error()|
+
+    Neovim: +dev 
+
+|vim.health.report_info()|
+
+    Neovim: +dev 
+
+|vim.health.report_ok()|
+
+    Neovim: +dev 
+
+|vim.health.report_start()|
+
+    Neovim: +dev 
+
+|vim.health.report_warn()|
+
+    Neovim: +dev 
 
 |vim.highlight.on_yank()|
 
