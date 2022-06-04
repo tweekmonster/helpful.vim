@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2022-06-03 00:13:30 UTC
+*helpful-version.txt*  Generated: 2022-06-04 00:14:29 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -100,6 +100,10 @@ A listing of helptags with the versions they became available or were removed.
 |$XDG_STATE_HOME|
 
     Neovim: +nightly 
+
+|$quote|
+
+       Vim: +dev 
 
 |%|
 
@@ -9863,6 +9867,10 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v8.2.4954 
 
+|50.2|
+
+       Vim: +dev 
+
 |51.1|
 
        Vim: +v8.2.4954 
@@ -9881,11 +9889,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |51.5|
 
-       Vim: +v8.2.4954 
+       Vim: +v8.2.4954 -dev 
 
 |51.6|
 
-       Vim: +v8.2.4954 
+       Vim: +v8.2.4954 -dev 
 
 |52.1|
 
@@ -9902,6 +9910,10 @@ A listing of helptags with the versions they became available or were removed.
 |52.4|
 
        Vim: +v8.2.4954 
+
+|52.5|
+
+       Vim: +dev 
 
 |755|
 
@@ -43299,6 +43311,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.5.0 
        Vim: +v8.2.2857 
 
+|map-trailing-white|
+
+       Vim: +dev 
+
 |map-typing|
 
     Neovim: +v0.1.0 
@@ -46429,7 +46445,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |nvim__unpack()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_buf_add_highlight()|
 
@@ -55440,6 +55456,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0224 
 
+|undo-break|
+
+       Vim: +dev 
+
 |undo-commands|
 
     Neovim: +v0.1.0 
@@ -55531,7 +55551,7 @@ A listing of helptags with the versions they became available or were removed.
 |use-cpo-save|
 
     Neovim: +v0.1.0 
-       Vim: +v7.0001 
+       Vim: +v7.0001 -dev 
 
 |use-visual-cmds|
 
@@ -58057,6 +58077,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.5.0 
 
+|vim.lsp.start()|
+
+    Neovim: +dev 
+
 |vim.lsp.start_client()|
 
     Neovim: +v0.5.0 
@@ -58639,7 +58663,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim9-script-intro|
 
-       Vim: +v8.2.0980 
+       Vim: +v8.2.0980 -dev 
 
 |vim9-types|
 
