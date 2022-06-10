@@ -1989,8 +1989,8 @@ $quotevim:v8.2.5055,
 40.3neovim:v0.1.0,vim:v7.0001,
 41.1neovim:v0.1.0,vim:v7.0001,
 41.10neovim:v0.1.0,vim:v7.0001,
-41.11neovim:v0.1.0,vim:v7.0001,v8.2.4954
-41.12neovim:v0.1.0,vim:v7.0001,v8.2.4954
+41.11neovim:v0.1.0,vim:v8.2.5073,v8.2.4954
+41.12neovim:v0.1.0,vim:v8.2.5073,v8.2.4954
 41.13neovim:v0.1.0,vim:v7.0049,v8.2.4954
 41.14neovim:v0.1.0,vim:v7.0052,v8.2.4954
 41.15neovim:v0.1.0,vim:v7.0052,v8.2.4954
@@ -2033,6 +2033,7 @@ $quotevim:v8.2.5055,
 46.?vim:v8.2.0980,v8.2.4954
 50.1vim:v8.2.4954,
 50.2vim:v8.2.5055,
+50.3vim:v8.2.5073,
 51.1vim:v8.2.4954,
 51.2vim:v8.2.4954,
 51.3vim:v8.2.4954,
@@ -8816,7 +8817,7 @@ lcs-concealneovim:v0.1.0,vim:v7.3.601,
 lcs-eolneovim:v0.1.0,vim:v7.3.601,
 lcs-extendsneovim:v0.1.0,vim:v7.3.601,
 lcs-leadneovim:v0.5.0,vim:v8.2.2454,
-lcs-leadmultispacevim:v8.2.5066,
+lcs-leadmultispaceneovim:dev,vim:v8.2.5066,
 lcs-multispaceneovim:v0.6.0,vim:v8.2.3424,
 lcs-nbspneovim:v0.1.0,vim:v7.3.601,
 lcs-precedesneovim:v0.1.0,vim:v7.3.601,
