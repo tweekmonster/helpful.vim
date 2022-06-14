@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2022-06-13 00:15:09 UTC
+*helpful-version.txt*  Generated: 2022-06-14 00:17:01 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -7379,6 +7379,10 @@ A listing of helptags with the versions they became available or were removed.
 |--embed|
 
     Neovim: +v0.3.0 
+
+|--gui-dialog-file|
+
+       Vim: +v8.2.5084 
 
 |--headless|
 
@@ -28927,7 +28931,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |api-command|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |api-contract|
 
@@ -28991,7 +28995,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |api-options|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |api-rpc|
 
