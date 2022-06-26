@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2022-06-21 00:13:58 UTC
+*helpful-version.txt*  Generated: 2022-06-26 00:16:24 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -45819,6 +45819,10 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v7.0001 
 
+|new-colorschemes-9|
+
+       Vim: +v8.2.5160 
+
 |new-commands|
 
        Vim: +v7.0001 
@@ -46024,6 +46028,10 @@ A listing of helptags with the versions they became available or were removed.
 |new-plugins|
 
        Vim: +v7.0001 
+
+|new-popup-compl|
+
+       Vim: +v8.2.5160 
 
 |new-popup-window|
 
