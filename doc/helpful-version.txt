@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2022-06-29 00:14:11 UTC
+*helpful-version.txt*  Generated: 2022-06-30 00:15:12 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -5045,6 +5045,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 -v0.2.0 
        Vim: +v7.0001 
 
+|'t_Ds'|
+
+       Vim: +v9.0.0007 
+
 |'t_EC'|
 
        Vim: +v8.0.1007 
@@ -5306,6 +5310,10 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v8.0.1129 
 
+|'t_Us'|
+
+       Vim: +v9.0.0007 
+
 |'t_VS'|
 
        Vim: +v8.0.1007 
@@ -5379,6 +5387,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 -v0.2.0 
        Vim: +v7.0001 
+
+|'t_ds'|
+
+       Vim: +v9.0.0007 
 
 |'t_fd'|
 
@@ -52785,6 +52797,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 -v0.2.0 
        Vim: +v7.0001 
 
+|t_Ds|
+
+       Vim: +v9.0.0007 
+
 |t_EC|
 
        Vim: +v8.0.1007 
@@ -53046,6 +53062,10 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v8.0.1129 
 
+|t_Us|
+
+       Vim: +v9.0.0007 
+
 |t_VS|
 
        Vim: +v8.0.1007 
@@ -53178,6 +53198,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 -v0.2.0 
        Vim: +v7.0001 
+
+|t_ds|
+
+       Vim: +v9.0.0007 
 
 |t_ed|
 
@@ -55471,14 +55495,30 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.7.0 
 
+|underdashed|
+
+       Vim: +v9.0.0007 
+
 |underdot|
 
     Neovim: +v0.7.0 
+
+|underdotted|
+
+       Vim: +v9.0.0007 
+
+|underdouble|
+
+       Vim: +v9.0.0007 
 
 |underline|
 
     Neovim: +v0.1.0 
        Vim: +v7.0079 
+
+|underline-codes|
+
+       Vim: +v9.0.0007 
 
 |underlineline|
 
