@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2022-07-01 00:16:30 UTC
+*helpful-version.txt*  Generated: 2022-07-02 00:15:13 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -99,7 +99,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |$XDG_RUNTIME_DIR|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |$XDG_STATE_HOME|
 
@@ -35279,6 +35279,26 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|freebasic.vim|
+
+       Vim: +v9.0.0019 
+
+|freebasic_no_comment_fold|
+
+       Vim: +v9.0.0019 
+
+|freebasic_operators|
+
+       Vim: +v9.0.0019 
+
+|freebasic_space_errors|
+
+       Vim: +v9.0.0019 
+
+|freebasic_type_suffixes|
+
+       Vim: +v9.0.0019 
+
 |french-maillist|
 
        Vim: +v7.0001 -v7.2a 
@@ -35566,6 +35586,14 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0139 
+
+|ft-freebasic-plugin|
+
+       Vim: +v9.0.0019 
+
+|ft-freebasic-syntax|
+
+       Vim: +v9.0.0019 
 
 |ft-fvwm-syntax|
 
@@ -43542,7 +43570,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |mark-view|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |markfilelist|
 
@@ -55501,25 +55529,25 @@ A listing of helptags with the versions they became available or were removed.
 
 |underdash|
 
-    Neovim: +v0.7.0 -dev 
+    Neovim: +v0.7.0 -nightly 
 
 |underdashed|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.0.0007 
 
 |underdot|
 
-    Neovim: +v0.7.0 -dev 
+    Neovim: +v0.7.0 -nightly 
 
 |underdotted|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.0.0007 
 
 |underdouble|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.0.0007 
 
 |underline|
@@ -55533,7 +55561,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |underlineline|
 
-    Neovim: +v0.7.0 -dev 
+    Neovim: +v0.7.0 -nightly 
 
 |undo|
 
