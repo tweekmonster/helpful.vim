@@ -7344,11 +7344,11 @@ fortran-indentvim:v7.0001,v7.0139
 fortran-pluginvim:v7.0001,v7.0139
 fortran-syntaxvim:v7.0001,v7.0139
 fortran.vimneovim:v0.1.0,vim:v7.0001,
-freebasic.vimvim:v9.0.0019,
-freebasic_no_comment_foldvim:v9.0.0019,
-freebasic_operatorsvim:v9.0.0019,
-freebasic_space_errorsvim:v9.0.0019,
-freebasic_type_suffixesvim:v9.0.0019,
+freebasic.vimneovim:dev,vim:v9.0.0019,
+freebasic_no_comment_foldneovim:dev,vim:v9.0.0019,
+freebasic_operatorsneovim:dev,vim:v9.0.0019,
+freebasic_space_errorsneovim:dev,vim:v9.0.0019,
+freebasic_type_suffixesneovim:dev,vim:v9.0.0019,
 french-maillistvim:v7.0001,v7.2a
 friendshipneovim:v0.1.0,vim:v7.3.1241,
 frombookneovim:v0.1.0,vim:v7.0001,
@@ -7407,8 +7407,8 @@ ft-forth-syntaxneovim:v0.6.0,vim:v8.2.3686,
 ft-fortran-indentneovim:v0.1.0,vim:v7.0139,
 ft-fortran-pluginneovim:v0.1.0,vim:v7.0139,
 ft-fortran-syntaxneovim:v0.1.0,vim:v7.0139,
-ft-freebasic-pluginvim:v9.0.0019,
-ft-freebasic-syntaxvim:v9.0.0019,
+ft-freebasic-pluginneovim:dev,vim:v9.0.0019,
+ft-freebasic-syntaxneovim:dev,vim:v9.0.0019,
 ft-fvwm-syntaxneovim:v0.1.0,vim:v7.0139,
 ft-gitcommit-pluginneovim:v0.1.0,vim:v7.2a,
 ft-gprof-pluginneovim:v0.6.0,vim:v8.2.3686,v8.2.3750
