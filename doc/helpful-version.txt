@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2022-07-03 00:16:38 UTC
+*helpful-version.txt*  Generated: 2022-07-04 00:17:33 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -35281,27 +35281,27 @@ A listing of helptags with the versions they became available or were removed.
 
 |freebasic.vim|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.0.0019 
 
 |freebasic_no_comment_fold|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.0.0019 
 
 |freebasic_operators|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.0.0019 
 
 |freebasic_space_errors|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.0.0019 
 
 |freebasic_type_suffixes|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.0.0019 
 
 |french-maillist|
@@ -35594,12 +35594,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |ft-freebasic-plugin|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.0.0019 
 
 |ft-freebasic-syntax|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.0.0019 
 
 |ft-fvwm-syntax|
