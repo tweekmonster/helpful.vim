@@ -4926,7 +4926,7 @@ E561neovim:v0.1.0,vim:v7.0001,
 E562neovim:v0.1.0,vim:v7.0001,
 E563neovim:v0.1.0,vim:v7.0001,
 E564neovim:v0.1.0,vim:v7.0001,
-E565neovim:dev,vim:v8.2.0614,v7.3.020
+E565neovim:nightly,vim:v8.2.0614,v7.3.020
 E566neovim:v0.1.0,vim:v7.0001,
 E567neovim:v0.1.0,vim:v7.0001,
 E5677neovim:v0.1.6,
@@ -7612,7 +7612,8 @@ g:decada.Make()neovim:v0.1.0,vim:v7.2a,v7.2a.00
 g:decada.Make_Commandneovim:v0.1.0,vim:v7.2a,v7.2a.00
 g:decada.Unit_Name()neovim:v0.1.0,vim:v7.2a,v7.2a.00
 g:did_load_filetypesneovim:v0.7.0,
-g:do_filetype_luaneovim:v0.7.0,
+g:do_filetype_luaneovim:v0.7.0,dev
+g:do_legacy_filetypeneovim:dev,
 g:explDateFormatvim:v7.0001,v7.0045
 g:explDetailedHelpvim:v7.0001,v7.0045
 g:explDetailedListvim:v7.0001,v7.0045
@@ -9234,7 +9235,7 @@ mouse_col-variableneovim:v0.1.0,vim:v7.0.155,
 mouse_lnum-variableneovim:v0.1.0,vim:v7.0.155,
 mouse_win-variableneovim:v0.1.0,vim:v7.0.155,
 mouse_winid-variableneovim:v0.1.7,vim:v7.4.1894,
-mousescrollneovim:dev,
+mousescrollneovim:nightly,
 movementneovim:v0.1.0,vim:v7.0021,
 ms-dosvim:v7.0001,
 msdosvim:v7.0001,
