@@ -6840,6 +6840,7 @@ decada_membersneovim:v0.1.0,vim:v7.2a,v7.2a.00
 deepcopy()neovim:v0.1.0,vim:v7.0029,
 default-autocmdsneovim:v0.6.0,
 default-mappingsneovim:v0.6.0,
+default-mouseneovim:dev,
 defaults.vimvim:v7.4.2111,
 defaults.vim-explainedvim:v8.1.0872,
 definition-searchneovim:v0.1.0,vim:v7.0001,
@@ -6945,6 +6946,7 @@ dircolors-syntaxvim:v7.0001,v7.0139
 dircolors.vimneovim:v0.1.0,vim:v7.0001,
 disneovim:v0.1.0,vim:v7.0001,
 disable-menusneovim:v0.1.0,vim:v7.0001,
+disable-mouseneovim:dev,
 disable_char_avail_for_testing()vim:v7.4.1310,v7.4.1844
 discardneovim:v0.1.0,vim:v7.4b.015,
 distribute-scriptneovim:v0.1.0,vim:v7.0231,

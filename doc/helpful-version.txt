@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2022-07-17 00:15:44 UTC
+*helpful-version.txt*  Generated: 2022-07-18 00:14:01 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -32891,6 +32891,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.6.0 
 
+|default-mouse|
+
+    Neovim: +dev 
+
 |defaults.vim|
 
        Vim: +v7.4.2111 
@@ -33374,6 +33378,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|disable-mouse|
+
+    Neovim: +dev 
 
 |disable_char_avail_for_testing()|
 
