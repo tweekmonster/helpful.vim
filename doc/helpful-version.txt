@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2022-07-20 00:15:09 UTC
+*helpful-version.txt*  Generated: 2022-07-21 00:15:49 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -46511,19 +46511,19 @@ A listing of helptags with the versions they became available or were removed.
 
 |nvim__buf_redraw_range()|
 
-    Neovim: +v0.5.0 -dev 
+    Neovim: +v0.5.0 -nightly 
 
 |nvim__buf_stats()|
 
-    Neovim: +v0.4.0 -dev 
+    Neovim: +v0.4.0 -nightly 
 
 |nvim__get_hl_defs()|
 
-    Neovim: +v0.5.0 -dev 
+    Neovim: +v0.5.0 -nightly 
 
 |nvim__get_lib_dir()|
 
-    Neovim: +v0.5.0 -dev 
+    Neovim: +v0.5.0 -nightly 
 
 |nvim__get_runtime()|
 
@@ -46551,11 +46551,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |nvim__runtime_inspect()|
 
-    Neovim: +v0.6.0 -dev 
+    Neovim: +v0.6.0 -nightly 
 
 |nvim__screenshot()|
 
-    Neovim: +v0.5.0 -dev 
+    Neovim: +v0.5.0 -nightly 
 
 |nvim__set_hl_ns()|
 
@@ -46564,10 +46564,6 @@ A listing of helptags with the versions they became available or were removed.
 |nvim__stats()|
 
     Neovim: +v0.3.0 
-
-|nvim__unpack()|
-
-    Neovim: +nightly -dev 
 
 |nvim_buf_add_highlight()|
 
