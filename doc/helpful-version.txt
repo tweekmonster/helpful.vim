@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2022-07-21 00:15:49 UTC
+*helpful-version.txt*  Generated: 2022-07-26 00:15:50 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -47396,6 +47396,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.2a -v7.2a.00 
 
+|on-list-handler|
+
+    Neovim: +dev 
+
 |on_data|
 
     Neovim: +v0.3.0 
@@ -55616,6 +55620,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +nightly 
        Vim: +v8.2.5055 
 
+|undo-close-block|
+
+       Vim: +v9.0.0067 
+
 |undo-commands|
 
     Neovim: +v0.1.0 
@@ -59091,6 +59099,10 @@ A listing of helptags with the versions they became available or were removed.
 |virtcol2col()|
 
        Vim: +v8.2.5034 
+
+|virtual-text|
+
+       Vim: +v9.0.0067 
 
 |visual-block|
 
