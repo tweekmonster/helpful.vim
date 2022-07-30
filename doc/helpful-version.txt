@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2022-07-27 00:17:21 UTC
+*helpful-version.txt*  Generated: 2022-07-30 00:14:49 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -20497,6 +20497,10 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v8.2.4189 
 
+|E1082|
+
+       Vim: +dev 
+
 |E1083|
 
        Vim: +v8.2.4189 
@@ -20516,6 +20520,10 @@ A listing of helptags with the versions they became available or were removed.
 |E1087|
 
        Vim: +v8.2.4258 
+
+|E1088|
+
+       Vim: +dev 
 
 |E1089|
 
@@ -21339,6 +21347,18 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v8.2.4338 
 
+|E1267|
+
+       Vim: +dev 
+
+|E1268|
+
+       Vim: +dev 
+
+|E1269|
+
+       Vim: +dev 
+
 |E127|
 
     Neovim: +v0.1.0 
@@ -21352,22 +21372,46 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v8.2.4595 
 
+|E1272|
+
+       Vim: +dev 
+
+|E1273|
+
+       Vim: +dev 
+
 |E1274|
 
        Vim: +v8.2.4726 
+
+|E1275|
+
+       Vim: +dev 
 
 |E1276|
 
        Vim: +v8.2.4861 
 
+|E1277|
+
+       Vim: +dev 
+
 |E1278|
 
        Vim: +v8.2.4945 
+
+|E1279|
+
+       Vim: +dev 
 
 |E128|
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|E1280|
+
+       Vim: +dev 
 
 |E1281|
 
@@ -21381,10 +21425,50 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v8.2.5003 
 
+|E1284|
+
+       Vim: +dev 
+
+|E1285|
+
+       Vim: +dev 
+
+|E1286|
+
+       Vim: +dev 
+
+|E1287|
+
+       Vim: +dev 
+
+|E1288|
+
+       Vim: +dev 
+
+|E1289|
+
+       Vim: +dev 
+
 |E129|
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|E1290|
+
+       Vim: +dev 
+
+|E1291|
+
+       Vim: +dev 
+
+|E1292|
+
+       Vim: +dev 
+
+|E1293|
+
+       Vim: +dev 
 
 |E13|
 
