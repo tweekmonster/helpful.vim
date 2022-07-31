@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2022-07-30 00:14:49 UTC
+*helpful-version.txt*  Generated: 2022-07-31 00:16:28 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -20499,7 +20499,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |E1082|
 
-       Vim: +dev 
+       Vim: +v9.0.0108 
 
 |E1083|
 
@@ -20523,7 +20523,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |E1088|
 
-       Vim: +dev 
+       Vim: +v9.0.0108 
 
 |E1089|
 
@@ -21349,15 +21349,15 @@ A listing of helptags with the versions they became available or were removed.
 
 |E1267|
 
-       Vim: +dev 
+       Vim: +v9.0.0108 
 
 |E1268|
 
-       Vim: +dev 
+       Vim: +v9.0.0108 
 
 |E1269|
 
-       Vim: +dev 
+       Vim: +v9.0.0108 
 
 |E127|
 
@@ -21374,11 +21374,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |E1272|
 
-       Vim: +dev 
+       Vim: +v9.0.0108 
 
 |E1273|
 
-       Vim: +dev 
+       Vim: +v9.0.0108 
 
 |E1274|
 
@@ -21386,7 +21386,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |E1275|
 
-       Vim: +dev 
+       Vim: +v9.0.0108 
 
 |E1276|
 
@@ -21394,7 +21394,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |E1277|
 
-       Vim: +dev 
+       Vim: +v9.0.0108 
 
 |E1278|
 
@@ -21402,7 +21402,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |E1279|
 
-       Vim: +dev 
+       Vim: +v9.0.0108 
 
 |E128|
 
@@ -21411,7 +21411,8 @@ A listing of helptags with the versions they became available or were removed.
 
 |E1280|
 
-       Vim: +dev 
+    Neovim: +dev 
+       Vim: +v9.0.0108 
 
 |E1281|
 
@@ -21427,27 +21428,27 @@ A listing of helptags with the versions they became available or were removed.
 
 |E1284|
 
-       Vim: +dev 
+       Vim: +v9.0.0108 
 
 |E1285|
 
-       Vim: +dev 
+       Vim: +v9.0.0108 
 
 |E1286|
 
-       Vim: +dev 
+       Vim: +v9.0.0108 
 
 |E1287|
 
-       Vim: +dev 
+       Vim: +v9.0.0108 
 
 |E1288|
 
-       Vim: +dev 
+       Vim: +v9.0.0108 
 
 |E1289|
 
-       Vim: +dev 
+       Vim: +v9.0.0108 
 
 |E129|
 
@@ -21456,19 +21457,20 @@ A listing of helptags with the versions they became available or were removed.
 
 |E1290|
 
-       Vim: +dev 
+    Neovim: +dev 
+       Vim: +v9.0.0108 
 
 |E1291|
 
-       Vim: +dev 
+       Vim: +v9.0.0108 
 
 |E1292|
 
-       Vim: +dev 
+       Vim: +v9.0.0108 
 
 |E1293|
 
-       Vim: +dev 
+       Vim: +v9.0.0108 
 
 |E13|
 
