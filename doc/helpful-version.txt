@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2022-07-31 00:16:28 UTC
+*helpful-version.txt*  Generated: 2022-08-01 00:17:59 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -2529,6 +2529,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|'mousescroll'|
+
+    Neovim: +dev 
 
 |'mouseshape'|
 
@@ -21411,7 +21415,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |E1280|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.0.0108 
 
 |E1281|
@@ -21457,7 +21461,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |E1290|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.0.0108 
 
 |E1291|
@@ -44225,7 +44229,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |mousescroll|
 
-    Neovim: +nightly 
+    Neovim: +nightly -dev 
 
 |movement|
 
