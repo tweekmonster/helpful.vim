@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2022-08-04 00:14:57 UTC
+*helpful-version.txt*  Generated: 2022-08-05 00:17:21 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -43998,14 +43998,17 @@ A listing of helptags with the versions they became available or were removed.
 
 |menu-shortcut|
 
+    Neovim: +dev 
        Vim: +v8.2.0385 
 
 |menu-text|
 
+    Neovim: +dev 
        Vim: +v8.2.0385 
 
 |menu-tips|
 
+    Neovim: +dev 
        Vim: +v8.2.0385 
 
 |menu.vim|
@@ -44019,6 +44022,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |menu_info()|
 
+    Neovim: +dev 
        Vim: +v8.2.0385 
 
 |menus|
@@ -55183,6 +55187,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |tooltips|
 
+    Neovim: +dev 
        Vim: +v8.2.0385 
 
 |toupper()|
