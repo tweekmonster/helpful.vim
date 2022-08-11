@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2022-08-10 00:14:11 UTC
+*helpful-version.txt*  Generated: 2022-08-11 00:15:34 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -44696,131 +44696,131 @@ A listing of helptags with the versions they became available or were removed.
 
 |luv|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |luv-async-handle|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |luv-base-handle|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |luv-base-request|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |luv-check-handle|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |luv-contents|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |luv-credits|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |luv-dns-utility-functions|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |luv-error-handling|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |luv-event-loop|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |luv-file-system-operations|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |luv-fs-event-handle|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |luv-fs-poll-handle|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |luv-idle-handle|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |luv-intro|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |luv-metrics-operations|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |luv-miscellaneous-utilities|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |luv-pipe-handle|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |luv-poll-handle|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |luv-prepare-handle|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |luv-process-handle|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |luv-reference-counting|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |luv-signal-handle|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |luv-stream-handle|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |luv-tcp-handle|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |luv-thread-pool-work-scheduling|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |luv-threading-and-synchronization-utilities|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |luv-timer-handle|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |luv-tty-handle|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |luv-udp-handle|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |luv-version-checking|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |luvref.txt|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |m|
 
@@ -57931,943 +57931,943 @@ A listing of helptags with the versions they became available or were removed.
 
 |uv|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.accept()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.async_send()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.available_parallelism()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.backend_fd()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.backend_timeout()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.cancel()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.chdir()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.check_start()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.check_stop()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.close()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.cpu_info()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.cwd()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.disable_stdio_inheritance()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.exepath()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.fileno()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.fs_access()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.fs_chmod()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.fs_chown()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.fs_close()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.fs_closedir()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.fs_copyfile()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.fs_event_getpath()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.fs_event_start()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.fs_event_stop()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.fs_fchmod()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.fs_fchown()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.fs_fdatasync()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.fs_fstat()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.fs_fsync()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.fs_ftruncate()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.fs_futime()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.fs_lchown()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.fs_link()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.fs_lstat()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.fs_lutime()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.fs_mkdir()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.fs_mkdtemp()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.fs_mkstemp()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.fs_open()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.fs_opendir()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.fs_poll_getpath()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.fs_poll_start()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.fs_poll_stop()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.fs_read()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.fs_readdir()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.fs_readlink()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.fs_realpath()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.fs_rename()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.fs_rmdir()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.fs_scandir()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.fs_scandir_next()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.fs_sendfile()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.fs_stat()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.fs_statfs()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.fs_symlink()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.fs_unlink()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.fs_utime()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.fs_write()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.get_constrained_memory()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.get_free_memory()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.get_process_title()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.get_total_memory()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.getaddrinfo()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.getgid()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.getnameinfo()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.getpid()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.getrusage()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.gettimeofday()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.getuid()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.guess_handle()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.handle_get_type()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.has_ref()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.hrtime()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.idle_start()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.idle_stop()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.if_indextoiid()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.if_indextoname()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.interface_addresses()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.is_active()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.is_closing()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.is_readable()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.is_writable()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.kill()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.listen()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.loadavg()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.loop_alive()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.loop_close()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.loop_configure()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.loop_mode()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.metrics_idle_time()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.new_async()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.new_check()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.new_fs_event()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.new_fs_poll()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.new_idle()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.new_pipe()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.new_poll()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.new_prepare()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.new_signal()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.new_socket_poll()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.new_tcp()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.new_thread()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.new_timer()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.new_tty()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.new_udp()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.new_work()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.now()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.os_environ()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.os_get_passwd()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.os_getenv()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.os_gethostname()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.os_getpid()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.os_getppid()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.os_getpriority()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.os_homedir()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.os_setenv()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.os_setpriority()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.os_tmpdir()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.os_uname()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.os_unsetenv()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.pipe()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.pipe_bind()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.pipe_chmod()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.pipe_connect()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.pipe_getpeername()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.pipe_getsockname()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.pipe_open()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.pipe_pending_count()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.pipe_pending_instances()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.pipe_pending_type()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.poll_start()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.poll_stop()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.prepare_start()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.prepare_stop()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.print_active_handles()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.print_all_handles()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.process_get_pid()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.process_kill()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.queue_work()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.random()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.read_start()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.read_stop()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.recv_buffer_size()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.ref()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.req_get_type()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.resident_set_memory()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.run()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.send_buffer_size()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.set_process_title()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.setgid()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.setuid()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.shutdown()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.signal_start()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.signal_start_oneshot()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.signal_stop()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.sleep()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.socketpair()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.spawn()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.spawn-options|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.stop()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.stream_get_write_queue_size()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.stream_set_blocking()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.tcp_bind()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.tcp_close_reset()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.tcp_connect()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.tcp_getpeername()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.tcp_getsockname()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.tcp_keepalive()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.tcp_nodelay()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.tcp_open()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.tcp_simultaneous_accepts()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.tcp_write_queue_size()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.thread_equal()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.thread_join()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.thread_self()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.timer_again()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.timer_get_due_in()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.timer_get_repeat()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.timer_set_repeat()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.timer_start()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.timer_stop()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.translate_sys_error()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.try_write()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.try_write2()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.tty_get_vterm_state()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.tty_get_winsize()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.tty_reset_mode()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.tty_set_mode()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.tty_set_vterm_state()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.udp_bind()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.udp_connect()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.udp_get_send_queue_count()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.udp_get_send_queue_size()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.udp_getpeername()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.udp_getsockname()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.udp_open()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.udp_recv_start()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.udp_recv_stop()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.udp_send()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.udp_set_broadcast()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.udp_set_membership()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.udp_set_multicast_interface()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.udp_set_multicast_loop()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.udp_set_multicast_ttl()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.udp_set_source_membership()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.udp_set_ttl()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.udp_try_send()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.unref()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.update_time()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.uptime()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.version()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.version_string()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.walk()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.write()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.write2()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv_async_t|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv_check_t|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv_fs_event_t|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv_fs_poll_t|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv_fs_t|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv_handle_t|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv_idle_t|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv_loop_t|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv_pipe_t|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv_poll_t|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv_prepare_t|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv_process_t|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv_req_t|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv_signal_t|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv_stream_t|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv_tcp_t|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv_timer_t|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv_tty_t|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv_udp_t|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |v|
 
