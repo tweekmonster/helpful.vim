@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2022-08-17 00:14:58 UTC
+*helpful-version.txt*  Generated: 2022-08-18 00:15:38 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -10844,12 +10844,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |:argded|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.2.3888 
 
 |:argdedupe|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.2.3888 
 
 |:argdelete|
@@ -43185,6 +43185,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.5.0 
 
+|lsp-on-list-handler|
+
+    Neovim: +dev 
+
 |lsp-protocol|
 
     Neovim: +v0.5.0 
@@ -48350,7 +48354,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |nvim__set_hl_ns()|
 
-    Neovim: +v0.5.0 
+    Neovim: +v0.5.0 -dev 
 
 |nvim__stats()|
 
@@ -48876,6 +48880,14 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.5.0 
 
+|nvim_set_hl_ns()|
+
+    Neovim: +dev 
+
+|nvim_set_hl_ns_fast()|
+
+    Neovim: +dev 
+
 |nvim_set_keymap()|
 
     Neovim: +v0.4.0 
@@ -49044,6 +49056,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.2.0 
 
+|nvim_win_set_hl_ns()|
+
+    Neovim: +dev 
+
 |nvim_win_set_option()|
 
     Neovim: +v0.2.0 
@@ -49189,7 +49205,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |on-list-handler|
 
-    Neovim: +nightly 
+    Neovim: +nightly -dev 
 
 |on_data|
 
