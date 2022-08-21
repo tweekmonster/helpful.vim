@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2022-08-20 00:14:08 UTC
+*helpful-version.txt*  Generated: 2022-08-21 00:15:57 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -31853,7 +31853,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |colorscheme-override|
 
-       Vim: +dev 
+       Vim: +v9.0.0229 
 
 |colortest.vim|
 
@@ -49274,7 +49274,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |option-value-function|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.2.3619 
 
 |option-window|
