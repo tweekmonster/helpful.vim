@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2022-08-24 00:16:26 UTC
+*helpful-version.txt*  Generated: 2022-08-25 00:16:44 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -10184,7 +10184,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |:<script>|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.2.4726 
 
 |:<sfile>|
@@ -18862,7 +18862,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |<script>|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.2.4726 
 
 |<sfile>|
@@ -21398,7 +21398,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |E1274|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.2.4726 
 
 |E1275|
@@ -21492,6 +21492,10 @@ A listing of helptags with the versions they became available or were removed.
 |E1294|
 
        Vim: +v9.0.0218 
+
+|E1295|
+
+       Vim: +v9.0.0259 
 
 |E1296|
 
@@ -23687,6 +23691,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|E5248|
+
+    Neovim: +dev 
 
 |E525|
 
@@ -27965,7 +27973,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |W18|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |W19|
@@ -41544,6 +41552,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.5.0 
        Vim: +v8.1.2088 
+
+|import-autoload|
+
+       Vim: +v9.0.0259 
 
 |import-legacy|
 
@@ -60719,6 +60731,10 @@ A listing of helptags with the versions they became available or were removed.
 |vim.highlight.range()|
 
     Neovim: +v0.5.0 
+
+|vim.iconv()|
+
+    Neovim: +dev 
 
 |vim.in_fast_event()|
 
