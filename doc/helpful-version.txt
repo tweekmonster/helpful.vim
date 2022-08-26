@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2022-08-25 00:16:44 UTC
+*helpful-version.txt*  Generated: 2022-08-26 00:16:34 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -23694,7 +23694,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |E5248|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |E525|
 
@@ -26680,6 +26680,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.5.0 
 
+|LanguageTree:named_node_for_range()|
+
+    Neovim: +dev 
+
 |LanguageTree:parse()|
 
     Neovim: +v0.5.0 
@@ -26699,6 +26703,10 @@ A listing of helptags with the versions they became available or were removed.
 |LanguageTree:source()|
 
     Neovim: +v0.5.0 
+
+|LanguageTree:tree_for_range()|
+
+    Neovim: +dev 
 
 |LanguageTree:trees()|
 
@@ -27973,7 +27981,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |W18|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |W19|
@@ -38333,6 +38341,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0g01 
 
+|get_node_range()|
+
+    Neovim: +dev 
+
 |get_node_text()|
 
     Neovim: +v0.5.0 
@@ -42026,6 +42038,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|is_ancestor()|
+
+    Neovim: +dev 
 
 |isabsolutepath()|
 
@@ -48112,6 +48128,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.5.0 
        Vim: +v8.0.0914 
+
+|node_contains()|
+
+    Neovim: +dev 
 
 |non-greedy|
 
@@ -60734,7 +60754,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.iconv()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.in_fast_event()|
 
