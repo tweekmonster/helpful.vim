@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2022-08-26 00:16:34 UTC
+*helpful-version.txt*  Generated: 2022-08-27 00:15:34 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -390,6 +390,18 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|'b:context_ignore_makefile'|
+
+       Vim: +v9.0.0281 
+
+|'b:context_include'|
+
+       Vim: +v9.0.0281 
+
+|'b:mp_metafun'|
+
+       Vim: +v9.0.0281 
 
 |'background'|
 
@@ -1536,6 +1548,62 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|'g:context_ignore_makefile'|
+
+       Vim: +v9.0.0281 
+
+|'g:context_include'|
+
+       Vim: +v9.0.0281 
+
+|'g:mf_other_macros'|
+
+       Vim: +v9.0.0281 
+
+|'g:mf_plain_macros'|
+
+       Vim: +v9.0.0281 
+
+|'g:mf_plain_modes'|
+
+       Vim: +v9.0.0281 
+
+|'g:mp_close_tag'|
+
+       Vim: +v9.0.0281 
+
+|'g:mp_metafun'|
+
+       Vim: +v9.0.0281 
+
+|'g:mp_mfplain_macros'|
+
+       Vim: +v9.0.0281 
+
+|'g:mp_open_tag'|
+
+       Vim: +v9.0.0281 
+
+|'g:mp_other_macros'|
+
+       Vim: +v9.0.0281 
+
+|'g:mp_plain_macros'|
+
+       Vim: +v9.0.0281 
+
+|'g:no_context_maps'|
+
+       Vim: +v9.0.0281 
+
+|'g:no_mf_maps'|
+
+       Vim: +v9.0.0281 
+
+|'g:no_mp_maps'|
+
+       Vim: +v9.0.0281 
 
 |'gcol'|
 
@@ -6645,7 +6713,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |+builtin_terms|
 
-       Vim: +v7.0001 
+       Vim: +v7.0001 -v9.0.0280 
 
 |+byte_offset|
 
@@ -10301,6 +10369,22 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0162 
 
+|:ConTeXt|
+
+       Vim: +v9.0.0281 
+
+|:ConTeXtJobsStatus|
+
+       Vim: +v9.0.0281 
+
+|:ConTeXtLog|
+
+       Vim: +v9.0.0281 
+
+|:ConTeXtStopJobs|
+
+       Vim: +v9.0.0281 
+
 |:Continue|
 
     Neovim: +v0.4.0 
@@ -10334,6 +10418,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.4.0 
        Vim: +v8.0.1725 
+
+|:FixBeginfigs|
+
+       Vim: +v9.0.0281 
 
 |:GLVS|
 
@@ -26682,7 +26770,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |LanguageTree:named_node_for_range()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |LanguageTree:parse()|
 
@@ -26706,7 +26794,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |LanguageTree:tree_for_range()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |LanguageTree:trees()|
 
@@ -32203,6 +32291,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.4.0 
 
+|context.vim|
+
+       Vim: +v9.0.0281 
+
 |control|
 
     Neovim: +v0.1.0 
@@ -35774,6 +35866,26 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0139 
 
+|ft-context|
+
+       Vim: +v9.0.0281 
+
+|ft-context-commands|
+
+       Vim: +v9.0.0281 
+
+|ft-context-intro|
+
+       Vim: +v9.0.0281 
+
+|ft-context-mappings|
+
+       Vim: +v9.0.0281 
+
+|ft-context-settings|
+
+       Vim: +v9.0.0281 
+
 |ft-cpp-syntax|
 
     Neovim: +v0.1.0 
@@ -36068,6 +36180,42 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.5.0 
        Vim: +v8.1.2411 
+
+|ft-metafont|
+
+       Vim: +v9.0.0281 
+
+|ft-metafont-intro|
+
+       Vim: +v9.0.0281 
+
+|ft-metafont-mappings|
+
+       Vim: +v9.0.0281 
+
+|ft-metafont-settings|
+
+       Vim: +v9.0.0281 
+
+|ft-metapost|
+
+       Vim: +v9.0.0281 
+
+|ft-metapost-commands|
+
+       Vim: +v9.0.0281 
+
+|ft-metapost-intro|
+
+       Vim: +v9.0.0281 
+
+|ft-metapost-mappings|
+
+       Vim: +v9.0.0281 
+
+|ft-metapost-settings|
+
+       Vim: +v9.0.0281 
 
 |ft-mma-syntax|
 
@@ -36467,6 +36615,14 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.2a 
+
+|ft_context.txt|
+
+       Vim: +v9.0.0281 
+
+|ft_mp.txt|
+
+       Vim: +v9.0.0281 
 
 |ft_ps1.txt|
 
@@ -38341,9 +38497,13 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0g01 
 
-|get_node_range()|
+|get_captures_at_position()|
 
     Neovim: +dev 
+
+|get_node_range()|
+
+    Neovim: +nightly 
 
 |get_node_text()|
 
@@ -42041,6 +42201,10 @@ A listing of helptags with the versions they became available or were removed.
 
 |is_ancestor()|
 
+    Neovim: +nightly 
+
+|is_in_node_range()|
+
     Neovim: +dev 
 
 |isabsolutepath()|
@@ -43415,6 +43579,10 @@ A listing of helptags with the versions they became available or were removed.
 |lua-treesitter-highlight|
 
     Neovim: +v0.5.0 
+
+|lua-treesitter-highlight-groups|
+
+    Neovim: +dev 
 
 |lua-treesitter-highlight-priority|
 
@@ -45807,6 +45975,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.6.0 
        Vim: +v8.1.1803 
 
+|mf.vim|
+
+       Vim: +v9.0.0281 
+
 |min()|
 
     Neovim: +v0.1.0 
@@ -45983,6 +46155,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0021 
+
+|mp.vim|
+
+       Vim: +v9.0.0281 
 
 |ms-dos|
 
@@ -48131,7 +48307,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |node_contains()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |non-greedy|
 
