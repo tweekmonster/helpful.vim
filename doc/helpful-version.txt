@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2022-08-27 00:15:34 UTC
+*helpful-version.txt*  Generated: 2022-08-28 00:19:09 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -38499,7 +38499,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |get_captures_at_position()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |get_node_range()|
 
@@ -42205,7 +42205,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |is_in_node_range()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |isabsolutepath()|
 
@@ -43582,7 +43582,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |lua-treesitter-highlight-groups|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-treesitter-highlight-priority|
 
@@ -52832,6 +52832,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.4.813 
+
+|setcmdline()|
+
+       Vim: +v9.0.0285 
 
 |setcmdpos()|
 
