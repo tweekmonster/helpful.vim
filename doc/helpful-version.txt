@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2022-08-31 00:20:21 UTC
+*helpful-version.txt*  Generated: 2022-09-01 00:16:53 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -13105,6 +13105,14 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|:hor|
+
+       Vim: +v9.0.0342 
+
+|:horizontal|
+
+       Vim: +v9.0.0342 
 
 |:i|
 
@@ -43546,7 +43554,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |lua-options|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-package-path|
 
@@ -43667,7 +43675,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |lua-vim-optglobal|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-vim-options|
 
@@ -61833,6 +61841,14 @@ A listing of helptags with the versions they became available or were removed.
 |vim.ui.select()|
 
     Neovim: +v0.6.0 
+
+|vim.ui_attach()|
+
+    Neovim: +dev 
+
+|vim.ui_detach()|
+
+    Neovim: +dev 
 
 |vim.uri_from_bufnr()|
 
