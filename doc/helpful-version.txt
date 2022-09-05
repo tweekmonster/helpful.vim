@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2022-09-04 00:16:53 UTC
+*helpful-version.txt*  Generated: 2022-09-05 00:18:59 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -2582,6 +2582,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'mousemev'|
 
+    Neovim: +dev 
        Vim: +v8.2.4674 
 
 |'mousemodel'|
@@ -2591,6 +2592,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'mousemoveevent'|
 
+    Neovim: +dev 
        Vim: +v8.2.4674 
 
 |'mouses'|
@@ -33318,6 +33320,10 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v8.1.0872 
 
+|define-function|
+
+       Vim: +v9.0.0380 
+
 |definition-search|
 
     Neovim: +v0.1.0 
@@ -49863,6 +49869,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |partial|
 
+    Neovim: +dev 
        Vim: +v8.2.2993 
 
 |pascal-syntax|
@@ -58008,6 +58015,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|userfunc.txt|
+
+       Vim: +v9.0.0380 
 
 |using-<Plug>|
 
