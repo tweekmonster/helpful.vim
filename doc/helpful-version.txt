@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2022-09-06 00:16:48 UTC
+*helpful-version.txt*  Generated: 2022-09-07 00:15:50 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -33322,6 +33322,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |define-function|
 
+    Neovim: +dev 
        Vim: +v9.0.0380 
 
 |definition-search|
@@ -54361,6 +54362,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0116 
 
+|start()|
+
+    Neovim: +dev 
+
 |start-of-file|
 
     Neovim: +v0.1.0 
@@ -54440,6 +54445,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.5.0 
        Vim: +v8.1.2351 
+
+|stop()|
+
+    Neovim: +dev 
 
 |str2float()|
 
@@ -58018,6 +58027,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |userfunc.txt|
 
+    Neovim: +dev 
        Vim: +v9.0.0380 
 
 |using-<Plug>|
