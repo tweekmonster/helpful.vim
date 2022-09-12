@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2022-09-11 00:16:31 UTC
+*helpful-version.txt*  Generated: 2022-09-12 00:17:02 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -3643,10 +3643,18 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|'nosplitscroll'|
+
+       Vim: +v9.0.0445 
+
 |'nospr'|
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|'nospsc'|
+
+       Vim: +v9.0.0445 
 
 |'nosr'|
 
@@ -4869,6 +4877,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|'splitscroll'|
+
+       Vim: +v9.0.0445 
+
 |'spo'|
 
     Neovim: +v0.5.0 
@@ -4883,6 +4895,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0089 
+
+|'spsc'|
+
+       Vim: +v9.0.0445 
 
 |'sr'|
 
