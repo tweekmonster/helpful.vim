@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2022-09-12 00:17:02 UTC
+*helpful-version.txt*  Generated: 2022-09-13 00:17:25 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -42828,6 +42828,11 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0038 
 
+|keytrans()|
+
+    Neovim: +dev 
+       Vim: +v9.0.0449 
+
 |known-bugs|
 
     Neovim: +v0.1.0 -v0.1.1 
@@ -57518,6 +57523,14 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.5.0 
 
+|ts-modeline-extends|
+
+    Neovim: +dev 
+
+|ts-modeline-inherits|
+
+    Neovim: +dev 
+
 |ts-predicate-any-of?|
 
     Neovim: +v0.5.0 
@@ -57545,6 +57558,10 @@ A listing of helptags with the versions they became available or were removed.
 |ts-predicate-vim-match?|
 
     Neovim: +v0.5.0 
+
+|ts-query-modeline|
+
+    Neovim: +dev 
 
 |tsnode:child()|
 
@@ -62377,6 +62394,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |virtcol2col()|
 
+    Neovim: +dev 
        Vim: +v8.2.5034 
 
 |virtual-text|
