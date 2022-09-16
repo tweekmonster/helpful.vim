@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2022-09-15 00:17:20 UTC
+*helpful-version.txt*  Generated: 2022-09-16 00:20:08 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -26794,11 +26794,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |LanguageTree|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |LanguageTree:add_child()|
 
-    Neovim: +v0.5.0 -dev 
+    Neovim: +v0.5.0 -nightly 
 
 |LanguageTree:children()|
 
@@ -26854,11 +26854,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |LanguageTree:remove_child()|
 
-    Neovim: +v0.5.0 -dev 
+    Neovim: +v0.5.0 -nightly 
 
 |LanguageTree:set_included_regions()|
 
-    Neovim: +v0.5.0 -dev 
+    Neovim: +v0.5.0 -nightly 
 
 |LanguageTree:source()|
 
@@ -27798,7 +27798,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |TSHighlighter:get_query()|
 
-    Neovim: +v0.5.0 -dev 
+    Neovim: +v0.5.0 -nightly 
 
 |TSQL|
 
@@ -43680,35 +43680,31 @@ A listing of helptags with the versions they became available or were removed.
 
 |lua-treesitter-directives|
 
-    Neovim: +v0.5.0 -dev 
+    Neovim: +v0.5.0 -nightly 
 
 |lua-treesitter-highlight|
 
-    Neovim: +v0.5.0 -dev 
-
-|lua-treesitter-highlight-groups|
-
-    Neovim: +nightly -dev 
+    Neovim: +v0.5.0 -nightly 
 
 |lua-treesitter-highlight-priority|
 
-    Neovim: +v0.6.0 -dev 
+    Neovim: +v0.6.0 -nightly 
 
 |lua-treesitter-highlighter|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-treesitter-language|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-treesitter-languagetree|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-treesitter-node|
 
-    Neovim: +v0.5.0 -dev 
+    Neovim: +v0.5.0 -nightly 
 
 |lua-treesitter-not-predicate|
 
@@ -43716,11 +43712,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |lua-treesitter-parser|
 
-    Neovim: +v0.5.0 -dev 
+    Neovim: +v0.5.0 -nightly 
 
 |lua-treesitter-predicates|
 
-    Neovim: +v0.5.0 -dev 
+    Neovim: +v0.5.0 -nightly 
 
 |lua-treesitter-query|
 
@@ -43728,7 +43724,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |lua-treesitter-tree|
 
-    Neovim: +v0.5.0 -dev 
+    Neovim: +v0.5.0 -nightly 
 
 |lua-ui|
 
@@ -57443,7 +57439,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |treesitter-directives|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |treesitter-health|
 
@@ -57451,31 +57447,31 @@ A listing of helptags with the versions they became available or were removed.
 
 |treesitter-highlight|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |treesitter-highlight-conceal|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |treesitter-highlight-groups|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |treesitter-highlight-priority|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |treesitter-highlight-spell|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |treesitter-highlighter|
 
-    Neovim: +v0.5.0 -dev 
+    Neovim: +v0.5.0 -nightly 
 
 |treesitter-language|
 
-    Neovim: +v0.5.0 -dev 
+    Neovim: +v0.5.0 -nightly 
 
 |treesitter-languagetree|
 
@@ -57483,7 +57479,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |treesitter-node|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |treesitter-parsers|
 
@@ -57491,7 +57487,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |treesitter-predicates|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |treesitter-query|
 
@@ -57499,7 +57495,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |treesitter-tree|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |treesitter.txt|
 
@@ -57575,14 +57571,6 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.5.0 
 
-|ts-modeline-extends|
-
-    Neovim: +nightly -dev 
-
-|ts-modeline-inherits|
-
-    Neovim: +nightly -dev 
-
 |ts-predicate-any-of?|
 
     Neovim: +v0.5.0 
@@ -57617,15 +57605,15 @@ A listing of helptags with the versions they became available or were removed.
 
 |ts-query-modeline-extends|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |ts-query-modeline-inherits|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |tsnode|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |tsnode:child()|
 
@@ -57721,11 +57709,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |tsparser:parse()|
 
-    Neovim: +v0.5.0 -dev 
+    Neovim: +v0.5.0 -nightly 
 
 |tsparser:set_included_regions()|
 
-    Neovim: +v0.5.0 -dev 
+    Neovim: +v0.5.0 -nightly 
 
 |tsrfu'|
 
@@ -57733,7 +57721,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |tstree|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |tstree:copy()|
 
@@ -61980,7 +61968,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.treesitter.query.add_predicate()|
 
-    Neovim: +v0.6.0 -dev 
+    Neovim: +v0.6.0 -nightly 
 
 |vim.treesitter.query.list_directives()|
 
@@ -61988,7 +61976,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.treesitter.query.list_predicates()|
 
-    Neovim: +v0.6.0 -dev 
+    Neovim: +v0.6.0 -nightly 
 
 |vim.trim()|
 
