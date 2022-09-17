@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2022-09-16 00:20:08 UTC
+*helpful-version.txt*  Generated: 2022-09-17 00:16:46 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -57437,6 +57437,14 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.5.0 
 
+|treesitter-directive-offset!|
+
+    Neovim: +dev 
+
+|treesitter-directive-set!|
+
+    Neovim: +dev 
+
 |treesitter-directives|
 
     Neovim: +nightly 
@@ -57485,6 +57493,30 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.5.0 
 
+|treesitter-predicate-any-of?|
+
+    Neovim: +dev 
+
+|treesitter-predicate-contains?|
+
+    Neovim: +dev 
+
+|treesitter-predicate-eq?|
+
+    Neovim: +dev 
+
+|treesitter-predicate-lua-match?|
+
+    Neovim: +dev 
+
+|treesitter-predicate-match?|
+
+    Neovim: +dev 
+
+|treesitter-predicate-vim-match?|
+
+    Neovim: +dev 
+
 |treesitter-predicates|
 
     Neovim: +nightly 
@@ -57492,6 +57524,18 @@ A listing of helptags with the versions they became available or were removed.
 |treesitter-query|
 
     Neovim: +v0.5.0 
+
+|treesitter-query-modeline|
+
+    Neovim: +dev 
+
+|treesitter-query-modeline-extends|
+
+    Neovim: +dev 
+
+|treesitter-query-modeline-inherits|
+
+    Neovim: +dev 
 
 |treesitter-tree|
 
@@ -57565,31 +57609,31 @@ A listing of helptags with the versions they became available or were removed.
 
 |ts-directive-offset!|
 
-    Neovim: +v0.7.0 
+    Neovim: +v0.7.0 -dev 
 
 |ts-directive-set!|
 
-    Neovim: +v0.5.0 
+    Neovim: +v0.5.0 -dev 
 
 |ts-predicate-any-of?|
 
-    Neovim: +v0.5.0 
+    Neovim: +v0.5.0 -dev 
 
 |ts-predicate-contains?|
 
-    Neovim: +v0.5.0 
+    Neovim: +v0.5.0 -dev 
 
 |ts-predicate-eq?|
 
-    Neovim: +v0.5.0 
+    Neovim: +v0.5.0 -dev 
 
 |ts-predicate-lua-match?|
 
-    Neovim: +v0.5.0 
+    Neovim: +v0.5.0 -dev 
 
 |ts-predicate-match?|
 
-    Neovim: +v0.5.0 
+    Neovim: +v0.5.0 -dev 
 
 |ts-predicate-offset!|
 
@@ -57597,19 +57641,19 @@ A listing of helptags with the versions they became available or were removed.
 
 |ts-predicate-vim-match?|
 
-    Neovim: +v0.5.0 
+    Neovim: +v0.5.0 -dev 
 
 |ts-query-modeline|
 
-    Neovim: +nightly 
+    Neovim: +nightly -dev 
 
 |ts-query-modeline-extends|
 
-    Neovim: +nightly 
+    Neovim: +nightly -dev 
 
 |ts-query-modeline-inherits|
 
-    Neovim: +nightly 
+    Neovim: +nightly -dev 
 
 |tsnode|
 
