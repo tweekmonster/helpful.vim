@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2022-09-18 00:17:17 UTC
+*helpful-version.txt*  Generated: 2022-09-19 00:16:38 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -21667,6 +21667,18 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v9.0.0437 
 
+|E1303|
+
+       Vim: +v9.0.0498 
+
+|E1304|
+
+       Vim: +v9.0.0498 
+
+|E1305|
+
+       Vim: +v9.0.0498 
+
 |E131|
 
     Neovim: +v0.1.0 
@@ -30262,6 +30274,11 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|blockwise-put|
+
+    Neovim: +dev 
+       Vim: +v9.0.0498 
 
 |blockwise-register|
 
@@ -62188,6 +62205,10 @@ A listing of helptags with the versions they became available or were removed.
 |vim9-no-dict-function|
 
        Vim: +v8.2.3386 
+
+|vim9-no-shorten|
+
+       Vim: +v9.0.0498 
 
 |vim9-rationale|
 
