@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2022-09-26 00:19:14 UTC
+*helpful-version.txt*  Generated: 2022-09-27 00:22:35 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -20,6 +20,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |#{}|
 
+    Neovim: +dev 
        Vim: +v8.1.1876 
 
 |$|
@@ -2427,7 +2428,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'maxmem'|
 
-    Neovim: +dev -v0.3.0 
+    Neovim: +nightly -v0.3.0 
        Vim: +v7.0001 
 
 |'maxmempattern'|
@@ -2437,7 +2438,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'maxmemtot'|
 
-    Neovim: +dev -v0.3.0 
+    Neovim: +nightly -v0.3.0 
        Vim: +v7.0001 
 
 |'mco'|
@@ -4645,7 +4646,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'shelltype'|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v7.0001 
 
 |'shellxescape'|
@@ -12984,7 +12985,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |:gui|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v7.0001 
 
 |:gv|
@@ -12993,7 +12994,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |:gvim|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v7.0001 
 
 |:h|
@@ -18669,22 +18670,22 @@ A listing of helptags with the versions they became available or were removed.
 
 |<S-ScrollWheelDown>|
 
-    Neovim: +dev -v0.1.2 
+    Neovim: +nightly -v0.1.2 
        Vim: +v7.3 
 
 |<S-ScrollWheelLeft>|
 
-    Neovim: +dev -v0.1.2 
+    Neovim: +nightly -v0.1.2 
        Vim: +v7.3 
 
 |<S-ScrollWheelRight>|
 
-    Neovim: +dev -v0.1.2 
+    Neovim: +nightly -v0.1.2 
        Vim: +v7.3 
 
 |<S-ScrollWheelUp>|
 
-    Neovim: +dev -v0.1.2 
+    Neovim: +nightly -v0.1.2 
        Vim: +v7.3 
 
 |<S-Tab>|
@@ -18733,22 +18734,22 @@ A listing of helptags with the versions they became available or were removed.
 
 |<ScrollWheelDown>|
 
-    Neovim: +dev -v0.1.2 
+    Neovim: +nightly -v0.1.2 
        Vim: +v7.3 
 
 |<ScrollWheelLeft>|
 
-    Neovim: +dev -v0.1.2 
+    Neovim: +nightly -v0.1.2 
        Vim: +v7.3 
 
 |<ScrollWheelRight>|
 
-    Neovim: +dev -v0.1.2 
+    Neovim: +nightly -v0.1.2 
        Vim: +v7.3 
 
 |<ScrollWheelUp>|
 
-    Neovim: +dev -v0.1.2 
+    Neovim: +nightly -v0.1.2 
        Vim: +v7.3 
 
 |<Space>|
@@ -18808,7 +18809,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |<buffer>|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |<cWORD>|
 
@@ -20195,7 +20196,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |CursorIM|
 
-    Neovim: +dev -v0.4.0 
+    Neovim: +nightly -v0.4.0 
        Vim: +v7.0001 
 
 |CursorMoved|
@@ -21002,6 +21003,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |E1159|
 
+    Neovim: +dev 
        Vim: +v8.2.4296 
 
 |E116|
@@ -32993,11 +32995,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |ctermbg|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |ctermfg|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |ctrl|
 
@@ -38612,11 +38614,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |get_captures_at_pos()|
 
-    Neovim: +dev 
-
-|get_captures_at_position()|
-
-    Neovim: +nightly -dev 
+    Neovim: +nightly 
 
 |get_node_at_cursor()|
 
@@ -38624,11 +38622,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |get_node_at_pos()|
 
-    Neovim: +dev 
-
-|get_node_at_position()|
-
-    Neovim: +nightly -dev 
+    Neovim: +nightly 
 
 |get_node_range()|
 
@@ -39541,11 +39535,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |guibg|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |guifg|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |guifontwide_gtk|
 
@@ -39568,7 +39562,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |guisp|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |guu|
 
@@ -39993,12 +39987,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |highlight-ctermbg|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |highlight-ctermfg|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |highlight-ctermul|
@@ -40027,17 +40021,17 @@ A listing of helptags with the versions they became available or were removed.
 
 |highlight-guibg|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |highlight-guifg|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |highlight-guisp|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0061 
 
 |highlight-start|
@@ -41806,7 +41800,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |if_lua|
 
-    Neovim: +dev -v0.2.1 
+    Neovim: +nightly -v0.2.1 
 
 |if_lua.txt|
 
@@ -49906,11 +49900,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |package.cpath|
 
-    Neovim: +dev 
-
-|package.cpath()|
-
-    Neovim: +nightly -dev 
+    Neovim: +nightly 
 
 |package.loaded()|
 
@@ -49922,11 +49912,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |package.path|
 
-    Neovim: +dev 
-
-|package.path()|
-
-    Neovim: +nightly -dev 
+    Neovim: +nightly 
 
 |package.preload()|
 
