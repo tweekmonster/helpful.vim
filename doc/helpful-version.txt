@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2022-09-27 00:22:35 UTC
+*helpful-version.txt*  Generated: 2022-09-28 00:24:08 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -20,7 +20,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |#{}|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.1.1876 
 
 |$|
@@ -1549,6 +1549,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|'g:context_extra_options'|
+
+       Vim: +v9.0.0609 
 
 |'g:context_ignore_makefile'|
 
@@ -21003,7 +21007,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |E1159|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.2.4296 
 
 |E116|
@@ -21687,6 +21691,10 @@ A listing of helptags with the versions they became available or were removed.
 |E1305|
 
        Vim: +v9.0.0498 
+
+|E1306|
+
+       Vim: +v9.0.0609 
 
 |E131|
 
@@ -35069,6 +35077,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|f-args-example|
+
+       Vim: +v9.0.0609 
+
 |false|
 
        Vim: +v8.2.1635 
@@ -38286,6 +38298,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|g:vim_indent|
+
+       Vim: +v9.0.0609 
 
 |g:vim_indent_cont|
 
@@ -51417,6 +51433,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|q-args-example|
+
+       Vim: +v9.0.0609 
 
 |q/|
 
