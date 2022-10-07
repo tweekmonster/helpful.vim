@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2022-10-06 00:21:39 UTC
+*helpful-version.txt*  Generated: 2022-10-07 00:24:26 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -4884,6 +4884,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0082 
 
+|'spk'|
+
+    Neovim: +dev 
+
 |'spl'|
 
     Neovim: +v0.1.0 
@@ -4896,6 +4900,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'splitkeep'|
 
+    Neovim: +dev 
        Vim: +v9.0.0647 
 
 |'splitright'|
@@ -46564,7 +46569,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |msgsep|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |msql-syntax|
 
@@ -54728,9 +54733,13 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +stable 
 
+|string.gsub()|
+
+    Neovim: +dev 
+
 |string.gsu{b}()|
 
-    Neovim: +stable 
+    Neovim: +stable -dev 
 
 |string.len()|
 
@@ -61355,7 +61364,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.lsp.buf.formatting()|
 
-    Neovim: +v0.5.0 -nightly 
+    Neovim: +dev -nightly 
 
 |vim.lsp.buf.formatting_seq_sync()|
 
@@ -61391,7 +61400,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.lsp.buf.range_formatting()|
 
-    Neovim: +v0.5.0 -nightly 
+    Neovim: +dev -nightly 
 
 |vim.lsp.buf.references()|
 

@@ -999,9 +999,10 @@ $quotevim:v8.2.5055,
 'spelloptions'neovim:v0.5.0,vim:v8.2.0953,
 'spellsuggest'neovim:v0.1.0,vim:v7.0089,
 'spf'neovim:v0.1.0,vim:v7.0082,
+'spk'neovim:dev,
 'spl'neovim:v0.1.0,vim:v7.0062,
 'splitbelow'neovim:v0.1.0,vim:v7.0001,
-'splitkeep'vim:v9.0.0647,
+'splitkeep'neovim:dev,vim:v9.0.0647,
 'splitright'neovim:v0.1.0,vim:v7.0001,
 'splitscroll'vim:v9.0.0445,v9.0.0647
 'spo'neovim:v0.5.0,vim:v8.2.0953,
@@ -9835,7 +9836,7 @@ msgpack_rpc.txtneovim:v0.1.0,v0.3.0
 msgpack_types-variableneovim:v0.1.0,
 msgpackdump()neovim:v0.1.0,
 msgpackparse()neovim:v0.1.0,
-msgsepneovim:dev,
+msgsepneovim:nightly,
 msql-syntaxvim:v7.0001,v7.0139
 msql.vimneovim:v0.1.0,vim:v7.0001,
 mswin.vimneovim:v0.1.0,v0.1.5vim:v7.0001,
@@ -11626,7 +11627,8 @@ string.dump()neovim:stable,
 string.find()neovim:stable,
 string.format()neovim:stable,
 string.gmatch()neovim:stable,
-string.gsu{b}()neovim:stable,
+string.gsub()neovim:dev,
+string.gsu{b}()neovim:stable,dev
 string.len()neovim:stable,
 string.lower()neovim:stable,
 string.match()neovim:stable,
@@ -13112,7 +13114,7 @@ vim.lsp.buf.document_highlight()neovim:v0.5.0,
 vim.lsp.buf.document_symbol()neovim:v0.5.0,
 vim.lsp.buf.execute_command()neovim:v0.5.0,
 vim.lsp.buf.format()neovim:stable,
-vim.lsp.buf.formatting()neovim:v0.5.0,nightly
+vim.lsp.buf.formatting()neovim:dev,nightly
 vim.lsp.buf.formatting_seq_sync()neovim:v0.5.0,nightly
 vim.lsp.buf.formatting_sync()neovim:v0.5.0,nightly
 vim.lsp.buf.hover()neovim:v0.5.0,
@@ -13121,7 +13123,7 @@ vim.lsp.buf.incoming_calls()neovim:v0.5.0,
 vim.lsp.buf.list_workspace_folders()neovim:v0.5.0,
 vim.lsp.buf.outgoing_calls()neovim:v0.5.0,
 vim.lsp.buf.range_code_action()neovim:v0.5.0,nightly
-vim.lsp.buf.range_formatting()neovim:v0.5.0,nightly
+vim.lsp.buf.range_formatting()neovim:dev,nightly
 vim.lsp.buf.references()neovim:v0.5.0,
 vim.lsp.buf.remove_workspace_folder()neovim:v0.5.0,
 vim.lsp.buf.rename()neovim:v0.5.0,
