@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2022-10-09 00:20:08 UTC
+*helpful-version.txt*  Generated: 2022-10-10 00:21:39 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -31936,6 +31936,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.3.601 
 
+|clipboard-wsl|
+
+    Neovim: +dev 
+
 |clipboard-x11|
 
     Neovim: +v0.1.5 
@@ -34510,6 +34514,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|ex-commands|
+
+    Neovim: +dev 
 
 |ex-edit-index|
 
@@ -43651,10 +43659,22 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.5.0 
 
+|lua-call-function|
+
+    Neovim: +dev 
+
 |lua-commands|
 
     Neovim: +v0.2.1 
        Vim: +v7.3 
+
+|lua-compat|
+
+    Neovim: +dev 
+
+|lua-concepts|
+
+    Neovim: +dev 
 
 |lua-dict|
 
@@ -43728,7 +43748,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |lua-package-path|
 
-    Neovim: +v0.5.0 -stable 
+    Neovim: +dev -stable 
 
 |lua-patterns|
 
@@ -43744,7 +43764,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |lua-require-example|
 
-    Neovim: +v0.2.1 
+    Neovim: +v0.2.1 -dev 
 
 |lua-special-tbl|
 
@@ -43764,11 +43784,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |lua-syntax-call-function|
 
-    Neovim: +v0.5.0 
+    Neovim: +v0.5.0 -dev 
 
 |lua-syntax-help|
 
-    Neovim: +v0.5.0 
+    Neovim: +v0.5.0 -dev 
 
 |lua-treesitter|
 
@@ -48488,32 +48508,32 @@ A listing of helptags with the versions they became available or were removed.
 
 |news|
 
-    Neovim: +dev -v0.3.2 
+    Neovim: +nightly -v0.3.2 
        Vim: +v7.0001 
 
 |news-breaking|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |news-changes|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |news-deprecations|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |news-features|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |news-removed|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |news.txt|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nextnonblank()|
 
@@ -50009,6 +50029,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.5 
        Vim: +v7.4.1384 
 
+|packages-runtimepath|
+
+    Neovim: +dev 
+
 |packload-two-steps|
 
     Neovim: +v0.1.5 
@@ -50774,6 +50798,10 @@ A listing of helptags with the versions they became available or were removed.
 |popupwin|
 
        Vim: +v8.1.2365 
+
+|portable-config|
+
+    Neovim: +dev 
 
 |ports-5.2|
 
@@ -52383,7 +52411,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |rtp-packages|
 
-    Neovim: +v0.6.0 
+    Neovim: +v0.6.0 -dev 
 
 |ruby|
 
@@ -61722,6 +61750,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.5.0 
 
+|vim.lsp.range_code_action|
+
+    Neovim: +dev 
+
 |vim.lsp.reset()|
 
     Neovim: +v0.5.0 -v0.6.0 
@@ -61932,7 +61964,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.lsp.util.show_document()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.util.stylize_markdown()|
 
