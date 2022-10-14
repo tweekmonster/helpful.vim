@@ -13136,7 +13136,7 @@ vim.lsp.buf.implementation()neovim:v0.5.0,
 vim.lsp.buf.incoming_calls()neovim:v0.5.0,
 vim.lsp.buf.list_workspace_folders()neovim:v0.5.0,
 vim.lsp.buf.outgoing_calls()neovim:v0.5.0,
-vim.lsp.buf.range_code_action()neovim:v0.5.0,nightly
+vim.lsp.buf.range_code_action()neovim:dev,nightly
 vim.lsp.buf.range_formatting()neovim:v0.5.0,
 vim.lsp.buf.references()neovim:v0.5.0,
 vim.lsp.buf.remove_workspace_folder()neovim:v0.5.0,
@@ -13211,7 +13211,7 @@ vim.lsp.prepare()neovim:v0.5.0,v0.6.0
 vim.lsp.protocolneovim:v0.5.0,
 vim.lsp.protocol.make_client_capabilities()neovim:v0.5.0,
 vim.lsp.protocol.resolve_capabilities()neovim:v0.5.0,
-vim.lsp.range_code_actionneovim:nightly,
+vim.lsp.range_code_actionneovim:nightly,dev
 vim.lsp.reset()neovim:v0.5.0,v0.6.0
 vim.lsp.reset_buf()neovim:v0.5.0,v0.6.0
 vim.lsp.rpc.connect()neovim:stable,
