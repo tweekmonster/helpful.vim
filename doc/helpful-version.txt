@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2022-10-14 00:22:41 UTC
+*helpful-version.txt*  Generated: 2022-10-15 00:20:36 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -922,37 +922,37 @@ A listing of helptags with the versions they became available or were removed.
 
 |'cscopepathcomp'|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |'cscopeprg'|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |'cscopequickfix'|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |'cscoperelative'|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.3.210 
 
 |'cscopetag'|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |'cscopetagorder'|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |'cscopeverbose'|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |'csl'|
@@ -962,32 +962,32 @@ A listing of helptags with the versions they became available or were removed.
 
 |'cspc'|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |'csprg'|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |'csqf'|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |'csre'|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.3.210 
 
 |'cst'|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |'csto'|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |'csverb'|
@@ -2904,12 +2904,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |'nocscoperelative'|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.3.1181 
 
 |'nocscopetag'|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |'nocscopeverbose'|
@@ -2919,12 +2919,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |'nocsre'|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.3.1181 
 
 |'nocst'|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |'nocsverb'|
@@ -12097,17 +12097,17 @@ A listing of helptags with the versions they became available or were removed.
 
 |:cs|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |:cscope|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |:cstag|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |:cu|
@@ -13642,12 +13642,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |:lcs|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0196 
 
 |:lcscope|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0196 
 
 |:ldo|
@@ -15879,12 +15879,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |:scs|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |:scscope|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |:se|
@@ -20205,7 +20205,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |Cscope|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |CursorHold|
@@ -22414,7 +22414,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |E257|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |E258|
@@ -22424,7 +22424,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |E259|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |E26|
@@ -22438,12 +22438,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |E261|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |E262|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |E263|
@@ -23560,7 +23560,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |E469|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |E47|
@@ -24158,7 +24158,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |E560|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |E5600|
@@ -24167,22 +24167,22 @@ A listing of helptags with the versions they became available or were removed.
 
 |E561|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |E562|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |E563|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |E564|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |E565|
@@ -24192,12 +24192,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |E566|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |E567|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |E5677|
@@ -24206,7 +24206,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |E568|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |E569|
@@ -24431,7 +24431,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |E609|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |E61|
@@ -24508,12 +24508,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |E622|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |E623|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |E624|
@@ -24523,12 +24523,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |E625|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |E626|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |E627|
@@ -32874,7 +32874,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |cs-find|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |cs7-problem|
@@ -32889,17 +32889,17 @@ A listing of helptags with the versions they became available or were removed.
 
 |cscope-commands|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |cscope-find|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |cscope-howtouse|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |cscope-info|
@@ -32909,27 +32909,27 @@ A listing of helptags with the versions they became available or were removed.
 
 |cscope-intro|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |cscope-limitations|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |cscope-options|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |cscope-suggestions|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |cscope-usage|
 
-    Neovim: +v0.3.0 
+    Neovim: +v0.3.0 -dev 
 
 |cscope-win32|
 
@@ -32943,32 +32943,32 @@ A listing of helptags with the versions they became available or were removed.
 
 |cscopepathcomp|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |cscopeprg|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |cscopequickfix|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |cscoperelative|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.3.210 
 
 |cscopetag|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |cscopetagorder|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |cscopeverbose|
@@ -32987,32 +32987,32 @@ A listing of helptags with the versions they became available or were removed.
 
 |cspc|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |csprg|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |csqf|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |csre|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.3.210 
 
 |cst|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |csto|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |csverb|
@@ -41857,7 +41857,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |if_cscop.txt|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |if_lua|
@@ -57967,7 +57967,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |twice|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |two-engines|
@@ -61452,7 +61452,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.lsp.buf.range_code_action()|
 
-    Neovim: +dev -nightly 
+    Neovim: +v0.5.0 
 
 |vim.lsp.buf.range_formatting()|
 
@@ -61749,10 +61749,6 @@ A listing of helptags with the versions they became available or were removed.
 |vim.lsp.protocol.resolve_capabilities()|
 
     Neovim: +v0.5.0 
-
-|vim.lsp.range_code_action|
-
-    Neovim: +nightly -dev 
 
 |vim.lsp.reset()|
 
@@ -62981,7 +62977,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |win32-gettext|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |win32-gui|
