@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2022-10-29 00:14:36 UTC
+*helpful-version.txt*  Generated: 2022-10-30 00:19:05 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -1197,21 +1197,21 @@ A listing of helptags with the versions they became available or were removed.
 
 |'endoffile'|
 
-       Vim: +dev 
+       Vim: +v9.0.0820 
 
 |'endofline'|
 
     Neovim: +v0.1.0 
-       Vim: +v9.0.0818 -dev 
+       Vim: +v9.0.0818 -v9.0.0820 
 
 |'eof'|
 
-       Vim: +dev 
+       Vim: +v9.0.0820 
 
 |'eol'|
 
     Neovim: +v0.1.0 
-       Vim: +v9.0.0818 -dev 
+       Vim: +v9.0.0818 -v9.0.0820 
 
 |'ep'|
 
@@ -3041,21 +3041,21 @@ A listing of helptags with the versions they became available or were removed.
 
 |'noendoffile'|
 
-       Vim: +dev 
+       Vim: +v9.0.0820 
 
 |'noendofline'|
 
     Neovim: +v0.1.0 
-       Vim: +v9.0.0818 -dev 
+       Vim: +v9.0.0818 -v9.0.0820 
 
 |'noeof'|
 
-       Vim: +dev 
+       Vim: +v9.0.0820 
 
 |'noeol'|
 
     Neovim: +v0.1.0 
-       Vim: +v9.0.0818 -dev 
+       Vim: +v9.0.0818 -v9.0.0820 
 
 |'noequalalways'|
 
@@ -37475,7 +37475,8 @@ A listing of helptags with the versions they became available or were removed.
 
 |g:html_no_doc|
 
-       Vim: +dev 
+    Neovim: +dev 
+       Vim: +v9.0.0820 
 
 |g:html_no_foldcolumn|
 
@@ -37489,11 +37490,13 @@ A listing of helptags with the versions they became available or were removed.
 
 |g:html_no_links|
 
-       Vim: +dev 
+    Neovim: +dev 
+       Vim: +v9.0.0820 
 
 |g:html_no_modeline|
 
-       Vim: +dev 
+    Neovim: +dev 
+       Vim: +v9.0.0820 
 
 |g:html_no_pre|
 
@@ -46417,7 +46420,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |mouse-scrolling-off|
 
-       Vim: +dev 
+       Vim: +v9.0.0820 
 
 |mouse-swap-buttons|
 
