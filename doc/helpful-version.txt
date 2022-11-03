@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2022-11-02 00:16:51 UTC
+*helpful-version.txt*  Generated: 2022-11-03 00:17:31 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -34324,7 +34324,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |eol-and-eof|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.0.0826 
 
 |erlang-syntax|
@@ -51997,7 +51997,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |readblob()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.2.2343 
 
 |readdir()|
