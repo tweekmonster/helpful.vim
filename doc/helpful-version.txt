@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2022-11-12 00:16:45 UTC
+*helpful-version.txt*  Generated: 2022-11-13 00:15:53 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -15372,17 +15372,17 @@ A listing of helptags with the versions they became available or were removed.
 
 |:range-closed-fold|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.0.0861 
 
 |:range-offset|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.0.0861 
 
 |:range-pattern|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.0.0861 
 
 |:re|
