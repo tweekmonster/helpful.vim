@@ -8125,6 +8125,7 @@ getmappings()vim:v8.2.4820,v8.2.4825
 getmarklist()neovim:v0.5.0,vim:v8.2.0861,
 getmatches()neovim:v0.1.0,vim:v7.1.040,
 getmousepos()neovim:v0.6.0,vim:v8.1.2304,
+getmouseshape()vim:v9.0.0881,
 getpid()neovim:v0.1.0,vim:v7.1.262,
 getpos()neovim:v0.1.0,vim:v7.0212,
 getqflist()neovim:v0.1.0,vim:v7.0064,
