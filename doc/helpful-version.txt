@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2022-11-15 00:16:20 UTC
+*helpful-version.txt*  Generated: 2022-11-18 00:17:14 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -3083,7 +3083,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'noex'|
 
-    Neovim: +v0.1.0 -v0.4.0 
+    Neovim: +dev -v0.4.0 
        Vim: +v7.0001 
 
 |'noexpandtab'|
@@ -3093,7 +3093,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'noexrc'|
 
-    Neovim: +v0.1.0 -v0.4.0 
+    Neovim: +dev -v0.4.0 
        Vim: +v7.0001 
 
 |'nofen'|
@@ -3575,7 +3575,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'nosecure'|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |'nosft'|
@@ -23955,7 +23955,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |E523|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |E524|
@@ -43853,6 +43853,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.2.1 -nightly 
 
+|lua-secure|
+
+    Neovim: +dev 
+
 |lua-special-tbl|
 
     Neovim: +v0.2.1 
@@ -62186,6 +62190,10 @@ A listing of helptags with the versions they became available or were removed.
 |vim.schedule_wrap()|
 
     Neovim: +v0.4.0 
+
+|vim.secure.read()|
+
+    Neovim: +dev 
 
 |vim.spell.check()|
 
