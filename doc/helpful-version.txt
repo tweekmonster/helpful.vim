@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2022-11-18 00:17:14 UTC
+*helpful-version.txt*  Generated: 2022-11-19 00:15:20 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -3083,7 +3083,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'noex'|
 
-    Neovim: +dev -v0.4.0 
+    Neovim: +nightly -v0.4.0 
        Vim: +v7.0001 
 
 |'noexpandtab'|
@@ -3093,7 +3093,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'noexrc'|
 
-    Neovim: +dev -v0.4.0 
+    Neovim: +nightly -v0.4.0 
        Vim: +v7.0001 
 
 |'nofen'|
@@ -3575,7 +3575,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'nosecure'|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |'nosft'|
@@ -21782,10 +21782,22 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +nightly 
        Vim: +v9.0.0849 
 
+|E1309|
+
+       Vim: +v9.0.0904 
+
 |E131|
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|E1310|
+
+       Vim: +v9.0.0904 
+
+|E1311|
+
+       Vim: +v9.0.0904 
 
 |E132|
 
@@ -23955,7 +23967,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |E523|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |E524|
@@ -41196,6 +41208,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0e02 
 
+|html-folding|
+
+       Vim: +v9.0.0904 
+
 |html-indent|
 
     Neovim: +v0.1.0 
@@ -43855,7 +43871,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |lua-secure|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-special-tbl|
 
@@ -57048,6 +57064,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.4.0 
        Vim: +v8.0.1562 
 
+|termdebug_winbar|
+
+       Vim: +v9.0.0904 
+
 |terminal|
 
     Neovim: +v0.2.1 
@@ -62193,7 +62213,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.secure.read()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.spell.check()|
 
