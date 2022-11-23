@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2022-11-22 00:15:53 UTC
+*helpful-version.txt*  Generated: 2022-11-23 00:15:20 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -28343,10 +28343,22 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.2.0 
        Vim: +v7.4.2077 
 
+|WinResized|
+
+       Vim: +v9.0.0917 
+
+|WinResized-event|
+
+       Vim: +v9.0.0917 
+
 |WinScrolled|
 
     Neovim: +v0.5.0 
        Vim: +v8.2.4713 
+
+|WinScrolled-event|
+
+       Vim: +v9.0.0917 
 
 |X|
 
@@ -38816,7 +38828,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |getbufoneline()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.0.0916 
 
 |getbufvar()|
@@ -43324,7 +43336,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |list-concatenation|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.2.2435 
 
 |list-functions|
@@ -63032,6 +63044,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.3.828 
+
+|win-scrolled-resized|
+
+       Vim: +v9.0.0917 
 
 |win16|
 
