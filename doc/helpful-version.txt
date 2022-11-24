@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2022-11-23 00:15:20 UTC
+*helpful-version.txt*  Generated: 2022-11-24 00:16:00 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -2227,6 +2227,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|'keyprotocol'|
+
+       Vim: +v9.0.0930 
+
 |'keywordprg'|
 
     Neovim: +v0.1.0 
@@ -2246,6 +2250,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|'kpc'|
+
+       Vim: +v9.0.0930 
 
 |'langmap'|
 
@@ -28345,10 +28353,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |WinResized|
 
+    Neovim: +nightly 
        Vim: +v9.0.0917 
 
 |WinResized-event|
 
+    Neovim: +nightly 
        Vim: +v9.0.0917 
 
 |WinScrolled|
@@ -28358,6 +28368,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |WinScrolled-event|
 
+    Neovim: +nightly 
        Vim: +v9.0.0917 
 
 |X|
@@ -34537,6 +34548,14 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.4.194 
+
+|euro|
+
+       Vim: +v9.0.0934 
+
+|euro-digraph|
+
+       Vim: +v9.0.0934 
 
 |eval|
 
@@ -42443,7 +42462,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |interp-string|
 
-       Vim: +v8.2.4883 
+       Vim: +v8.2.4883 -v9.0.0934 
+
+|interpolated-string|
+
+       Vim: +v9.0.0934 
 
 |interrupt()|
 
@@ -43069,6 +43092,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.8.0 
        Vim: +v9.0.0449 
+
+|kitty-keyboard-protocol|
+
+       Vim: +v9.0.0930 
 
 |known-bugs|
 
@@ -63047,6 +63074,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |win-scrolled-resized|
 
+    Neovim: +nightly 
        Vim: +v9.0.0917 
 
 |win16|
