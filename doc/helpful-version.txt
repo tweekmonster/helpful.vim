@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2022-11-29 00:15:32 UTC
+*helpful-version.txt*  Generated: 2022-11-30 00:15:58 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -17452,7 +17452,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |:trust|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |:try|
 
@@ -24228,7 +24228,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |E5570|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |E558|
 
@@ -44040,11 +44040,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |lua-vim-opt|
 
-    Neovim: +v0.5.0 -dev 
+    Neovim: +v0.5.0 -nightly 
 
 |lua-vim-optglobal|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |lua-vim-options|
 
@@ -44052,7 +44052,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |lua-vim-optlocal|
 
-    Neovim: +v0.5.0 -dev 
+    Neovim: +v0.5.0 -nightly 
 
 |lua-vim-set|
 
@@ -57946,7 +57946,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |trust|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |truthy|
 
@@ -62241,11 +62241,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.opt_global|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.opt_local|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.paste()|
 
@@ -62293,7 +62293,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.secure.trust()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.spell.check()|
 
