@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2022-12-04 00:16:47 UTC
+*helpful-version.txt*  Generated: 2022-12-05 00:14:31 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -21819,6 +21819,10 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v9.0.0913 
 
+|E1314|
+
+       Vim: +v9.0.1001 
+
 |E132|
 
     Neovim: +v0.1.0 
@@ -28192,9 +28196,37 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v8.2.2198 
 
+|Vim9-abstract-class|
+
+       Vim: +v9.0.1001 
+
+|Vim9-class|
+
+       Vim: +v9.0.1001 
+
+|Vim9-class-overview|
+
+       Vim: +v9.0.1001 
+
+|Vim9-enum|
+
+       Vim: +v9.0.1001 
+
 |Vim9-script|
 
        Vim: +v8.2.2222 
+
+|Vim9-simple-class|
+
+       Vim: +v9.0.1001 
+
+|Vim9-type|
+
+       Vim: +v9.0.1001 
+
+|Vim9-using-interface|
+
+       Vim: +v9.0.1001 
 
 |VimEnter|
 
@@ -31978,6 +32010,14 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|class-member|
+
+       Vim: +v9.0.1001 
+
+|class-method|
+
+       Vim: +v9.0.1001 
+
 |clear-undo|
 
     Neovim: +v0.1.0 
@@ -35226,6 +35266,10 @@ A listing of helptags with the versions they became available or were removed.
 |extendnew()|
 
        Vim: +v8.2.2336 
+
+|extends|
+
+       Vim: +v9.0.1001 
 
 |extension-removal|
 
@@ -42091,6 +42135,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.5.0 
        Vim: +v8.1.2088 
+
+|implements|
+
+       Vim: +v9.0.1001 
 
 |import-autoload|
 
@@ -49825,7 +49873,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |old-style-testing|
 
-    Neovim: +v0.5.0 -dev 
+    Neovim: +v0.5.0 -nightly 
        Vim: +v8.2.1439 -v8.2.1420 
 
 |oldfiles-variable|
@@ -53916,6 +53964,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|specifies|
+
+       Vim: +v9.0.1001 
 
 |speed-up|
 
@@ -62634,6 +62686,10 @@ A listing of helptags with the versions they became available or were removed.
 |vim9.txt|
 
        Vim: +v8.2.0149 
+
+|vim9class.txt|
+
+       Vim: +v9.0.1001 
 
 |vim9script|
 
