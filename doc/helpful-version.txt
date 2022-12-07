@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2022-12-06 00:14:22 UTC
+*helpful-version.txt*  Generated: 2022-12-07 00:15:05 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -18583,7 +18583,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |<MouseMove>|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.2.4715 
 
 |<MouseUp>|
@@ -21819,6 +21819,10 @@ A listing of helptags with the versions they became available or were removed.
 |E1312|
 
        Vim: +v9.0.0913 
+
+|E1313|
+
+       Vim: +dev 
 
 |E1314|
 
@@ -63145,6 +63149,14 @@ A listing of helptags with the versions they became available or were removed.
 |watch-file|
 
     Neovim: +v0.5.0 
+
+|wdl-syntax|
+
+       Vim: +dev 
+
+|wdl.vim|
+
+       Vim: +dev 
 
 |white-space|
 
