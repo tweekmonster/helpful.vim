@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2022-12-09 00:15:08 UTC
+*helpful-version.txt*  Generated: 2022-12-10 00:13:46 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -43852,7 +43852,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |lsp-semantic_tokens|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lsp-sync|
 
@@ -43939,91 +43939,91 @@ A listing of helptags with the versions they became available or were removed.
 
 |lua-guide|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-guide-api|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-guide-autocommand-create|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-guide-autocommands|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-guide-autocommands-delete|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-guide-autocommands-group|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-guide-config|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-guide-credits|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-guide-mappings|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-guide-mappings-del|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-guide-mappings-set|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-guide-modules|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-guide-options|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-guide-usercommands|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-guide-usercommands-create|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-guide-usercommands-delete|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-guide-using-Lua|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-guide-variables|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-guide-vim-commands|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-guide-vim-functions|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-guide-vimscript|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-guide.txt|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-highlight|
 
@@ -52541,7 +52541,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |require()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |require_language()|
 
@@ -62154,15 +62154,15 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.lsp.semantic_tokens.force_refresh()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.semantic_tokens.start()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.semantic_tokens.stop()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.set_log_level()|
 
@@ -62659,7 +62659,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.treesitter.show_tree()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.treesitter.start()|
 
@@ -63352,12 +63352,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |wdl-syntax|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.0.1025 
 
 |wdl.vim|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.0.1025 
 
 |white-space|
