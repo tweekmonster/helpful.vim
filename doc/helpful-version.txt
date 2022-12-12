@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2022-12-10 00:13:46 UTC
+*helpful-version.txt*  Generated: 2022-12-12 00:14:13 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -20177,6 +20177,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|Class|
+
+       Vim: +dev 
+
 |Cmd-event|
 
     Neovim: +v0.1.0 
@@ -21832,10 +21836,58 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v9.0.1031 
 
+|E1316|
+
+       Vim: +dev 
+
+|E1317|
+
+       Vim: +dev 
+
+|E1318|
+
+       Vim: +dev 
+
+|E1319|
+
+       Vim: +dev 
+
 |E132|
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|E1320|
+
+       Vim: +dev 
+
+|E1321|
+
+       Vim: +dev 
+
+|E1322|
+
+       Vim: +dev 
+
+|E1323|
+
+       Vim: +dev 
+
+|E1324|
+
+       Vim: +dev 
+
+|E1325|
+
+       Vim: +dev 
+
+|E1326|
+
+       Vim: +dev 
+
+|E1327|
+
+       Vim: +dev 
 
 |E133|
 
@@ -27349,6 +27401,10 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v7.0001 -v7.3 
 
+|Object|
+
+       Vim: +dev 
+
 |OffTheSpot|
 
     Neovim: +v0.1.0 
@@ -32019,6 +32075,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|class|
+
+       Vim: +dev 
+
 |class-member|
 
        Vim: +v9.0.1001 
@@ -32329,6 +32389,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.2a -v7.2a.00 
+
+|compiler-dotnet|
+
+       Vim: +dev 
 
 |compiler-gcc|
 
@@ -48976,6 +49040,38 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.4 
        Vim: +v7.4.1154 
 
+|null_blob|
+
+       Vim: +dev 
+
+|null_channel|
+
+       Vim: +dev 
+
+|null_dict|
+
+       Vim: +dev 
+
+|null_function|
+
+       Vim: +dev 
+
+|null_job|
+
+       Vim: +dev 
+
+|null_list|
+
+       Vim: +dev 
+
+|null_partial|
+
+       Vim: +dev 
+
+|null_string|
+
+       Vim: +dev 
+
 |number_relativenumber|
 
     Neovim: +v0.1.0 
@@ -49928,6 +50024,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|object|
+
+       Vim: +dev 
 
 |object-motions|
 
@@ -53771,6 +53871,90 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.3.694 
 
+|shm-A|
+
+       Vim: +dev 
+
+|shm-C|
+
+       Vim: +dev 
+
+|shm-F|
+
+       Vim: +dev 
+
+|shm-I|
+
+       Vim: +dev 
+
+|shm-S|
+
+       Vim: +dev 
+
+|shm-T|
+
+       Vim: +dev 
+
+|shm-W|
+
+       Vim: +dev 
+
+|shm-a|
+
+       Vim: +dev 
+
+|shm-c|
+
+       Vim: +dev 
+
+|shm-f|
+
+       Vim: +dev 
+
+|shm-i|
+
+       Vim: +dev 
+
+|shm-l|
+
+       Vim: +dev 
+
+|shm-m|
+
+       Vim: +dev 
+
+|shm-n|
+
+       Vim: +dev 
+
+|shm-o|
+
+       Vim: +dev 
+
+|shm-q|
+
+       Vim: +dev 
+
+|shm-r|
+
+       Vim: +dev 
+
+|shm-s|
+
+       Vim: +dev 
+
+|shm-t|
+
+       Vim: +dev 
+
+|shm-w|
+
+       Vim: +dev 
+
+|shm-x|
+
+       Vim: +dev 
+
 |short-name-changed|
 
        Vim: +v7.0001 
@@ -53958,6 +54142,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|smh-O|
+
+       Vim: +dev 
 
 |sniff|
 
