@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2022-12-13 00:14:41 UTC
+*helpful-version.txt*  Generated: 2022-12-14 00:14:54 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -21893,6 +21893,10 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v9.0.1048 
 
+|E1328|
+
+       Vim: +v9.0.1053 
+
 |E133|
 
     Neovim: +v0.1.0 
@@ -32396,7 +32400,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |compiler-dotnet|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.0.1048 
 
 |compiler-gcc|
@@ -35365,7 +35369,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |extmark|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |extmarks|
 
@@ -53890,107 +53894,107 @@ A listing of helptags with the versions they became available or were removed.
 
 |shm-A|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.0.1048 
 
 |shm-C|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.0.1048 
 
 |shm-F|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.0.1048 
 
 |shm-I|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.0.1048 
 
 |shm-S|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.0.1048 
 
 |shm-T|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.0.1048 
 
 |shm-W|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.0.1048 
 
 |shm-a|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.0.1048 
 
 |shm-c|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.0.1048 
 
 |shm-f|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.0.1048 
 
 |shm-i|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.0.1048 
 
 |shm-l|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.0.1048 
 
 |shm-m|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.0.1048 
 
 |shm-n|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.0.1048 
 
 |shm-o|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.0.1048 
 
 |shm-q|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.0.1048 
 
 |shm-r|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.0.1048 
 
 |shm-s|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.0.1048 
 
 |shm-t|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.0.1048 
 
 |shm-w|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.0.1048 
 
 |shm-x|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.0.1048 
 
 |short-name-changed|
@@ -54183,7 +54187,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |smh-O|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.0.1048 
 
 |sniff|
