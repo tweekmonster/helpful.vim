@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2022-12-16 00:14:04 UTC
+*helpful-version.txt*  Generated: 2022-12-18 00:13:51 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -10561,6 +10561,14 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0128 
+
+|:Inspect|
+
+    Neovim: +dev 
+
+|:Inspect!|
+
+    Neovim: +dev 
 
 |:LP|
 
@@ -44118,6 +44126,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.5.0 
 
+|lua-inspector|
+
+    Neovim: +dev 
+
 |lua-intro|
 
     Neovim: +v0.4.0 
@@ -61955,6 +61967,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.4.0 
 
+|vim.inspect_pos()|
+
+    Neovim: +dev 
+
 |vim.is_callable()|
 
     Neovim: +v0.5.0 
@@ -62395,6 +62411,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +nightly 
 
+|vim.lsp.semantic_tokens.get_at_pos()|
+
+    Neovim: +dev 
+
 |vim.lsp.semantic_tokens.start()|
 
     Neovim: +nightly 
@@ -62714,6 +62734,10 @@ A listing of helptags with the versions they became available or were removed.
 |vim.secure.trust()|
 
     Neovim: +nightly 
+
+|vim.show_pos()|
+
+    Neovim: +dev 
 
 |vim.spell.check()|
 
