@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2022-12-18 00:13:51 UTC
+*helpful-version.txt*  Generated: 2022-12-19 00:13:23 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -10564,11 +10564,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |:Inspect|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |:Inspect!|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |:LP|
 
@@ -43269,6 +43269,10 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v9.0.0930 
 
+|kitty-terminal|
+
+       Vim: +v9.0.1073 
+
 |known-bugs|
 
     Neovim: +v0.1.0 -v0.1.1 
@@ -44128,7 +44132,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |lua-inspector|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-intro|
 
@@ -61969,7 +61973,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.inspect_pos()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.is_callable()|
 
@@ -62413,7 +62417,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.lsp.semantic_tokens.get_at_pos()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.semantic_tokens.start()|
 
@@ -62737,7 +62741,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.show_pos()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.spell.check()|
 
@@ -64360,6 +64364,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 -v0.2.0 
        Vim: +v7.0001 
+
+|xterm-kitty|
+
+       Vim: +v9.0.1073 
 
 |xterm-modifier-keys|
 
