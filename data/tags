@@ -4503,7 +4503,7 @@ E1288vim:v9.0.0108,
 E1289vim:v9.0.0108,
 E129neovim:v0.1.0,vim:v7.0001,
 E1290neovim:v0.8.0,vim:v9.0.0108,
-E1291vim:v9.0.0108,
+E1291vim:v9.0.1084,
 E1292vim:v9.0.0108,
 E1293vim:v9.0.0108,
 E1294vim:v9.0.0218,
@@ -12319,6 +12319,7 @@ test_gui_mouse_event()vim:v8.2.3028,v8.2.4259
 test_gui_tabline_event()vim:v8.2.4228,v8.2.4259
 test_gui_tabmenu_event()vim:v8.2.4228,v8.2.4259
 test_ignore_error()vim:v8.0.0392,
+test_mswin_event()vim:v9.0.1084,
 test_null_blob()vim:v8.1.0736,
 test_null_channel()vim:v7.4.1838,
 test_null_dict()vim:v7.4.1838,
