@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2022-12-21 00:13:21 UTC
+*helpful-version.txt*  Generated: 2022-12-27 00:14:20 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -4746,6 +4746,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'showcmdloc'|
 
+    Neovim: +dev 
        Vim: +v9.0.1061 
 
 |'showfulltag'|
@@ -4810,6 +4811,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'sloc'|
 
+    Neovim: +dev 
        Vim: +v9.0.1061 
 
 |'slow'|
