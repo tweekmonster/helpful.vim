@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2022-12-27 00:14:20 UTC
+*helpful-version.txt*  Generated: 2022-12-28 00:13:00 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -4746,7 +4746,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'showcmdloc'|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.0.1061 
 
 |'showfulltag'|
@@ -4811,7 +4811,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'sloc'|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.0.1061 
 
 |'slow'|
@@ -44140,6 +44140,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.4.0 
 
+|lua-json|
+
+    Neovim: +dev 
+
 |lua-keymap|
 
     Neovim: +v0.7.0 
@@ -61988,6 +61992,18 @@ A listing of helptags with the versions they became available or were removed.
 |vim.is_valid()|
 
     Neovim: +v0.5.0 -v0.6.0 
+
+|vim.json|
+
+    Neovim: +dev 
+
+|vim.json.decode|
+
+    Neovim: +dev 
+
+|vim.json.encode|
+
+    Neovim: +dev 
 
 |vim.keymap.del()|
 
