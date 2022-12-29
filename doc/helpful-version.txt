@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2022-12-28 00:13:00 UTC
+*helpful-version.txt*  Generated: 2022-12-29 00:13:50 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -40569,6 +40569,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.6.0 
 
+|hl-DiagnosticFloatingOk|
+
+    Neovim: +dev 
+
 |hl-DiagnosticFloatingWarn|
 
     Neovim: +v0.6.0 
@@ -40581,6 +40585,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.6.0 
 
+|hl-DiagnosticOk|
+
+    Neovim: +dev 
+
 |hl-DiagnosticSignError|
 
     Neovim: +v0.6.0 
@@ -40592,6 +40600,10 @@ A listing of helptags with the versions they became available or were removed.
 |hl-DiagnosticSignInfo|
 
     Neovim: +v0.6.0 
+
+|hl-DiagnosticSignOk|
+
+    Neovim: +dev 
 
 |hl-DiagnosticSignWarn|
 
@@ -40609,6 +40621,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.6.0 
 
+|hl-DiagnosticUnderlineOk|
+
+    Neovim: +dev 
+
 |hl-DiagnosticUnderlineWarn|
 
     Neovim: +v0.6.0 
@@ -40624,6 +40640,10 @@ A listing of helptags with the versions they became available or were removed.
 |hl-DiagnosticVirtualTextInfo|
 
     Neovim: +v0.6.0 
+
+|hl-DiagnosticVirtualTextOk|
+
+    Neovim: +dev 
 
 |hl-DiagnosticVirtualTextWarn|
 
@@ -44142,7 +44162,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |lua-json|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-keymap|
 
@@ -61995,15 +62015,15 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.json|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.json.decode|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.json.encode|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.keymap.del()|
 
