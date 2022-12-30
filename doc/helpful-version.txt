@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2022-12-29 00:13:50 UTC
+*helpful-version.txt*  Generated: 2022-12-30 00:14:31 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -40571,7 +40571,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |hl-DiagnosticFloatingOk|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |hl-DiagnosticFloatingWarn|
 
@@ -40587,7 +40587,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |hl-DiagnosticOk|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |hl-DiagnosticSignError|
 
@@ -40603,7 +40603,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |hl-DiagnosticSignOk|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |hl-DiagnosticSignWarn|
 
@@ -40623,7 +40623,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |hl-DiagnosticUnderlineOk|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |hl-DiagnosticUnderlineWarn|
 
@@ -40643,7 +40643,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |hl-DiagnosticVirtualTextOk|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |hl-DiagnosticVirtualTextWarn|
 
