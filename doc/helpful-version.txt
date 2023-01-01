@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2022-12-31 00:13:01 UTC
+*helpful-version.txt*  Generated: 2023-01-01 00:16:18 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -7657,6 +7657,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.7.0 -v0.6.0 
        Vim: +v7.0221 
 
+|--remote-ui|
+
+    Neovim: +dev 
+
 |--remote-wait|
 
     Neovim: +v0.7.0 -v0.6.0 
@@ -11154,6 +11158,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|:autocmd-block|
+
+       Vim: +v9.0.1122 
 
 |:autocmd-verbose|
 
@@ -15263,6 +15271,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|:public|
+
+       Vim: +v9.0.1122 
 
 |:put|
 
@@ -21915,10 +21927,54 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v9.0.1053 
 
+|E1329|
+
+       Vim: +v9.0.1122 
+
 |E133|
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|E1330|
+
+       Vim: +v9.0.1122 
+
+|E1331|
+
+       Vim: +v9.0.1122 
+
+|E1332|
+
+       Vim: +v9.0.1122 
+
+|E1333|
+
+       Vim: +v9.0.1122 
+
+|E1334|
+
+       Vim: +v9.0.1122 
+
+|E1335|
+
+       Vim: +v9.0.1122 
+
+|E1336|
+
+       Vim: +v9.0.1122 
+
+|E1337|
+
+       Vim: +v9.0.1122 
+
+|E1338|
+
+       Vim: +v9.0.1122 
+
+|E1339|
+
+       Vim: +v9.0.1122 
 
 |E134|
 
@@ -49956,6 +50012,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.4.0 
 
+|nvim_ui_set_focus()|
+
+    Neovim: +dev 
+
 |nvim_ui_set_option()|
 
     Neovim: +v0.2.0 
@@ -53962,6 +54022,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +nightly 
        Vim: +v9.0.1048 
 
+|shm-O|
+
+       Vim: +v9.0.1122 
+
 |shm-S|
 
     Neovim: +nightly 
@@ -54238,7 +54302,7 @@ A listing of helptags with the versions they became available or were removed.
 |smh-O|
 
     Neovim: +nightly 
-       Vim: +v9.0.1048 
+       Vim: +v9.0.1048 -v9.0.1122 
 
 |sniff|
 
@@ -62197,6 +62261,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.5.0 
 
+|vim.lsp.codelens.clear()|
+
+    Neovim: +dev 
+
 |vim.lsp.codelens.display()|
 
     Neovim: +v0.5.0 
@@ -64449,6 +64517,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 -v0.2.0 
        Vim: +v7.0001 
+
+|xterm-terminfo-entries|
+
+       Vim: +v9.0.1122 
 
 |xterm-true-color|
 
