@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2023-01-01 00:16:18 UTC
+*helpful-version.txt*  Generated: 2023-01-02 00:13:57 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -7659,7 +7659,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |--remote-ui|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |--remote-wait|
 
@@ -50014,7 +50014,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |nvim_ui_set_focus()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_ui_set_option()|
 
@@ -54024,6 +54024,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |shm-O|
 
+    Neovim: +dev 
        Vim: +v9.0.1122 
 
 |shm-S|
@@ -54301,7 +54302,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |smh-O|
 
-    Neovim: +nightly 
+    Neovim: +nightly -dev 
        Vim: +v9.0.1048 -v9.0.1122 
 
 |sniff|
@@ -62263,7 +62264,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.lsp.codelens.clear()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.codelens.display()|
 
