@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2023-01-03 00:13:16 UTC
+*helpful-version.txt*  Generated: 2023-01-04 00:14:11 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -4135,12 +4135,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |'pdev'|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |'penc'|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |'perldll'|
@@ -4154,12 +4154,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |'pexpr'|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |'pfn'|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |'ph'|
@@ -4169,7 +4169,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'pheader'|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |'pi'|
@@ -4184,17 +4184,17 @@ A listing of helptags with the versions they became available or were removed.
 
 |'pmbcs'|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0007 
 
 |'pmbfn'|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0007 
 
 |'popt'|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |'pp'|
@@ -4253,12 +4253,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |'printmbfont'|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0007 
 
 |'printoptions'|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |'prompt'|
@@ -9216,7 +9216,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |06.6|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |07.1|
@@ -13110,12 +13110,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |:ha|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |:hardcopy|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |:help|
@@ -22541,12 +22541,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |E237|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |E238|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |E239|
@@ -23010,7 +23010,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |E324|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |E325|
@@ -23234,7 +23234,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |E365|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |E366|
@@ -23722,17 +23722,17 @@ A listing of helptags with the versions they became available or were removed.
 
 |E455|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |E456|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |E457|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |E458|
@@ -24327,17 +24327,17 @@ A listing of helptags with the versions they became available or were removed.
 
 |E550|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |E551|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |E552|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |E5520|
@@ -24699,7 +24699,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |E613|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |E614|
@@ -24723,12 +24723,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |E618|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |E619|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |E62|
@@ -24738,12 +24738,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |E620|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |E621|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |E622|
@@ -24758,7 +24758,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |E624|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |E625|
@@ -24992,17 +24992,17 @@ A listing of helptags with the versions they became available or were removed.
 
 |E673|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0007 
 
 |E674|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0007 
 
 |E675|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0007 
 
 |E676|
@@ -29261,7 +29261,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |a4|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |a:0|
@@ -30263,6 +30263,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|b:editorconfig|
+
+    Neovim: +dev 
 
 |b:man_default_sects|
 
@@ -34510,6 +34514,58 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|editorconfig|
+
+    Neovim: +dev 
+
+|editorconfig-custom-properties|
+
+    Neovim: +dev 
+
+|editorconfig-properties|
+
+    Neovim: +dev 
+
+|editorconfig.txt|
+
+    Neovim: +dev 
+
+|editorconfig_charset|
+
+    Neovim: +dev 
+
+|editorconfig_end_of_line|
+
+    Neovim: +dev 
+
+|editorconfig_indent_size|
+
+    Neovim: +dev 
+
+|editorconfig_indent_style|
+
+    Neovim: +dev 
+
+|editorconfig_insert_final_newline|
+
+    Neovim: +dev 
+
+|editorconfig_max_line_length|
+
+    Neovim: +dev 
+
+|editorconfig_root|
+
+    Neovim: +dev 
+
+|editorconfig_tab_width|
+
+    Neovim: +dev 
+
+|editorconfig_trim_trailing_whitespace|
+
+    Neovim: +dev 
+
 |efm-%>|
 
     Neovim: +v0.1.0 
@@ -37579,6 +37635,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.8.0 -nightly 
 
+|g:editorconfig_enable|
+
+    Neovim: +dev 
+
 |g:explDateFormat|
 
        Vim: +v7.0001 -v7.0045 
@@ -40136,6 +40196,10 @@ A listing of helptags with the versions they became available or were removed.
 |hangulin.txt|
 
        Vim: +v7.0001 
+
+|hardcopy|
+
+    Neovim: +dev 
 
 |has()|
 
@@ -43513,7 +43577,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |letter|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |lex-syntax|
@@ -48099,7 +48163,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |netrw-mp|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.2a 
 
 |netrw-mr|
@@ -50739,7 +50803,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |pdev-option|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0007 
 
 |peace|
@@ -50749,7 +50813,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |penc-option|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0007 
 
 |perl|
@@ -50942,17 +51006,17 @@ A listing of helptags with the versions they became available or were removed.
 
 |pexpr-option|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0007 
 
 |pfn-option|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0007 
 
 |pheader-option|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0007 
 
 |photon-fonts|
@@ -51110,17 +51174,17 @@ A listing of helptags with the versions they became available or were removed.
 
 |pmbcs-option|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0007 
 
 |pmbfn-option|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0007 
 
 |popt-option|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0007 
 
 |popup|
@@ -51410,27 +51474,27 @@ A listing of helptags with the versions they became available or were removed.
 
 |postscript-cjk-printing|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0007 
 
 |postscript-print-encoding|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |postscript-print-trouble|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |postscript-print-util|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |postscript-printing|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |pow()|
@@ -51482,17 +51546,17 @@ A listing of helptags with the versions they became available or were removed.
 
 |print-intro|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0007 
 
 |print-options|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0007 
 
 |print.txt|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0007 
 
 |printcap-syntax|
@@ -51581,12 +51645,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |printing|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |printing-formfeed|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |profile|
@@ -55827,7 +55891,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |syntax-printing|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |syntax-tex|
