@@ -7856,8 +7856,7 @@ g:decada.Unit_Name()neovim:v0.1.0,vim:v7.2a,v7.2a.00
 g:did_load_filetypesneovim:v0.7.0,
 g:do_filetype_luaneovim:v0.7.0,v0.8.0
 g:do_legacy_filetypeneovim:v0.8.0,nightly
-g:editorconfigneovim:dev,
-g:editorconfig_enableneovim:nightly,dev
+g:editorconfigneovim:nightly,
 g:explDateFormatvim:v7.0001,v7.0045
 g:explDetailedHelpvim:v7.0001,v7.0045
 g:explDetailedListvim:v7.0001,v7.0045
