@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2023-01-09 00:15:01 UTC
+*helpful-version.txt*  Generated: 2023-01-10 00:15:06 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -5024,10 +5024,18 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|'statuscolumn'|
+
+    Neovim: +dev 
+
 |'statusline'|
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|'stc'|
+
+    Neovim: +dev 
 
 |'stl'|
 
@@ -5509,6 +5517,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 -v0.2.0 
        Vim: +v7.0001 
+
+|'t_XM'|
+
+       Vim: +dev 
 
 |'t_ZH'|
 
@@ -21981,10 +21993,70 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|E1340|
+
+       Vim: +dev 
+
+|E1341|
+
+       Vim: +dev 
+
+|E1342|
+
+       Vim: +dev 
+
+|E1343|
+
+       Vim: +dev 
+
+|E1344|
+
+       Vim: +dev 
+
+|E1345|
+
+       Vim: +dev 
+
+|E1346|
+
+       Vim: +dev 
+
+|E1347|
+
+       Vim: +dev 
+
+|E1348|
+
+       Vim: +dev 
+
+|E1349|
+
+       Vim: +dev 
+
 |E135|
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|E1350|
+
+       Vim: +dev 
+
+|E1351|
+
+       Vim: +dev 
+
+|E1352|
+
+       Vim: +dev 
+
+|E1353|
+
+       Vim: +dev 
+
+|E1354|
+
+       Vim: +dev 
 
 |E136|
 
@@ -32165,13 +32237,17 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v9.0.1048 
 
+|class-function|
+
+       Vim: +dev 
+
 |class-member|
 
        Vim: +v9.0.1001 
 
 |class-method|
 
-       Vim: +v9.0.1001 
+       Vim: +v9.0.1001 -dev 
 
 |clear-undo|
 
@@ -46954,6 +47030,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|mouse-reporting|
+
+       Vim: +dev 
+
 |mouse-scrolling-off|
 
        Vim: +v9.0.0819 
@@ -52713,6 +52793,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|relnum-variable|
+
+    Neovim: +dev 
+
 |reload|
 
     Neovim: +v0.1.0 
@@ -56400,6 +56484,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 -v0.2.0 
        Vim: +v7.0001 
+
+|t_XM|
+
+       Vim: +dev 
 
 |t_ZH|
 
@@ -60671,6 +60759,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|v:relnum|
+
+    Neovim: +dev 
+
 |v:scrollstart|
 
     Neovim: +v0.1.0 
@@ -60869,6 +60961,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.3.031 
+
+|v:wrap|
+
+    Neovim: +dev 
 
 |v_!|
 
@@ -64314,6 +64410,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|wrap-variable|
+
+    Neovim: +dev 
 
 |write-compiler-plugin|
 
