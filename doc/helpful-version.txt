@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2023-01-11 00:14:09 UTC
+*helpful-version.txt*  Generated: 2023-01-13 00:14:42 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -56558,6 +56558,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 -v0.2.0 
        Vim: +v7.0001 
 
+|t_class-variable|
+
+       Vim: +v9.0.1188 
+
 |t_cm|
 
     Neovim: +v0.1.0 -v0.2.0 
@@ -56882,6 +56886,10 @@ A listing of helptags with the versions they became available or were removed.
 |t_number-varialble|
 
        Vim: +v7.4.2071 -v7.4.2200 
+
+|t_object-variable|
+
+       Vim: +v9.0.1188 
 
 |t_op|
 
@@ -60841,6 +60849,10 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v7.4.2071 
 
+|v:t_class|
+
+       Vim: +v9.0.1188 
+
 |v:t_dict|
 
     Neovim: +v0.2.0 
@@ -60873,6 +60885,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.2.0 
        Vim: +v7.4.2071 
+
+|v:t_object|
+
+       Vim: +v9.0.1188 
 
 |v:t_string|
 
@@ -62083,6 +62099,10 @@ A listing of helptags with the versions they became available or were removed.
 |vim.diagnostic.hide()|
 
     Neovim: +v0.6.0 
+
+|vim.diagnostic.is_disabled()|
+
+    Neovim: +dev 
 
 |vim.diagnostic.match()|
 
