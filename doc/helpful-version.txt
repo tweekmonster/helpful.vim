@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2023-02-04 00:14:03 UTC
+*helpful-version.txt*  Generated: 2023-02-05 00:15:17 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -28202,10 +28202,118 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.5.0 -v0.8.0 
 
+|TSNode|
+
+    Neovim: +dev 
+
+|TSNode:child()|
+
+    Neovim: +dev 
+
+|TSNode:child_count()|
+
+    Neovim: +dev 
+
+|TSNode:descendant_for_range()|
+
+    Neovim: +dev 
+
+|TSNode:end_()|
+
+    Neovim: +dev 
+
+|TSNode:field()|
+
+    Neovim: +dev 
+
+|TSNode:has_error()|
+
+    Neovim: +dev 
+
+|TSNode:id()|
+
+    Neovim: +dev 
+
+|TSNode:iter_children()|
+
+    Neovim: +dev 
+
+|TSNode:missing()|
+
+    Neovim: +dev 
+
+|TSNode:named()|
+
+    Neovim: +dev 
+
+|TSNode:named_child()|
+
+    Neovim: +dev 
+
+|TSNode:named_child_count()|
+
+    Neovim: +dev 
+
+|TSNode:named_descendant_for_range()|
+
+    Neovim: +dev 
+
+|TSNode:next_named_sibling()|
+
+    Neovim: +dev 
+
+|TSNode:next_sibling()|
+
+    Neovim: +dev 
+
+|TSNode:parent()|
+
+    Neovim: +dev 
+
+|TSNode:prev_named_sibling()|
+
+    Neovim: +dev 
+
+|TSNode:prev_sibling()|
+
+    Neovim: +dev 
+
+|TSNode:range()|
+
+    Neovim: +dev 
+
+|TSNode:sexpr()|
+
+    Neovim: +dev 
+
+|TSNode:start()|
+
+    Neovim: +dev 
+
+|TSNode:symbol()|
+
+    Neovim: +dev 
+
+|TSNode:type()|
+
+    Neovim: +dev 
+
 |TSQL|
 
     Neovim: +v0.1.0 
        Vim: +v7.2a -v7.2a.00 
+
+|TSTree|
+
+    Neovim: +dev 
+
+|TSTree:copy()|
+
+    Neovim: +dev 
+
+|TSTree:root()|
+
+    Neovim: +dev 
 
 |TTpro-telnet|
 
@@ -58746,99 +58854,99 @@ A listing of helptags with the versions they became available or were removed.
 
 |tsnode|
 
-    Neovim: +v0.8.0 
+    Neovim: +v0.8.0 -dev 
 
 |tsnode:child()|
 
-    Neovim: +v0.5.0 
+    Neovim: +v0.5.0 -dev 
 
 |tsnode:child_count()|
 
-    Neovim: +v0.5.0 
+    Neovim: +v0.5.0 -dev 
 
 |tsnode:descendant_for_range()|
 
-    Neovim: +v0.5.0 
+    Neovim: +v0.5.0 -dev 
 
 |tsnode:end_()|
 
-    Neovim: +v0.5.0 
+    Neovim: +v0.5.0 -dev 
 
 |tsnode:field()|
 
-    Neovim: +v0.5.0 
+    Neovim: +v0.5.0 -dev 
 
 |tsnode:has_error()|
 
-    Neovim: +v0.5.0 
+    Neovim: +v0.5.0 -dev 
 
 |tsnode:id()|
 
-    Neovim: +v0.5.0 
+    Neovim: +v0.5.0 -dev 
 
 |tsnode:iter_children()|
 
-    Neovim: +v0.5.0 
+    Neovim: +v0.5.0 -dev 
 
 |tsnode:missing()|
 
-    Neovim: +v0.5.0 
+    Neovim: +v0.5.0 -dev 
 
 |tsnode:named()|
 
-    Neovim: +v0.5.0 
+    Neovim: +v0.5.0 -dev 
 
 |tsnode:named_child()|
 
-    Neovim: +v0.5.0 
+    Neovim: +v0.5.0 -dev 
 
 |tsnode:named_child_count()|
 
-    Neovim: +v0.5.0 
+    Neovim: +v0.5.0 -dev 
 
 |tsnode:named_descendant_for_range()|
 
-    Neovim: +v0.5.0 
+    Neovim: +v0.5.0 -dev 
 
 |tsnode:next_named_sibling()|
 
-    Neovim: +v0.6.0 
+    Neovim: +v0.6.0 -dev 
 
 |tsnode:next_sibling()|
 
-    Neovim: +v0.6.0 
+    Neovim: +v0.6.0 -dev 
 
 |tsnode:parent()|
 
-    Neovim: +v0.5.0 
+    Neovim: +v0.5.0 -dev 
 
 |tsnode:prev_named_sibling()|
 
-    Neovim: +v0.6.0 
+    Neovim: +v0.6.0 -dev 
 
 |tsnode:prev_sibling()|
 
-    Neovim: +v0.6.0 
+    Neovim: +v0.6.0 -dev 
 
 |tsnode:range()|
 
-    Neovim: +v0.5.0 
+    Neovim: +v0.5.0 -dev 
 
 |tsnode:sexpr()|
 
-    Neovim: +v0.5.0 
+    Neovim: +v0.5.0 -dev 
 
 |tsnode:start()|
 
-    Neovim: +v0.5.0 
+    Neovim: +v0.5.0 -dev 
 
 |tsnode:symbol()|
 
-    Neovim: +v0.5.0 
+    Neovim: +v0.5.0 -dev 
 
 |tsnode:type()|
 
-    Neovim: +v0.5.0 
+    Neovim: +v0.5.0 -dev 
 
 |tsparser:parse()|
 
@@ -58854,15 +58962,15 @@ A listing of helptags with the versions they became available or were removed.
 
 |tstree|
 
-    Neovim: +v0.8.0 
+    Neovim: +v0.8.0 -dev 
 
 |tstree:copy()|
 
-    Neovim: +v0.5.0 
+    Neovim: +v0.5.0 -dev 
 
 |tstree:root()|
 
-    Neovim: +v0.5.0 
+    Neovim: +v0.5.0 -dev 
 
 |tui|
 
@@ -65284,7 +65392,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |{{{|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.0.1275 
 
 |{}|
@@ -65299,7 +65407,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |}}}|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.0.1275 
 
 |~|
