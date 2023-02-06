@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2023-02-05 00:15:17 UTC
+*helpful-version.txt*  Generated: 2023-02-06 00:14:25 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -28204,99 +28204,99 @@ A listing of helptags with the versions they became available or were removed.
 
 |TSNode|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |TSNode:child()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |TSNode:child_count()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |TSNode:descendant_for_range()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |TSNode:end_()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |TSNode:field()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |TSNode:has_error()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |TSNode:id()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |TSNode:iter_children()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |TSNode:missing()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |TSNode:named()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |TSNode:named_child()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |TSNode:named_child_count()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |TSNode:named_descendant_for_range()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |TSNode:next_named_sibling()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |TSNode:next_sibling()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |TSNode:parent()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |TSNode:prev_named_sibling()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |TSNode:prev_sibling()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |TSNode:range()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |TSNode:sexpr()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |TSNode:start()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |TSNode:symbol()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |TSNode:type()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |TSQL|
 
@@ -28305,15 +28305,15 @@ A listing of helptags with the versions they became available or were removed.
 
 |TSTree|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |TSTree:copy()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |TSTree:root()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |TTpro-telnet|
 
@@ -58854,99 +58854,99 @@ A listing of helptags with the versions they became available or were removed.
 
 |tsnode|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |tsnode:child()|
 
-    Neovim: +v0.5.0 -dev 
+    Neovim: +v0.5.0 -nightly 
 
 |tsnode:child_count()|
 
-    Neovim: +v0.5.0 -dev 
+    Neovim: +v0.5.0 -nightly 
 
 |tsnode:descendant_for_range()|
 
-    Neovim: +v0.5.0 -dev 
+    Neovim: +v0.5.0 -nightly 
 
 |tsnode:end_()|
 
-    Neovim: +v0.5.0 -dev 
+    Neovim: +v0.5.0 -nightly 
 
 |tsnode:field()|
 
-    Neovim: +v0.5.0 -dev 
+    Neovim: +v0.5.0 -nightly 
 
 |tsnode:has_error()|
 
-    Neovim: +v0.5.0 -dev 
+    Neovim: +v0.5.0 -nightly 
 
 |tsnode:id()|
 
-    Neovim: +v0.5.0 -dev 
+    Neovim: +v0.5.0 -nightly 
 
 |tsnode:iter_children()|
 
-    Neovim: +v0.5.0 -dev 
+    Neovim: +v0.5.0 -nightly 
 
 |tsnode:missing()|
 
-    Neovim: +v0.5.0 -dev 
+    Neovim: +v0.5.0 -nightly 
 
 |tsnode:named()|
 
-    Neovim: +v0.5.0 -dev 
+    Neovim: +v0.5.0 -nightly 
 
 |tsnode:named_child()|
 
-    Neovim: +v0.5.0 -dev 
+    Neovim: +v0.5.0 -nightly 
 
 |tsnode:named_child_count()|
 
-    Neovim: +v0.5.0 -dev 
+    Neovim: +v0.5.0 -nightly 
 
 |tsnode:named_descendant_for_range()|
 
-    Neovim: +v0.5.0 -dev 
+    Neovim: +v0.5.0 -nightly 
 
 |tsnode:next_named_sibling()|
 
-    Neovim: +v0.6.0 -dev 
+    Neovim: +v0.6.0 -nightly 
 
 |tsnode:next_sibling()|
 
-    Neovim: +v0.6.0 -dev 
+    Neovim: +v0.6.0 -nightly 
 
 |tsnode:parent()|
 
-    Neovim: +v0.5.0 -dev 
+    Neovim: +v0.5.0 -nightly 
 
 |tsnode:prev_named_sibling()|
 
-    Neovim: +v0.6.0 -dev 
+    Neovim: +v0.6.0 -nightly 
 
 |tsnode:prev_sibling()|
 
-    Neovim: +v0.6.0 -dev 
+    Neovim: +v0.6.0 -nightly 
 
 |tsnode:range()|
 
-    Neovim: +v0.5.0 -dev 
+    Neovim: +v0.5.0 -nightly 
 
 |tsnode:sexpr()|
 
-    Neovim: +v0.5.0 -dev 
+    Neovim: +v0.5.0 -nightly 
 
 |tsnode:start()|
 
-    Neovim: +v0.5.0 -dev 
+    Neovim: +v0.5.0 -nightly 
 
 |tsnode:symbol()|
 
-    Neovim: +v0.5.0 -dev 
+    Neovim: +v0.5.0 -nightly 
 
 |tsnode:type()|
 
-    Neovim: +v0.5.0 -dev 
+    Neovim: +v0.5.0 -nightly 
 
 |tsparser:parse()|
 
@@ -58962,15 +58962,15 @@ A listing of helptags with the versions they became available or were removed.
 
 |tstree|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |tstree:copy()|
 
-    Neovim: +v0.5.0 -dev 
+    Neovim: +v0.5.0 -nightly 
 
 |tstree:root()|
 
-    Neovim: +v0.5.0 -dev 
+    Neovim: +v0.5.0 -nightly 
 
 |tui|
 
