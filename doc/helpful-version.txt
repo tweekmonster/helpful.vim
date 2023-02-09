@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2023-02-06 00:14:25 UTC
+*helpful-version.txt*  Generated: 2023-02-09 00:15:42 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -59677,6 +59677,10 @@ A listing of helptags with the versions they became available or were removed.
 |uv.disable_stdio_inheritance()|
 
     Neovim: +v0.8.0 
+
+|uv.errno|
+
+    Neovim: +dev 
 
 |uv.exepath()|
 
