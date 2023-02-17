@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2023-02-10 00:15:01 UTC
+*helpful-version.txt*  Generated: 2023-02-17 00:15:53 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -55,6 +55,10 @@ A listing of helptags with the versions they became available or were removed.
 |$NVIM|
 
     Neovim: +v0.8.0 
+
+|$NVIM_APPNAME|
+
+    Neovim: +dev 
 
 |$NVIM_LISTEN_ADDRESS|
 
@@ -30744,32 +30748,32 @@ A listing of helptags with the versions they became available or were removed.
 
 |beval_bufnr-variable|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0057 
 
 |beval_col-variable|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0057 
 
 |beval_lnum-variable|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0057 
 
 |beval_text-variable|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0057 
 
 |beval_winid-variable|
 
-    Neovim: +v0.1.7 
+    Neovim: +v0.1.7 -dev 
        Vim: +v7.4.1894 
 
 |beval_winnr-variable|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0057 
 
 |binary-number|
@@ -60583,32 +60587,32 @@ A listing of helptags with the versions they became available or were removed.
 
 |v:beval_bufnr|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0057 
 
 |v:beval_col|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0057 
 
 |v:beval_lnum|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0057 
 
 |v:beval_text|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0057 
 
 |v:beval_winid|
 
-    Neovim: +v0.1.7 
+    Neovim: +v0.1.7 -dev 
        Vim: +v7.4.1894 
 
 |v:beval_winnr|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0057 
 
 |v:char|
