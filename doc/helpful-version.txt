@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2023-02-18 00:14:28 UTC
+*helpful-version.txt*  Generated: 2023-02-21 00:14:51 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -2881,6 +2881,14 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|'nocdh'|
+
+       Vim: +dev 
+
+|'nocdhome'|
+
+       Vim: +dev 
+
 |'nocf'|
 
     Neovim: +v0.1.0 
@@ -3421,6 +3429,14 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|'nomousemev'|
+
+       Vim: +dev 
+
+|'nomousemoveevent'|
+
+       Vim: +dev 
+
 |'nonu'|
 
     Neovim: +v0.1.0 
@@ -3788,6 +3804,7 @@ A listing of helptags with the versions they became available or were removed.
 |'notermguicolors'|
 
     Neovim: +v0.7.0 
+       Vim: +dev 
 
 |'noterse'|
 
@@ -3810,6 +3827,7 @@ A listing of helptags with the versions they became available or were removed.
 |'notgc'|
 
     Neovim: +v0.7.0 
+       Vim: +dev 
 
 |'notgst'|
 
@@ -22094,6 +22112,14 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|E1360|
+
+       Vim: +dev 
+
+|E1361|
+
+       Vim: +dev 
 
 |E137|
 
