@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2023-02-21 00:14:51 UTC
+*helpful-version.txt*  Generated: 2023-02-22 00:14:24 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -2883,11 +2883,13 @@ A listing of helptags with the versions they became available or were removed.
 
 |'nocdh'|
 
-       Vim: +dev 
+    Neovim: +dev 
+       Vim: +v9.0.1334 
 
 |'nocdhome'|
 
-       Vim: +dev 
+    Neovim: +dev 
+       Vim: +v9.0.1334 
 
 |'nocf'|
 
@@ -3431,11 +3433,13 @@ A listing of helptags with the versions they became available or were removed.
 
 |'nomousemev'|
 
-       Vim: +dev 
+    Neovim: +dev 
+       Vim: +v9.0.1334 
 
 |'nomousemoveevent'|
 
-       Vim: +dev 
+    Neovim: +dev 
+       Vim: +v9.0.1334 
 
 |'nonu'|
 
@@ -3804,7 +3808,7 @@ A listing of helptags with the versions they became available or were removed.
 |'notermguicolors'|
 
     Neovim: +v0.7.0 
-       Vim: +dev 
+       Vim: +v9.0.1334 
 
 |'noterse'|
 
@@ -3827,7 +3831,7 @@ A listing of helptags with the versions they became available or were removed.
 |'notgc'|
 
     Neovim: +v0.7.0 
-       Vim: +dev 
+       Vim: +v9.0.1334 
 
 |'notgst'|
 
@@ -14405,6 +14409,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |:map-meta-keys|
 
+    Neovim: +dev 
        Vim: +v9.0.1276 
 
 |:map-modes|
@@ -22115,11 +22120,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |E1360|
 
-       Vim: +dev 
+       Vim: +v9.0.1334 
 
 |E1361|
 
-       Vim: +dev 
+       Vim: +v9.0.1334 
 
 |E137|
 
@@ -23835,6 +23840,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |E451|
 
+    Neovim: +dev 
        Vim: +v8.2.4047 -v7.4.1425 
 
 |E452|
@@ -63353,13 +63359,25 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +nightly 
 
+|vim.treesitter.language.add()|
+
+    Neovim: +dev 
+
+|vim.treesitter.language.get_lang()|
+
+    Neovim: +dev 
+
 |vim.treesitter.language.inspect_language()|
 
     Neovim: +nightly 
 
+|vim.treesitter.language.register()|
+
+    Neovim: +dev 
+
 |vim.treesitter.language.require_language()|
 
-    Neovim: +nightly 
+    Neovim: +nightly -dev 
 
 |vim.treesitter.language_version|
 
