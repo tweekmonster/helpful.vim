@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2023-02-24 00:14:30 UTC
+*helpful-version.txt*  Generated: 2023-02-25 00:15:02 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -36087,6 +36087,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |flattennew()|
 
+    Neovim: +dev 
        Vim: +v8.2.2449 
 
 |flexwiki.vim|
@@ -63349,7 +63350,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.treesitter.foldexpr()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.treesitter.get_captures_at_cursor()|
 
