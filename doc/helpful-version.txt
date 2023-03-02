@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2023-03-01 00:17:17 UTC
+*helpful-version.txt*  Generated: 2023-03-02 00:15:30 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -3195,22 +3195,22 @@ A listing of helptags with the versions they became available or were removed.
 
 |'nohk'|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |'nohkmap'|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |'nohkmapp'|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |'nohkp'|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |'nohls'|
@@ -12462,7 +12462,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |:dis|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.0.1362 
 
 |:disa|
@@ -19450,7 +19450,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |Aleph|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |Amiga|
@@ -21562,7 +21562,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |E1239|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.2.3438 
 
 |E124|
@@ -29859,7 +29859,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |aleph|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |alloc_fail()|
@@ -30859,7 +30859,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |blob-functions|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.2.3438 
 
 |blob-identity|
@@ -30884,7 +30884,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |blob2list()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.2.3438 
 
 |blockwise-examples|
@@ -41788,7 +41788,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |hl-lCursor|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.0.1362 
 
 |hlID()|
@@ -44032,7 +44032,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |list2blob()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.2.3438 
 
 |list2str()|
