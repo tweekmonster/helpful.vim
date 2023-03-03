@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2023-03-02 00:15:30 UTC
+*helpful-version.txt*  Generated: 2023-03-03 01:54:47 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -10617,6 +10617,10 @@ A listing of helptags with the versions they became available or were removed.
 |:Inspect!|
 
     Neovim: +nightly 
+
+|:InspectTree|
+
+    Neovim: +dev 
 
 |:LP|
 
@@ -63432,6 +63436,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +nightly 
 
+|vim.treesitter.inspect_tree()|
+
+    Neovim: +dev 
+
 |vim.treesitter.is_ancestor()|
 
     Neovim: +nightly 
@@ -63514,7 +63522,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.treesitter.show_tree()|
 
-    Neovim: +nightly 
+    Neovim: +nightly -dev 
 
 |vim.treesitter.start()|
 
