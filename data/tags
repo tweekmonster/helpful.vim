@@ -12541,7 +12541,7 @@ treesitter-highlight-priorityneovim:v0.8.0,
 treesitter-highlight-spellneovim:v0.8.0,
 treesitter-highlighterneovim:v0.5.0,v0.8.0
 treesitter-languageneovim:v0.5.0,v0.8.0
-treesitter-languagetreeneovim:v0.5.0,
+treesitter-languagetreeneovim:v0.5.0,dev
 treesitter-nodeneovim:v0.8.0,
 treesitter-parsersneovim:v0.5.0,
 treesitter-predicate-any-of?neovim:v0.8.0,
