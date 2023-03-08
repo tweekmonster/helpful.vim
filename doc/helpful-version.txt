@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2023-03-07 00:15:45 UTC
+*helpful-version.txt*  Generated: 2023-03-08 00:15:15 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -27370,7 +27370,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |LspTokenUpdate|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |Lua|
 
@@ -44425,7 +44425,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |lsp-semantic-highlight|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lsp-semantic_tokens|
 
@@ -44785,7 +44785,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |lua-version|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-vim|
 
@@ -46982,6 +46982,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |maxcol-variable|
 
+    Neovim: +dev 
        Vim: +v8.2.3969 
 
 |mbyte-IME|
@@ -60925,6 +60926,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |v:maxcol|
 
+    Neovim: +dev 
        Vim: +v8.2.3969 
 
 |v:mouse_col|
@@ -63001,7 +63003,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.lsp.semantic_tokens.highlight_token()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.semantic_tokens.start()|
 
@@ -63217,7 +63219,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.lua_omnifunc()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.make_dict_accessor()|
 
@@ -63619,23 +63621,23 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.version.cmp()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.version.eq()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.version.gt()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.version.lt()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.version.parse()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.vim|
 
