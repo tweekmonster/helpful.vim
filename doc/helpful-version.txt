@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2023-03-09 00:15:14 UTC
+*helpful-version.txt*  Generated: 2023-03-10 00:15:14 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -24440,6 +24440,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.8.0 
 
+|E5431|
+
+    Neovim: +dev 
+
 |E544|
 
     Neovim: +v0.1.0 
@@ -41123,6 +41127,14 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|hl-FloatBorder|
+
+    Neovim: +dev 
+
+|hl-FloatTitle|
+
+    Neovim: +dev 
+
 |hl-FoldColumn|
 
     Neovim: +v0.1.0 
@@ -44169,6 +44181,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0187 
+
+|log|
+
+    Neovim: +dev 
 
 |log()|
 
@@ -57838,6 +57854,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|tempdir|
+
+    Neovim: +dev 
+
 |tempfile|
 
     Neovim: +v0.1.0 
@@ -58814,7 +58834,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |treesitter-language-injections|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |treesitter-languagetree|
 
