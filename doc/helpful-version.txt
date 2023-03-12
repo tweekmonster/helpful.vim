@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2023-03-11 00:13:41 UTC
+*helpful-version.txt*  Generated: 2023-03-12 00:15:19 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -39716,6 +39716,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |getscriptinfo()|
 
+    Neovim: +nightly 
        Vim: +v9.0.0244 
 
 |gettabinfo()|
@@ -41599,18 +41600,22 @@ A listing of helptags with the versions they became available or were removed.
 
 |hl-PmenuExtra|
 
+    Neovim: +nightly 
        Vim: +v9.0.1397 
 
 |hl-PmenuExtraSel|
 
+    Neovim: +nightly 
        Vim: +v9.0.1397 
 
 |hl-PmenuKind|
 
+    Neovim: +nightly 
        Vim: +v9.0.1397 
 
 |hl-PmenuKindSel|
 
+    Neovim: +nightly 
        Vim: +v9.0.1397 
 
 |hl-PmenuSbar|
@@ -53078,6 +53083,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |register-functions|
 
+    Neovim: +nightly 
        Vim: +v9.0.0244 
 
 |register-variable|
@@ -63517,6 +63523,10 @@ A listing of helptags with the versions they became available or were removed.
 |vim.treesitter.get_query_files()|
 
     Neovim: +nightly 
+
+|vim.treesitter.get_range()|
+
+    Neovim: +dev 
 
 |vim.treesitter.get_string_parser()|
 
