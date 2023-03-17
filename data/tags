@@ -13591,7 +13591,7 @@ vim.pretty_print()neovim:v0.7.0,
 vim.print()neovim:nightly,
 vim.regex()neovim:v0.5.0,
 vim.region()neovim:v0.5.0,
-vim.register_keystroke_callback()neovim:v0.5.0,dev
+vim.register_keystroke_callback()neovim:v0.5.0,nightly
 vim.rpcnotify()neovim:v0.5.0,
 vim.rpcrequest()neovim:v0.5.0,
 vim.schedule()neovim:v0.4.0,
