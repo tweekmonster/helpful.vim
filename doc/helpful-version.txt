@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2023-03-17 00:14:25 UTC
+*helpful-version.txt*  Generated: 2023-03-21 00:13:51 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -62066,6 +62066,10 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v8.2.4477 
 
+|version-range|
+
+    Neovim: +dev 
+
 |version-variable|
 
     Neovim: +v0.1.0 
@@ -62485,6 +62489,10 @@ A listing of helptags with the versions they became available or were removed.
 |vim.filetype.add()|
 
     Neovim: +v0.7.0 
+
+|vim.filetype.get_option()|
+
+    Neovim: +dev 
 
 |vim.filetype.match()|
 
@@ -63671,7 +63679,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.version|
 
-    Neovim: +v0.5.0 
+    Neovim: +v0.5.0 -dev 
+
+|vim.version()|
+
+    Neovim: +dev 
 
 |vim.version.cmp()|
 
@@ -63685,6 +63697,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +nightly 
 
+|vim.version.last()|
+
+    Neovim: +dev 
+
 |vim.version.lt()|
 
     Neovim: +nightly 
@@ -63692,6 +63708,10 @@ A listing of helptags with the versions they became available or were removed.
 |vim.version.parse()|
 
     Neovim: +nightly 
+
+|vim.version.range()|
+
+    Neovim: +dev 
 
 |vim.vim|
 
