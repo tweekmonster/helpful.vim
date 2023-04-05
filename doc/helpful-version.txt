@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2023-04-01 00:14:59 UTC
+*helpful-version.txt*  Generated: 2023-04-05 00:12:53 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -44800,6 +44800,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.5.0 -v0.8.0 
 
+|lua-treesitter-playground|
+
+    Neovim: +dev 
+
 |lua-treesitter-predicates|
 
     Neovim: +v0.5.0 -v0.8.0 
@@ -63603,6 +63607,10 @@ A listing of helptags with the versions they became available or were removed.
 |vim.treesitter.node_contains()|
 
     Neovim: +nightly 
+
+|vim.treesitter.playground.inspect_tree()|
+
+    Neovim: +dev 
 
 |vim.treesitter.query.add_directive()|
 
