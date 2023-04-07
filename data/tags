@@ -13660,7 +13660,7 @@ vim.treesitter.query.add_directive()neovim:nightly,v0.8.0
 vim.treesitter.query.add_predicate()neovim:nightly,v0.8.0
 vim.treesitter.query.get()neovim:nightly,
 vim.treesitter.query.get_files()neovim:nightly,
-vim.treesitter.query.get_query()neovim:dev,
+vim.treesitter.query.get_query()neovim:nightly,
 vim.treesitter.query.list_directives()neovim:nightly,v0.8.0
 vim.treesitter.query.list_predicates()neovim:nightly,v0.8.0
 vim.treesitter.query.parse()neovim:nightly,
