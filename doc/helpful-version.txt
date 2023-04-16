@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2023-04-15 00:14:01 UTC
+*helpful-version.txt*  Generated: 2023-04-16 00:14:40 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -112,6 +112,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |$quote|
 
+    Neovim: +dev 
        Vim: +v8.2.5055 
 
 |%|
@@ -19392,7 +19393,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |??|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.2.1831 
 
 |@|
@@ -21137,7 +21138,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |E1145|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.2.4258 
 
 |E1146|
@@ -21753,6 +21754,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |E1278|
 
+    Neovim: +dev 
        Vim: +v8.2.4945 
 
 |E1279|
@@ -35443,10 +35445,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |expr-$'|
 
+    Neovim: +dev 
        Vim: +v8.2.4883 
 
 |expr-$quote|
 
+    Neovim: +dev 
        Vim: +v8.2.4883 
 
 |expr-%|
@@ -35841,12 +35845,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |falsy|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.2.1794 
 
 |falsy-operator|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.2.1794 
 
 |faq|
@@ -43154,6 +43158,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |interpolated-string|
 
+    Neovim: +dev 
        Vim: +v9.0.0934 
 
 |interrupt()|
@@ -59013,7 +59018,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |truthy|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.2.1794 
 
 |try-conditionals|
@@ -62596,6 +62601,18 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.8.0 
 
+|vim.health.error()|
+
+    Neovim: +dev 
+
+|vim.health.info()|
+
+    Neovim: +dev 
+
+|vim.health.ok()|
+
+    Neovim: +dev 
+
 |vim.health.report_error()|
 
     Neovim: +v0.8.0 
@@ -62615,6 +62632,14 @@ A listing of helptags with the versions they became available or were removed.
 |vim.health.report_warn()|
 
     Neovim: +v0.8.0 
+
+|vim.health.start()|
+
+    Neovim: +dev 
+
+|vim.health.warn()|
+
+    Neovim: +dev 
 
 |vim.highlight.on_yank()|
 
@@ -62678,7 +62703,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.list_contains()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.list_extend()|
 
@@ -63531,7 +63556,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.tbl_isarray()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.tbl_isempty()|
 
