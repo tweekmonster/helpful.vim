@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2023-04-17 00:13:42 UTC
+*helpful-version.txt*  Generated: 2023-04-18 00:13:14 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -12323,7 +12323,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |:defer|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.0.0370 
 
 |:del|
@@ -21870,7 +21870,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |E1300|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.0.0437 
 
 |E1301|
@@ -27205,6 +27205,90 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.5.0 
        Vim: +v8.1.2403 
+
+|Iter:all()|
+
+    Neovim: +dev 
+
+|Iter:any()|
+
+    Neovim: +dev 
+
+|Iter:each()|
+
+    Neovim: +dev 
+
+|Iter:enumerate()|
+
+    Neovim: +dev 
+
+|Iter:filter()|
+
+    Neovim: +dev 
+
+|Iter:find()|
+
+    Neovim: +dev 
+
+|Iter:fold()|
+
+    Neovim: +dev 
+
+|Iter:last()|
+
+    Neovim: +dev 
+
+|Iter:map()|
+
+    Neovim: +dev 
+
+|Iter:next()|
+
+    Neovim: +dev 
+
+|Iter:nextback()|
+
+    Neovim: +dev 
+
+|Iter:nth()|
+
+    Neovim: +dev 
+
+|Iter:nthback()|
+
+    Neovim: +dev 
+
+|Iter:peek()|
+
+    Neovim: +dev 
+
+|Iter:peekback()|
+
+    Neovim: +dev 
+
+|Iter:rev()|
+
+    Neovim: +dev 
+
+|Iter:rfind()|
+
+    Neovim: +dev 
+
+|Iter:skip()|
+
+    Neovim: +dev 
+
+|Iter:skipback()|
+
+    Neovim: +dev 
+
+|Iter:slice()|
+
+    Neovim: +dev 
+
+|Iter:totable()|
+
+    Neovim: +dev 
 
 |J|
 
@@ -44684,6 +44768,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.4.0 
 
+|lua-iter|
+
+    Neovim: +dev 
+
 |lua-json|
 
     Neovim: +v0.9.0 
@@ -49115,6 +49203,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|new()|
+
+    Neovim: +dev 
+
 |new-5|
 
        Vim: +v7.0001 
@@ -49558,6 +49650,10 @@ A listing of helptags with the versions they became available or were removed.
 |news.txt|
 
     Neovim: +v0.9.0 
+
+|next()|
+
+    Neovim: +dev 
 
 |nextnonblank()|
 
@@ -62560,6 +62656,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.7.0 
 
+|vim.filter()|
+
+    Neovim: +dev 
+
 |vim.fn|
 
     Neovim: +v0.5.0 
@@ -62684,6 +62784,10 @@ A listing of helptags with the versions they became available or were removed.
 |vim.is_valid()|
 
     Neovim: +v0.5.0 -v0.6.0 
+
+|vim.iter()|
+
+    Neovim: +dev 
 
 |vim.json|
 
@@ -63381,6 +63485,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.5.0 -v0.6.0 
 
+|vim.map()|
+
+    Neovim: +dev 
+
 |vim.mpack|
 
     Neovim: +v0.6.0 
@@ -63581,6 +63689,10 @@ A listing of helptags with the versions they became available or were removed.
 |vim.tbl_values()|
 
     Neovim: +v0.5.0 
+
+|vim.totable()|
+
+    Neovim: +dev 
 
 |vim.treesitter.foldexpr()|
 
