@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2023-04-20 00:13:08 UTC
+*helpful-version.txt*  Generated: 2023-04-23 00:15:00 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -18013,6 +18013,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|:wi|
+
+       Vim: +v9.0.1479 
+
 |:win|
 
     Neovim: +v0.1.0 
@@ -22151,6 +22155,14 @@ A listing of helptags with the versions they became available or were removed.
 |E1362|
 
        Vim: +v9.0.1362 
+
+|E1363|
+
+       Vim: +v9.0.1479 
+
+|E1364|
+
+       Vim: +v9.0.1479 
 
 |E137|
 
@@ -38668,12 +38680,12 @@ A listing of helptags with the versions they became available or were removed.
 |g:netrw_localrmdir|
 
     Neovim: +v0.1.0 
-       Vim: +v7.3.493 
+       Vim: +v7.3.493 -v9.0.1479 
 
 |g:netrw_localrmdiropt|
 
     Neovim: +v0.4.0 -v0.2.2 
-       Vim: +v8.0.1270 
+       Vim: +v8.0.1270 -v9.0.1479 
 
 |g:netrw_longlist|
 
