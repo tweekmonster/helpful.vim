@@ -3696,7 +3696,7 @@ $quoteneovim:nightly,vim:v8.2.5055,
 :wallneovim:v0.1.0,vim:v7.0001,
 :whneovim:v0.1.0,vim:v7.0001,
 :whileneovim:v0.1.0,vim:v7.0001,
-:wivim:v9.0.1479,
+:wineovim:dev,vim:v9.0.1479,
 :winneovim:v0.1.0,vim:v7.0001,
 :wincneovim:v0.1.0,vim:v7.0001,
 :wincmdneovim:v0.1.0,vim:v7.0001,
@@ -4601,7 +4601,7 @@ E1360vim:v9.0.1334,
 E1361vim:v9.0.1334,
 E1362vim:v9.0.1362,
 E1363vim:v9.0.1479,
-E1364vim:v9.0.1479,
+E1364neovim:dev,vim:v9.0.1479,
 E137neovim:v0.1.0,vim:v7.0001,
 E138neovim:v0.1.0,v0.2.0vim:v7.0001,
 E139neovim:v0.1.0,vim:v7.0001,
@@ -8084,8 +8084,8 @@ g:netrw_localmkdirneovim:v0.1.0,vim:v7.3.493,
 g:netrw_localmkdiroptneovim:v0.4.0,v0.2.2vim:v8.0.1270,
 g:netrw_localmovecmdneovim:v0.1.0,vim:v7.2a,
 g:netrw_localmovecmdoptneovim:v0.4.0,v0.2.2vim:v8.0.1270,
-g:netrw_localrmdirneovim:v0.1.0,vim:v7.3.493,v9.0.1479
-g:netrw_localrmdiroptneovim:v0.4.0,v0.2.2vim:v8.0.1270,v9.0.1479
+g:netrw_localrmdirneovim:v0.1.0,devvim:v7.3.493,v9.0.1479
+g:netrw_localrmdiroptneovim:v0.4.0,devvim:v8.0.1270,v9.0.1479
 g:netrw_longlistvim:v7.0129,v7.1a
 g:netrw_maxfilenamelenneovim:v0.1.0,vim:v7.0129,
 g:netrw_menuneovim:v0.1.0,vim:v7.1a,
