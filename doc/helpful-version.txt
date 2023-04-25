@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2023-04-24 00:14:08 UTC
+*helpful-version.txt*  Generated: 2023-04-25 00:13:21 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -18015,7 +18015,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |:wi|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.0.1479 
 
 |:win|
@@ -22163,7 +22163,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |E1364|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.0.1479 
 
 |E137|
@@ -38681,12 +38681,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |g:netrw_localrmdir|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.3.493 -v9.0.1479 
 
 |g:netrw_localrmdiropt|
 
-    Neovim: +v0.4.0 -dev 
+    Neovim: +v0.4.0 -nightly 
        Vim: +v8.0.1270 -v9.0.1479 
 
 |g:netrw_longlist|
@@ -56096,6 +56096,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|string-offset-encoding|
+
+       Vim: +v9.0.1485 
+
 |string.byte()|
 
     Neovim: +v0.8.0 
@@ -56200,6 +56204,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|strutf16len()|
+
+       Vim: +v9.0.1485 
 
 |strwidth()|
 
@@ -59961,6 +59969,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|utf16idx()|
+
+       Vim: +v9.0.1485 
 
 |utf8|
 
