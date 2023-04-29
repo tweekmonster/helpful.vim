@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2023-04-28 00:14:09 UTC
+*helpful-version.txt*  Generated: 2023-04-29 00:12:43 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -44513,11 +44513,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |lsp-extension-example|
 
-    Neovim: +v0.5.0 -dev 
+    Neovim: +v0.5.0 -nightly 
 
 |lsp-extension.txt|
 
-    Neovim: +v0.5.0 -dev 
+    Neovim: +v0.5.0 -nightly 
 
 |lsp-faq|
 
@@ -44820,7 +44820,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |lua-lpeg|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-luaeval|
 
@@ -62893,7 +62893,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.lpeg|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.buf.add_workspace_folder()|
 
@@ -63609,7 +63609,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.re|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.regex()|
 
