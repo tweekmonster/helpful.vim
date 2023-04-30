@@ -7811,6 +7811,7 @@ ft-python-pluginneovim:v0.2.0,vim:v7.4.2363,
 ft-python-syntaxneovim:v0.1.0,vim:v7.0139,
 ft-qf-pluginneovim:v0.4.0,vim:v8.1.1715,
 ft-quake-syntaxneovim:v0.1.0,vim:v7.0139,
+ft-query-pluginneovim:dev,
 ft-r-indentneovim:v0.1.0,vim:v7.3.313,
 ft-r-syntaxneovim:v0.3.2,vim:v8.1.0332,
 ft-readline-syntaxneovim:v0.1.0,vim:v7.0139,
@@ -13712,6 +13713,7 @@ vim.treesitter.query.add_predicate()neovim:v0.9.0,v0.8.0
 vim.treesitter.query.get()neovim:v0.9.0,
 vim.treesitter.query.get_files()neovim:v0.9.0,
 vim.treesitter.query.get_query()neovim:v0.9.0,
+vim.treesitter.query.lint()neovim:dev,
 vim.treesitter.query.list_directives()neovim:v0.9.0,v0.8.0
 vim.treesitter.query.list_predicates()neovim:v0.9.0,v0.8.0
 vim.treesitter.query.parse()neovim:v0.9.0,
