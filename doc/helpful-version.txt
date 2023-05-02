@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2023-05-01 00:14:43 UTC
+*helpful-version.txt*  Generated: 2023-05-02 00:13:42 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -44601,7 +44601,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |lsp-sync|
 
-    Neovim: +v0.6.0 
+    Neovim: +v0.6.0 -dev 
 
 |lsp-util|
 
@@ -63345,7 +63345,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.lsp.sync.compute_diff()|
 
-    Neovim: +v0.6.0 
+    Neovim: +v0.6.0 -dev 
 
 |vim.lsp.tagfunc()|
 
@@ -63874,7 +63874,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.treesitter.query.omnifunc()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.treesitter.query.parse()|
 
