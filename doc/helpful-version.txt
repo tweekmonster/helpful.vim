@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2023-05-02 00:13:42 UTC
+*helpful-version.txt*  Generated: 2023-05-03 00:13:26 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -3688,10 +3688,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |'nosmoothscroll'|
 
+    Neovim: +dev 
        Vim: +v9.0.0640 
 
 |'nosms'|
 
+    Neovim: +dev 
        Vim: +v9.0.0640 
 
 |'nosn'|
@@ -4883,10 +4885,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |'smoothscroll'|
 
+    Neovim: +dev 
        Vim: +v9.0.0640 
 
 |'sms'|
 
+    Neovim: +dev 
        Vim: +v9.0.0640 
 
 |'sn'|
@@ -44601,7 +44605,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |lsp-sync|
 
-    Neovim: +v0.6.0 -dev 
+    Neovim: +v0.6.0 -nightly 
 
 |lsp-util|
 
@@ -63345,7 +63349,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.lsp.sync.compute_diff()|
 
-    Neovim: +v0.6.0 -dev 
+    Neovim: +v0.6.0 -nightly 
 
 |vim.lsp.tagfunc()|
 
