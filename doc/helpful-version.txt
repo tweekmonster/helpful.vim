@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2023-05-03 00:13:26 UTC
+*helpful-version.txt*  Generated: 2023-05-04 00:13:17 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -3688,12 +3688,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |'nosmoothscroll'|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.0.0640 
 
 |'nosms'|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.0.0640 
 
 |'nosn'|
@@ -4885,12 +4885,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |'smoothscroll'|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.0.0640 
 
 |'sms'|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.0.0640 
 
 |'sn'|
