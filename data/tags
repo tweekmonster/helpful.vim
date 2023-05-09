@@ -4348,7 +4348,7 @@ E1132vim:v8.2.4258,
 E1133vim:v8.2.4258,
 E1134vim:v8.2.4258,
 E1135vim:v8.2.4258,v8.2.3918
-E1136neovim:dev,vim:v8.2.1978,
+E1136neovim:nightly,vim:v8.2.1978,
 E1137vim:v8.2.1978,v9.0.1516
 E1138vim:v8.2.4258,
 E1139vim:v8.2.4258,
@@ -4480,7 +4480,7 @@ E1251vim:v8.2.4296,
 E1252vim:v8.2.4296,
 E1253vim:v8.2.4296,v9.0.1403
 E1254vim:v8.2.4296,
-E1255neovim:dev,vim:v8.2.3918,
+E1255neovim:nightly,vim:v8.2.3918,
 E1256vim:v8.2.4296,
 E1257vim:v8.2.4296,
 E1258vim:v8.2.4296,
@@ -5083,7 +5083,7 @@ E55neovim:v0.1.0,vim:v7.0001,
 E550neovim:v0.1.0,v0.9.0vim:v7.0001,
 E551neovim:v0.1.0,v0.9.0vim:v7.0001,
 E552neovim:v0.1.0,v0.9.0vim:v7.0001,
-E5520neovim:v0.3.0,dev
+E5520neovim:v0.3.0,nightly
 E553neovim:v0.1.0,vim:v7.0001,
 E554neovim:v0.1.0,vim:v7.0001,
 E555neovim:v0.1.0,vim:v7.0001,
