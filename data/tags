@@ -5207,7 +5207,7 @@ E655neovim:v0.1.0,vim:v7.0001,
 E656vim:v7.0001,
 E657vim:v7.0001,
 E658vim:v7.0001,
-E659neovim:v0.1.0,vim:v7.0001,
+E659neovim:v0.1.0,devvim:v7.0001,
 E66neovim:v0.1.0,vim:v7.0001,
 E660vim:v7.0001,
 E661neovim:v0.1.0,vim:v7.0001,
@@ -8087,7 +8087,7 @@ g:netrw_localmkdirneovim:v0.1.0,vim:v7.3.493,
 g:netrw_localmkdiroptneovim:v0.4.0,v0.2.2vim:v8.0.1270,
 g:netrw_localmovecmdneovim:v0.1.0,vim:v7.2a,
 g:netrw_localmovecmdoptneovim:v0.4.0,v0.2.2vim:v8.0.1270,
-g:netrw_localrmdirneovim:v0.1.0,nightlyvim:v7.3.493,v9.0.1479
+g:netrw_localrmdirneovim:v0.1.0,nightlyvim:v9.0.1556,v9.0.1479
 g:netrw_localrmdiroptneovim:v0.4.0,nightlyvim:v8.0.1270,v9.0.1479
 g:netrw_longlistvim:v7.0129,v7.1a
 g:netrw_maxfilenamelenneovim:v0.1.0,vim:v7.0129,
@@ -9384,7 +9384,7 @@ lua-call-functionneovim:v0.9.0,
 lua-commandsneovim:v0.2.1,vim:v7.3,
 lua-compatneovim:v0.9.0,
 lua-conceptsneovim:v0.9.0,
-lua-dictneovim:dev,vim:v7.3.490,
+lua-dictneovim:nightly,vim:v7.3.490,
 lua-diffneovim:v0.6.0,
 lua-dynamicvim:v7.4.907,
 lua-evalneovim:v0.2.1,vim:v7.3.601,
@@ -9419,7 +9419,7 @@ lua-introneovim:v0.4.0,
 lua-iterneovim:nightly,
 lua-jsonneovim:v0.9.0,
 lua-keymapneovim:v0.7.0,
-lua-listneovim:dev,vim:v7.3.490,
+lua-listneovim:nightly,vim:v7.3.490,
 lua-loaderneovim:v0.9.0,
 lua-loopneovim:v0.4.0,
 lua-loop-callbacksneovim:v0.4.0,
@@ -9441,7 +9441,7 @@ lua-stdlibneovim:v0.4.0,
 lua-syntaxvim:v7.0001,v7.0139
 lua-syntax-call-functionneovim:v0.5.0,v0.9.0
 lua-syntax-helpneovim:v0.5.0,v0.9.0
-lua-tableneovim:dev,
+lua-tableneovim:nightly,
 lua-treesitterneovim:v0.5.0,
 lua-treesitter-coreneovim:v0.5.0,
 lua-treesitter-directivesneovim:v0.5.0,v0.8.0
@@ -13498,7 +13498,7 @@ vim.lsp.buf.range_formatting()neovim:v0.5.0,
 vim.lsp.buf.references()neovim:v0.5.0,
 vim.lsp.buf.remove_workspace_folder()neovim:v0.5.0,
 vim.lsp.buf.rename()neovim:v0.5.0,
-vim.lsp.buf.server_ready()neovim:v0.5.0,dev
+vim.lsp.buf.server_ready()neovim:v0.5.0,nightly
 vim.lsp.buf.signature_help()neovim:v0.5.0,
 vim.lsp.buf.type_definition()neovim:v0.5.0,
 vim.lsp.buf.workspace_symbol()neovim:v0.5.0,
