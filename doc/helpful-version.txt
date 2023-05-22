@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2023-05-21 00:14:44 UTC
+*helpful-version.txt*  Generated: 2023-05-22 00:14:14 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -60051,6 +60051,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.8.0 
 
+|uv.clock_gettime()|
+
+    Neovim: +dev 
+
 |uv.close()|
 
     Neovim: +v0.8.0 
@@ -60058,6 +60062,10 @@ A listing of helptags with the versions they became available or were removed.
 |uv.cpu_info()|
 
     Neovim: +v0.8.0 
+
+|uv.cpumask_size()|
+
+    Neovim: +dev 
 
 |uv.cwd()|
 
@@ -60251,6 +60259,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.8.0 
 
+|uv.get_available_memory()|
+
+    Neovim: +dev 
+
 |uv.get_constrained_memory()|
 
     Neovim: +v0.8.0 
@@ -60378,6 +60390,10 @@ A listing of helptags with the versions they became available or were removed.
 |uv.metrics_idle_time()|
 
     Neovim: +v0.8.0 
+
+|uv.metrics_info()|
+
+    Neovim: +dev 
 
 |uv.new_async()|
 
@@ -60711,6 +60727,14 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.8.0 
 
+|uv.thread_getaffinity()|
+
+    Neovim: +dev 
+
+|uv.thread_getcpu()|
+
+    Neovim: +dev 
+
 |uv.thread_join()|
 
     Neovim: +v0.8.0 
@@ -60718,6 +60742,10 @@ A listing of helptags with the versions they became available or were removed.
 |uv.thread_self()|
 
     Neovim: +v0.8.0 
+
+|uv.thread_setaffinity()|
+
+    Neovim: +dev 
 
 |uv.timer_again()|
 
@@ -62737,7 +62765,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.fs.joinpath()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.fs.normalize()|
 
