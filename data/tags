@@ -4826,7 +4826,7 @@ E337neovim:v0.1.0,vim:v7.0001,
 E338neovim:v0.1.0,vim:v7.0001,
 E339neovim:v0.1.0,vim:v7.0001,
 E34neovim:v0.1.0,vim:v7.0001,
-E340neovim:v0.1.0,v0.5.0vim:v7.0001,v8.2.2375
+E340neovim:v0.1.0,v0.5.0vim:v9.0.1576,v8.2.2375
 E341neovim:v0.1.0,vim:v7.0001,
 E342neovim:v0.1.0,vim:v7.0001,
 E343neovim:v0.1.0,vim:v7.0001,
@@ -9066,6 +9066,7 @@ intel-itaniumneovim:v0.1.0,vim:v7.0001,
 intellimouse-wheel-problemsneovim:v0.1.0,v0.1.5vim:v7.0001,
 interactive-functionsneovim:v0.1.0,vim:v7.3,
 interfaces-5.2vim:v7.0001,
+internal-errorvim:v9.0.1576,
 internal-variablesneovim:v0.1.0,vim:v7.0001,
 internal-wordlistneovim:v0.1.0,vim:v7.0100,
 internal_get_nv_cmdchar()vim:v8.2.4252,v8.2.4270
