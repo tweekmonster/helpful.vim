@@ -9454,7 +9454,7 @@ lua-treesitter-languagetreeneovim:v0.8.0,
 lua-treesitter-nodeneovim:v0.5.0,v0.8.0
 lua-treesitter-not-predicateneovim:v0.5.0,
 lua-treesitter-parserneovim:v0.5.0,v0.8.0
-lua-treesitter-playgroundneovim:v0.9.0,
+lua-treesitter-playgroundneovim:v0.9.0,dev
 lua-treesitter-predicatesneovim:v0.5.0,v0.8.0
 lua-treesitter-queryneovim:v0.5.0,
 lua-treesitter-treeneovim:v0.5.0,v0.8.0
@@ -13720,7 +13720,7 @@ vim.treesitter.language.require_language()neovim:v0.9.0,
 vim.treesitter.language_versionneovim:v0.5.0,
 vim.treesitter.minimum_language_versionneovim:v0.7.0,
 vim.treesitter.node_contains()neovim:v0.9.0,
-vim.treesitter.playground.inspect_tree()neovim:v0.9.0,
+vim.treesitter.playground.inspect_tree()neovim:v0.9.0,dev
 vim.treesitter.query.add_directive()neovim:v0.9.0,v0.8.0
 vim.treesitter.query.add_predicate()neovim:v0.9.0,v0.8.0
 vim.treesitter.query.get()neovim:v0.9.0,
