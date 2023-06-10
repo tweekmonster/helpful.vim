@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2023-06-09 00:16:07 UTC
+*helpful-version.txt*  Generated: 2023-06-10 00:13:41 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -27488,9 +27488,13 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.5.0 -v0.6.0 
 
+|LspProgress|
+
+    Neovim: +dev 
+
 |LspProgressUpdate|
 
-    Neovim: +v0.6.0 
+    Neovim: +v0.6.0 -dev 
 
 |LspRequest|
 
@@ -28180,19 +28184,19 @@ A listing of helptags with the versions they became available or were removed.
 
 |Ringbuf:clear()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |Ringbuf:peek()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |Ringbuf:pop()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |Ringbuf:push()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |Root|
 
@@ -63416,6 +63420,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.5.0 
 
+|vim.lsp.status()|
+
+    Neovim: +dev 
+
 |vim.lsp.stop_client()|
 
     Neovim: +v0.5.0 
@@ -63510,7 +63518,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.lsp.util.get_progress_messages()|
 
-    Neovim: +v0.5.0 -v0.6.0 
+    Neovim: +dev -v0.6.0 
 
 |vim.lsp.util.jump_to_location()|
 
@@ -63706,7 +63714,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.ringbuf()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.rpcnotify()|
 
