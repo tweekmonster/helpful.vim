@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2023-06-10 00:13:41 UTC
+*helpful-version.txt*  Generated: 2023-06-11 00:16:16 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -27490,11 +27490,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |LspProgress|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |LspProgressUpdate|
 
-    Neovim: +v0.6.0 -dev 
+    Neovim: +v0.6.0 -nightly 
 
 |LspRequest|
 
@@ -63422,7 +63422,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.lsp.status()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.stop_client()|
 
@@ -63518,7 +63518,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.lsp.util.get_progress_messages()|
 
-    Neovim: +dev -v0.6.0 
+    Neovim: +nightly -v0.6.0 
 
 |vim.lsp.util.jump_to_location()|
 
@@ -64152,6 +64152,10 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v8.2.0149 
 
+|vim9-false-true|
+
+       Vim: +dev 
+
 |vim9-final|
 
        Vim: +v8.2.1744 
@@ -64227,6 +64231,10 @@ A listing of helptags with the versions they became available or were removed.
 |vim9-script-intro|
 
        Vim: +v8.2.0980 -v8.2.5055 
+
+|vim9-string-index|
+
+       Vim: +dev 
 
 |vim9-types|
 
