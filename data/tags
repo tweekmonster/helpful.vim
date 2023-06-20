@@ -6887,6 +6887,7 @@ compiler-pyunitneovim:v0.1.0,vim:v7.0001,
 compiler-selectneovim:v0.1.0,vim:v7.0001,
 compiler-texneovim:v0.1.0,vim:v7.0001,
 compiler-vaxadaneovim:v0.1.0,vim:v7.2a,v7.2a.00
+compl-autocompleteneovim:dev,
 compl-currentneovim:v0.1.0,vim:v7.0001,
 compl-defineneovim:v0.1.0,vim:v7.0001,
 compl-dictionaryneovim:v0.1.0,vim:v7.0001,
@@ -9352,6 +9353,8 @@ lsp-bufneovim:v0.5.0,
 lsp-codelensneovim:v0.5.0,
 lsp-configneovim:v0.5.0,
 lsp-coreneovim:v0.5.0,
+lsp-defaultsneovim:dev,
+lsp-defaults-disableneovim:dev,
 lsp-diagnosticneovim:v0.5.0,
 lsp-eventsneovim:v0.6.0,
 lsp-extension-exampleneovim:v0.5.0,nightly
@@ -10531,12 +10534,12 @@ new-virteditvim:v7.0001,
 newsneovim:v0.9.0,v0.3.2vim:v7.0001,
 news-0.9neovim:nightly,
 news-0.9.txtneovim:nightly,
-news-addedneovim:nightly,
+news-addedneovim:nightly,dev
 news-breakingneovim:v0.9.0,
 news-changedneovim:nightly,
 news-changesneovim:v0.9.0,nightly
 news-deprecationsneovim:v0.9.0,
-news-featuresneovim:v0.9.0,nightly
+news-featuresneovim:dev,nightly
 news-removedneovim:v0.9.0,
 news.txtneovim:v0.9.0,
 nextnonblank()neovim:v0.1.0,vim:v7.0001,
@@ -13514,7 +13517,7 @@ vim.lsp.buf.range_formatting()neovim:v0.5.0,
 vim.lsp.buf.references()neovim:v0.5.0,
 vim.lsp.buf.remove_workspace_folder()neovim:v0.5.0,
 vim.lsp.buf.rename()neovim:v0.5.0,
-vim.lsp.buf.server_ready()neovim:v0.5.0,nightly
+vim.lsp.buf.server_ready()neovim:dev,nightly
 vim.lsp.buf.signature_help()neovim:v0.5.0,
 vim.lsp.buf.type_definition()neovim:v0.5.0,
 vim.lsp.buf.workspace_symbol()neovim:v0.5.0,

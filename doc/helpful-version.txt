@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2023-06-14 00:13:50 UTC
+*helpful-version.txt*  Generated: 2023-06-20 00:13:24 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -32970,6 +32970,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.2a -v7.2a.00 
 
+|compl-autocomplete|
+
+    Neovim: +dev 
+
 |compl-current|
 
     Neovim: +v0.1.0 
@@ -44542,6 +44546,14 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.5.0 
 
+|lsp-defaults|
+
+    Neovim: +dev 
+
+|lsp-defaults-disable|
+
+    Neovim: +dev 
+
 |lsp-diagnostic|
 
     Neovim: +v0.5.0 
@@ -49684,7 +49696,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |news-added|
 
-    Neovim: +nightly 
+    Neovim: +nightly -dev 
 
 |news-breaking|
 
@@ -49704,7 +49716,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |news-features|
 
-    Neovim: +v0.9.0 -nightly 
+    Neovim: +dev -nightly 
 
 |news-removed|
 
@@ -63075,7 +63087,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.lsp.buf.server_ready()|
 
-    Neovim: +v0.5.0 -nightly 
+    Neovim: +dev -nightly 
 
 |vim.lsp.buf.signature_help()|
 
