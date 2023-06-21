@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2023-06-20 00:13:24 UTC
+*helpful-version.txt*  Generated: 2023-06-21 00:14:07 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -32972,7 +32972,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |compl-autocomplete|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |compl-current|
 
@@ -41424,6 +41424,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.5.0 -v0.6.0 
 
+|hl-LspInlayHint|
+
+    Neovim: +dev 
+
 |hl-LspReferenceRead|
 
     Neovim: +v0.5.0 
@@ -44548,11 +44552,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |lsp-defaults|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lsp-defaults-disable|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lsp-diagnostic|
 
@@ -49694,10 +49698,6 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +nightly 
 
-|news-added|
-
-    Neovim: +nightly -dev 
-
 |news-breaking|
 
     Neovim: +v0.9.0 
@@ -49716,7 +49716,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |news-features|
 
-    Neovim: +dev -nightly 
+    Neovim: +v0.9.0 
 
 |news-removed|
 
@@ -63057,6 +63057,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.5.0 
 
+|vim.lsp.buf.inlay_hint()|
+
+    Neovim: +dev 
+
 |vim.lsp.buf.list_workspace_folders()|
 
     Neovim: +v0.5.0 
@@ -63087,7 +63091,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.lsp.buf.server_ready()|
 
-    Neovim: +dev -nightly 
+    Neovim: +v0.5.0 
 
 |vim.lsp.buf.signature_help()|
 

@@ -6887,7 +6887,7 @@ compiler-pyunitneovim:v0.1.0,vim:v7.0001,
 compiler-selectneovim:v0.1.0,vim:v7.0001,
 compiler-texneovim:v0.1.0,vim:v7.0001,
 compiler-vaxadaneovim:v0.1.0,vim:v7.2a,v7.2a.00
-compl-autocompleteneovim:dev,
+compl-autocompleteneovim:nightly,
 compl-currentneovim:v0.1.0,vim:v7.0001,
 compl-defineneovim:v0.1.0,vim:v7.0001,
 compl-dictionaryneovim:v0.1.0,vim:v7.0001,
@@ -8671,6 +8671,7 @@ hl-LspDiagnosticsVirtualTextErrorneovim:v0.5.0,v0.6.0
 hl-LspDiagnosticsVirtualTextHintneovim:v0.5.0,v0.6.0
 hl-LspDiagnosticsVirtualTextInformationneovim:v0.5.0,v0.6.0
 hl-LspDiagnosticsVirtualTextWarningneovim:v0.5.0,v0.6.0
+hl-LspInlayHintneovim:dev,
 hl-LspReferenceReadneovim:v0.5.0,
 hl-LspReferenceTextneovim:v0.5.0,
 hl-LspReferenceWriteneovim:v0.5.0,
@@ -9353,8 +9354,8 @@ lsp-bufneovim:v0.5.0,
 lsp-codelensneovim:v0.5.0,
 lsp-configneovim:v0.5.0,
 lsp-coreneovim:v0.5.0,
-lsp-defaultsneovim:dev,
-lsp-defaults-disableneovim:dev,
+lsp-defaultsneovim:nightly,
+lsp-defaults-disableneovim:nightly,
 lsp-diagnosticneovim:v0.5.0,
 lsp-eventsneovim:v0.6.0,
 lsp-extension-exampleneovim:v0.5.0,nightly
@@ -10534,12 +10535,11 @@ new-virteditvim:v7.0001,
 newsneovim:v0.9.0,v0.3.2vim:v7.0001,
 news-0.9neovim:nightly,
 news-0.9.txtneovim:nightly,
-news-addedneovim:nightly,dev
 news-breakingneovim:v0.9.0,
 news-changedneovim:nightly,
 news-changesneovim:v0.9.0,nightly
 news-deprecationsneovim:v0.9.0,
-news-featuresneovim:dev,nightly
+news-featuresneovim:v0.9.0,
 news-removedneovim:v0.9.0,
 news.txtneovim:v0.9.0,
 nextnonblank()neovim:v0.1.0,vim:v7.0001,
@@ -13510,6 +13510,7 @@ vim.lsp.buf.formatting_sync()neovim:nightly,v0.9.0
 vim.lsp.buf.hover()neovim:v0.5.0,
 vim.lsp.buf.implementation()neovim:v0.5.0,
 vim.lsp.buf.incoming_calls()neovim:v0.5.0,
+vim.lsp.buf.inlay_hint()neovim:dev,
 vim.lsp.buf.list_workspace_folders()neovim:v0.5.0,
 vim.lsp.buf.outgoing_calls()neovim:v0.5.0,
 vim.lsp.buf.range_code_action()neovim:v0.5.0,
@@ -13517,7 +13518,7 @@ vim.lsp.buf.range_formatting()neovim:v0.5.0,
 vim.lsp.buf.references()neovim:v0.5.0,
 vim.lsp.buf.remove_workspace_folder()neovim:v0.5.0,
 vim.lsp.buf.rename()neovim:v0.5.0,
-vim.lsp.buf.server_ready()neovim:dev,nightly
+vim.lsp.buf.server_ready()neovim:v0.5.0,
 vim.lsp.buf.signature_help()neovim:v0.5.0,
 vim.lsp.buf.type_definition()neovim:v0.5.0,
 vim.lsp.buf.workspace_symbol()neovim:v0.5.0,
