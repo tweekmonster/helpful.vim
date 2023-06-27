@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2023-06-26 00:17:12 UTC
+*helpful-version.txt*  Generated: 2023-06-27 00:16:03 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -22975,32 +22975,32 @@ A listing of helptags with the versions they became available or were removed.
 
 |E284|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |E285|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |E286|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |E287|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |E288|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |E289|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |E29|
@@ -27183,7 +27183,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |IM-server|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |IME|
@@ -27776,12 +27776,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |OffTheSpot|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |OnTheSpot|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |Operator-pending|
@@ -27801,7 +27801,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |OverTheSpot|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |P|
@@ -28201,7 +28201,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |Root|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |Ruby|
@@ -29042,7 +29042,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |XIM|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |XLFD|
@@ -33203,7 +33203,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |conversion-server|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |convert-to-HTML|
@@ -47233,7 +47233,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |mbyte-XIM|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |mbyte-combining|
@@ -47811,7 +47811,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |multibyte-input|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |multilang|
@@ -65320,7 +65320,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |x-input-method|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |x-resources|
@@ -65366,12 +65366,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |xim|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |xim-input-style|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |xiterm|
