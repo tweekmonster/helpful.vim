@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2023-06-30 00:15:12 UTC
+*helpful-version.txt*  Generated: 2023-07-01 00:18:06 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -47138,9 +47138,13 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.8.0 
 
+|math.huge|
+
+    Neovim: +nightly 
+
 |math.huge()|
 
-    Neovim: +v0.8.0 
+    Neovim: +v0.8.0 -nightly 
 
 |math.ldexp()|
 
@@ -47166,9 +47170,13 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.8.0 
 
+|math.pi|
+
+    Neovim: +nightly 
+
 |math.pi()|
 
-    Neovim: +v0.8.0 
+    Neovim: +v0.8.0 -nightly 
 
 |math.pow()|
 
@@ -63068,7 +63076,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.lsp.buf.inlay_hint()|
 
-    Neovim: +nightly 
+    Neovim: +nightly -dev 
 
 |vim.lsp.buf.list_workspace_folders()|
 
@@ -63337,6 +63345,10 @@ A listing of helptags with the versions they became available or were removed.
 |vim.lsp.init()|
 
     Neovim: +v0.5.0 -v0.6.0 
+
+|vim.lsp.inlay_hint()|
+
+    Neovim: +dev 
 
 |vim.lsp.log.get_filename()|
 
