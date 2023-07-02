@@ -12599,8 +12599,11 @@ tooltipsneovim:v0.8.0,vim:v8.2.0385,
 toupper()neovim:v0.1.0,vim:v7.0001,
 tr()neovim:v0.1.0,vim:v7.0007,
 treesitterneovim:v0.5.0,
+treesitter-directive-gsub!neovim:dev,
+treesitter-directive-inject-language!neovim:dev,
 treesitter-directive-offset!neovim:v0.8.0,
 treesitter-directive-set!neovim:v0.8.0,
+treesitter-directive-trim!neovim:dev,
 treesitter-directivesneovim:v0.8.0,
 treesitter-healthneovim:v0.5.0,v0.6.0
 treesitter-highlightneovim:v0.8.0,
@@ -13514,7 +13517,6 @@ vim.lsp.buf.formatting_sync()neovim:nightly,v0.9.0
 vim.lsp.buf.hover()neovim:v0.5.0,
 vim.lsp.buf.implementation()neovim:v0.5.0,
 vim.lsp.buf.incoming_calls()neovim:v0.5.0,
-vim.lsp.buf.inlay_hint()neovim:nightly,dev
 vim.lsp.buf.list_workspace_folders()neovim:v0.5.0,
 vim.lsp.buf.outgoing_calls()neovim:v0.5.0,
 vim.lsp.buf.range_code_action()neovim:v0.5.0,
@@ -13582,7 +13584,7 @@ vim.lsp.handlers.hover()neovim:v0.6.0,
 vim.lsp.handlers.progress_handler()neovim:v0.5.0,v0.6.0
 vim.lsp.handlers.signature_help()neovim:v0.5.0,
 vim.lsp.init()neovim:v0.5.0,v0.6.0
-vim.lsp.inlay_hint()neovim:dev,
+vim.lsp.inlay_hint()neovim:nightly,
 vim.lsp.log.get_filename()neovim:v0.5.0,
 vim.lsp.log.get_level()neovim:v0.6.0,
 vim.lsp.log.set_format_func()neovim:v0.6.0,
