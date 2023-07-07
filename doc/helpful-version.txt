@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2023-07-06 00:16:34 UTC
+*helpful-version.txt*  Generated: 2023-07-07 00:17:05 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -40568,7 +40568,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |gx|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v7.0191 -v7.1a 
 
 |gzip|
@@ -45100,13 +45100,21 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|luaL_Buffer|
+
+    Neovim: +dev 
+
 |luaL_Buffer()|
 
-    Neovim: +v0.8.0 
+    Neovim: +v0.8.0 -dev 
+
+|luaL_Reg|
+
+    Neovim: +dev 
 
 |luaL_Reg()|
 
-    Neovim: +v0.8.0 
+    Neovim: +v0.8.0 -dev 
 
 |luaL_addchar()|
 
@@ -45292,41 +45300,77 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.8.0 
 
+|lua_Alloc|
+
+    Neovim: +dev 
+
 |lua_Alloc()|
 
-    Neovim: +v0.8.0 
+    Neovim: +v0.8.0 -dev 
+
+|lua_CFunction|
+
+    Neovim: +dev 
 
 |lua_CFunction()|
 
-    Neovim: +v0.8.0 
+    Neovim: +v0.8.0 -dev 
+
+|lua_Debug|
+
+    Neovim: +dev 
 
 |lua_Debug()|
 
-    Neovim: +v0.8.0 
+    Neovim: +v0.8.0 -dev 
+
+|lua_Hook|
+
+    Neovim: +dev 
 
 |lua_Hook()|
 
-    Neovim: +v0.8.0 
+    Neovim: +v0.8.0 -dev 
+
+|lua_Integer|
+
+    Neovim: +dev 
 
 |lua_Integer()|
 
-    Neovim: +v0.8.0 
+    Neovim: +v0.8.0 -dev 
+
+|lua_Number|
+
+    Neovim: +dev 
 
 |lua_Number()|
 
-    Neovim: +v0.8.0 
+    Neovim: +v0.8.0 -dev 
+
+|lua_Reader|
+
+    Neovim: +dev 
 
 |lua_Reader()|
 
-    Neovim: +v0.8.0 
+    Neovim: +v0.8.0 -dev 
+
+|lua_State|
+
+    Neovim: +dev 
 
 |lua_State()|
 
-    Neovim: +v0.8.0 
+    Neovim: +v0.8.0 -dev 
+
+|lua_Writer|
+
+    Neovim: +dev 
 
 |lua_Writer()|
 
-    Neovim: +v0.8.0 
+    Neovim: +v0.8.0 -dev 
 
 |lua_atpanic()|
 
@@ -45713,13 +45757,21 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.8.0 
 
+|luaref-_G|
+
+    Neovim: +dev 
+
 |luaref-_G()|
 
-    Neovim: +v0.8.0 
+    Neovim: +v0.8.0 -dev 
+
+|luaref-_VERSION|
+
+    Neovim: +dev 
 
 |luaref-_VERSION()|
 
-    Neovim: +v0.8.0 
+    Neovim: +v0.8.0 -dev 
 
 |luaref-and|
 
@@ -62060,7 +62112,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |v_gx|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |v_i|
 
@@ -64054,7 +64106,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.ui.open()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.ui.select()|
 
