@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2023-07-07 00:17:05 UTC
+*helpful-version.txt*  Generated: 2023-07-08 00:16:04 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -35167,6 +35167,10 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v7.4.1560 
 
+|err_teapot()|
+
+       Vim: +v9.0.1673 
+
 |err_timeout|
 
        Vim: +v7.4.1560 
@@ -45102,19 +45106,19 @@ A listing of helptags with the versions they became available or were removed.
 
 |luaL_Buffer|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |luaL_Buffer()|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaL_Reg|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |luaL_Reg()|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaL_addchar()|
 
@@ -45302,75 +45306,75 @@ A listing of helptags with the versions they became available or were removed.
 
 |lua_Alloc|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua_Alloc()|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |lua_CFunction|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua_CFunction()|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |lua_Debug|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua_Debug()|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |lua_Hook|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua_Hook()|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |lua_Integer|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua_Integer()|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |lua_Number|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua_Number()|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |lua_Reader|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua_Reader()|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |lua_State|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua_State()|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |lua_Writer|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua_Writer()|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |lua_atpanic()|
 
@@ -45759,19 +45763,19 @@ A listing of helptags with the versions they became available or were removed.
 
 |luaref-_G|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |luaref-_G()|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-_VERSION|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |luaref-_VERSION()|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-and|
 
