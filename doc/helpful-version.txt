@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2023-07-18 00:23:26 UTC
+*helpful-version.txt*  Generated: 2023-07-19 00:24:00 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -44709,7 +44709,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |lua-builtin|
 
-    Neovim: +v0.5.0 -dev 
+    Neovim: +v0.5.0 -nightly 
 
 |lua-call-function|
 
@@ -44735,7 +44735,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |lua-diff|
 
-    Neovim: +v0.6.0 -dev 
+    Neovim: +v0.6.0 -nightly 
 
 |lua-dynamic|
 
@@ -44748,11 +44748,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |lua-filetype|
 
-    Neovim: +v0.7.0 -dev 
+    Neovim: +v0.7.0 -nightly 
 
 |lua-fs|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |lua-funcref|
 
@@ -44848,27 +44848,23 @@ A listing of helptags with the versions they became available or were removed.
 
 |lua-highlight|
 
-    Neovim: +v0.5.0 -dev 
+    Neovim: +v0.5.0 -nightly 
 
 |lua-inspector|
 
-    Neovim: +v0.9.0 -dev 
+    Neovim: +v0.9.0 -nightly 
 
 |lua-intro|
 
     Neovim: +v0.4.0 
 
-|lua-iter|
-
-    Neovim: +nightly -dev 
-
 |lua-json|
 
-    Neovim: +v0.9.0 -dev 
+    Neovim: +v0.9.0 -nightly 
 
 |lua-keymap|
 
-    Neovim: +v0.7.0 -dev 
+    Neovim: +v0.7.0 -nightly 
 
 |lua-list|
 
@@ -44877,7 +44873,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |lua-loader|
 
-    Neovim: +v0.9.0 -dev 
+    Neovim: +v0.9.0 -nightly 
 
 |lua-loop|
 
@@ -44906,7 +44902,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |lua-mpack|
 
-    Neovim: +v0.6.0 -dev 
+    Neovim: +v0.6.0 -nightly 
 
 |lua-options|
 
@@ -44922,7 +44918,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |lua-regex|
 
-    Neovim: +v0.5.0 -dev 
+    Neovim: +v0.5.0 -nightly 
 
 |lua-require|
 
@@ -44934,7 +44930,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |lua-secure|
 
-    Neovim: +v0.9.0 -dev 
+    Neovim: +v0.9.0 -nightly 
 
 |lua-special-tbl|
 
@@ -44942,7 +44938,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |lua-spell|
 
-    Neovim: +v0.7.0 -dev 
+    Neovim: +v0.7.0 -nightly 
 
 |lua-stdlib|
 
@@ -45026,11 +45022,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |lua-ui|
 
-    Neovim: +v0.6.0 -dev 
+    Neovim: +v0.6.0 -nightly 
 
 |lua-uri|
 
-    Neovim: +v0.5.0 -dev 
+    Neovim: +v0.5.0 -nightly 
 
 |lua-util|
 
@@ -45042,7 +45038,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |lua-version|
 
-    Neovim: +v0.9.0 -dev 
+    Neovim: +v0.9.0 -nightly 
 
 |lua-vim|
 
@@ -62719,7 +62715,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.builtin|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.call()|
 
@@ -62731,7 +62727,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.connection_failure_errmsg()|
 
-    Neovim: +v0.7.0 
+    Neovim: +v0.7.0 -dev 
 
 |vim.deep_equal()|
 
@@ -62859,7 +62855,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.diff|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.diff()|
 
@@ -62879,7 +62875,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.filetype|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.filetype.add()|
 
@@ -62899,7 +62895,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.fs|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.fs.basename()|
 
@@ -62988,7 +62984,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.highlight|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.highlight.on_yank()|
 
@@ -63024,7 +63020,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.inspector|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.is_callable()|
 
@@ -63060,19 +63056,19 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.json.decode|
 
-    Neovim: +v0.9.0 -dev 
+    Neovim: +v0.9.0 -nightly 
 
 |vim.json.decode()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.json.encode|
 
-    Neovim: +v0.9.0 -dev 
+    Neovim: +v0.9.0 -nightly 
 
 |vim.json.encode()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.keycode()|
 
@@ -63080,7 +63076,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.keymap|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.keymap.del()|
 
@@ -63104,7 +63100,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.loader|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.loader.disable()|
 
@@ -63310,6 +63306,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.5.0 
 
+|vim.lsp.commands|
+
+    Neovim: +dev 
+
 |vim.lsp.diagnostic.clear()|
 
     Neovim: +v0.5.0 
@@ -63444,7 +63444,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.lsp.get_clients()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.get_log_path()|
 
@@ -63792,19 +63792,19 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.mpack.decode|
 
-    Neovim: +v0.6.0 -dev 
+    Neovim: +v0.6.0 -nightly 
 
 |vim.mpack.decode()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.mpack.encode|
 
-    Neovim: +v0.6.0 -dev 
+    Neovim: +v0.6.0 -nightly 
 
 |vim.mpack.encode()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.notify()|
 
@@ -63872,7 +63872,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.regex|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.regex()|
 
@@ -63908,7 +63908,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.secure|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.secure.read()|
 
@@ -63928,7 +63928,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.spell|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.spell.check()|
 
@@ -64181,7 +64181,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.ui|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.ui.input()|
 
@@ -64205,7 +64205,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.uri|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.uri_from_bufnr()|
 
@@ -64242,7 +64242,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.version|
 
-    Neovim: +dev -v0.9.0 
+    Neovim: +nightly -v0.9.0 
 
 |vim.version()|
 
