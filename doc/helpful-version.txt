@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2023-07-29 00:14:33 UTC
+*helpful-version.txt*  Generated: 2023-07-30 00:15:39 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -31289,7 +31289,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |builtin-function-list|
 
-    Neovim: +v0.7.0 -dev 
+    Neovim: +v0.7.0 -nightly 
        Vim: +v8.2.3917 
 
 |builtin-functions|
@@ -58193,7 +58193,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |temp-file-name|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |tempdir|
@@ -59056,7 +59056,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |timers|
 
-    Neovim: +v0.2.0 -dev 
+    Neovim: +v0.2.0 -nightly 
        Vim: +v7.4.2218 
 
 |timestamp|
@@ -63953,6 +63953,18 @@ A listing of helptags with the versions they became available or were removed.
 |vim.str_byteindex()|
 
     Neovim: +v0.4.0 
+
+|vim.str_utf_end()|
+
+    Neovim: +dev 
+
+|vim.str_utf_pos()|
+
+    Neovim: +dev 
+
+|vim.str_utf_start()|
+
+    Neovim: +dev 
 
 |vim.str_utfindex()|
 
