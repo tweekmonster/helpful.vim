@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2023-08-04 00:14:57 UTC
+*helpful-version.txt*  Generated: 2023-08-05 00:14:18 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -24476,7 +24476,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |E543|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |E5430|
@@ -24489,7 +24489,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |E544|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |E545|
@@ -27354,7 +27354,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |K-lsp-default|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |KDE|
 
@@ -27530,7 +27530,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |Lua-Reference|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |M|
 
@@ -29512,11 +29512,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |_G|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |_VERSION|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |__add()|
 
@@ -30368,7 +30368,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |assert()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |assert-functions|
 
@@ -30924,7 +30924,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |beep|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |beos|
@@ -32872,7 +32872,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |collectgarbage()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |color-schemes|
 
@@ -34801,7 +34801,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |dofile()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |donate|
 
@@ -35217,7 +35217,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |error()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |error-file-format|
 
@@ -36151,31 +36151,31 @@ A listing of helptags with the versions they became available or were removed.
 
 |file:close()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |file:flush()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |file:lines()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |file:read()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |file:seek()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |file:setvbuf()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |file:write()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |file_readable()|
 
@@ -36700,11 +36700,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |for|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |for-in|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |forced-motion|
 
@@ -39791,7 +39791,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |getfenv()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |getfontname()|
 
@@ -39882,7 +39882,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |getmetatable()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |getmousepos()|
 
@@ -43482,7 +43482,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |ipairs()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |iquote|
 
@@ -43543,11 +43543,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |iterable|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |iterator|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |iw|
 
@@ -44409,7 +44409,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |load()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |load-plugin|
 
@@ -44427,11 +44427,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |loadfile()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |loadstring()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |local-additions|
 
@@ -44789,15 +44789,15 @@ A listing of helptags with the versions they became available or were removed.
 
 |lua-API|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-Lib|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-and|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-api|
 
@@ -44805,23 +44805,23 @@ A listing of helptags with the versions they became available or were removed.
 
 |lua-apiDebug|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-apiError|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-apiFunctions|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-apiStack|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-apiStackSize|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-args|
 
@@ -44829,19 +44829,19 @@ A listing of helptags with the versions they became available or were removed.
 
 |lua-arithmetic|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-assign|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-aux|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-auxFunctions|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-bit|
 
@@ -44853,11 +44853,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |lua-block|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-break|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-buffer|
 
@@ -44869,39 +44869,39 @@ A listing of helptags with the versions they became available or were removed.
 
 |lua-call-function|
 
-    Neovim: +v0.9.0 -dev 
+    Neovim: +v0.9.0 -nightly 
 
 |lua-capture|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-cclosure|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-cfunction|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-cfunctionexample|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-chunk|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-closure|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-coercion|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-colonsyntax|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-commands|
 
@@ -44910,7 +44910,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |lua-comment|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-compat|
 
@@ -44918,7 +44918,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |lua-concat|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-concepts|
 
@@ -44926,15 +44926,15 @@ A listing of helptags with the versions they became available or were removed.
 
 |lua-control|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-coroutine|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-debugexample|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-dict|
 
@@ -44947,7 +44947,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |lua-do|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-dynamic|
 
@@ -44955,23 +44955,23 @@ A listing of helptags with the versions they became available or were removed.
 
 |lua-else|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-elseif|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-end|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-environments|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-errors|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-eval|
 
@@ -44980,11 +44980,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |lua-expressions|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-false|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-filetype|
 
@@ -44992,7 +44992,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |lua-for|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-fs|
 
@@ -45004,27 +45004,27 @@ A listing of helptags with the versions they became available or were removed.
 
 |lua-funcstatement|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-function|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-function-call|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-function-define|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-gc|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-gc-meta|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-guide|
 
@@ -45120,11 +45120,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |lua-identifiers|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-if|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-inspector|
 
@@ -45144,51 +45144,51 @@ A listing of helptags with the versions they became available or were removed.
 
 |lua-language|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-length|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-lexical|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-lib-core|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-lib-coroutine|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-lib-debug|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-lib-io|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-lib-math|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-lib-os|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-lib-string|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-lib-table|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-lightuserdata|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-list|
 
@@ -45197,7 +45197,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |lua-literal|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-loader|
 
@@ -45205,11 +45205,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |lua-local|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-logicalop|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-loop|
 
@@ -45238,15 +45238,15 @@ A listing of helptags with the versions they became available or were removed.
 
 |lua-metatable|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-module-load|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-modules|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-mpack|
 
@@ -45254,27 +45254,27 @@ A listing of helptags with the versions they became available or were removed.
 
 |lua-names|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-nil|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-not|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-number|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-numconstant|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-openlibs|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-options|
 
@@ -45282,7 +45282,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |lua-or|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-package-path|
 
@@ -45290,11 +45290,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |lua-pattern|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-patternitem|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-patterns|
 
@@ -45302,23 +45302,23 @@ A listing of helptags with the versions they became available or were removed.
 
 |lua-precedence|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-pseudoindex|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-ref-bibliography|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-ref-copyright|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-ref-doc|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-regex|
 
@@ -45326,19 +45326,19 @@ A listing of helptags with the versions they became available or were removed.
 
 |lua-registry|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-relational|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-repeat|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-require|
 
-    Neovim: +v0.2.1 -dev 
+    Neovim: +v0.2.1 -nightly 
 
 |lua-require-example|
 
@@ -45346,7 +45346,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |lua-return|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-secure|
 
@@ -45362,19 +45362,19 @@ A listing of helptags with the versions they became available or were removed.
 
 |lua-stack|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-stackexample|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-stackindex|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-statement|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-stdlib|
 
@@ -45382,7 +45382,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |lua-string|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-syntax|
 
@@ -45402,27 +45402,27 @@ A listing of helptags with the versions they became available or were removed.
 
 |lua-table-ambiguous|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-tableconstructor|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-tabletraversal|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-tailcall|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-then|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-thread|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-treesitter|
 
@@ -45486,15 +45486,15 @@ A listing of helptags with the versions they became available or were removed.
 
 |lua-true|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-type()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-types|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-ui|
 
@@ -45502,11 +45502,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |lua-until|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-upvalue|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-uri|
 
@@ -45514,7 +45514,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |lua-userdatatype|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-util|
 
@@ -45522,11 +45522,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |lua-values|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-vararg|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-variable|
 
@@ -45534,7 +45534,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |lua-variables|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-version|
 
@@ -45596,15 +45596,15 @@ A listing of helptags with the versions they became available or were removed.
 
 |lua-visibility|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-weaktable|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-while|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-window|
 
@@ -46270,23 +46270,15 @@ A listing of helptags with the versions they became available or were removed.
 
 |luaref-API|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-Lib|
 
-    Neovim: +v0.8.0 -dev 
-
-|luaref-_G|
-
-    Neovim: +nightly -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-_G()|
 
     Neovim: +v0.8.0 -nightly 
-
-|luaref-_VERSION|
-
-    Neovim: +nightly -dev 
 
 |luaref-_VERSION()|
 
@@ -46294,207 +46286,207 @@ A listing of helptags with the versions they became available or were removed.
 
 |luaref-and|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-apiCClosures|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-apiDebug|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-apiError|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-apiFunctions|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-apiPseudoIndices|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-apiRegistry|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-apiStack|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-apiStackSize|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-assert()|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-aux|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-auxFunctions|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-bibliography|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-block|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-break|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-capture|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-cclosure|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-cfunction|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-cfunctionexample|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-chunk|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-closure|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-collectgarbage()|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-colonsyntax|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-comment|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-copyright|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-coroutine|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-debugexample|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-do|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-doc|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-dofile()|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-else|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-elseif|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-end|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-environment|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-error()|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-false|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-file:close()|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-file:flush()|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-file:lines()|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-file:read()|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-file:seek()|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-file:setvbuf()|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-file:write()|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-for|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-function|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-getfenv()|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-getmetatable()|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-help|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-identifiers|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-if|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-in|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-intro|
 
@@ -46502,395 +46494,395 @@ A listing of helptags with the versions they became available or were removed.
 
 |luaref-ipairs()|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-langArithOp|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-langAssign|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-langBlocks|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-langChunks|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-langCoercion|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-langConcat|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-langContStructs|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-langCoro|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-langEnvironments|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-langError|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-langExpressions|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-langForStat|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-langFuncCalls|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-langFuncDefs|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-langFuncStat|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-langGC|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-langGCMeta|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-langLength|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-langLexConv|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-langLocalDec|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-langLogOp|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-langMetatables|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-langPrec|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-langRelOp|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-langStats|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-langTableConst|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-langValTypes|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-langVariables|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-langVisibRules|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-langWeaktables|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-language|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-libBasic|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-libCoro|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-libDebug|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-libIO|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-libMath|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-libModule|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-libOS|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-libString|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-libStringPat|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-libTable|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-lightuserdata|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-literal|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-load()|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-loadfile()|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-loadstring()|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-local|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-metatable|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-module()|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-names|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-next()|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-nil|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-not|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-number|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-numconstant|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-openlibs|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-or|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-pairs()|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-pattern|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-patternitem|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-patterns|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-pcall()|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-print()|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-pseudoindex|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-rawequal()|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-rawget()|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-rawset()|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-registry|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-repeat|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-require()|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-return|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-select()|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-setfenv()|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-setmetatable()|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-stack|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-stackexample|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-stackindex|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-string|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-table|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-tabletraversal|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-tailcall|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-then|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-thread|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-tonumber()|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-tostring()|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-true|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-type()|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-types|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-unpack()|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-until|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-upvalue|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-userdata|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-userdatatype|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-vararg|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-weaktable|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-while|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref-xpcall()|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luaref.txt|
 
@@ -46898,11 +46890,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |luarefvim|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luarefvimdoc|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |luv|
 
@@ -47969,7 +47961,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |metatable|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |method|
 
@@ -48077,7 +48069,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |module()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |moo-syntax|
 
@@ -50320,7 +50312,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |next()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nextnonblank()|
 
@@ -51924,7 +51916,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |pairs()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |papp-syntax|
 
@@ -52039,7 +52031,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |pcall()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |pdev-option|
 
@@ -52786,7 +52778,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |print()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |print-intro|
 
@@ -53777,15 +53769,15 @@ A listing of helptags with the versions they became available or were removed.
 
 |rawequal()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |rawget()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |rawset()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |rcp|
 
@@ -54911,7 +54903,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |select()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |self|
 
@@ -55048,7 +55040,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |setfenv()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |setfperm()|
 
@@ -55072,7 +55064,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |setmetatable()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |setpos()|
 
@@ -59669,7 +59661,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |tonumber()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |toolbar-icon|
 
@@ -59683,7 +59675,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |tostring()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |toupper()|
 
@@ -60410,7 +60402,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |unpack()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |up-down-motions|
 
@@ -60471,7 +60463,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |userdata|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |userfunc.txt|
 
@@ -66186,7 +66178,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |xpcall()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |xpm-syntax|
 
