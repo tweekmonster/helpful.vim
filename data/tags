@@ -5071,10 +5071,10 @@ E5409neovim:v0.2.1,
 E541neovim:v0.1.0,v0.5.0vim:v7.0001,v8.2.1909
 E542neovim:v0.1.0,vim:v7.0001,
 E5422neovim:v0.6.0,
-E543neovim:v0.1.0,devvim:v7.0001,
+E543neovim:v0.1.0,nightlyvim:v7.0001,
 E5430neovim:v0.8.0,
 E5431neovim:v0.9.0,
-E544neovim:v0.1.0,devvim:v7.0001,
+E544neovim:v0.1.0,nightlyvim:v7.0001,
 E545neovim:v0.1.0,vim:v7.0001,
 E546neovim:v0.1.0,vim:v7.0001,
 E547neovim:v0.1.0,vim:v7.0001,
@@ -6451,7 +6451,7 @@ base_font_name_listneovim:v0.1.0,v0.5.0vim:v7.0001,
 bash-syntaxvim:v7.0130,v7.0139
 basic-syntaxvim:v7.0001,v7.0139
 basic.vimneovim:v0.1.0,vim:v7.0001,
-beepneovim:v0.1.0,devvim:v7.0001,
+beepneovim:v0.1.0,nightlyvim:v7.0001,
 beosvim:v8.2.0931,
 beos-colorsvim:v7.0001,v8.2.0931
 beos-compilingvim:v7.0001,v8.2.0931
