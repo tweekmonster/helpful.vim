@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2023-08-10 00:15:28 UTC
+*helpful-version.txt*  Generated: 2023-08-12 00:12:16 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -59701,7 +59701,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |treesitter-directive-inject-language!|
 
-    Neovim: +nightly 
+    Neovim: +nightly -dev 
 
 |treesitter-directive-offset!|
 
