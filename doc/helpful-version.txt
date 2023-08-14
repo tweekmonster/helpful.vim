@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2023-08-13 00:13:14 UTC
+*helpful-version.txt*  Generated: 2023-08-14 00:13:26 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -19529,6 +19529,11 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +nightly -v0.5.0 
        Vim: +v7.0084 
 
+|Bram-Moolenaar|
+
+    Neovim: +dev 
+       Vim: +v9.0.1703 
+
 |BufAdd|
 
     Neovim: +v0.1.0 
@@ -22203,6 +22208,30 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|E1400|
+
+       Vim: +v9.0.1704 
+
+|E1401|
+
+       Vim: +v9.0.1704 
+
+|E1402|
+
+       Vim: +v9.0.1704 
+
+|E1403|
+
+       Vim: +v9.0.1704 
+
+|E1404|
+
+       Vim: +v9.0.1704 
+
+|E1405|
+
+       Vim: +v9.0.1704 
 
 |E141|
 
@@ -27611,7 +27640,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |Moolenaar|
 
-    Neovim: +v0.1.0 -v0.5.0 
+    Neovim: +dev -v0.5.0 
        Vim: +v7.0084 
 
 |MorphOS|
@@ -28417,7 +28446,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |TSHighlighter:destroy()|
 
-    Neovim: +v0.5.0 -dev 
+    Neovim: +v0.5.0 -nightly 
 
 |TSHighlighter:get_query()|
 
@@ -45450,7 +45479,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |lua-treesitter-highlighter|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |lua-treesitter-language|
 
@@ -52808,6 +52837,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0119 
 
+|printf-$|
+
+       Vim: +v9.0.1704 
+
 |printf-%|
 
     Neovim: +v0.1.0 
@@ -55748,6 +55781,14 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|special-local-buffer-option|
+
+       Vim: +v9.0.1710 
+
+|special-local-window-option|
+
+       Vim: +v9.0.1710 
 
 |specifies|
 
