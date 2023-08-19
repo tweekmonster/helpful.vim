@@ -300,7 +300,7 @@ function! helpful#lookup(pattern) abort
   let width = 0
 
   for tag in keys(s:data)
-    let m = match(tag, a:pattern)
+    let m = match(tag, escape(a:pattern, '\'))
     if m != -1
       call add(tags, [tag, m])
       let width = max([width, strlen(tag)])
