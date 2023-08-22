@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2023-08-21 00:12:51 UTC
+*helpful-version.txt*  Generated: 2023-08-22 00:12:55 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -28297,10 +28297,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |SafeState|
 
+    Neovim: +dev 
        Vim: +v8.1.2044 
 
 |SafeStateAgain|
 
+    Neovim: +dev 
        Vim: +v8.1.2046 
 
 |SearchWrapped|
@@ -39483,7 +39485,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |g<kEnd>|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.0.1761 
 
 |g?|
@@ -56731,6 +56733,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |state()|
 
+    Neovim: +dev 
        Vim: +v8.1.2047 
 
 |static-tag|
