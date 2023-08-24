@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2023-08-23 00:13:10 UTC
+*helpful-version.txt*  Generated: 2023-08-24 00:13:03 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -10563,6 +10563,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.2a 
 
+|:Down|
+
+       Vim: +v9.0.1784 
+
 |:ELP|
 
        Vim: +v7.4.748 -v7.4.1725 
@@ -10588,7 +10592,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |:Frame|
 
-       Vim: +dev 
+       Vim: +v9.0.1784 
 
 |:GLVS|
 
@@ -10867,6 +10871,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.8.0 
        Vim: +v8.2.4783 
+
+|:Up|
+
+       Vim: +v9.0.1784 
 
 |:UpdateRemotePlugins|
 
@@ -43413,6 +43421,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 -v0.1.5 
        Vim: +v7.0001 
 
+|instanceof()|
+
+       Vim: +v9.0.1786 
+
 |intel-itanium|
 
     Neovim: +v0.1.0 
@@ -55827,10 +55839,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |special-local-buffer-option|
 
+    Neovim: +dev 
        Vim: +v9.0.1710 
 
 |special-local-window-option|
 
+    Neovim: +dev 
        Vim: +v9.0.1710 
 
 |specifies|
@@ -59038,6 +59052,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.4.0 
        Vim: +v8.0.1290 
 
+|termdebug-frames|
+
+       Vim: +v9.0.1784 
+
 |termdebug-prompt|
 
     Neovim: +v0.5.0 
@@ -59056,7 +59074,7 @@ A listing of helptags with the versions they became available or were removed.
 |termdebug-variables|
 
     Neovim: +v0.4.0 
-       Vim: +dev 
+       Vim: +v8.0.1290 
 
 |termdebug_disasm_window|
 
@@ -59070,11 +59088,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |termdebug_map_minus|
 
-       Vim: +dev 
+       Vim: +v9.0.1784 
 
 |termdebug_map_plus|
 
-       Vim: +dev 
+       Vim: +v9.0.1784 
 
 |termdebug_popup|
 
