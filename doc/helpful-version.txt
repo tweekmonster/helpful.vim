@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2023-08-25 00:12:56 UTC
+*helpful-version.txt*  Generated: 2023-08-26 00:12:23 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -10565,6 +10565,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |:Down|
 
+    Neovim: +dev 
        Vim: +v9.0.1784 
 
 |:ELP|
@@ -10592,6 +10593,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |:Frame|
 
+    Neovim: +dev 
        Vim: +v9.0.1784 
 
 |:GLVS|
@@ -10755,6 +10757,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0128 
 
+|:PreviewQuery|
+
+    Neovim: +dev 
+
 |:Print|
 
        Vim: +v7.0001 
@@ -10874,6 +10880,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |:Up|
 
+    Neovim: +dev 
        Vim: +v9.0.1784 
 
 |:UpdateRemotePlugins|
@@ -10887,6 +10894,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |:Var|
 
+    Neovim: +dev 
        Vim: +v9.0.1769 
 
 |:Vexplore|
@@ -59054,6 +59062,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |termdebug-frames|
 
+    Neovim: +dev 
        Vim: +v9.0.1784 
 
 |termdebug-prompt|
@@ -59088,10 +59097,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |termdebug_map_minus|
 
+    Neovim: +dev 
        Vim: +v9.0.1784 
 
 |termdebug_map_plus|
 
+    Neovim: +dev 
        Vim: +v9.0.1784 
 
 |termdebug_popup|
@@ -59116,6 +59127,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |termdebug_variables_window|
 
+    Neovim: +dev 
        Vim: +v9.0.1769 
 
 |termdebug_wide|
@@ -64821,6 +64833,10 @@ A listing of helptags with the versions they became available or were removed.
 |vim.treesitter.playground.inspect_tree()|
 
     Neovim: +v0.9.0 -nightly 
+
+|vim.treesitter.preview_query()|
+
+    Neovim: +dev 
 
 |vim.treesitter.query.add_directive()|
 
