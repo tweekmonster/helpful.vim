@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2023-08-26 00:12:23 UTC
+*helpful-version.txt*  Generated: 2023-08-27 00:13:38 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -10565,7 +10565,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |:Down|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.0.1784 
 
 |:ELP|
@@ -10593,7 +10593,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |:Frame|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.0.1784 
 
 |:GLVS|
@@ -10759,7 +10759,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |:PreviewQuery|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |:Print|
 
@@ -10880,7 +10880,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |:Up|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.0.1784 
 
 |:UpdateRemotePlugins|
@@ -10894,7 +10894,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |:Var|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.0.1769 
 
 |:Vexplore|
@@ -41463,6 +41463,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.9.0 
 
+|hl-FloatFooter|
+
+    Neovim: +dev 
+
 |hl-FloatTitle|
 
     Neovim: +v0.9.0 
@@ -59062,7 +59066,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |termdebug-frames|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.0.1784 
 
 |termdebug-prompt|
@@ -59097,12 +59101,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |termdebug_map_minus|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.0.1784 
 
 |termdebug_map_plus|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.0.1784 
 
 |termdebug_popup|
@@ -59127,7 +59131,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |termdebug_variables_window|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.0.1769 
 
 |termdebug_wide|
@@ -64836,7 +64840,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.treesitter.preview_query()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.treesitter.query.add_directive()|
 
