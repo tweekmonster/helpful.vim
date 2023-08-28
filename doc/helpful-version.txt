@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2023-08-27 00:13:38 UTC
+*helpful-version.txt*  Generated: 2023-08-28 00:13:04 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -41465,7 +41465,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |hl-FloatFooter|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |hl-FloatTitle|
 
@@ -61352,6 +61352,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.8.0 
 
+|uv.pipe_bind2()|
+
+    Neovim: +nightly 
+
 |uv.pipe_chmod()|
 
     Neovim: +v0.8.0 
@@ -61359,6 +61363,10 @@ A listing of helptags with the versions they became available or were removed.
 |uv.pipe_connect()|
 
     Neovim: +v0.8.0 
+
+|uv.pipe_connect2()|
+
+    Neovim: +nightly 
 
 |uv.pipe_getpeername()|
 
