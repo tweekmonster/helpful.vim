@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2023-09-10 00:13:57 UTC
+*helpful-version.txt*  Generated: 2023-09-12 00:13:34 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -44543,6 +44543,11 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|local-noglobal|
+
+    Neovim: +dev 
+       Vim: +dev 
+
 |local-options|
 
     Neovim: +v0.1.0 
@@ -55874,13 +55879,13 @@ A listing of helptags with the versions they became available or were removed.
 
 |special-local-buffer-option|
 
-    Neovim: +nightly 
-       Vim: +v9.0.1710 
+    Neovim: +nightly -dev 
+       Vim: +v9.0.1710 -dev 
 
 |special-local-window-option|
 
-    Neovim: +nightly 
-       Vim: +v9.0.1710 
+    Neovim: +nightly -dev 
+       Vim: +v9.0.1710 -dev 
 
 |specifies|
 
