@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2023-09-12 00:13:34 UTC
+*helpful-version.txt*  Generated: 2023-09-13 00:13:07 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -10513,6 +10513,26 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.4.0 
        Vim: +v8.0.1725 
 
+|:Cargo|
+
+       Vim: +dev 
+
+|:Cbench|
+
+       Vim: +dev 
+
+|:Cbuild|
+
+       Vim: +dev 
+
+|:Cclean|
+
+       Vim: +dev 
+
+|:Cdoc|
+
+       Vim: +dev 
+
 |:Cfilter|
 
     Neovim: +v0.4.0 
@@ -10521,6 +10541,14 @@ A listing of helptags with the versions they became available or were removed.
 |:CheckHealth|
 
     Neovim: +v0.1.5 -nightly 
+
+|:Cinit|
+
+       Vim: +dev 
+
+|:Cinstall|
+
+       Vim: +dev 
 
 |:Clear|
 
@@ -10552,6 +10580,30 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.4.0 
        Vim: +v8.0.1725 
+
+|:Cpublish|
+
+       Vim: +dev 
+
+|:Crun|
+
+       Vim: +dev 
+
+|:Cruntarget|
+
+       Vim: +dev 
+
+|:Csearch|
+
+       Vim: +dev 
+
+|:Ctest|
+
+       Vim: +dev 
+
+|:Cupdate|
+
+       Vim: +dev 
 
 |:DiffOrig|
 
@@ -10810,6 +10862,18 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.2.1 
        Vim: +v8.0.0501 
 
+|:RustInfo|
+
+       Vim: +dev 
+
+|:RustInfoClipboard|
+
+       Vim: +dev 
+
+|:RustInfoToFile|
+
+       Vim: +dev 
+
 |:RustPlay|
 
     Neovim: +v0.2.1 
@@ -10819,6 +10883,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.2.1 
        Vim: +v8.0.0501 
+
+|:RustTest|
+
+       Vim: +dev 
 
 |:Sexplore|
 
@@ -30867,6 +30935,34 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0129 
 
+|b:rust_cargo_avoid_whole_workspace|
+
+       Vim: +dev 
+
+|b:rust_cargo_check_all_features|
+
+       Vim: +dev 
+
+|b:rust_cargo_check_all_targets|
+
+       Vim: +dev 
+
+|b:rust_cargo_check_benches|
+
+       Vim: +dev 
+
+|b:rust_cargo_check_examples|
+
+       Vim: +dev 
+
+|b:rust_cargo_check_tests|
+
+       Vim: +dev 
+
+|b:rustfmt_autosave|
+
+       Vim: +dev 
+
 |b:term_title|
 
     Neovim: +v0.1.5 
@@ -34815,6 +34911,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0231 
 
+|distributed-plugins|
+
+       Vim: +dev 
+
 |distribution|
 
     Neovim: +v0.1.0 
@@ -35093,6 +35193,10 @@ A listing of helptags with the versions they became available or were removed.
 |editorconfig-custom-properties|
 
     Neovim: +v0.9.0 
+
+|editorconfig-install|
+
+       Vim: +dev 
 
 |editorconfig-properties|
 
@@ -38166,6 +38270,14 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.2a -v7.2a.00 
 
+|g:cargo_makeprg_params|
+
+       Vim: +dev 
+
+|g:cargo_shell_command_runner|
+
+       Vim: +dev 
+
 |g:clipboard|
 
     Neovim: +v0.2.1 
@@ -39171,6 +39283,34 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.2.1 
        Vim: +v8.0.0501 
 
+|g:rust_cargo_avoid_whole_workspace|
+
+       Vim: +dev 
+
+|g:rust_cargo_check_all_features|
+
+       Vim: +dev 
+
+|g:rust_cargo_check_all_targets|
+
+       Vim: +dev 
+
+|g:rust_cargo_check_benches|
+
+       Vim: +dev 
+
+|g:rust_cargo_check_examples|
+
+       Vim: +dev 
+
+|g:rust_cargo_check_tests|
+
+       Vim: +dev 
+
+|g:rust_clip_command|
+
+       Vim: +dev 
+
 |g:rust_conceal|
 
     Neovim: +v0.2.1 
@@ -39191,6 +39331,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.2.1 
        Vim: +v8.0.0501 
 
+|g:rust_keep_autopairs_default|
+
+       Vim: +dev 
+
 |g:rust_playpen_url|
 
     Neovim: +v0.2.1 
@@ -39205,6 +39349,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.2.1 
        Vim: +v8.0.0501 
+
+|g:rust_use_custom_ctags_defs|
+
+       Vim: +dev 
 
 |g:rustc_makeprg_no_percent|
 
@@ -39221,10 +39369,18 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.2.1 
        Vim: +v8.0.0501 
 
+|g:rustfmt_autosave_if_config_present|
+
+       Vim: +dev 
+
 |g:rustfmt_command|
 
     Neovim: +v0.2.1 
        Vim: +v8.0.0501 
+
+|g:rustfmt_emit_files|
+
+       Vim: +dev 
 
 |g:rustfmt_fail_silently|
 
@@ -44545,7 +44701,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |local-noglobal|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +dev 
 
 |local-options|
@@ -54581,6 +54737,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.2.1 
        Vim: +v8.0.0501 
 
+|rust-auto-pairs|
+
+       Vim: +dev 
+
 |rust-commands|
 
     Neovim: +v0.2.1 
@@ -54601,15 +54761,19 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.2.1 
        Vim: +v8.0.0501 
 
+|rust-syntastic|
+
+       Vim: +dev 
+
 |rust_<D-R>|
 
     Neovim: +v0.2.1 
-       Vim: +v8.0.0501 
+       Vim: +v8.0.0501 -dev 
 
 |rust_<D-r>|
 
     Neovim: +v0.2.1 
-       Vim: +v8.0.0501 
+       Vim: +v8.0.0501 -dev 
 
 |rview|
 
@@ -55879,12 +56043,10 @@ A listing of helptags with the versions they became available or were removed.
 
 |special-local-buffer-option|
 
-    Neovim: +nightly -dev 
        Vim: +v9.0.1710 -dev 
 
 |special-local-window-option|
 
-    Neovim: +nightly -dev 
        Vim: +v9.0.1710 -dev 
 
 |specifies|
