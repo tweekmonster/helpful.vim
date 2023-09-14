@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2023-09-13 00:13:07 UTC
+*helpful-version.txt*  Generated: 2023-09-14 00:12:58 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -10515,22 +10515,27 @@ A listing of helptags with the versions they became available or were removed.
 
 |:Cargo|
 
+    Neovim: +dev 
        Vim: +dev 
 
 |:Cbench|
 
+    Neovim: +dev 
        Vim: +dev 
 
 |:Cbuild|
 
+    Neovim: +dev 
        Vim: +dev 
 
 |:Cclean|
 
+    Neovim: +dev 
        Vim: +dev 
 
 |:Cdoc|
 
+    Neovim: +dev 
        Vim: +dev 
 
 |:Cfilter|
@@ -10544,10 +10549,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |:Cinit|
 
+    Neovim: +dev 
        Vim: +dev 
 
 |:Cinstall|
 
+    Neovim: +dev 
        Vim: +dev 
 
 |:Clear|
@@ -10583,26 +10590,32 @@ A listing of helptags with the versions they became available or were removed.
 
 |:Cpublish|
 
+    Neovim: +dev 
        Vim: +dev 
 
 |:Crun|
 
+    Neovim: +dev 
        Vim: +dev 
 
 |:Cruntarget|
 
+    Neovim: +dev 
        Vim: +dev 
 
 |:Csearch|
 
+    Neovim: +dev 
        Vim: +dev 
 
 |:Ctest|
 
+    Neovim: +dev 
        Vim: +dev 
 
 |:Cupdate|
 
+    Neovim: +dev 
        Vim: +dev 
 
 |:DiffOrig|
@@ -10864,14 +10877,17 @@ A listing of helptags with the versions they became available or were removed.
 
 |:RustInfo|
 
+    Neovim: +dev 
        Vim: +dev 
 
 |:RustInfoClipboard|
 
+    Neovim: +dev 
        Vim: +dev 
 
 |:RustInfoToFile|
 
+    Neovim: +dev 
        Vim: +dev 
 
 |:RustPlay|
@@ -10886,6 +10902,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |:RustTest|
 
+    Neovim: +dev 
        Vim: +dev 
 
 |:Sexplore|
@@ -30937,30 +30954,37 @@ A listing of helptags with the versions they became available or were removed.
 
 |b:rust_cargo_avoid_whole_workspace|
 
+    Neovim: +dev 
        Vim: +dev 
 
 |b:rust_cargo_check_all_features|
 
+    Neovim: +dev 
        Vim: +dev 
 
 |b:rust_cargo_check_all_targets|
 
+    Neovim: +dev 
        Vim: +dev 
 
 |b:rust_cargo_check_benches|
 
+    Neovim: +dev 
        Vim: +dev 
 
 |b:rust_cargo_check_examples|
 
+    Neovim: +dev 
        Vim: +dev 
 
 |b:rust_cargo_check_tests|
 
+    Neovim: +dev 
        Vim: +dev 
 
 |b:rustfmt_autosave|
 
+    Neovim: +dev 
        Vim: +dev 
 
 |b:term_title|
@@ -38272,10 +38296,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |g:cargo_makeprg_params|
 
+    Neovim: +dev 
        Vim: +dev 
 
 |g:cargo_shell_command_runner|
 
+    Neovim: +dev 
        Vim: +dev 
 
 |g:clipboard|
@@ -39285,30 +39311,37 @@ A listing of helptags with the versions they became available or were removed.
 
 |g:rust_cargo_avoid_whole_workspace|
 
+    Neovim: +dev 
        Vim: +dev 
 
 |g:rust_cargo_check_all_features|
 
+    Neovim: +dev 
        Vim: +dev 
 
 |g:rust_cargo_check_all_targets|
 
+    Neovim: +dev 
        Vim: +dev 
 
 |g:rust_cargo_check_benches|
 
+    Neovim: +dev 
        Vim: +dev 
 
 |g:rust_cargo_check_examples|
 
+    Neovim: +dev 
        Vim: +dev 
 
 |g:rust_cargo_check_tests|
 
+    Neovim: +dev 
        Vim: +dev 
 
 |g:rust_clip_command|
 
+    Neovim: +dev 
        Vim: +dev 
 
 |g:rust_conceal|
@@ -39333,6 +39366,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |g:rust_keep_autopairs_default|
 
+    Neovim: +dev 
        Vim: +dev 
 
 |g:rust_playpen_url|
@@ -39352,6 +39386,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |g:rust_use_custom_ctags_defs|
 
+    Neovim: +dev 
        Vim: +dev 
 
 |g:rustc_makeprg_no_percent|
@@ -39371,6 +39406,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |g:rustfmt_autosave_if_config_present|
 
+    Neovim: +dev 
        Vim: +dev 
 
 |g:rustfmt_command|
@@ -39380,6 +39416,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |g:rustfmt_emit_files|
 
+    Neovim: +dev 
        Vim: +dev 
 
 |g:rustfmt_fail_silently|
@@ -54739,6 +54776,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |rust-auto-pairs|
 
+    Neovim: +dev 
        Vim: +dev 
 
 |rust-commands|
@@ -54763,16 +54801,17 @@ A listing of helptags with the versions they became available or were removed.
 
 |rust-syntastic|
 
+    Neovim: +dev 
        Vim: +dev 
 
 |rust_<D-R>|
 
-    Neovim: +v0.2.1 
+    Neovim: +v0.2.1 -dev 
        Vim: +v8.0.0501 -dev 
 
 |rust_<D-r>|
 
-    Neovim: +v0.2.1 
+    Neovim: +v0.2.1 -dev 
        Vim: +v8.0.0501 -dev 
 
 |rview|
