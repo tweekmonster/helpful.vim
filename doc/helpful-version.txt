@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2023-09-17 00:14:12 UTC
+*helpful-version.txt*  Generated: 2023-09-19 00:13:27 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -22133,7 +22133,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |E1329|
 
-       Vim: +v9.0.1122 
+       Vim: +v9.0.1122 -v9.0.1909 
 
 |E133|
 
@@ -22158,7 +22158,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |E1334|
 
-       Vim: +v9.0.1122 
+       Vim: +v9.0.1122 -v9.0.1909 
 
 |E1335|
 
@@ -22297,6 +22297,26 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +nightly 
        Vim: +v9.0.1479 
 
+|E1365|
+
+       Vim: +v9.0.1909 
+
+|E1366|
+
+       Vim: +v9.0.1909 
+
+|E1367|
+
+       Vim: +v9.0.1909 
+
+|E1368|
+
+       Vim: +v9.0.1909 
+
+|E1369|
+
+       Vim: +v9.0.1909 
+
 |E137|
 
     Neovim: +v0.1.0 
@@ -22306,10 +22326,62 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v9.0.1821 
 
+|E1371|
+
+       Vim: +v9.0.1909 
+
+|E1372|
+
+       Vim: +v9.0.1909 
+
+|E1373|
+
+       Vim: +v9.0.1909 
+
+|E1374|
+
+       Vim: +v9.0.1909 
+
+|E1375|
+
+       Vim: +v9.0.1909 
+
+|E1376|
+
+       Vim: +v9.0.1909 
+
+|E1377|
+
+       Vim: +v9.0.1909 
+
+|E1378|
+
+       Vim: +v9.0.1909 
+
+|E1379|
+
+       Vim: +v9.0.1909 
+
 |E138|
 
     Neovim: +v0.1.0 -v0.2.0 
        Vim: +v7.0001 
+
+|E1380|
+
+       Vim: +v9.0.1909 
+
+|E1381|
+
+       Vim: +v9.0.1909 
+
+|E1382|
+
+       Vim: +v9.0.1909 
+
+|E1383|
+
+       Vim: +v9.0.1909 
 
 |E139|
 
@@ -32831,7 +32903,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |class-function|
 
-       Vim: +v9.0.1168 
+       Vim: +v9.0.1168 -v9.0.1909 
 
 |class-member|
 
@@ -32839,7 +32911,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |class-method|
 
-       Vim: +v9.0.1001 -v9.0.1168 
+       Vim: +v9.0.1909 -v9.0.1168 
 
 |clear-undo|
 
@@ -51738,6 +51810,11 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 -v0.4.0 
 
+|o_object-select|
+
+    Neovim: +dev 
+       Vim: +dev 
+
 |o_v|
 
     Neovim: +v0.1.0 
@@ -63164,6 +63241,11 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|v_object-select|
+
+    Neovim: +dev 
+       Vim: +dev 
 
 |v_p|
 
