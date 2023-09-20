@@ -11042,7 +11042,7 @@ o_Vneovim:v0.1.0,vim:v7.0001,
 o_[%neovim:v0.1.0,v0.4.0
 o_]%neovim:v0.1.0,v0.4.0
 o_g%neovim:v0.1.0,v0.4.0
-o_object-selectneovim:dev,vim:dev,
+o_object-selectneovim:nightly,vim:v9.0.1911,
 o_vneovim:v0.1.0,vim:v7.0001,
 objectvim:v9.0.1048,
 object-motionsneovim:v0.1.0,vim:v7.0001,
@@ -13551,7 +13551,7 @@ v_iwneovim:v0.1.0,vim:v7.0001,
 v_i{neovim:v0.1.0,vim:v7.0001,
 v_i}neovim:v0.1.0,vim:v7.0001,
 v_oneovim:v0.1.0,vim:v7.0001,
-v_object-selectneovim:dev,vim:dev,
+v_object-selectneovim:nightly,vim:v9.0.1911,
 v_pneovim:v0.1.0,vim:v7.0001,
 v_rneovim:v0.1.0,vim:v7.0001,
 v_sneovim:v0.1.0,vim:v7.0001,
