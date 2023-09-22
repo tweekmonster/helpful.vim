@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2023-09-21 00:13:13 UTC
+*helpful-version.txt*  Generated: 2023-09-22 00:13:58 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -96,11 +96,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |$XDG_CACHE_HOME|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |$XDG_CONFIG_DIRS|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |$XDG_CONFIG_HOME|
 
@@ -108,7 +108,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |$XDG_DATA_DIRS|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |$XDG_DATA_HOME|
 
@@ -10650,10 +10650,6 @@ A listing of helptags with the versions they became available or were removed.
 |:ELP|
 
        Vim: +v7.4.748 -v7.4.1725 
-
-|:EditQuery|
-
-    Neovim: +nightly -dev 
 
 |:Evaluate|
 
@@ -45174,15 +45170,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |lua-#|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-API|
 
     Neovim: +nightly 
-
-|lua-Lib|
-
-    Neovim: +nightly -dev 
 
 |lua-and|
 
@@ -45545,7 +45537,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |lua-lib|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-lib-core|
 
