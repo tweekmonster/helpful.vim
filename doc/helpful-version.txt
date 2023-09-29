@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2023-09-28 00:13:20 UTC
+*helpful-version.txt*  Generated: 2023-09-29 00:13:42 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -22393,6 +22393,18 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v9.0.1909 
 
+|E1384|
+
+       Vim: +dev 
+
+|E1385|
+
+       Vim: +dev 
+
+|E1386|
+
+       Vim: +dev 
+
 |E1387|
 
        Vim: +v9.0.1945 
@@ -22410,6 +22422,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|E1390|
+
+       Vim: +v9.0.1948 
+
 |E14|
 
     Neovim: +v0.1.0 -v0.4.0 
@@ -22422,33 +22438,33 @@ A listing of helptags with the versions they became available or were removed.
 
 |E1400|
 
-    Neovim: +nightly 
-       Vim: +v9.0.1704 
+    Neovim: +nightly -dev 
+       Vim: +v9.0.1704 -v9.0.1950 
 
 |E1401|
 
-    Neovim: +nightly 
-       Vim: +v9.0.1704 
+    Neovim: +nightly -dev 
+       Vim: +v9.0.1704 -v9.0.1950 
 
 |E1402|
 
-    Neovim: +nightly 
-       Vim: +v9.0.1704 
+    Neovim: +nightly -dev 
+       Vim: +v9.0.1704 -v9.0.1950 
 
 |E1403|
 
-    Neovim: +nightly 
-       Vim: +v9.0.1704 
+    Neovim: +nightly -dev 
+       Vim: +v9.0.1704 -v9.0.1950 
 
 |E1404|
 
-    Neovim: +nightly 
-       Vim: +v9.0.1704 
+    Neovim: +nightly -dev 
+       Vim: +v9.0.1704 -v9.0.1950 
 
 |E1405|
 
-    Neovim: +nightly 
-       Vim: +v9.0.1704 
+    Neovim: +nightly -dev 
+       Vim: +v9.0.1704 -v9.0.1950 
 
 |E141|
 
@@ -22504,6 +22520,36 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|E1500|
+
+    Neovim: +dev 
+       Vim: +v9.0.1950 
+
+|E1501|
+
+    Neovim: +dev 
+       Vim: +v9.0.1950 
+
+|E1502|
+
+    Neovim: +dev 
+       Vim: +v9.0.1950 
+
+|E1503|
+
+    Neovim: +dev 
+       Vim: +v9.0.1950 
+
+|E1504|
+
+    Neovim: +dev 
+       Vim: +v9.0.1950 
+
+|E1505|
+
+    Neovim: +dev 
+       Vim: +v9.0.1950 
 
 |E151|
 
@@ -33509,6 +33555,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|constructor|
+
+       Vim: +v9.0.1950 
+
 |context|
 
     Neovim: +v0.4.0 
@@ -34509,6 +34559,10 @@ A listing of helptags with the versions they became available or were removed.
 |default-autocmds|
 
     Neovim: +v0.6.0 
+
+|default-constructor|
+
+       Vim: +v9.0.1950 
 
 |default-mappings|
 
@@ -50276,6 +50330,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|new()|
+
+       Vim: +v9.0.1950 
+
 |new-5|
 
        Vim: +v7.0001 
@@ -53317,6 +53375,14 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 -v0.9.0 
        Vim: +v7.0001 
+
+|private-method|
+
+       Vim: +v9.0.1950 
+
+|private-variable|
+
+       Vim: +v9.0.1950 
 
 |profile|
 
