@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2023-09-29 00:13:42 UTC
+*helpful-version.txt*  Generated: 2023-09-30 00:13:00 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -16249,6 +16249,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|:set=|
+
+       Vim: +v9.0.1958 
+
 |:set^=|
 
     Neovim: +v0.1.0 
@@ -22395,15 +22399,15 @@ A listing of helptags with the versions they became available or were removed.
 
 |E1384|
 
-       Vim: +dev 
+       Vim: +v9.0.1951 
 
 |E1385|
 
-       Vim: +dev 
+       Vim: +v9.0.1951 
 
 |E1386|
 
-       Vim: +dev 
+       Vim: +v9.0.1951 
 
 |E1387|
 
@@ -22438,32 +22442,26 @@ A listing of helptags with the versions they became available or were removed.
 
 |E1400|
 
-    Neovim: +nightly -dev 
        Vim: +v9.0.1704 -v9.0.1950 
 
 |E1401|
 
-    Neovim: +nightly -dev 
        Vim: +v9.0.1704 -v9.0.1950 
 
 |E1402|
 
-    Neovim: +nightly -dev 
        Vim: +v9.0.1704 -v9.0.1950 
 
 |E1403|
 
-    Neovim: +nightly -dev 
        Vim: +v9.0.1704 -v9.0.1950 
 
 |E1404|
 
-    Neovim: +nightly -dev 
        Vim: +v9.0.1704 -v9.0.1950 
 
 |E1405|
 
-    Neovim: +nightly -dev 
        Vim: +v9.0.1704 -v9.0.1950 
 
 |E141|
@@ -22523,32 +22521,32 @@ A listing of helptags with the versions they became available or were removed.
 
 |E1500|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.0.1950 
 
 |E1501|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.0.1950 
 
 |E1502|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.0.1950 
 
 |E1503|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.0.1950 
 
 |E1504|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.0.1950 
 
 |E1505|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.0.1950 
 
 |E151|
@@ -33472,6 +33470,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.5.0 
        Vim: +v8.2.0344 
+
+|complete-set-option|
+
+       Vim: +v9.0.1958 
 
 |complete_CTRL-E|
 
