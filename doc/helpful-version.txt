@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2023-10-02 00:14:14 UTC
+*helpful-version.txt*  Generated: 2023-10-03 00:13:32 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -16255,7 +16255,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |:set=|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.0.1958 
 
 |:set^=|
@@ -22435,6 +22435,14 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v9.0.1948 
 
+|E1391|
+
+       Vim: +v9.0.1975 
+
+|E1392|
+
+       Vim: +v9.0.1975 
+
 |E14|
 
     Neovim: +v0.1.0 -v0.4.0 
@@ -22583,6 +22591,11 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|E1520|
+
+    Neovim: +dev 
+       Vim: +v9.0.1975 
 
 |E153|
 
@@ -25217,7 +25230,7 @@ A listing of helptags with the versions they became available or were removed.
 |E614|
 
     Neovim: +v0.1.0 
-       Vim: +v7.0001 -v8.2.4727 
+       Vim: +v9.0.1975 -v8.2.4727 
 
 |E615|
 
@@ -25227,7 +25240,7 @@ A listing of helptags with the versions they became available or were removed.
 |E616|
 
     Neovim: +v0.1.0 
-       Vim: +v7.0001 -v8.2.4727 
+       Vim: +v9.0.1975 -v8.2.4727 
 
 |E617|
 
@@ -25615,7 +25628,7 @@ A listing of helptags with the versions they became available or were removed.
 |E693|
 
     Neovim: +v0.1.0 -v0.2.0 
-       Vim: +v7.0034 -v7.4.1761 
+       Vim: +v9.0.1975 -v7.4.1761 
 
 |E694|
 
@@ -25684,8 +25697,8 @@ A listing of helptags with the versions they became available or were removed.
 
 |E706|
 
-    Neovim: +v0.1.0 -v0.1.5 
-       Vim: +v7.0034 -v7.4.1546 
+    Neovim: +dev -v0.1.5 
+       Vim: +v9.0.1975 -v7.4.1546 
 
 |E707|
 
@@ -33498,7 +33511,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |complete-set-option|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.0.1958 
 
 |complete_CTRL-E|
@@ -51542,7 +51555,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |nvim_get_hl_ns()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_get_keymap()|
 
@@ -65220,7 +65233,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.treesitter.foldtext()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.treesitter.get_captures_at_cursor()|
 
