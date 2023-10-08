@@ -4688,12 +4688,12 @@ E1503neovim:nightly,vim:v9.0.1950,
 E1504neovim:nightly,vim:v9.0.1950,
 E1505neovim:nightly,vim:v9.0.1950,
 E1506neovim:nightly,vim:v9.0.1962,
-E1507neovim:dev,vim:v9.0.1990,v9.0.1977
+E1507neovim:nightly,vim:v9.0.1990,v9.0.1977
 E1508neovim:nightly,vim:v9.0.1962,
 E1509neovim:nightly,vim:v9.0.1962,
 E151neovim:v0.1.0,vim:v7.0001,
 E152neovim:v0.1.0,vim:v7.0001,
-E1520neovim:nightly,devvim:v9.0.1975,v9.0.1997
+E1520vim:v9.0.1975,v9.0.1997
 E153neovim:v0.1.0,vim:v7.0001,
 E154neovim:v0.1.0,vim:v7.0001,
 E155neovim:v0.1.0,vim:v7.0001,
