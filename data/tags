@@ -12004,6 +12004,11 @@ sniffvim:v7.0001,v7.4.1433
 sniff-commandsvim:v7.0001,v7.4.1433
 sniff-compilingvim:v7.0001,v7.4.1433
 sniff-introvim:v7.0001,v7.4.1433
+snippet.active()neovim:dev,
+snippet.exit()neovim:dev,
+snippet.expand()neovim:dev,
+snippet.jump()neovim:dev,
+snippet.jumpable()neovim:dev,
 sockconnect()neovim:v0.2.1,
 socket-interfacevim:v7.4.1191,v7.4.1192
 sort()neovim:v0.1.0,vim:v7.0033,
@@ -14009,6 +14014,7 @@ vim.secureneovim:nightly,
 vim.secure.read()neovim:v0.9.0,
 vim.secure.trust()neovim:v0.9.0,
 vim.show_pos()neovim:v0.9.0,
+vim.snippetneovim:dev,
 vim.spairs()neovim:v0.9.0,
 vim.spellneovim:nightly,
 vim.spell.check()neovim:v0.7.0,
@@ -14123,6 +14129,7 @@ vim9-differencesvim:v8.2.0149,
 vim9-exportvim:v8.2.0149,
 vim9-false-truevim:v9.0.1627,
 vim9-finalvim:v8.2.1744,
+vim9-func-declarationvim:v9.0.2057,
 vim9-function-defined-latervim:v8.2.3346,
 vim9-gotchasvim:v8.2.1098,
 vim9-ignored-argumentvim:v8.2.2744,
