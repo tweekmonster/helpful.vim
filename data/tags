@@ -12004,11 +12004,11 @@ sniffvim:v7.0001,v7.4.1433
 sniff-commandsvim:v7.0001,v7.4.1433
 sniff-compilingvim:v7.0001,v7.4.1433
 sniff-introvim:v7.0001,v7.4.1433
-snippet.active()neovim:dev,
-snippet.exit()neovim:dev,
-snippet.expand()neovim:dev,
-snippet.jump()neovim:dev,
-snippet.jumpable()neovim:dev,
+snippet.active()neovim:nightly,
+snippet.exit()neovim:nightly,
+snippet.expand()neovim:nightly,
+snippet.jump()neovim:nightly,
+snippet.jumpable()neovim:nightly,
 sockconnect()neovim:v0.2.1,
 socket-interfacevim:v7.4.1191,v7.4.1192
 sort()neovim:v0.1.0,vim:v7.0033,
@@ -14014,7 +14014,7 @@ vim.secureneovim:nightly,
 vim.secure.read()neovim:v0.9.0,
 vim.secure.trust()neovim:v0.9.0,
 vim.show_pos()neovim:v0.9.0,
-vim.snippetneovim:dev,
+vim.snippetneovim:nightly,
 vim.spairs()neovim:v0.9.0,
 vim.spellneovim:nightly,
 vim.spell.check()neovim:v0.7.0,
