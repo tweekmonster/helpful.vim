@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2023-11-06 00:14:47 UTC
+*helpful-version.txt*  Generated: 2023-11-07 00:13:39 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -35144,6 +35144,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |dist#vim|
 
+    Neovim: +dev 
        Vim: +v9.0.2092 
 
 |dist#vim9|
@@ -38765,6 +38766,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |g:gzip_exec|
 
+    Neovim: +dev 
        Vim: +v9.0.2092 
 
 |g:html_charset_override|
@@ -39865,6 +39867,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |g:zip_exec|
 
+    Neovim: +dev 
        Vim: +v9.0.2092 
 
 |g:zip_extractcmd|
@@ -51847,6 +51850,10 @@ A listing of helptags with the versions they became available or were removed.
 |nvim_ui_set_option()|
 
     Neovim: +v0.2.0 
+
+|nvim_ui_term_event()|
+
+    Neovim: +dev 
 
 |nvim_ui_try_resize()|
 
@@ -63911,6 +63918,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim-script-library|
 
+    Neovim: +dev 
        Vim: +v9.0.2092 
 
 |vim-syntax|

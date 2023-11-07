@@ -7355,7 +7355,7 @@ disable-menusneovim:v0.1.0,vim:v7.0001,
 disable-mouseneovim:v0.8.0,
 disable_char_avail_for_testing()vim:v7.4.1310,v7.4.1844
 discardneovim:v0.1.0,vim:v7.4b.015,
-dist#vimvim:v9.0.2092,
+dist#vimneovim:dev,vim:v9.0.2092,
 dist#vim9vim:v9.0.2092,
 distribute-scriptneovim:v0.1.0,vim:v7.0231,
 distributed-pluginsvim:v9.0.1898,
@@ -8112,7 +8112,7 @@ g:gnat.Project_Fileneovim:v0.1.0,vim:v7.2a,v7.2a.00
 g:gnat.Set_Project_File()neovim:v0.1.0,vim:v7.2a,v7.2a.00
 g:gnat.Tags()neovim:v0.1.0,vim:v7.2a,v7.2a.00
 g:gnat.Tags_Commandneovim:v0.1.0,vim:v7.2a,v7.2a.00
-g:gzip_execvim:v9.0.2092,
+g:gzip_execneovim:dev,vim:v9.0.2092,
 g:html_charset_overrideneovim:v0.1.0,vim:v7.3.616,
 g:html_diff_one_fileneovim:v0.1.0,vim:v7.3.616,
 g:html_dynamic_foldsneovim:v0.1.0,vim:v7.3.616,
@@ -8338,7 +8338,7 @@ g:vimsyn_minlinesneovim:v0.1.0,vim:v7.2a,
 g:vimsyn_noerrorneovim:v0.1.0,vim:v7.2a,
 g:yaml_schemaneovim:v0.1.2,vim:v7.4.694,
 g:zipPlugin_extneovim:v0.2.0,vim:v8.0.0006,
-g:zip_execvim:v9.0.2092,
+g:zip_execneovim:dev,vim:v9.0.2092,
 g:zip_extractcmdneovim:v0.2.0,vim:v8.0.0006,
 g:zip_nomaxneovim:v0.1.0,vim:v7.2a,
 g:zip_shqneovim:v0.1.0,vim:v7.2a,
@@ -11050,6 +11050,7 @@ nvim_ui_pum_set_bounds()neovim:v0.5.0,
 nvim_ui_pum_set_height()neovim:v0.4.0,
 nvim_ui_set_focus()neovim:v0.9.0,
 nvim_ui_set_option()neovim:v0.2.0,
+nvim_ui_term_event()neovim:dev,
 nvim_ui_try_resize()neovim:v0.2.0,
 nvim_ui_try_resize_grid()neovim:v0.4.0,
 nvim_unsubscribe()neovim:v0.2.0,
@@ -13704,7 +13705,7 @@ vim-multibyteneovim:v0.1.0,v0.2.0vim:v7.0001,v8.0.0164
 vim-rakuneovim:v0.5.0,vim:v8.2.2800,
 vim-raku.txtneovim:v0.5.0,v0.6.0vim:v8.2.2800,v8.2.3065
 vim-script-introneovim:v0.1.0,vim:v7.0001,
-vim-script-libraryvim:v9.0.2092,
+vim-script-libraryneovim:dev,vim:v9.0.2092,
 vim-syntaxvim:v7.0001,v7.0139
 vim-tutor-createneovim:v0.1.0,
 vim-tutor-modeneovim:v0.1.0,
