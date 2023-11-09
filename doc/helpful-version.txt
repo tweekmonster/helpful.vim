@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2023-11-08 00:13:36 UTC
+*helpful-version.txt*  Generated: 2023-11-09 00:13:33 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -33103,7 +33103,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |clipboard-osc52|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |clipboard-tool|
 
@@ -59590,6 +59590,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +nightly 
        Vim: +v9.0.1784 
+
+|termdebug-mappings|
+
+       Vim: +dev 
 
 |termdebug-prompt|
 
