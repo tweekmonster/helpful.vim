@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2023-11-10 00:13:26 UTC
+*helpful-version.txt*  Generated: 2023-11-11 00:13:59 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -21911,7 +21911,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |E1276|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.2.4861 
 
 |E1277|
@@ -30140,7 +30140,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |abbreviation|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |abbreviations|
 
@@ -47909,7 +47909,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |maplist()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.2.4825 
 
 |maplocalleader|
@@ -47984,7 +47984,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |mapping-dict|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.2.4820 
 
 |mapping-functions|
