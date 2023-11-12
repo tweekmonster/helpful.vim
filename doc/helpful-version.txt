@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2023-11-11 00:13:59 UTC
+*helpful-version.txt*  Generated: 2023-11-12 00:15:16 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -40137,6 +40137,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|gender-neutral|
+
+       Vim: +v9.0.2098 
+
 |get|
 
        Vim: +v7.0033 -v7.0045 
@@ -50985,6 +50989,10 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v9.0.1048 
 
+|null_class|
+
+       Vim: +v9.0.2099 
+
 |null_dict|
 
        Vim: +v9.0.1048 
@@ -51000,6 +51008,10 @@ A listing of helptags with the versions they became available or were removed.
 |null_list|
 
        Vim: +v9.0.1048 
+
+|null_object|
+
+       Vim: +v9.0.2099 
 
 |null_partial|
 
@@ -53472,11 +53484,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |private-method|
 
-       Vim: +v9.0.1950 
+       Vim: +v9.0.1950 -v9.0.2096 
 
 |private-variable|
 
-       Vim: +v9.0.1950 
+       Vim: +v9.0.1950 -v9.0.2096 
 
 |profile|
 
@@ -53591,6 +53603,14 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v8.1.0579 
 
+|protected-method|
+
+       Vim: +v9.0.2096 
+
+|protected-variable|
+
+       Vim: +v9.0.2096 
+
 |provider|
 
     Neovim: +v0.1.5 
@@ -53674,6 +53694,10 @@ A listing of helptags with the versions they became available or were removed.
 |pterm-mouse|
 
        Vim: +v7.0001 
+
+|public-variable|
+
+       Vim: +v9.0.2096 
 
 |pum_getpos()|
 
@@ -54402,6 +54426,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|read-only-variable|
+
+       Vim: +v9.0.2096 
 
 |read-stdin|
 
@@ -59601,7 +59629,7 @@ A listing of helptags with the versions they became available or were removed.
 |termdebug-mappings|
 
     Neovim: +nightly 
-       Vim: +dev 
+       Vim: +v9.0.2096 
 
 |termdebug-prompt|
 
@@ -65624,6 +65652,10 @@ A listing of helptags with the versions they became available or were removed.
 |vim9|
 
        Vim: +v8.2.2239 -v8.2.2198 
+
+|vim9-access-modes|
+
+       Vim: +v9.0.2096 
 
 |vim9-autoload|
 
