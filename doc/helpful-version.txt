@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2023-11-12 00:15:16 UTC
+*helpful-version.txt*  Generated: 2023-11-13 00:14:49 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -45269,6 +45269,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.6.0 
 
+|lsp-inlay_hint|
+
+    Neovim: +dev 
+
 |lsp-log|
 
     Neovim: +v0.5.0 
@@ -64783,7 +64787,19 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.lsp.inlay_hint()|
 
-    Neovim: +nightly 
+    Neovim: +nightly -dev 
+
+|vim.lsp.inlay_hint.enable()|
+
+    Neovim: +dev 
+
+|vim.lsp.inlay_hint.get()|
+
+    Neovim: +dev 
+
+|vim.lsp.inlay_hint.is_enabled()|
+
+    Neovim: +dev 
 
 |vim.lsp.log.get_filename()|
 

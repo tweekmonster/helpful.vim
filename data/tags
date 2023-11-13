@@ -9516,6 +9516,7 @@ lsp-highlightneovim:v0.5.0,
 lsp-highlight-codelensneovim:v0.5.0,
 lsp-highlight-diagnosticsneovim:v0.5.0,v0.6.0
 lsp-highlight-signatureneovim:v0.6.0,
+lsp-inlay_hintneovim:dev,
 lsp-logneovim:v0.5.0,
 lsp-methodneovim:v0.5.0,
 lsp-notificationneovim:v0.5.0,
@@ -13919,7 +13920,10 @@ vim.lsp.handlers.hover()neovim:v0.6.0,
 vim.lsp.handlers.progress_handler()neovim:v0.5.0,v0.6.0
 vim.lsp.handlers.signature_help()neovim:v0.5.0,
 vim.lsp.init()neovim:v0.5.0,v0.6.0
-vim.lsp.inlay_hint()neovim:nightly,
+vim.lsp.inlay_hint()neovim:nightly,dev
+vim.lsp.inlay_hint.enable()neovim:dev,
+vim.lsp.inlay_hint.get()neovim:dev,
+vim.lsp.inlay_hint.is_enabled()neovim:dev,
 vim.lsp.log.get_filename()neovim:v0.5.0,
 vim.lsp.log.get_level()neovim:v0.6.0,
 vim.lsp.log.set_format_func()neovim:v0.6.0,
