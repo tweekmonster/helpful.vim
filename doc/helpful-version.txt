@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2023-11-16 00:13:39 UTC
+*helpful-version.txt*  Generated: 2023-11-17 00:13:35 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -22603,6 +22603,11 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|E1510|
+
+    Neovim: +dev 
+       Vim: +v9.0.2108 
 
 |E152|
 
@@ -56307,23 +56312,23 @@ A listing of helptags with the versions they became available or were removed.
 
 |snippet.active()|
 
-    Neovim: +nightly 
+    Neovim: +nightly -dev 
 
 |snippet.exit()|
 
-    Neovim: +nightly 
+    Neovim: +nightly -dev 
 
 |snippet.expand()|
 
-    Neovim: +nightly 
+    Neovim: +nightly -dev 
 
 |snippet.jump()|
 
-    Neovim: +nightly 
+    Neovim: +nightly -dev 
 
 |snippet.jumpable()|
 
-    Neovim: +nightly 
+    Neovim: +nightly -dev 
 
 |sockconnect()|
 
@@ -65265,6 +65270,26 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +nightly 
 
+|vim.snippet.active()|
+
+    Neovim: +dev 
+
+|vim.snippet.exit()|
+
+    Neovim: +dev 
+
+|vim.snippet.expand()|
+
+    Neovim: +dev 
+
+|vim.snippet.jump()|
+
+    Neovim: +dev 
+
+|vim.snippet.jumpable()|
+
+    Neovim: +dev 
+
 |vim.spairs()|
 
     Neovim: +v0.9.0 
@@ -65373,6 +65398,18 @@ A listing of helptags with the versions they became available or were removed.
 |vim.tbl_values()|
 
     Neovim: +v0.5.0 
+
+|vim.text|
+
+    Neovim: +dev 
+
+|vim.text.hexdecode()|
+
+    Neovim: +dev 
+
+|vim.text.hexencode()|
+
+    Neovim: +dev 
 
 |vim.treesitter.foldexpr()|
 

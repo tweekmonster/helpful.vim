@@ -4696,6 +4696,7 @@ E1507neovim:nightly,vim:v9.0.1990,v9.0.1977
 E1508neovim:nightly,vim:v9.0.1962,
 E1509neovim:nightly,vim:v9.0.1962,
 E151neovim:v0.1.0,vim:v7.0001,
+E1510neovim:dev,vim:v9.0.2108,
 E152neovim:v0.1.0,vim:v7.0001,
 E1520vim:v9.0.1975,v9.0.1997
 E153neovim:v0.1.0,vim:v7.0001,
@@ -12021,11 +12022,11 @@ sniffvim:v7.0001,v7.4.1433
 sniff-commandsvim:v7.0001,v7.4.1433
 sniff-compilingvim:v7.0001,v7.4.1433
 sniff-introvim:v7.0001,v7.4.1433
-snippet.active()neovim:nightly,
-snippet.exit()neovim:nightly,
-snippet.expand()neovim:nightly,
-snippet.jump()neovim:nightly,
-snippet.jumpable()neovim:nightly,
+snippet.active()neovim:nightly,dev
+snippet.exit()neovim:nightly,dev
+snippet.expand()neovim:nightly,dev
+snippet.jump()neovim:nightly,dev
+snippet.jumpable()neovim:nightly,dev
 sockconnect()neovim:v0.2.1,
 socket-interfacevim:v7.4.1191,v7.4.1192
 sort()neovim:v0.1.0,vim:v7.0033,
@@ -14040,6 +14041,11 @@ vim.secure.read()neovim:v0.9.0,
 vim.secure.trust()neovim:v0.9.0,
 vim.show_pos()neovim:v0.9.0,
 vim.snippetneovim:nightly,
+vim.snippet.active()neovim:dev,
+vim.snippet.exit()neovim:dev,
+vim.snippet.expand()neovim:dev,
+vim.snippet.jump()neovim:dev,
+vim.snippet.jumpable()neovim:dev,
 vim.spairs()neovim:v0.9.0,
 vim.spellneovim:nightly,
 vim.spell.check()neovim:v0.7.0,
@@ -14067,6 +14073,9 @@ vim.tbl_islist()neovim:v0.5.0,
 vim.tbl_keys()neovim:v0.5.0,
 vim.tbl_map()neovim:v0.5.0,
 vim.tbl_values()neovim:v0.5.0,
+vim.textneovim:dev,
+vim.text.hexdecode()neovim:dev,
+vim.text.hexencode()neovim:dev,
 vim.treesitter.foldexpr()neovim:v0.9.0,
 vim.treesitter.foldtext()neovim:nightly,
 vim.treesitter.get_captures_at_cursor()neovim:v0.9.0,
