@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2023-11-19 00:14:46 UTC
+*helpful-version.txt*  Generated: 2023-11-20 00:14:05 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -63968,7 +63968,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim-security|
 
-       Vim: +dev 
+       Vim: +v9.0.2113 
 
 |vim-syntax|
 

@@ -13716,7 +13716,7 @@ vim-rakuneovim:v0.5.0,vim:v8.2.2800,
 vim-raku.txtneovim:v0.5.0,v0.6.0vim:v8.2.2800,v8.2.3065
 vim-script-introneovim:v0.1.0,vim:v7.0001,
 vim-script-libraryneovim:nightly,vim:v9.0.2092,
-vim-securityvim:dev,
+vim-securityvim:v9.0.2113,
 vim-syntaxvim:v7.0001,v7.0139
 vim-tutor-createneovim:v0.1.0,
 vim-tutor-modeneovim:v0.1.0,
