@@ -10900,6 +10900,7 @@ nvim__id_array()neovim:v0.2.1,
 nvim__id_dictionary()neovim:v0.2.1,
 nvim__id_float()neovim:v0.2.1,
 nvim__inspect_cell()neovim:v0.3.2,
+nvim__invalidate_glyph_cache()neovim:dev,
 nvim__runtime_inspect()neovim:v0.6.0,v0.8.0
 nvim__screenshot()neovim:v0.5.0,v0.8.0
 nvim__set_hl_ns()neovim:v0.5.0,v0.8.0
