@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2023-12-07 00:13:47 UTC
+*helpful-version.txt*  Generated: 2023-12-11 00:14:10 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -37656,6 +37656,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0191 
+
+|ft-json-plugin|
+
+       Vim: +dev 
 
 |ft-json-syntax|
 
