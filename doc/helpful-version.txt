@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2023-12-11 00:14:10 UTC
+*helpful-version.txt*  Generated: 2023-12-12 00:14:11 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -37659,7 +37659,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |ft-json-plugin|
 
-       Vim: +dev 
+       Vim: +v9.0.2156 
 
 |ft-json-syntax|
 
