@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2023-12-13 00:14:08 UTC
+*helpful-version.txt*  Generated: 2023-12-14 00:13:47 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -27680,7 +27680,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |Iter:take()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |Iter:totable()|
 
@@ -34874,9 +34874,53 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +nightly 
 
+|dev-tools|
+
+    Neovim: +dev 
+
+|dev-tools-backtrace|
+
+    Neovim: +dev 
+
+|dev-tools-gdb|
+
+    Neovim: +dev 
+
 |dev-ui|
 
     Neovim: +v0.2.0 
+
+|dev-vimpatch|
+
+    Neovim: +dev 
+
+|dev-vimpatch-code-differences|
+
+    Neovim: +dev 
+
+|dev-vimpatch-documentation|
+
+    Neovim: +dev 
+
+|dev-vimpatch-list-management|
+
+    Neovim: +dev 
+
+|dev-vimpatch-not-applicable|
+
+    Neovim: +dev 
+
+|dev-vimpatch-pull-requests|
+
+    Neovim: +dev 
+
+|dev-vimpatch-quickstart|
+
+    Neovim: +dev 
+
+|dev-vimpatch-version.c|
+
+    Neovim: +dev 
 
 |dev_style.txt|
 
@@ -34885,6 +34929,14 @@ A listing of helptags with the versions they became available or were removed.
 |dev_theme.txt|
 
     Neovim: +nightly 
+
+|dev_tools.txt|
+
+    Neovim: +dev 
+
+|dev_vimpatch.txt|
+
+    Neovim: +dev 
 
 |develop-spell|
 
@@ -36513,6 +36565,26 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|faq-build|
+
+    Neovim: +dev 
+
+|faq-design|
+
+    Neovim: +dev 
+
+|faq-general|
+
+    Neovim: +dev 
+
+|faq-runtime|
+
+    Neovim: +dev 
+
+|faq.txt|
+
+    Neovim: +dev 
 
 |farsi|
 
