@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2023-12-16 00:13:59 UTC
+*helpful-version.txt*  Generated: 2023-12-17 00:15:02 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -10960,7 +10960,7 @@ A listing of helptags with the versions they became available or were removed.
 |:Tbreak|
 
     Neovim: +nightly 
-       Vim: +dev 
+       Vim: +v9.0.2168 
 
 |:Termdebug|
 
@@ -22531,10 +22531,22 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v9.0.2162 
 
+|E1408|
+
+       Vim: +v9.0.2170 
+
+|E1409|
+
+       Vim: +v9.0.2170 
+
 |E141|
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|E1410|
+
+       Vim: +v9.0.2170 
 
 |E142|
 
@@ -51604,6 +51616,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.2.0 
 
+|nvim_complete_set()|
+
+    Neovim: +dev 
+
 |nvim_create_augroup()|
 
     Neovim: +v0.7.0 
@@ -52188,6 +52204,14 @@ A listing of helptags with the versions they became available or were removed.
 |object|
 
        Vim: +v9.0.1048 
+
+|object-const-variable|
+
+       Vim: +v9.0.2170 
+
+|object-final-variable|
+
+       Vim: +v9.0.2170 
 
 |object-motions|
 
