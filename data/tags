@@ -10990,7 +10990,7 @@ nvim_clipboard.txtneovim:v0.1.0,v0.1.5
 nvim_cmd()neovim:v0.8.0,
 nvim_command()neovim:v0.2.0,
 nvim_command_output()neovim:v0.2.0,
-nvim_complete_set()neovim:dev,
+nvim_complete_set()neovim:nightly,
 nvim_create_augroup()neovim:v0.7.0,
 nvim_create_autocmd()neovim:v0.7.0,
 nvim_create_buf()neovim:v0.4.0,
