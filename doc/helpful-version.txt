@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2023-12-20 00:12:11 UTC
+*helpful-version.txt*  Generated: 2023-12-22 00:13:41 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -22525,7 +22525,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |E1405|
 
-       Vim: +v9.0.1704 -v9.0.1950 
+       Vim: +dev -v9.0.1950 
+
+|E1406|
+
+       Vim: +dev 
 
 |E1407|
 
@@ -22547,6 +22551,10 @@ A listing of helptags with the versions they became available or were removed.
 |E1410|
 
        Vim: +v9.0.2170 
+
+|E1411|
+
+       Vim: +dev 
 
 |E142|
 
@@ -52391,6 +52399,26 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.3.116 
 
+|option_command-variable|
+
+    Neovim: +dev 
+
+|option_new-variable|
+
+    Neovim: +dev 
+
+|option_old-variable|
+
+    Neovim: +dev 
+
+|option_oldglobal-variable|
+
+    Neovim: +dev 
+
+|option_oldlocal-variable|
+
+    Neovim: +dev 
+
 |option_restore()|
 
        Vim: +v8.0.1401 
@@ -52398,6 +52426,10 @@ A listing of helptags with the versions they became available or were removed.
 |option_save()|
 
        Vim: +v8.0.1401 
+
+|option_type-variable|
+
+    Neovim: +dev 
 
 |optional-function-argument|
 
@@ -66440,6 +66472,14 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 -v0.2.0 
        Vim: +v7.0001 
+
+|vvars|
+
+    Neovim: +dev 
+
+|vvars.txt|
+
+    Neovim: +dev 
 
 |w|
 
