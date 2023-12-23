@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2023-12-22 00:13:41 UTC
+*helpful-version.txt*  Generated: 2023-12-23 00:13:27 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -52401,23 +52401,23 @@ A listing of helptags with the versions they became available or were removed.
 
 |option_command-variable|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |option_new-variable|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |option_old-variable|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |option_oldglobal-variable|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |option_oldlocal-variable|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |option_restore()|
 
@@ -52429,7 +52429,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |option_type-variable|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |optional-function-argument|
 
@@ -66475,11 +66475,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |vvars|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vvars.txt|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |w|
 
