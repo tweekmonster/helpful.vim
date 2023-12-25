@@ -4681,14 +4681,14 @@ E1401vim:v9.0.2162,v9.0.1950
 E1402vim:v9.0.2162,v9.0.1950
 E1403vim:v9.0.2162,v9.0.1950
 E1404vim:v9.0.1704,v9.0.1950
-E1405vim:dev,v9.0.1950
-E1406vim:dev,
+E1405vim:v9.0.2185,v9.0.1950
+E1406vim:v9.0.2185,
 E1407vim:v9.0.2162,
 E1408vim:v9.0.2170,
 E1409vim:v9.0.2170,
 E141neovim:v0.1.0,vim:v7.0001,
 E1410vim:v9.0.2170,
-E1411vim:dev,
+E1411vim:v9.0.2185,
 E142neovim:v0.1.0,vim:v7.0001,
 E143neovim:v0.1.0,vim:v7.0001,
 E144neovim:v0.1.0,vim:v7.0001,
@@ -14204,6 +14204,7 @@ vim9vim:v8.2.2239,v8.2.2198
 vim9-access-modesvim:v9.0.2096,
 vim9-autoloadvim:v8.2.4050,
 vim9-booleanvim:v8.2.3913,
+vim9-classvim:v9.0.2185,
 vim9-classesvim:v8.2.1713,
 vim9-constvim:v8.2.1685,
 vim9-curlyvim:v8.2.2410,
