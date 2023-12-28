@@ -274,18 +274,18 @@ endfunction
 
 
 function! s:_lookup_sort(a, b) abort
-  if a:a < a:b
-    return -1
-  elseif a:a > a:b
-    return 1
-  endif
-
   let al = strlen(a:a)
   let bl = strlen(a:b)
 
   if al < bl
     return -1
   elseif al > bl
+    return 1
+  endif
+
+  if a:a < a:b
+    return -1
+  elseif a:a > a:b
     return 1
   endif
 
