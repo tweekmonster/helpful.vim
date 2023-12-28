@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2023-12-27 00:13:31 UTC
+*helpful-version.txt*  Generated: 2023-12-28 00:13:39 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -38120,7 +38120,8 @@ A listing of helptags with the versions they became available or were removed.
 
 |ft-rnoweb-plugin|
 
-       Vim: +dev 
+    Neovim: +dev 
+       Vim: +v9.0.2186 
 
 |ft-rrst-plugin|
 
@@ -49150,6 +49151,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|multiple-constructors|
+
+       Vim: +v9.0.2187 
+
 |myfiletypefile|
 
     Neovim: +v0.1.0 
@@ -51164,15 +51169,15 @@ A listing of helptags with the versions they became available or were removed.
 
 |null-anomalies|
 
-       Vim: +dev 
+       Vim: +v9.0.2186 
 
 |null-compare|
 
-       Vim: +dev 
+       Vim: +v9.0.2186 
 
 |null-details|
 
-       Vim: +dev 
+       Vim: +v9.0.2186 
 
 |null-variable|
 
@@ -51181,7 +51186,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |null-variables|
 
-       Vim: +dev 
+       Vim: +v9.0.2186 
 
 |null_blob|
 
@@ -63245,7 +63250,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |v_@-default|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |v_ALT|
 
@@ -63347,7 +63352,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |v_Q-default|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |v_R|
 
@@ -63825,7 +63830,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |variable-categories|
 
-       Vim: +dev 
+       Vim: +v9.0.2186 
 
 |variable-scope|
 
