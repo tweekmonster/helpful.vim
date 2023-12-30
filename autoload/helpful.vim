@@ -296,7 +296,7 @@ endfunction
 " Find helptag using a pattern and print the results.
 function! helpful#lookup(pattern) abort
   " Remove @{lang} pattern
-  let pattern = substitute(a:pattern, '@\w\+$', '', '')
+  let pattern = substitute(a:pattern, '.\+\zs@\w\+$', '', '')
 
   call s:load_data()
 
