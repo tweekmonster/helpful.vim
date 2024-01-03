@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2024-01-02 00:14:01 UTC
+*helpful-version.txt*  Generated: 2024-01-03 00:13:56 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -17576,7 +17576,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |:this|
 
-       Vim: +dev 
+       Vim: +v9.1.0 
 
 |:throw|
 
@@ -27653,7 +27653,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |Interface|
 
-       Vim: +dev 
+       Vim: +v9.1.0 
 
 |Iter|
 
@@ -46064,7 +46064,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |lua-regex|
 
-    Neovim: +v0.5.0 -nightly 
+    Neovim: +dev -nightly 
 
 |lua-registry|
 
@@ -61057,7 +61057,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |typealias|
 
-       Vim: +dev 
+       Vim: +v9.1.0 
 
 |typecorr-settings|
 
@@ -64345,7 +64345,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.diagnostic.count()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.diagnostic.disable()|
 
@@ -64515,6 +64515,14 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.5.0 
        Vim: +v8.2.3288 
+
+|vim.glob|
+
+    Neovim: +dev 
+
+|vim.glob.to_lpeg()|
+
+    Neovim: +dev 
 
 |vim.go|
 
@@ -65131,6 +65139,10 @@ A listing of helptags with the versions they became available or were removed.
 |vim.lsp.rpc.connect()|
 
     Neovim: +v0.8.0 
+
+|vim.lsp.rpc.domain_socket_connect()|
+
+    Neovim: +dev 
 
 |vim.lsp.rpc.format_rpc_error()|
 
