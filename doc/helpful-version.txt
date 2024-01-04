@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2024-01-03 00:13:56 UTC
+*helpful-version.txt*  Generated: 2024-01-04 00:14:40 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -37646,6 +37646,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0139 
 
+|ft-diff-syntax|
+
+       Vim: +v9.1.0001 
+
 |ft-dircolors-syntax|
 
     Neovim: +v0.1.0 
@@ -46064,7 +46068,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |lua-regex|
 
-    Neovim: +dev -nightly 
+    Neovim: +v0.5.0 
 
 |lua-registry|
 
@@ -64518,11 +64522,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.glob|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.glob.to_lpeg()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.go|
 
@@ -65142,7 +65146,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.lsp.rpc.domain_socket_connect()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.rpc.format_rpc_error()|
 
