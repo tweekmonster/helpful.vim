@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2024-01-05 00:14:01 UTC
+*helpful-version.txt*  Generated: 2024-01-06 00:13:59 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -37648,7 +37648,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |ft-diff-syntax|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.0001 
 
 |ft-dircolors-syntax|
@@ -37950,6 +37950,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0139 
+
+|ft-modula2-syntax|
+
+       Vim: +v9.1.0013 
 
 |ft-moo-syntax|
 
@@ -48824,6 +48828,38 @@ A listing of helptags with the versions they became available or were removed.
 |modifyOtherKeys|
 
        Vim: +v8.1.2194 
+
+|modula2.vim|
+
+       Vim: +v9.1.0013 
+
+|modula2_iso_allow_lowline|
+
+       Vim: +v9.1.0013 
+
+|modula2_iso_disallow_octals|
+
+       Vim: +v9.1.0013 
+
+|modula2_iso_disallow_synonyms|
+
+       Vim: +v9.1.0013 
+
+|modula2_pim_allow_lowline|
+
+       Vim: +v9.1.0013 
+
+|modula2_pim_disallow_octals|
+
+       Vim: +v9.1.0013 
+
+|modula2_pim_disallow_synonyms|
+
+       Vim: +v9.1.0013 
+
+|modula2_r10_allow_lowline|
+
+       Vim: +v9.1.0013 
 
 |module()|
 
