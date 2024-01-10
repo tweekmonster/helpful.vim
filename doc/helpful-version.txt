@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2024-01-08 00:14:51 UTC
+*helpful-version.txt*  Generated: 2024-01-10 00:14:03 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -29051,6 +29051,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
 
+|TermRequest|
+
+    Neovim: +dev 
+
 |TermResponse|
 
     Neovim: +v0.1.0 
@@ -39453,8 +39457,8 @@ A listing of helptags with the versions they became available or were removed.
 
 |g:netrw_localrmdir|
 
-    Neovim: +v0.1.0 
-       Vim: +v9.0.1556 -v9.0.1479 
+    Neovim: +v0.1.0 -dev 
+       Vim: +v9.0.1556 -dev 
 
 |g:netrw_localrmdiropt|
 
@@ -60210,6 +60214,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
 
+|termrequest-variable|
+
+    Neovim: +dev 
+
 |termresponse-variable|
 
     Neovim: +v0.1.0 
@@ -63184,6 +63192,10 @@ A listing of helptags with the versions they became available or were removed.
 |v:termrbgresp|
 
        Vim: +v8.0.1194 
+
+|v:termrequest|
+
+    Neovim: +dev 
 
 |v:termresponse|
 
