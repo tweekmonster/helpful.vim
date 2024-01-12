@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2024-01-10 00:14:03 UTC
+*helpful-version.txt*  Generated: 2024-01-12 00:14:08 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -27683,6 +27683,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +nightly 
 
+|Iter:flatten()|
+
+    Neovim: +nightly 
+
 |Iter:fold()|
 
     Neovim: +nightly 
@@ -29053,7 +29057,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |TermRequest|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |TermResponse|
 
@@ -39457,7 +39461,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |g:netrw_localrmdir|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v9.0.1556 -dev 
 
 |g:netrw_localrmdiropt|
@@ -60216,7 +60220,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |termrequest-variable|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |termresponse-variable|
 
@@ -63195,7 +63199,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |v:termrequest|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |v:termresponse|
 
