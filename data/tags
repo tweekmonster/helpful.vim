@@ -6930,6 +6930,7 @@ cino-{neovim:v0.1.0,vim:v7.3.202,
 cino-}neovim:v0.1.0,vim:v7.3.202,
 cinoptions-valuesneovim:v0.1.0,vim:v7.0001,
 classvim:v9.0.1048,
+class-compilevim:v9.1.0020,
 class-functionvim:v9.0.1168,v9.0.1909
 class-membervim:v9.0.1001,v9.0.1275
 class-methodvim:v9.0.1909,v9.0.1168
@@ -7891,7 +7892,7 @@ ft-cynlib-syntaxneovim:v0.1.0,vim:v7.0139,
 ft-dart-syntaxneovim:v0.5.0,vim:v8.1.2222,
 ft-dash-syntaxneovim:v0.2.0,vim:v8.0.0028,
 ft-desktop-syntaxneovim:v0.1.0,vim:v7.0139,
-ft-diff-syntaxneovim:nightly,vim:v9.1.0001,v9.1.0016
+ft-diff-syntaxneovim:nightly,devvim:v9.1.0001,v9.1.0016
 ft-dircolors-syntaxneovim:v0.1.0,vim:v7.0139,
 ft-docbk-syntaxneovim:v0.1.0,vim:v7.0139,
 ft-docbksgml-syntaxneovim:v0.1.0,vim:v7.0139,
@@ -8263,7 +8264,7 @@ g:netrw_localmkdirneovim:v0.1.0,vim:v7.3.493,
 g:netrw_localmkdiroptneovim:v0.4.0,v0.2.2vim:v8.0.1270,
 g:netrw_localmovecmdneovim:v0.1.0,vim:v7.2a,
 g:netrw_localmovecmdoptneovim:v0.4.0,v0.2.2vim:v8.0.1270,
-g:netrw_localrmdirneovim:v0.1.0,nightlyvim:v9.0.1556,dev
+g:netrw_localrmdirneovim:v0.1.0,nightlyvim:v9.0.1556,v9.1.0017
 g:netrw_localrmdiroptneovim:v0.4.0,nightlyvim:v8.0.1270,v9.0.1479
 g:netrw_longlistvim:v7.0129,v7.1a
 g:netrw_maxfilenamelenneovim:v0.1.0,vim:v7.0129,

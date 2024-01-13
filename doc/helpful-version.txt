@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2024-01-12 00:14:08 UTC
+*helpful-version.txt*  Generated: 2024-01-13 00:14:11 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -33139,6 +33139,10 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v9.0.1048 
 
+|class-compile|
+
+       Vim: +v9.1.0020 
+
 |class-function|
 
        Vim: +v9.0.1168 -v9.0.1909 
@@ -37656,7 +37660,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |ft-diff-syntax|
 
-    Neovim: +nightly 
+    Neovim: +nightly -dev 
        Vim: +v9.1.0001 -v9.1.0016 
 
 |ft-dircolors-syntax|
@@ -39462,7 +39466,7 @@ A listing of helptags with the versions they became available or were removed.
 |g:netrw_localrmdir|
 
     Neovim: +v0.1.0 -nightly 
-       Vim: +v9.0.1556 -dev 
+       Vim: +v9.0.1556 -v9.1.0017 
 
 |g:netrw_localrmdiropt|
 
