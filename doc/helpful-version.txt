@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2024-01-13 00:14:11 UTC
+*helpful-version.txt*  Generated: 2024-01-14 00:15:33 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -25975,7 +25975,7 @@ A listing of helptags with the versions they became available or were removed.
 |E741|
 
     Neovim: +v0.1.0 
-       Vim: +v7.0046 
+       Vim: +v9.1.0027 
 
 |E742|
 
@@ -37336,6 +37336,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.4.0 
        Vim: +v8.1.0649 
 
+|foreach()|
+
+       Vim: +v9.1.0027 
+
 |foreground()|
 
     Neovim: +v0.1.0 -v0.8.0 
@@ -37660,7 +37664,6 @@ A listing of helptags with the versions they became available or were removed.
 
 |ft-diff-syntax|
 
-    Neovim: +nightly -dev 
        Vim: +v9.1.0001 -v9.1.0016 
 
 |ft-dircolors-syntax|
