@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2024-01-14 00:15:33 UTC
+*helpful-version.txt*  Generated: 2024-01-15 00:14:57 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -25975,7 +25975,7 @@ A listing of helptags with the versions they became available or were removed.
 |E741|
 
     Neovim: +v0.1.0 
-       Vim: +v9.1.0027 
+       Vim: +v9.1.0027 -v9.1.0028 
 
 |E742|
 
@@ -28323,6 +28323,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|Pattern:match()|
+
+    Neovim: +dev 
+
 |Perl|
 
        Vim: +v7.0001 
@@ -29063,6 +29067,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|TermResponseAll|
+
+       Vim: +v9.1.0029 
 
 |TermdebugStartPost|
 
@@ -64796,6 +64804,90 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +nightly 
 
+|vim.lpeg()|
+
+    Neovim: +dev 
+
+|vim.lpeg.B()|
+
+    Neovim: +dev 
+
+|vim.lpeg.C()|
+
+    Neovim: +dev 
+
+|vim.lpeg.Carg()|
+
+    Neovim: +dev 
+
+|vim.lpeg.Cb()|
+
+    Neovim: +dev 
+
+|vim.lpeg.Cc()|
+
+    Neovim: +dev 
+
+|vim.lpeg.Cf()|
+
+    Neovim: +dev 
+
+|vim.lpeg.Cg()|
+
+    Neovim: +dev 
+
+|vim.lpeg.Cmt()|
+
+    Neovim: +dev 
+
+|vim.lpeg.Cp()|
+
+    Neovim: +dev 
+
+|vim.lpeg.Cs()|
+
+    Neovim: +dev 
+
+|vim.lpeg.Ct()|
+
+    Neovim: +dev 
+
+|vim.lpeg.P()|
+
+    Neovim: +dev 
+
+|vim.lpeg.Pattern|
+
+    Neovim: +dev 
+
+|vim.lpeg.R()|
+
+    Neovim: +dev 
+
+|vim.lpeg.S()|
+
+    Neovim: +dev 
+
+|vim.lpeg.V()|
+
+    Neovim: +dev 
+
+|vim.lpeg.match()|
+
+    Neovim: +dev 
+
+|vim.lpeg.setmaxstack()|
+
+    Neovim: +dev 
+
+|vim.lpeg.type()|
+
+    Neovim: +dev 
+
+|vim.lpeg.version()|
+
+    Neovim: +dev 
+
 |vim.lsp.buf.add_workspace_folder()|
 
     Neovim: +v0.5.0 
@@ -65555,6 +65647,22 @@ A listing of helptags with the versions they became available or were removed.
 |vim.re|
 
     Neovim: +nightly 
+
+|vim.re.compile()|
+
+    Neovim: +dev 
+
+|vim.re.find()|
+
+    Neovim: +dev 
+
+|vim.re.gsub()|
+
+    Neovim: +dev 
+
+|vim.re.match()|
+
+    Neovim: +dev 
 
 |vim.regex|
 
