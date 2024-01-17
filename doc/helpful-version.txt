@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2024-01-16 00:14:09 UTC
+*helpful-version.txt*  Generated: 2024-01-17 00:14:10 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -37350,6 +37350,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |foreach()|
 
+    Neovim: +nightly 
        Vim: +v9.1.0027 
 
 |foreground()|
@@ -37980,6 +37981,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |ft-modula2-syntax|
 
+    Neovim: +dev 
        Vim: +v9.1.0013 
 
 |ft-moo-syntax|
@@ -48301,7 +48303,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |matchbufline()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.0009 
 
 |matchdelete()|
@@ -48437,7 +48439,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |matchstrlist()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.0009 
 
 |matchstrpos()|
@@ -48864,34 +48866,42 @@ A listing of helptags with the versions they became available or were removed.
 
 |modula2.vim|
 
+    Neovim: +dev 
        Vim: +v9.1.0013 
 
 |modula2_iso_allow_lowline|
 
+    Neovim: +dev 
        Vim: +v9.1.0013 
 
 |modula2_iso_disallow_octals|
 
+    Neovim: +dev 
        Vim: +v9.1.0013 
 
 |modula2_iso_disallow_synonyms|
 
+    Neovim: +dev 
        Vim: +v9.1.0013 
 
 |modula2_pim_allow_lowline|
 
+    Neovim: +dev 
        Vim: +v9.1.0013 
 
 |modula2_pim_disallow_octals|
 
+    Neovim: +dev 
        Vim: +v9.1.0013 
 
 |modula2_pim_disallow_synonyms|
 
+    Neovim: +dev 
        Vim: +v9.1.0013 
 
 |modula2_r10_allow_lowline|
 
+    Neovim: +dev 
        Vim: +v9.1.0013 
 
 |module()|
