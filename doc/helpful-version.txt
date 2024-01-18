@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2024-01-17 00:14:10 UTC
+*helpful-version.txt*  Generated: 2024-01-18 00:14:08 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -22674,6 +22674,16 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +nightly 
        Vim: +v9.0.2108 
 
+|E1511|
+
+    Neovim: +dev 
+       Vim: +v9.1.0039 
+
+|E1512|
+
+    Neovim: +dev 
+       Vim: +v9.1.0039 
+
 |E152|
 
     Neovim: +v0.1.0 
@@ -37981,7 +37991,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |ft-modula2-syntax|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.0013 
 
 |ft-moo-syntax|
@@ -48866,42 +48876,42 @@ A listing of helptags with the versions they became available or were removed.
 
 |modula2.vim|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.0013 
 
 |modula2_iso_allow_lowline|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.0013 
 
 |modula2_iso_disallow_octals|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.0013 
 
 |modula2_iso_disallow_synonyms|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.0013 
 
 |modula2_pim_allow_lowline|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.0013 
 
 |modula2_pim_disallow_octals|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.0013 
 
 |modula2_pim_disallow_synonyms|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.0013 
 
 |modula2_r10_allow_lowline|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.0013 
 
 |module()|
