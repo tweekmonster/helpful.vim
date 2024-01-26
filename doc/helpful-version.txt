@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2024-01-25 00:14:27 UTC
+*helpful-version.txt*  Generated: 2024-01-26 00:13:55 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -14565,6 +14565,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.3.0 
        Vim: +v8.2.1978 
 
+|:map-cmd-key|
+
+       Vim: +v9.1.0058 
+
 |:map-commands|
 
     Neovim: +v0.1.0 
@@ -14624,6 +14628,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|:map-super-keys|
+
+       Vim: +v9.1.0058 
 
 |:map-undo|
 
@@ -29453,6 +29461,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.2.0 
        Vim: +v7.4.2077 
 
+|WinNewPre|
+
+       Vim: +v9.1.0059 
+
 |WinResized|
 
     Neovim: +v0.9.0 
@@ -32392,12 +32404,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |c_function_pointers|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.0047 
 
 |c_functions|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.0047 
 
 |c_gnu|
