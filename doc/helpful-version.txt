@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2024-01-26 00:13:55 UTC
+*helpful-version.txt*  Generated: 2024-01-27 00:13:13 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -14567,6 +14567,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |:map-cmd-key|
 
+    Neovim: +nightly 
        Vim: +v9.1.0058 
 
 |:map-commands|
@@ -14631,6 +14632,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |:map-super-keys|
 
+    Neovim: +nightly 
        Vim: +v9.1.0058 
 
 |:map-undo|
