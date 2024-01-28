@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2024-01-27 00:13:13 UTC
+*helpful-version.txt*  Generated: 2024-01-28 00:14:46 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -65922,10 +65922,6 @@ A listing of helptags with the versions they became available or were removed.
 |vim.treesitter.foldexpr()|
 
     Neovim: +v0.9.0 
-
-|vim.treesitter.foldtext()|
-
-    Neovim: +nightly 
 
 |vim.treesitter.get_captures_at_cursor()|
 
