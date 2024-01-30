@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2024-01-28 00:14:46 UTC
+*helpful-version.txt*  Generated: 2024-01-30 00:13:23 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -52198,6 +52198,10 @@ A listing of helptags with the versions they became available or were removed.
 |nvim_tabpage_set_var()|
 
     Neovim: +v0.2.0 
+
+|nvim_tabpage_set_win()|
+
+    Neovim: +dev 
 
 |nvim_terminal_emulator.txt|
 
