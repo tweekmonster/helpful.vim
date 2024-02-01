@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2024-01-31 00:13:26 UTC
+*helpful-version.txt*  Generated: 2024-02-01 00:14:01 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -41294,7 +41294,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |gui-wayland|
 
-       Vim: +dev 
+       Vim: +v9.1.0066 
 
 |gui-win32-maximized|
 
