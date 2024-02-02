@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2024-02-01 00:14:01 UTC
+*helpful-version.txt*  Generated: 2024-02-02 00:13:26 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -20939,7 +20939,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |E106|
 
-       Vim: +v7.0001 -v7.3.020 
+       Vim: +v9.1.0071 -v7.3.020 
 
 |E1060|
 
@@ -35201,10 +35201,18 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|diff()|
+
+       Vim: +v9.1.0071 
+
 |diff-diffexpr|
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|diff-func-examples|
+
+       Vim: +v9.1.0071 
 
 |diff-mode|
 
