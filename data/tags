@@ -7874,7 +7874,7 @@ ft-ada-syntaxneovim:v0.1.0,vim:v7.2a,v7.2a.00
 ft-ada-variablesneovim:v0.1.0,vim:v7.2a,v7.2a.00
 ft-ant-syntaxneovim:v0.1.0,vim:v7.0139,
 ft-apache-syntaxneovim:v0.1.0,vim:v7.0139,
-ft-asciidoc-pluginvim:v9.1.0110,
+ft-asciidoc-pluginneovim:dev,vim:v9.1.0110,
 ft-asm-syntaxneovim:v0.1.0,vim:v7.0139,
 ft-asm68k-syntaxneovim:v0.1.0,vim:v7.0139,
 ft-asmh8300-syntaxneovim:v0.1.0,vim:v7.0139,
