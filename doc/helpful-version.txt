@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2024-02-21 00:13:34 UTC
+*helpful-version.txt*  Generated: 2024-02-22 00:13:23 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -52309,6 +52309,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.2.0 
 
+|nvim_win_add_ns()|
+
+    Neovim: +dev 
+
 |nvim_win_call()|
 
     Neovim: +v0.5.0 
@@ -52336,6 +52340,10 @@ A listing of helptags with the versions they became available or were removed.
 |nvim_win_get_height()|
 
     Neovim: +v0.2.0 
+
+|nvim_win_get_ns()|
+
+    Neovim: +dev 
 
 |nvim_win_get_number()|
 
@@ -52368,6 +52376,10 @@ A listing of helptags with the versions they became available or were removed.
 |nvim_win_is_valid()|
 
     Neovim: +v0.2.0 
+
+|nvim_win_remove_ns()|
+
+    Neovim: +dev 
 
 |nvim_win_set_buf()|
 
@@ -60172,6 +60184,10 @@ A listing of helptags with the versions they became available or were removed.
 |terminal-autoshelldir|
 
        Vim: +v9.0.0170 
+
+|terminal-bufname|
+
+       Vim: +v9.1.0124 
 
 |terminal-client-server|
 
