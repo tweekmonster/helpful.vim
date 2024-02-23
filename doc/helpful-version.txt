@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2024-02-22 00:13:23 UTC
+*helpful-version.txt*  Generated: 2024-02-23 00:13:04 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -40742,6 +40742,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |getregion()|
 
+    Neovim: +dev 
        Vim: +v9.1.0120 
 
 |getregtype()|
@@ -52311,7 +52312,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |nvim_win_add_ns()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_win_call()|
 
@@ -52343,7 +52344,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |nvim_win_get_ns()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_win_get_number()|
 
@@ -52379,7 +52380,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |nvim_win_remove_ns()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_win_set_buf()|
 
@@ -62620,6 +62621,14 @@ A listing of helptags with the versions they became available or were removed.
 |uv.tcp_write_queue_size()|
 
     Neovim: +v0.8.0 
+
+|uv.thread.getpriority()|
+
+    Neovim: +dev 
+
+|uv.thread.setpriority()|
+
+    Neovim: +dev 
 
 |uv.thread_equal()|
 
