@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2024-02-26 00:13:45 UTC
+*helpful-version.txt*  Generated: 2024-02-28 00:13:21 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -65000,7 +65000,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.lpeg()|
 
-    Neovim: +nightly 
+    Neovim: +nightly -dev 
 
 |vim.lpeg.B()|
 
@@ -65065,6 +65065,10 @@ A listing of helptags with the versions they became available or were removed.
 |vim.lpeg.V()|
 
     Neovim: +nightly 
+
+|vim.lpeg.locale()|
+
+    Neovim: +dev 
 
 |vim.lpeg.match()|
 
@@ -65857,6 +65861,10 @@ A listing of helptags with the versions they became available or were removed.
 |vim.re.match()|
 
     Neovim: +nightly 
+
+|vim.re.updatelocale()|
+
+    Neovim: +dev 
 
 |vim.regex|
 
