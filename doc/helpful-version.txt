@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2024-02-29 00:13:03 UTC
+*helpful-version.txt*  Generated: 2024-03-01 00:15:07 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -28838,32 +28838,32 @@ A listing of helptags with the versions they became available or were removed.
 
 |TOhtml-encoding|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.3.616 
 
 |TOhtml-encoding-detect|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.3.616 
 
 |TOhtml-performance|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.3.616 
 
 |TOhtml-progress-color|
 
-    Neovim: +v0.5.0 -dev 
+    Neovim: +v0.5.0 -nightly 
        Vim: +v8.1.2312 
 
 |TOhtml-uncopyable-text|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.3.616 
 
 |TOhtml-wrap-text|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.3.616 
 
 |TRUE|
@@ -33838,12 +33838,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |convert-to-XHTML|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |convert-to-XML|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |convert_legacy_function_to_vim9|
@@ -38435,6 +38435,11 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0139 
 
+|ft-yaml-indent|
+
+    Neovim: +dev 
+       Vim: +v9.1.0144 
+
 |ft-yaml-syntax|
 
     Neovim: +v0.1.2 
@@ -39073,142 +39078,142 @@ A listing of helptags with the versions they became available or were removed.
 
 |g:html_charset_override|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.3.616 
 
 |g:html_diff_one_file|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.3.616 
 
 |g:html_dynamic_folds|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.3.616 
 
 |g:html_encoding_override|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.3.616 
 
 |g:html_end_line|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.3.616 
 
 |g:html_expand_tabs|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.3.616 
 
 |g:html_font|
 
-    Neovim: +v0.1.4 -dev 
+    Neovim: +v0.1.4 -nightly 
        Vim: +v7.4.899 
 
 |g:html_hover_unfold|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.3.616 
 
 |g:html_id_expr|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.3.1246 
 
 |g:html_ignore_conceal|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.3.616 
 
 |g:html_ignore_folding|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.3.616 
 
 |g:html_line_ids|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.3.1246 
 
 |g:html_no_doc|
 
-    Neovim: +v0.9.0 -dev 
+    Neovim: +v0.9.0 -nightly 
        Vim: +v9.0.0819 
 
 |g:html_no_foldcolumn|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.3.616 
 
 |g:html_no_invalid|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.3.616 
 
 |g:html_no_links|
 
-    Neovim: +v0.9.0 -dev 
+    Neovim: +v0.9.0 -nightly 
        Vim: +v9.0.0819 
 
 |g:html_no_modeline|
 
-    Neovim: +v0.9.0 -dev 
+    Neovim: +v0.9.0 -nightly 
        Vim: +v9.0.0819 
 
 |g:html_no_pre|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.3.616 
 
 |g:html_no_progress|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.3.616 
 
 |g:html_number_lines|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.3.616 
 
 |g:html_pre_wrap|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.3.616 
 
 |g:html_prevent_copy|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.3.616 
 
 |g:html_start_line|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.3.616 
 
 |g:html_use_css|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.3.616 
 
 |g:html_use_encoding|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.3.616 
 
 |g:html_use_input_for_pc|
 
-    Neovim: +v0.5.0 -dev 
+    Neovim: +v0.5.0 -nightly 
        Vim: +v8.1.2312 
 
 |g:html_use_xhtml|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.3.616 
 
 |g:html_whole_filler|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.3.616 
 
 |g:loaded_node_provider|
@@ -42808,7 +42813,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |hl-TOhtmlProgress|
 
-    Neovim: +v0.5.0 -dev 
+    Neovim: +v0.5.0 -nightly 
        Vim: +v8.1.2312 
 
 |hl-TabLine|
@@ -60834,7 +60839,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |tohtml.tohtml.tohtml()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |tolower()|
 
@@ -66065,7 +66070,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.tohtml|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.treesitter.foldexpr()|
 
