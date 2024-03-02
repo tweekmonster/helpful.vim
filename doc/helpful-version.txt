@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2024-03-01 00:15:07 UTC
+*helpful-version.txt*  Generated: 2024-03-02 00:13:13 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -38437,7 +38437,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |ft-yaml-indent|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.0144 
 
 |ft-yaml-syntax|
@@ -45520,6 +45520,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.5.0 
 
+|lsp-client|
+
+    Neovim: +dev 
+
 |lsp-codelens|
 
     Neovim: +v0.5.0 
@@ -45610,7 +45614,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |lsp-on-list-handler|
 
-    Neovim: +v0.8.0 
+    Neovim: +v0.8.0 -dev 
 
 |lsp-protocol|
 
@@ -64549,9 +64553,17 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|vim.Diagnostic|
+
+    Neovim: +dev 
+
 |vim.NIL|
 
     Neovim: +v0.5.0 
+
+|vim.Ringbuf|
+
+    Neovim: +dev 
 
 |vim.api|
 
@@ -64621,6 +64633,34 @@ A listing of helptags with the versions they became available or were removed.
 |vim.diagnostic|
 
     Neovim: +v0.6.0 
+
+|vim.diagnostic.NS|
+
+    Neovim: +dev 
+
+|vim.diagnostic.Opts|
+
+    Neovim: +dev 
+
+|vim.diagnostic.Opts.Float|
+
+    Neovim: +dev 
+
+|vim.diagnostic.Opts.Signs|
+
+    Neovim: +dev 
+
+|vim.diagnostic.Opts.Underline|
+
+    Neovim: +dev 
+
+|vim.diagnostic.Opts.VirtualText|
+
+    Neovim: +dev 
+
+|vim.diagnostic.OptsResolved|
+
+    Neovim: +dev 
 
 |vim.diagnostic.config()|
 
@@ -65091,6 +65131,30 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +nightly 
 
+|vim.lsp.Client|
+
+    Neovim: +dev 
+
+|vim.lsp.Client.Progress|
+
+    Neovim: +dev 
+
+|vim.lsp.ClientConfig|
+
+    Neovim: +dev 
+
+|vim.lsp.ListOpts|
+
+    Neovim: +dev 
+
+|vim.lsp.LocationOpts|
+
+    Neovim: +dev 
+
+|vim.lsp.LocationOpts.OnList|
+
+    Neovim: +dev 
+
 |vim.lsp.buf.add_workspace_folder()|
 
     Neovim: +v0.5.0 
@@ -65233,7 +65297,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.lsp.client|
 
-    Neovim: +v0.5.0 
+    Neovim: +v0.5.0 -dev 
 
 |vim.lsp.client_is_stopped()|
 
@@ -65502,6 +65566,10 @@ A listing of helptags with the versions they became available or were removed.
 |vim.lsp.reset_buf()|
 
     Neovim: +v0.5.0 -v0.6.0 
+
+|vim.lsp.rpc.PublicClient|
+
+    Neovim: +dev 
 
 |vim.lsp.rpc.connect()|
 
