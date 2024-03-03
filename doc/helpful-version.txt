@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2024-03-02 00:13:13 UTC
+*helpful-version.txt*  Generated: 2024-03-03 00:14:29 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -45522,7 +45522,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |lsp-client|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lsp-codelens|
 
@@ -45614,7 +45614,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |lsp-on-list-handler|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |lsp-protocol|
 
@@ -64555,7 +64555,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.Diagnostic|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.NIL|
 
@@ -64563,7 +64563,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.Ringbuf|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.api|
 
@@ -64636,31 +64636,31 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.diagnostic.NS|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.diagnostic.Opts|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.diagnostic.Opts.Float|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.diagnostic.Opts.Signs|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.diagnostic.Opts.Underline|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.diagnostic.Opts.VirtualText|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.diagnostic.OptsResolved|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.diagnostic.config()|
 
@@ -65133,27 +65133,27 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.lsp.Client|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.Client.Progress|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.ClientConfig|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.ListOpts|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.LocationOpts|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.LocationOpts.OnList|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.buf.add_workspace_folder()|
 
@@ -65297,7 +65297,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.lsp.client|
 
-    Neovim: +v0.5.0 -dev 
+    Neovim: +v0.5.0 -nightly 
 
 |vim.lsp.client_is_stopped()|
 
@@ -65569,7 +65569,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.lsp.rpc.PublicClient|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.rpc.connect()|
 
