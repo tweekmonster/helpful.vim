@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2024-03-03 00:14:29 UTC
+*helpful-version.txt*  Generated: 2024-03-04 00:13:55 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -6620,6 +6620,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|'winfixbuf'|
+
+       Vim: +v9.1.0147 
 
 |'winfixheight'|
 
@@ -22574,6 +22578,14 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v9.0.2185 
 
+|E1412|
+
+       Vim: +v9.1.0148 
+
+|E1413|
+
+       Vim: +v9.1.0148 
+
 |E142|
 
     Neovim: +v0.1.0 
@@ -22693,6 +22705,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +nightly 
        Vim: +v9.1.0039 
+
+|E1513|
+
+       Vim: +v9.1.0147 
 
 |E152|
 
@@ -31864,6 +31880,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.7.0 
        Vim: +v8.2.3917 
+
+|builtin-object-methods|
+
+       Vim: +v9.1.0148 
 
 |builtin-terms|
 
@@ -52477,9 +52497,17 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v9.0.2170 
 
+|object-empty()|
+
+       Vim: +v9.1.0148 
+
 |object-final-variable|
 
        Vim: +v9.0.2170 
+
+|object-len()|
+
+       Vim: +v9.1.0148 
 
 |object-motions|
 
@@ -52490,6 +52518,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|object-string()|
+
+       Vim: +v9.1.0148 
 
 |objects|
 
