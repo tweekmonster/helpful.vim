@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2024-03-06 00:13:51 UTC
+*helpful-version.txt*  Generated: 2024-03-07 00:11:32 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -40770,6 +40770,11 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +nightly 
        Vim: +v9.1.0120 
 
+|getregion-notes|
+
+    Neovim: +dev 
+       Vim: +v9.1.0155 
+
 |getregtype()|
 
     Neovim: +v0.1.0 
@@ -64668,11 +64673,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.diagnostic.GetOpts|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.diagnostic.GotoOpts|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.diagnostic.NS|
 
@@ -64697,10 +64702,6 @@ A listing of helptags with the versions they became available or were removed.
 |vim.diagnostic.Opts.VirtualText|
 
     Neovim: +nightly 
-
-|vim.diagnostic.OptsResolved|
-
-    Neovim: +nightly -dev 
 
 |vim.diagnostic.config()|
 
