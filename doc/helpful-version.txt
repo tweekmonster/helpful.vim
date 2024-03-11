@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2024-03-08 00:13:57 UTC
+*helpful-version.txt*  Generated: 2024-03-11 00:13:54 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -35721,45 +35721,81 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.9.0 
 
+|editorconfig.charset|
+
+    Neovim: +dev 
+
+|editorconfig.end_of_line|
+
+    Neovim: +dev 
+
+|editorconfig.indent_size|
+
+    Neovim: +dev 
+
+|editorconfig.indent_style|
+
+    Neovim: +dev 
+
+|editorconfig.insert_final_newline|
+
+    Neovim: +dev 
+
+|editorconfig.max_line_length|
+
+    Neovim: +dev 
+
+|editorconfig.root|
+
+    Neovim: +dev 
+
+|editorconfig.tab_width|
+
+    Neovim: +dev 
+
+|editorconfig.trim_trailing_whitespace|
+
+    Neovim: +dev 
+
 |editorconfig.txt|
 
     Neovim: +v0.9.0 
 
 |editorconfig_charset|
 
-    Neovim: +v0.9.0 
+    Neovim: +v0.9.0 -dev 
 
 |editorconfig_end_of_line|
 
-    Neovim: +v0.9.0 
+    Neovim: +v0.9.0 -dev 
 
 |editorconfig_indent_size|
 
-    Neovim: +v0.9.0 
+    Neovim: +v0.9.0 -dev 
 
 |editorconfig_indent_style|
 
-    Neovim: +v0.9.0 
+    Neovim: +v0.9.0 -dev 
 
 |editorconfig_insert_final_newline|
 
-    Neovim: +v0.9.0 
+    Neovim: +v0.9.0 -dev 
 
 |editorconfig_max_line_length|
 
-    Neovim: +v0.9.0 
+    Neovim: +v0.9.0 -dev 
 
 |editorconfig_root|
 
-    Neovim: +v0.9.0 
+    Neovim: +v0.9.0 -dev 
 
 |editorconfig_tab_width|
 
-    Neovim: +v0.9.0 
+    Neovim: +v0.9.0 -dev 
 
 |editorconfig_trim_trailing_whitespace|
 
-    Neovim: +v0.9.0 
+    Neovim: +v0.9.0 -dev 
 
 |efm-%>|
 
