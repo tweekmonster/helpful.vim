@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2024-03-11 00:13:54 UTC
+*helpful-version.txt*  Generated: 2024-03-12 00:13:23 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -3954,6 +3954,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 -v0.1.6 
        Vim: +v7.0001 
 
+|'nowfb'|
+
+    Neovim: +nightly 
+
 |'nowfh'|
 
     Neovim: +v0.1.0 
@@ -3982,6 +3986,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|'nowinfixbuf'|
+
+    Neovim: +nightly 
 
 |'nowinfixheight'|
 
@@ -6516,6 +6524,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 -v0.1.6 
        Vim: +v7.0001 
 
+|'wfb'|
+
+    Neovim: +nightly 
+
 |'wfh'|
 
     Neovim: +v0.1.0 
@@ -6623,6 +6635,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'winfixbuf'|
 
+    Neovim: +nightly 
        Vim: +v9.1.0147 
 
 |'winfixheight'|
@@ -22708,6 +22721,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |E1513|
 
+    Neovim: +nightly 
        Vim: +v9.1.0147 
 
 |E152|
@@ -35723,39 +35737,39 @@ A listing of helptags with the versions they became available or were removed.
 
 |editorconfig.charset|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |editorconfig.end_of_line|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |editorconfig.indent_size|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |editorconfig.indent_style|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |editorconfig.insert_final_newline|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |editorconfig.max_line_length|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |editorconfig.root|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |editorconfig.tab_width|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |editorconfig.trim_trailing_whitespace|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |editorconfig.txt|
 
@@ -35763,39 +35777,39 @@ A listing of helptags with the versions they became available or were removed.
 
 |editorconfig_charset|
 
-    Neovim: +v0.9.0 -dev 
+    Neovim: +v0.9.0 -nightly 
 
 |editorconfig_end_of_line|
 
-    Neovim: +v0.9.0 -dev 
+    Neovim: +v0.9.0 -nightly 
 
 |editorconfig_indent_size|
 
-    Neovim: +v0.9.0 -dev 
+    Neovim: +v0.9.0 -nightly 
 
 |editorconfig_indent_style|
 
-    Neovim: +v0.9.0 -dev 
+    Neovim: +v0.9.0 -nightly 
 
 |editorconfig_insert_final_newline|
 
-    Neovim: +v0.9.0 -dev 
+    Neovim: +v0.9.0 -nightly 
 
 |editorconfig_max_line_length|
 
-    Neovim: +v0.9.0 -dev 
+    Neovim: +v0.9.0 -nightly 
 
 |editorconfig_root|
 
-    Neovim: +v0.9.0 -dev 
+    Neovim: +v0.9.0 -nightly 
 
 |editorconfig_tab_width|
 
-    Neovim: +v0.9.0 -dev 
+    Neovim: +v0.9.0 -nightly 
 
 |editorconfig_trim_trailing_whitespace|
 
-    Neovim: +v0.9.0 -dev 
+    Neovim: +v0.9.0 -nightly 
 
 |efm-%>|
 
@@ -37579,6 +37593,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|fswatch-limitations|
+
+    Neovim: +dev 
 
 |ft-abel-syntax|
 
