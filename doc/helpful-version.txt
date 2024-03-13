@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2024-03-12 00:13:23 UTC
+*helpful-version.txt*  Generated: 2024-03-13 00:13:35 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -37596,7 +37596,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |fswatch-limitations|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |ft-abel-syntax|
 

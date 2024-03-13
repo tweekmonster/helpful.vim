@@ -7883,7 +7883,7 @@ freebasic_type_suffixesneovim:v0.8.0,vim:v9.0.0019,
 french-maillistvim:v7.0001,v7.2a
 friendshipneovim:v0.1.0,vim:v7.3.1241,
 frombookneovim:v0.1.0,vim:v7.0001,
-fswatch-limitationsneovim:dev,
+fswatch-limitationsneovim:nightly,
 ft-abel-syntaxneovim:v0.1.0,vim:v7.0139,
 ft-ada-commandsneovim:v0.1.0,vim:v7.2a,v7.2a.00
 ft-ada-constantsneovim:v0.1.0,vim:v7.2a,v7.2a.00
