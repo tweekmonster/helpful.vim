@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2024-03-28 00:13:58 UTC
+*helpful-version.txt*  Generated: 2024-03-29 00:13:47 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -22599,10 +22599,62 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v9.1.0148 
 
+|E1414|
+
+       Vim: +v9.1.0219 
+
+|E1415|
+
+       Vim: +v9.1.0219 
+
+|E1416|
+
+       Vim: +v9.1.0219 
+
+|E1417|
+
+       Vim: +v9.1.0219 
+
+|E1418|
+
+       Vim: +v9.1.0219 
+
+|E1419|
+
+       Vim: +v9.1.0219 
+
 |E142|
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|E1420|
+
+       Vim: +v9.1.0219 
+
+|E1421|
+
+       Vim: +v9.1.0219 
+
+|E1422|
+
+       Vim: +v9.1.0219 
+
+|E1423|
+
+       Vim: +v9.1.0219 
+
+|E1424|
+
+       Vim: +v9.1.0219 
+
+|E1425|
+
+       Vim: +v9.1.0219 
+
+|E1426|
+
+       Vim: +v9.1.0219 
 
 |E143|
 
@@ -35896,6 +35948,30 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 -v0.2.0 
        Vim: +v7.0001 
+
+|enum|
+
+       Vim: +v9.1.0219 
+
+|enum-constructor|
+
+       Vim: +v9.1.0219 
+
+|enum-name|
+
+       Vim: +v9.1.0219 
+
+|enum-ordinal|
+
+       Vim: +v9.1.0219 
+
+|enum-values|
+
+       Vim: +v9.1.0219 
+
+|enumvalue|
+
+       Vim: +v9.1.0219 
 
 |environ()|
 
@@ -59047,6 +59123,14 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v7.0001 
 
+|t_enum-variable|
+
+       Vim: +v9.1.0219 
+
+|t_enumvalue-variable|
+
+       Vim: +v9.1.0219 
+
 |t_f1|
 
        Vim: +v7.0001 
@@ -63453,6 +63537,14 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.2.0 
        Vim: +v7.4.2071 
+
+|v:t_enum|
+
+       Vim: +v9.1.0219 
+
+|v:t_enumvalue|
+
+       Vim: +v9.1.0219 
 
 |v:t_float|
 
