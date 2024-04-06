@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2024-03-29 00:13:47 UTC
+*helpful-version.txt*  Generated: 2024-04-06 00:13:18 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -33590,6 +33590,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|commenting|
+
+    Neovim: +dev 
+
 |compatible-default|
 
        Vim: +v7.0001 
@@ -40569,6 +40573,14 @@ A listing of helptags with the versions they became available or were removed.
 |garbagecollect_for_testing()|
 
        Vim: +v7.4.1727 -v7.4.1838 
+
+|gc-default|
+
+    Neovim: +dev 
+
+|gcc-default|
+
+    Neovim: +dev 
 
 |gd|
 
@@ -52619,6 +52631,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 -v0.4.0 
 
+|o_gc-default|
+
+    Neovim: +dev 
+
 |o_object-select|
 
     Neovim: +nightly 
@@ -64098,6 +64114,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|v_gc-default|
+
+    Neovim: +dev 
 
 |v_gf|
 
