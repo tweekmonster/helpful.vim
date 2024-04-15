@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2024-04-14 00:17:50 UTC
+*helpful-version.txt*  Generated: 2024-04-15 02:31:32 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -105,6 +105,7 @@ A listing of helptags with the versions they became available or were removed.
 |$XDG_CONFIG_HOME|
 
     Neovim: +v0.1.5 
+       Vim: +v9.1.0327 
 
 |$XDG_DATA_DIRS|
 
@@ -5895,6 +5896,10 @@ A listing of helptags with the versions they became available or were removed.
 |'t_xn'|
 
        Vim: +v7.4.627 
+
+|'t_xo'|
+
+       Vim: +v9.1.0321 
 
 |'t_xs'|
 
@@ -59605,6 +59610,10 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v7.4.627 
 
+|t_xo|
+
+       Vim: +v9.1.0321 
+
 |t_xs|
 
     Neovim: +v0.1.0 -v0.2.0 
@@ -67929,6 +67938,18 @@ A listing of helptags with the versions they became available or were removed.
 |xdg|
 
     Neovim: +v0.1.5 
+
+|xdg-base-dir|
+
+       Vim: +v9.1.0327 
+
+|xdg-runtime|
+
+       Vim: +v9.1.0327 
+
+|xdg-vimrc|
+
+       Vim: +v9.1.0327 
 
 |xf86conf-syntax|
 
