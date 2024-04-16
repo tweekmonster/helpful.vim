@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2024-04-15 02:31:32 UTC
+*helpful-version.txt*  Generated: 2024-04-16 00:13:32 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -33665,6 +33665,10 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v7.0001 
 
+|compiler-pandoc|
+
+       Vim: +v9.1.0336 
+
 |compiler-perl|
 
     Neovim: +v0.1.0 
@@ -54836,6 +54840,10 @@ A listing of helptags with the versions they became available or were removed.
 |quickfix-manx|
 
        Vim: +v7.0001 
+
+|quickfix-pandoc|
+
+       Vim: +v9.1.0336 
 
 |quickfix-parse|
 
