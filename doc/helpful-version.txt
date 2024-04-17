@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2024-04-16 00:13:32 UTC
+*helpful-version.txt*  Generated: 2024-04-17 00:14:17 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -33667,6 +33667,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |compiler-pandoc|
 
+    Neovim: +nightly 
        Vim: +v9.1.0336 
 
 |compiler-perl|
@@ -54843,6 +54844,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |quickfix-pandoc|
 
+    Neovim: +nightly 
        Vim: +v9.1.0336 
 
 |quickfix-parse|
@@ -64885,6 +64887,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.6.0 
 
+|vim.diagnostic.Filter|
+
+    Neovim: +dev 
+
 |vim.diagnostic.GetOpts|
 
     Neovim: +nightly 
@@ -64980,6 +64986,10 @@ A listing of helptags with the versions they became available or were removed.
 |vim.diagnostic.is_disabled()|
 
     Neovim: +v0.9.0 
+
+|vim.diagnostic.is_enabled()|
+
+    Neovim: +dev 
 
 |vim.diagnostic.match()|
 
