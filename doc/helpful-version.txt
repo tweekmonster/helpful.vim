@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2024-04-19 00:13:57 UTC
+*helpful-version.txt*  Generated: 2024-04-20 00:13:26 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -38072,6 +38072,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |ft-java-plugin|
 
+    Neovim: +dev 
        Vim: +v9.1.0354 
 
 |ft-java-syntax|
@@ -64891,10 +64892,6 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.6.0 
 
-|vim.diagnostic.Filter|
-
-    Neovim: +nightly -dev 
-
 |vim.diagnostic.GetOpts|
 
     Neovim: +nightly 
@@ -65226,15 +65223,15 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.iter.filter()|
 
-    Neovim: +nightly 
+    Neovim: +nightly -dev 
 
 |vim.iter.map()|
 
-    Neovim: +nightly 
+    Neovim: +nightly -dev 
 
 |vim.iter.totable()|
 
-    Neovim: +nightly 
+    Neovim: +nightly -dev 
 
 |vim.json|
 
@@ -65843,10 +65840,6 @@ A listing of helptags with the versions they became available or were removed.
 |vim.lsp.rpc.connect()|
 
     Neovim: +v0.8.0 
-
-|vim.lsp.rpc.domain_socket_connect()|
-
-    Neovim: +nightly -dev 
 
 |vim.lsp.rpc.format_rpc_error()|
 

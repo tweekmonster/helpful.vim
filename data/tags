@@ -7984,7 +7984,7 @@ ft-html-syntaxneovim:v0.1.0,vim:v7.0139,
 ft-htmlos-syntaxneovim:v0.1.0,vim:v7.0139,
 ft-ia64-syntaxneovim:v0.1.0,vim:v7.0139,
 ft-inform-syntaxneovim:v0.1.0,vim:v7.0139,
-ft-java-pluginvim:v9.1.0354,
+ft-java-pluginneovim:dev,vim:v9.1.0354,
 ft-java-syntaxneovim:v0.1.0,vim:v7.0139,
 ft-javascript-omnineovim:v0.1.0,vim:v7.0191,
 ft-json-pluginvim:v9.0.2156,
@@ -13938,7 +13938,6 @@ vim.defer_fnneovim:v0.5.0,nightly
 vim.defer_fn()neovim:v0.5.0,
 vim.deprecate()neovim:v0.8.0,
 vim.diagnosticneovim:v0.6.0,
-vim.diagnostic.Filterneovim:nightly,dev
 vim.diagnostic.GetOptsneovim:nightly,
 vim.diagnostic.GotoOptsneovim:nightly,
 vim.diagnostic.NSneovim:nightly,
@@ -14021,9 +14020,9 @@ vim.is_callable()neovim:v0.5.0,
 vim.is_valid()neovim:v0.5.0,v0.6.0
 vim.iterneovim:nightly,
 vim.iter()neovim:nightly,
-vim.iter.filter()neovim:nightly,
-vim.iter.map()neovim:nightly,
-vim.iter.totable()neovim:nightly,
+vim.iter.filter()neovim:nightly,dev
+vim.iter.map()neovim:nightly,dev
+vim.iter.totable()neovim:nightly,dev
 vim.jsonneovim:v0.9.0,
 vim.json.decodeneovim:v0.9.0,nightly
 vim.json.decode()neovim:nightly,
@@ -14176,7 +14175,6 @@ vim.lsp.reset()neovim:v0.5.0,v0.6.0
 vim.lsp.reset_buf()neovim:v0.5.0,v0.6.0
 vim.lsp.rpc.PublicClientneovim:nightly,
 vim.lsp.rpc.connect()neovim:v0.8.0,
-vim.lsp.rpc.domain_socket_connect()neovim:nightly,dev
 vim.lsp.rpc.format_rpc_error()neovim:v0.5.0,
 vim.lsp.rpc.notify()neovim:v0.5.0,
 vim.lsp.rpc.request()neovim:v0.5.0,
