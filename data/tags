@@ -7984,7 +7984,7 @@ ft-html-syntaxneovim:v0.1.0,vim:v7.0139,
 ft-htmlos-syntaxneovim:v0.1.0,vim:v7.0139,
 ft-ia64-syntaxneovim:v0.1.0,vim:v7.0139,
 ft-inform-syntaxneovim:v0.1.0,vim:v7.0139,
-ft-java-pluginneovim:dev,vim:v9.1.0354,
+ft-java-pluginneovim:nightly,vim:v9.1.0354,
 ft-java-syntaxneovim:v0.1.0,vim:v7.0139,
 ft-javascript-omnineovim:v0.1.0,vim:v7.0191,
 ft-json-pluginvim:v9.0.2156,
@@ -14020,9 +14020,6 @@ vim.is_callable()neovim:v0.5.0,
 vim.is_valid()neovim:v0.5.0,v0.6.0
 vim.iterneovim:nightly,
 vim.iter()neovim:nightly,
-vim.iter.filter()neovim:nightly,dev
-vim.iter.map()neovim:nightly,dev
-vim.iter.totable()neovim:nightly,dev
 vim.jsonneovim:v0.9.0,
 vim.json.decodeneovim:v0.9.0,nightly
 vim.json.decode()neovim:nightly,
@@ -14095,6 +14092,8 @@ vim.lsp.buf.remove_workspace_folder()neovim:v0.5.0,
 vim.lsp.buf.rename()neovim:v0.5.0,
 vim.lsp.buf.server_ready()neovim:v0.5.0,
 vim.lsp.buf.signature_help()neovim:v0.5.0,
+vim.lsp.buf.subtypes()neovim:dev,
+vim.lsp.buf.supertypes()neovim:dev,
 vim.lsp.buf.type_definition()neovim:v0.5.0,
 vim.lsp.buf.workspace_symbol()neovim:v0.5.0,
 vim.lsp.buf_attach_client()neovim:v0.5.0,
