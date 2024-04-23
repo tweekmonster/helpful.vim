@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2024-04-22 00:14:57 UTC
+*helpful-version.txt*  Generated: 2024-04-23 00:14:22 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -31051,7 +31051,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |astro.vim|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.0363 
 
 |at|
@@ -37794,7 +37794,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |ft-astro-syntax|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.0363 
 
 |ft-awk-plugin|
@@ -65225,11 +65225,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.isarray()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.islist()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.iter|
 
@@ -66370,15 +66370,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.tbl_flatten()|
 
-    Neovim: +v0.4.0 
+    Neovim: +dev -nightly 
 
 |vim.tbl_get()|
 
     Neovim: +v0.7.0 
-
-|vim.tbl_isarray()|
-
-    Neovim: +nightly -dev 
 
 |vim.tbl_isempty()|
 
