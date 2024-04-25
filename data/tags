@@ -14096,10 +14096,8 @@ vim.lsp.buf.remove_workspace_folder()neovim:v0.5.0,
 vim.lsp.buf.rename()neovim:v0.5.0,
 vim.lsp.buf.server_ready()neovim:v0.5.0,
 vim.lsp.buf.signature_help()neovim:v0.5.0,
-vim.lsp.buf.subtypes()neovim:nightly,dev
-vim.lsp.buf.supertypes()neovim:nightly,dev
 vim.lsp.buf.type_definition()neovim:v0.5.0,
-vim.lsp.buf.typehierarchy()neovim:dev,
+vim.lsp.buf.typehierarchy()neovim:nightly,
 vim.lsp.buf.workspace_symbol()neovim:v0.5.0,
 vim.lsp.buf_attach_client()neovim:v0.5.0,
 vim.lsp.buf_detach_client()neovim:v0.7.0,
