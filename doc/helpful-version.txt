@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2024-04-27 00:13:51 UTC
+*helpful-version.txt*  Generated: 2024-04-28 00:15:56 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -20285,7 +20285,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |CTRL-W_d-default|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |CTRL-W_f|
 
@@ -27826,29 +27826,17 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +nightly 
 
-|Iter:nextback()|
-
-    Neovim: +nightly -dev 
-
 |Iter:nth()|
 
     Neovim: +nightly 
-
-|Iter:nthback()|
-
-    Neovim: +nightly -dev 
 
 |Iter:peek()|
 
     Neovim: +nightly 
 
-|Iter:peekback()|
-
-    Neovim: +nightly -dev 
-
 |Iter:pop()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |Iter:rev()|
 
@@ -27860,19 +27848,15 @@ A listing of helptags with the versions they became available or were removed.
 
 |Iter:rpeek()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |Iter:rskip()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |Iter:skip()|
 
     Neovim: +nightly 
-
-|Iter:skipback()|
-
-    Neovim: +nightly -dev 
 
 |Iter:slice()|
 
@@ -29896,7 +29880,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |[d-default|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |[f|
 
@@ -30054,7 +30038,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |]d-default|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |]f|
 
@@ -33630,7 +33614,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |comment-install|
 
-       Vim: +dev 
+       Vim: +v9.1.0375 
 
 |commenting|
 
@@ -34398,7 +34382,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |crn|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |crontab|
 
@@ -34407,7 +34391,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |crr|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |cs-find|
 
@@ -38133,7 +38117,8 @@ A listing of helptags with the versions they became available or were removed.
 
 |ft-jq-syntax|
 
-       Vim: +dev 
+    Neovim: +dev 
+       Vim: +v9.1.0375 
 
 |ft-json-plugin|
 
@@ -41311,7 +41296,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |gr-default|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |graphic-option-gone|
 
@@ -43743,7 +43728,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |i_CTRL-S|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |i_CTRL-SHIFT-Q|
 
@@ -44930,11 +44915,13 @@ A listing of helptags with the versions they became available or were removed.
 
 |jq.vim|
 
-       Vim: +dev 
+    Neovim: +dev 
+       Vim: +v9.1.0375 
 
 |jq_quote_highlight|
 
-       Vim: +dev 
+    Neovim: +dev 
+       Vim: +v9.1.0375 
 
 |js_decode()|
 
@@ -58616,7 +58603,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |syntax-vs-match|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.0374 
 
 |syntax.txt|
@@ -64175,7 +64162,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |v_crr|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |v_d|
 
