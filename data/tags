@@ -5787,7 +5787,7 @@ Iter:next()neovim:nightly,
 Iter:nth()neovim:nightly,
 Iter:peek()neovim:nightly,
 Iter:pop()neovim:nightly,
-Iter:reduce()neovim:dev,
+Iter:reduce()neovim:nightly,
 Iter:rev()neovim:nightly,
 Iter:rfind()neovim:nightly,
 Iter:rpeek()neovim:nightly,
@@ -6571,7 +6571,7 @@ b:rust_cargo_check_examplesneovim:nightly,vim:v9.0.1898,
 b:rust_cargo_check_testsneovim:nightly,vim:v9.0.1898,
 b:rustfmt_autosaveneovim:nightly,vim:v9.0.1898,
 b:term_titleneovim:v0.1.5,
-b:terminal_job_idneovim:dev,v0.3.0
+b:terminal_job_idneovim:nightly,v0.3.0
 b:terminal_job_pidneovim:v0.1.5,
 b:tex_stylishneovim:v0.1.0,vim:v7.3.1241,
 b:varneovim:v0.1.0,vim:v7.0001,
@@ -7604,8 +7604,8 @@ eval-examplesneovim:v0.1.0,vim:v7.0001,
 eval-sandboxneovim:v0.1.0,vim:v7.0001,
 eval.txtneovim:v0.1.0,vim:v7.0001,
 evalcmd()vim:v7.4.1996,v7.4.2008
-event-argsneovim:dev,
-event-dataneovim:dev,
+event-argsneovim:nightly,
+event-dataneovim:nightly,
 event-variableneovim:v0.1.3,vim:v8.0.1394,
 eventhandler()neovim:v0.1.0,vim:v7.0001,
 eventsneovim:v0.5.0,
@@ -8208,6 +8208,7 @@ g:decada.Unit_Name()neovim:v0.1.0,vim:v7.2a,v7.2a.00
 g:did_load_filetypesneovim:v0.7.0,
 g:do_filetype_luaneovim:v0.7.0,v0.8.0
 g:do_legacy_filetypeneovim:v0.8.0,v0.9.0
+g:do_no_lazyload_menusvim:v9.1.0385,
 g:editorconfigneovim:v0.9.0,
 g:explDateFormatvim:v7.0001,v7.0045
 g:explDetailedHelpvim:v7.0001,v7.0045
@@ -10425,6 +10426,7 @@ mbyte-utf8neovim:v0.1.0,vim:v7.0001,
 mbyte.txtneovim:v0.1.0,vim:v7.0001,
 menu-changes-5.4vim:v7.0001,
 menu-examplesneovim:v0.1.0,vim:v7.0001,
+menu-lazyloadvim:v9.1.0385,
 menu-priorityneovim:v0.1.0,vim:v7.0001,
 menu-separatorneovim:v0.1.0,vim:v7.0001,
 menu-shortcutneovim:v0.8.0,vim:v8.2.0385,
@@ -11049,7 +11051,7 @@ nvim.txtneovim:v0.1.0,
 nvim_...()neovim:v0.1.6,
 nvim__buf_redraw_range()neovim:v0.5.0,v0.8.0
 nvim__buf_stats()neovim:v0.4.0,v0.8.0
-nvim__complete_set()neovim:dev,
+nvim__complete_set()neovim:nightly,
 nvim__get_hl_defs()neovim:v0.5.0,v0.8.0
 nvim__get_lib_dir()neovim:v0.5.0,v0.8.0
 nvim__get_runtime()neovim:v0.6.0,
@@ -11112,7 +11114,6 @@ nvim_clipboard.txtneovim:v0.1.0,v0.1.5
 nvim_cmd()neovim:v0.8.0,
 nvim_command()neovim:v0.2.0,
 nvim_command_output()neovim:v0.2.0,
-nvim_complete_set()neovim:nightly,dev
 nvim_create_augroup()neovim:v0.7.0,
 nvim_create_autocmd()neovim:v0.7.0,
 nvim_create_buf()neovim:v0.4.0,
@@ -12964,7 +12965,7 @@ terminal-emulator-inputneovim:v0.1.5,v0.2.1
 terminal-emulator-introneovim:v0.1.5,v0.2.0
 terminal-emulator-spawningneovim:v0.1.5,v0.2.1
 terminal-emulator-statusneovim:v0.1.5,v0.2.1
-terminal-eventsneovim:dev,
+terminal-eventsneovim:nightly,
 terminal-function-detailsvim:v8.1.1629,
 terminal-functionsvim:v8.0.1007,
 terminal-infoneovim:v0.1.0,v0.2.0vim:v7.0001,
@@ -12975,7 +12976,7 @@ terminal-mode-indexneovim:v0.4.0,
 terminal-mousevim:v8.1.2226,
 terminal-ms-windowsvim:v8.0.1290,
 terminal-optionsneovim:v0.1.0,v0.2.0vim:v7.0001,
-terminal-osc7neovim:dev,
+terminal-osc7neovim:nightly,
 terminal-output-codesvim:v8.0.0420,
 terminal-resizingvim:v8.0.1290,
 terminal-screendumpvim:v8.0.1526,
@@ -13783,7 +13784,6 @@ v_b_cneovim:v0.1.0,vim:v7.0001,
 v_b_rneovim:v0.1.0,vim:v7.0001,
 v_b_r_exampleneovim:v0.1.0,vim:v7.0001,
 v_cneovim:v0.1.0,vim:v7.0001,
-v_crrneovim:nightly,dev
 v_dneovim:v0.1.0,vim:v7.0001,
 v_g%neovim:v0.1.0,v0.4.0
 v_g?neovim:v0.1.0,vim:v7.0001,

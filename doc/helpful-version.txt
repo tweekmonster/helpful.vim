@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2024-05-01 00:15:02 UTC
+*helpful-version.txt*  Generated: 2024-05-02 00:14:06 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -27840,7 +27840,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |Iter:reduce()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |Iter:rev()|
 
@@ -31444,7 +31444,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |b:terminal_job_id|
 
-    Neovim: +dev -v0.3.0 
+    Neovim: +nightly -v0.3.0 
 
 |b:terminal_job_pid|
 
@@ -36244,11 +36244,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |event-args|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |event-data|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |event-variable|
 
@@ -39157,6 +39157,10 @@ A listing of helptags with the versions they became available or were removed.
 |g:do_legacy_filetype|
 
     Neovim: +v0.8.0 -v0.9.0 
+
+|g:do_no_lazyload_menus|
+
+       Vim: +v9.1.0385 
 
 |g:editorconfig|
 
@@ -49064,6 +49068,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|menu-lazyload|
+
+       Vim: +v9.1.0385 
+
 |menu-priority|
 
     Neovim: +v0.1.0 
@@ -51892,7 +51900,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |nvim__complete_set()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim__get_hl_defs()|
 
@@ -52141,10 +52149,6 @@ A listing of helptags with the versions they became available or were removed.
 |nvim_command_output()|
 
     Neovim: +v0.2.0 
-
-|nvim_complete_set()|
-
-    Neovim: +nightly -dev 
 
 |nvim_create_augroup()|
 
@@ -60595,7 +60599,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |terminal-events|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |terminal-function-details|
 
@@ -60641,7 +60645,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |terminal-osc7|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |terminal-output-codes|
 
@@ -64191,10 +64195,6 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
-
-|v_crr|
-
-    Neovim: +nightly -dev 
 
 |v_d|
 
