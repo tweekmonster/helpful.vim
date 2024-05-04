@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2024-05-03 00:14:12 UTC
+*helpful-version.txt*  Generated: 2024-05-04 00:13:50 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -35008,6 +35008,14 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.6 
 
+|deprecated-0.10|
+
+    Neovim: +dev 
+
+|deprecated-0.9|
+
+    Neovim: +dev 
+
 |deprecated.txt|
 
     Neovim: +v0.1.6 
@@ -43024,7 +43032,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |hl-SnippetTabstop|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |hl-SpecialKey|
 
@@ -51944,7 +51952,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |nvim__redraw()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim__runtime_inspect()|
 
@@ -66504,6 +66512,14 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +nightly 
 
+|vim.treesitter.add_directive()|
+
+    Neovim: +dev 
+
+|vim.treesitter.add_predicate()|
+
+    Neovim: +dev 
+
 |vim.treesitter.foldexpr()|
 
     Neovim: +v0.9.0 
@@ -66540,6 +66556,14 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.9.0 
 
+|vim.treesitter.get_query()|
+
+    Neovim: +dev 
+
+|vim.treesitter.get_query_files()|
+
+    Neovim: +dev 
+
 |vim.treesitter.get_range()|
 
     Neovim: +v0.9.0 
@@ -66547,6 +66571,10 @@ A listing of helptags with the versions they became available or were removed.
 |vim.treesitter.get_string_parser()|
 
     Neovim: +v0.9.0 
+
+|vim.treesitter.inspect_language()|
+
+    Neovim: +dev 
 
 |vim.treesitter.inspect_tree()|
 
@@ -66588,6 +66616,14 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.5.0 
 
+|vim.treesitter.list_directives()|
+
+    Neovim: +dev 
+
+|vim.treesitter.list_predicates()|
+
+    Neovim: +dev 
+
 |vim.treesitter.minimum_language_version|
 
     Neovim: +v0.7.0 
@@ -66595,6 +66631,10 @@ A listing of helptags with the versions they became available or were removed.
 |vim.treesitter.node_contains()|
 
     Neovim: +v0.9.0 
+
+|vim.treesitter.parse_query()|
+
+    Neovim: +dev 
 
 |vim.treesitter.playground.inspect_tree()|
 
@@ -66620,9 +66660,17 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.9.0 
 
+|vim.treesitter.query.get_node_text()|
+
+    Neovim: +dev 
+
 |vim.treesitter.query.get_query()|
 
     Neovim: +v0.9.0 
+
+|vim.treesitter.query.get_range()|
+
+    Neovim: +dev 
 
 |vim.treesitter.query.lint()|
 
@@ -66644,9 +66692,21 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.9.0 
 
+|vim.treesitter.query.parse_query()|
+
+    Neovim: +dev 
+
 |vim.treesitter.query.set()|
 
     Neovim: +v0.9.0 
+
+|vim.treesitter.query.set_query()|
+
+    Neovim: +dev 
+
+|vim.treesitter.set_query()|
+
+    Neovim: +dev 
 
 |vim.treesitter.start()|
 
