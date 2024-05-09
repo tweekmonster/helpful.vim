@@ -8384,7 +8384,7 @@ g:netrw_use_errorwindowneovim:v0.1.0,vim:v7.1b,
 g:netrw_use_noswfneovim:v0.1.0,vim:v7.1a,
 g:netrw_use_nt_rcpneovim:v0.1.0,vim:v7.0129,
 g:netrw_usetabneovim:v0.1.5,vim:v7.4.902,
-g:netrw_win95ftpneovim:v0.1.0,vim:v7.0129,
+g:netrw_win95ftpneovim:v0.1.0,devvim:v7.0129,v9.1.0395
 g:netrw_winsizeneovim:v0.1.0,vim:v7.0129,
 g:netrw_wiwneovim:v0.1.5,vim:v7.4.902,
 g:netrw_xstrlenneovim:v0.1.0,vim:v7.2a,
@@ -10634,11 +10634,12 @@ netrw-NBvim:v7.0145,v7.1a
 netrw-Nbvim:v7.0145,v7.1a
 netrw-Oneovim:v0.1.0,vim:v7.0145,
 netrw-Pneovim:v0.1.0,vim:v7.0191,
+netrw-P17neovim:dev,vim:v9.1.0395,
 netrw-P18neovim:v0.1.0,vim:v7.4.567,
 netrw-P19neovim:v0.1.5,vim:v7.4.902,
 netrw-P20neovim:v0.1.5,vim:v7.4.902,
 netrw-P21neovim:v0.1.5,vim:v7.4.902,
-netrw-P22neovim:v0.1.5,vim:v7.4.902,
+netrw-P22neovim:v0.1.5,devvim:v7.4.902,v9.1.0395
 netrw-Rneovim:v0.1.0,vim:v7.0007,
 netrw-Sneovim:v0.1.0,vim:v7.0015,
 netrw-Tvim:v7.2.328,v7.3.919
@@ -10780,7 +10781,7 @@ netrw-p13neovim:v0.1.0,vim:v7.2.434,
 netrw-p14neovim:v0.1.0,vim:v7.3.227,
 netrw-p15neovim:v0.1.0,vim:v7.3.227,
 netrw-p16neovim:v0.1.0,vim:v7.4.306,
-netrw-p17neovim:v0.1.0,vim:v7.4.567,
+netrw-p17neovim:v0.1.0,devvim:v7.4.567,v9.1.0395
 netrw-p2neovim:v0.1.0,vim:v7.0128,
 netrw-p3neovim:v0.1.0,vim:v7.0128,
 netrw-p4neovim:v0.1.0,vim:v7.0128,

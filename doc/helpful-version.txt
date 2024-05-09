@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2024-05-08 00:12:32 UTC
+*helpful-version.txt*  Generated: 2024-05-09 00:14:18 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -40006,8 +40006,8 @@ A listing of helptags with the versions they became available or were removed.
 
 |g:netrw_win95ftp|
 
-    Neovim: +v0.1.0 
-       Vim: +v7.0129 
+    Neovim: +v0.1.0 -dev 
+       Vim: +v7.0129 -v9.1.0395 
 
 |g:netrw_winsize|
 
@@ -49995,6 +49995,11 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0191 
 
+|netrw-P17|
+
+    Neovim: +dev 
+       Vim: +v9.1.0395 
+
 |netrw-P18|
 
     Neovim: +v0.1.0 
@@ -50017,8 +50022,8 @@ A listing of helptags with the versions they became available or were removed.
 
 |netrw-P22|
 
-    Neovim: +v0.1.5 
-       Vim: +v7.4.902 
+    Neovim: +v0.1.5 -dev 
+       Vim: +v7.4.902 -v9.1.0395 
 
 |netrw-R|
 
@@ -50716,8 +50721,8 @@ A listing of helptags with the versions they became available or were removed.
 
 |netrw-p17|
 
-    Neovim: +v0.1.0 
-       Vim: +v7.4.567 
+    Neovim: +v0.1.0 -dev 
+       Vim: +v7.4.567 -v9.1.0395 
 
 |netrw-p2|
 
