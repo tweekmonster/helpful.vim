@@ -8657,7 +8657,7 @@ gqapneovim:v0.1.0,vim:v7.0001,
 gqgqneovim:v0.1.0,vim:v7.0001,
 gqqneovim:v0.1.0,vim:v7.0001,
 grneovim:v0.1.0,vim:v7.0001,
-gr-defaultneovim:nightly,
+gr-defaultneovim:nightly,dev
 graphic-option-gonevim:v7.0001,
 greekneovim:v0.1.0,vim:v7.0001,
 grepneovim:v0.1.0,vim:v7.0001,
