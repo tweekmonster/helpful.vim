@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2024-05-16 00:13:51 UTC
+*helpful-version.txt*  Generated: 2024-05-17 00:14:32 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -28991,6 +28991,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.9.0 
 
+|TSNode:child_containing_descendant()|
+
+    Neovim: +dev 
+
 |TSNode:child_count()|
 
     Neovim: +v0.9.0 
@@ -35004,6 +35008,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +nightly 
 
+|deprecated-0.11|
+
+    Neovim: +dev 
+
 |deprecated-0.9|
 
     Neovim: +nightly 
@@ -35090,11 +35098,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |dev-api-name|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |dev-api-patterns|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |dev-doc|
 
@@ -35122,7 +35130,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |dev-name-api|
 
-    Neovim: +v0.9.0 -dev 
+    Neovim: +v0.9.0 -nightly 
 
 |dev-name-common|
 
@@ -46470,7 +46478,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |lua-profile|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-pseudoindex|
 
@@ -51533,6 +51541,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.9.0 -v0.3.2 
        Vim: +v7.0001 
 
+|news-0.10|
+
+    Neovim: +dev 
+
 |news-0.9|
 
     Neovim: +nightly 
@@ -51541,13 +51553,17 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +nightly 
 
+|news-10.txt|
+
+    Neovim: +dev 
+
 |news-breaking|
 
     Neovim: +v0.9.0 
 
 |news-breaking-dev|
 
-    Neovim: +nightly -dev 
+    Neovim: +dev 
 
 |news-changed|
 
@@ -51619,7 +51635,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |node-client|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |node_contains()|
 
