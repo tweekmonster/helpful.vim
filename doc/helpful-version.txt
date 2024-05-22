@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2024-05-21 00:14:25 UTC
+*helpful-version.txt*  Generated: 2024-05-22 00:14:06 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -37826,7 +37826,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |ft-arduino-plugin|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.0424 
 
 |ft-asciidoc-plugin|
@@ -38709,6 +38709,11 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.2 
        Vim: +v7.4.694 
+
+|ft-zig-plugin|
+
+    Neovim: +dev 
+       Vim: +dev 
 
 |ft-zimbu-plugin|
 
@@ -40436,6 +40441,16 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.2 
        Vim: +v7.4.694 
 
+|g:zig_recommended_style|
+
+    Neovim: +dev 
+       Vim: +dev 
+
+|g:zig_std_dir|
+
+    Neovim: +dev 
+       Vim: +dev 
+
 |g:zipPlugin_ext|
 
     Neovim: +v0.2.0 
@@ -41042,7 +41057,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |getregionpos()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.0394 
 
 |getregtype()|
