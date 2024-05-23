@@ -8117,7 +8117,7 @@ ft-xml-syntaxneovim:v0.1.0,vim:v7.0139,
 ft-xpm-syntaxneovim:v0.1.0,vim:v7.0139,
 ft-yaml-indentneovim:v0.10.0,vim:v9.1.0144,
 ft-yaml-syntaxneovim:v0.1.2,vim:v7.4.694,
-ft-zig-pluginneovim:dev,vim:dev,
+ft-zig-pluginneovim:nightly,vim:v9.1.0430,
 ft-zimbu-pluginneovim:v0.3.2,vim:v8.0.1401,
 ft-zsh-syntaxneovim:v0.1.5,vim:v7.4.1416,
 ft_ada.txtneovim:v0.1.0,vim:v7.2a,
@@ -8475,8 +8475,8 @@ g:vimsyn_maxlinesneovim:v0.1.0,vim:v7.2a,
 g:vimsyn_minlinesneovim:v0.1.0,vim:v7.2a,
 g:vimsyn_noerrorneovim:v0.1.0,vim:v7.2a,
 g:yaml_schemaneovim:v0.1.2,vim:v7.4.694,
-g:zig_recommended_styleneovim:dev,vim:dev,
-g:zig_std_dirneovim:dev,vim:dev,
+g:zig_recommended_styleneovim:nightly,vim:v9.1.0430,
+g:zig_std_dirneovim:nightly,vim:v9.1.0430,
 g:zipPlugin_extneovim:v0.2.0,vim:v8.0.0006,
 g:zip_execneovim:v0.10.0,vim:v9.0.2092,
 g:zip_extractcmdneovim:v0.2.0,vim:v8.0.0006,
@@ -8796,7 +8796,7 @@ haskell-syntaxvim:v7.0001,v7.0139
 haskell.vimneovim:v0.1.0,vim:v7.0001,
 haslocaldir()neovim:v0.1.0,vim:v7.0.230,
 hasmapto()neovim:v0.1.0,vim:v7.0001,
-healthneovim:v0.2.1,
+healthneovim:v0.2.1,dev
 health#report_errorneovim:v0.1.5,
 health#report_infoneovim:v0.1.5,
 health#report_okneovim:v0.1.5,
@@ -8806,7 +8806,7 @@ health-commandsneovim:v0.2.1,
 health-devneovim:v0.8.0,v0.6.0
 health-dev-luaneovim:v0.6.0,v0.8.0
 health-dev-vimneovim:v0.6.0,v0.8.0
-health-functionsneovim:v0.8.0,v0.6.0
+health-functionsneovim:v0.8.0,dev
 health-functions-luaneovim:v0.6.0,v0.8.0
 health-functions-vimscriptneovim:v0.6.0,v0.8.0
 health-luaneovim:v0.6.0,v0.8.0
@@ -11493,7 +11493,7 @@ phtml.vimneovim:v0.1.0,vim:v7.0001,
 pi_expl.txtvim:v7.0001,v7.0045
 pi_getscript.txtneovim:v0.1.0,v0.1.2vim:v7.1a,
 pi_gzip.txtneovim:v0.1.0,vim:v7.0001,
-pi_health.txtneovim:v0.1.5,
+pi_health.txtneovim:v0.1.5,dev
 pi_logipat.txtvim:v8.0.0142,v7.4.1725
 pi_matchit.txtneovim:v0.1.0,v0.4.0
 pi_msgpack.txtneovim:v0.1.1,
