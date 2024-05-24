@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2024-05-23 00:14:16 UTC
+*helpful-version.txt*  Generated: 2024-05-24 00:14:53 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -41953,7 +41953,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |health|
 
-    Neovim: +v0.2.1 -dev 
+    Neovim: +v0.2.1 -nightly 
 
 |health#report_error|
 
@@ -41993,7 +41993,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |health-functions|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |health-functions-lua|
 
@@ -53764,7 +53764,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |pi_health.txt|
 
-    Neovim: +v0.1.5 -dev 
+    Neovim: +v0.1.5 -nightly 
 
 |pi_logipat.txt|
 

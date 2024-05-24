@@ -8796,7 +8796,7 @@ haskell-syntaxvim:v7.0001,v7.0139
 haskell.vimneovim:v0.1.0,vim:v7.0001,
 haslocaldir()neovim:v0.1.0,vim:v7.0.230,
 hasmapto()neovim:v0.1.0,vim:v7.0001,
-healthneovim:v0.2.1,dev
+healthneovim:v0.2.1,nightly
 health#report_errorneovim:v0.1.5,
 health#report_infoneovim:v0.1.5,
 health#report_okneovim:v0.1.5,
@@ -8806,7 +8806,7 @@ health-commandsneovim:v0.2.1,
 health-devneovim:v0.8.0,v0.6.0
 health-dev-luaneovim:v0.6.0,v0.8.0
 health-dev-vimneovim:v0.6.0,v0.8.0
-health-functionsneovim:v0.8.0,dev
+health-functionsneovim:v0.8.0,nightly
 health-functions-luaneovim:v0.6.0,v0.8.0
 health-functions-vimscriptneovim:v0.6.0,v0.8.0
 health-luaneovim:v0.6.0,v0.8.0
@@ -11493,7 +11493,7 @@ phtml.vimneovim:v0.1.0,vim:v7.0001,
 pi_expl.txtvim:v7.0001,v7.0045
 pi_getscript.txtneovim:v0.1.0,v0.1.2vim:v7.1a,
 pi_gzip.txtneovim:v0.1.0,vim:v7.0001,
-pi_health.txtneovim:v0.1.5,dev
+pi_health.txtneovim:v0.1.5,nightly
 pi_logipat.txtvim:v8.0.0142,v7.4.1725
 pi_matchit.txtneovim:v0.1.0,v0.4.0
 pi_msgpack.txtneovim:v0.1.1,
