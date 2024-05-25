@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2024-05-24 00:14:53 UTC
+*helpful-version.txt*  Generated: 2024-05-25 00:13:59 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -38112,6 +38112,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0139 
 
+|ft-hare|
+
+       Vim: +v9.1.0442 
+
 |ft-haskell-syntax|
 
     Neovim: +v0.1.0 
@@ -38645,6 +38649,14 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0139 
 
+|ft-typescript-syntax|
+
+       Vim: +v9.1.0443 
+
+|ft-typescriptreact-syntax|
+
+       Vim: +v9.1.0443 
+
 |ft-vb-syntax|
 
     Neovim: +v0.1.0 
@@ -38733,6 +38745,10 @@ A listing of helptags with the versions they became available or were removed.
 |ft_context.txt|
 
        Vim: +v9.0.0281 
+
+|ft_hare.txt|
+
+       Vim: +v9.1.0442 
 
 |ft_mp.txt|
 
@@ -39271,6 +39287,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.3.255 
 
+|g:filetype_haredoc|
+
+       Vim: +v9.1.0442 
+
 |g:filetype_r|
 
     Neovim: +v0.1.0 
@@ -39349,6 +39369,18 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.10.0 
        Vim: +v9.0.2092 
+
+|g:hare_recommended_style|
+
+       Vim: +v9.1.0442 
+
+|g:hare_space_error|
+
+       Vim: +v9.1.0442 
+
+|g:haredoc_search_depth|
+
+       Vim: +v9.1.0442 
 
 |g:html_charset_override|
 
@@ -40383,6 +40415,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.3.1241 
 
+|g:typescript_host_keyword|
+
+       Vim: +v9.1.0443 
+
 |g:var|
 
     Neovim: +v0.1.0 
@@ -41365,6 +41401,14 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|gr-default|
+
+    Neovim: +dev 
+
+|gra|
+
+    Neovim: +dev 
+
 |graphic-option-gone|
 
        Vim: +v7.0001 
@@ -41378,6 +41422,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|grn|
+
+    Neovim: +dev 
 
 |groff-syntax|
 
@@ -41397,6 +41445,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|grr|
+
+    Neovim: +dev 
 
 |gs|
 
@@ -41907,6 +41959,22 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.9.0 
 
+|hare|
+
+       Vim: +v9.1.0442 
+
+|hare-intro|
+
+       Vim: +v9.1.0442 
+
+|hare-plugin|
+
+       Vim: +v9.1.0442 
+
+|hare-settings|
+
+       Vim: +v9.1.0442 
+
 |has()|
 
     Neovim: +v0.1.0 
@@ -41953,7 +42021,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |health|
 
-    Neovim: +v0.2.1 -nightly 
+    Neovim: +dev -nightly 
 
 |health#report_error|
 
@@ -42030,6 +42098,10 @@ A listing of helptags with the versions they became available or were removed.
 |health.report_warn()|
 
     Neovim: +v0.6.0 -v0.8.0 
+
+|health.txt|
+
+    Neovim: +dev 
 
 |health.user_checker|
 
@@ -43796,6 +43868,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|i_CTRL-S|
+
+    Neovim: +dev 
 
 |i_CTRL-SHIFT-Q|
 
@@ -61751,6 +61827,14 @@ A listing of helptags with the versions they became available or were removed.
 |typename()|
 
        Vim: +v8.2.2339 
+
+|typescript.vim|
+
+       Vim: +v9.1.0443 
+
+|typescriptreact.vim|
+
+       Vim: +v9.1.0443 
 
 |u|
 
