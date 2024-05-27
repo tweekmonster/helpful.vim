@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2024-05-26 00:15:38 UTC
+*helpful-version.txt*  Generated: 2024-05-27 00:14:53 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -38114,7 +38114,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |ft-hare|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.0442 
 
 |ft-haskell-syntax|
@@ -38652,12 +38652,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |ft-typescript-syntax|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.0443 
 
 |ft-typescriptreact-syntax|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.0443 
 
 |ft-vb-syntax|
@@ -38751,7 +38751,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |ft_hare.txt|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.0442 
 
 |ft_mp.txt|
@@ -39293,7 +39293,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |g:filetype_haredoc|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.0442 
 
 |g:filetype_r|
@@ -39377,17 +39377,17 @@ A listing of helptags with the versions they became available or were removed.
 
 |g:hare_recommended_style|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.0442 
 
 |g:hare_space_error|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.0442 
 
 |g:haredoc_search_depth|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.0442 
 
 |g:html_charset_override|
@@ -40425,7 +40425,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |g:typescript_host_keyword|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.0443 
 
 |g:var|
@@ -41970,22 +41970,22 @@ A listing of helptags with the versions they became available or were removed.
 
 |hare|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.0442 
 
 |hare-intro|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.0442 
 
 |hare-plugin|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.0442 
 
 |hare-settings|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.0442 
 
 |has()|
@@ -61843,12 +61843,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |typescript.vim|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.0443 
 
 |typescriptreact.vim|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.0443 
 
 |u|
