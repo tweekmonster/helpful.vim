@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2024-05-27 00:14:53 UTC
+*helpful-version.txt*  Generated: 2024-05-29 00:15:11 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -29826,6 +29826,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|[D-default|
+
+    Neovim: +dev 
+
 |[I|
 
     Neovim: +v0.1.0 
@@ -29993,6 +29997,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|]D-default|
+
+    Neovim: +dev 
 
 |]I|
 
@@ -45941,6 +45949,10 @@ A listing of helptags with the versions they became available or were removed.
 |lsp-codelens|
 
     Neovim: +v0.5.0 
+
+|lsp-completion|
+
+    Neovim: +dev 
 
 |lsp-config|
 
@@ -65163,7 +65175,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.diagnostic.GotoOpts|
 
-    Neovim: +v0.10.0 
+    Neovim: +v0.10.0 -dev 
+
+|vim.diagnostic.JumpOpts|
+
+    Neovim: +dev 
 
 |vim.diagnostic.NS|
 
@@ -65176,6 +65192,10 @@ A listing of helptags with the versions they became available or were removed.
 |vim.diagnostic.Opts.Float|
 
     Neovim: +v0.10.0 
+
+|vim.diagnostic.Opts.Jump|
+
+    Neovim: +dev 
 
 |vim.diagnostic.Opts.Signs|
 
@@ -65256,6 +65276,10 @@ A listing of helptags with the versions they became available or were removed.
 |vim.diagnostic.is_enabled()|
 
     Neovim: +v0.10.0 
+
+|vim.diagnostic.jump()|
+
+    Neovim: +dev 
 
 |vim.diagnostic.match()|
 
@@ -65870,6 +65894,18 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.10.0 
 
+|vim.lsp.completion.BufferOpts|
+
+    Neovim: +dev 
+
+|vim.lsp.completion.enable()|
+
+    Neovim: +dev 
+
+|vim.lsp.completion.trigger()|
+
+    Neovim: +dev 
+
 |vim.lsp.diagnostic.clear()|
 
     Neovim: +v0.5.0 
@@ -66480,7 +66516,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.region()|
 
-    Neovim: +v0.5.0 
+    Neovim: +v0.5.0 -dev 
 
 |vim.register_keystroke_callback()|
 
