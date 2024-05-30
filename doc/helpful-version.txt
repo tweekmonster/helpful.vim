@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2024-05-29 00:15:11 UTC
+*helpful-version.txt*  Generated: 2024-05-30 00:14:56 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -29828,7 +29828,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |[D-default|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |[I|
 
@@ -30000,7 +30000,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |]D-default|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |]I|
 
@@ -45952,7 +45952,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |lsp-completion|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lsp-config|
 
@@ -65175,11 +65175,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.diagnostic.GotoOpts|
 
-    Neovim: +v0.10.0 -dev 
+    Neovim: +v0.10.0 -nightly 
 
 |vim.diagnostic.JumpOpts|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.diagnostic.NS|
 
@@ -65195,7 +65195,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.diagnostic.Opts.Jump|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.diagnostic.Opts.Signs|
 
@@ -65279,7 +65279,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.diagnostic.jump()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.diagnostic.match()|
 
@@ -65896,15 +65896,15 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.lsp.completion.BufferOpts|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.completion.enable()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.completion.trigger()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.diagnostic.clear()|
 
@@ -66516,7 +66516,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.region()|
 
-    Neovim: +v0.5.0 -dev 
+    Neovim: +v0.5.0 -nightly 
 
 |vim.register_keystroke_callback()|
 
