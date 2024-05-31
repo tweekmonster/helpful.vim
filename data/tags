@@ -14269,6 +14269,7 @@ vim.lsp.util.border_width()neovim:v0.5.0,v0.6.0
 vim.lsp.util.buf_clear_references()neovim:v0.5.0,
 vim.lsp.util.buf_highlight_references()neovim:v0.5.0,
 vim.lsp.util.buf_lines()neovim:v0.5.0,v0.6.0
+vim.lsp.util.buf_versionsneovim:dev,
 vim.lsp.util.character_offset()neovim:v0.5.0,
 vim.lsp.util.close_preview_autocmd()neovim:v0.5.0,v0.7.0
 vim.lsp.util.compute_diff()neovim:v0.5.0,v0.6.0
