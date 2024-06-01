@@ -2115,6 +2115,7 @@ $quoteneovim:v0.10.0,vim:v8.2.5055,
 52.3vim:v8.2.4954,
 52.4vim:v8.2.4954,
 52.5vim:v8.2.5055,
+52.6vim:dev,
 755vim:v7.0066,v7.0c10
 767vim:v7.0119,v7.0122
 8g8neovim:v0.1.0,vim:v7.0227,
@@ -8073,6 +8074,7 @@ ft-quake-syntaxneovim:v0.1.0,vim:v7.0139,
 ft-query-pluginneovim:v0.10.0,
 ft-r-indentneovim:v0.1.0,vim:v7.3.313,
 ft-r-syntaxneovim:v0.3.2,vim:v8.1.0332,
+ft-rasi-syntaxneovim:dev,vim:v9.1.0453,
 ft-readline-syntaxneovim:v0.1.0,vim:v7.0139,
 ft-rego-syntaxneovim:v0.5.0,vim:v8.2.0025,
 ft-rexx-syntaxneovim:v0.1.0,vim:v7.0139,
@@ -11841,6 +11843,7 @@ raku-unicodeneovim:v0.5.0,vim:v8.2.2800,
 rand()neovim:v0.7.0,vim:v8.1.2342,
 randomvim:v8.2.0613,
 range()neovim:v0.1.0,vim:v7.0038,
+rasi.vimneovim:dev,vim:v9.1.0453,
 raw-terminal-modeneovim:v0.1.0,v0.2.0vim:v7.0001,
 rawequal()neovim:v0.10.0,
 rawget()neovim:v0.10.0,
@@ -14269,7 +14272,7 @@ vim.lsp.util.border_width()neovim:v0.5.0,v0.6.0
 vim.lsp.util.buf_clear_references()neovim:v0.5.0,
 vim.lsp.util.buf_highlight_references()neovim:v0.5.0,
 vim.lsp.util.buf_lines()neovim:v0.5.0,v0.6.0
-vim.lsp.util.buf_versionsneovim:dev,
+vim.lsp.util.buf_versionsneovim:nightly,
 vim.lsp.util.character_offset()neovim:v0.5.0,
 vim.lsp.util.close_preview_autocmd()neovim:v0.5.0,v0.7.0
 vim.lsp.util.compute_diff()neovim:v0.5.0,v0.6.0

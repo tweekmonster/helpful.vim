@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2024-05-31 00:14:15 UTC
+*helpful-version.txt*  Generated: 2024-06-01 00:15:24 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -10229,6 +10229,10 @@ A listing of helptags with the versions they became available or were removed.
 |52.5|
 
        Vim: +v8.2.5055 
+
+|52.6|
+
+       Vim: +dev 
 
 |755|
 
@@ -38489,6 +38493,11 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.3.2 
        Vim: +v8.1.0332 
 
+|ft-rasi-syntax|
+
+    Neovim: +dev 
+       Vim: +v9.1.0453 
+
 |ft-readline-syntax|
 
     Neovim: +v0.1.0 
@@ -55365,6 +55374,11 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0038 
 
+|rasi.vim|
+
+    Neovim: +dev 
+       Vim: +v9.1.0453 
+
 |raw-terminal-mode|
 
     Neovim: +v0.1.0 -v0.2.0 
@@ -66248,7 +66262,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.lsp.util.buf_versions|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.util.character_offset()|
 
