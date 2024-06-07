@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2024-06-04 00:14:32 UTC
+*helpful-version.txt*  Generated: 2024-06-07 00:15:05 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -35908,6 +35908,10 @@ A listing of helptags with the versions they became available or were removed.
 |editorconfig.root|
 
     Neovim: +v0.10.0 
+
+|editorconfig.spelling_language|
+
+    Neovim: +dev 
 
 |editorconfig.tab_width|
 
