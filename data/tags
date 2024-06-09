@@ -11103,16 +11103,16 @@ nvim__id_dictionary()neovim:v0.2.1,
 nvim__id_float()neovim:v0.2.1,
 nvim__inspect_cell()neovim:v0.3.2,
 nvim__invalidate_glyph_cache()neovim:v0.10.0,
-nvim__ns_get()neovim:dev,
-nvim__ns_set()neovim:dev,
+nvim__ns_get()neovim:nightly,
+nvim__ns_set()neovim:nightly,
 nvim__redraw()neovim:v0.10.0,
 nvim__runtime_inspect()neovim:v0.6.0,v0.8.0
 nvim__screenshot()neovim:v0.5.0,v0.8.0
 nvim__set_hl_ns()neovim:v0.5.0,v0.8.0
 nvim__stats()neovim:v0.3.0,
-nvim__win_add_ns()neovim:v0.10.0,dev
-nvim__win_del_ns()neovim:v0.10.0,dev
-nvim__win_get_ns()neovim:v0.10.0,dev
+nvim__win_add_ns()neovim:v0.10.0,nightly
+nvim__win_del_ns()neovim:v0.10.0,nightly
+nvim__win_get_ns()neovim:v0.10.0,nightly
 nvim_buf_add_highlight()neovim:v0.2.0,
 nvim_buf_attach()neovim:v0.3.0,
 nvim_buf_call()neovim:v0.5.0,
@@ -13108,6 +13108,7 @@ text-objectsneovim:v0.1.0,vim:v7.0001,
 text-objects-changedvim:v7.0001,
 text-prop-changesvim:v8.1.0764,
 text-prop-functionsvim:v8.1.0579,
+text-prop-functions-detailsvim:dev,
 text-prop-introvim:v8.1.0579,
 text-propertiesvim:v8.1.0579,
 text-property-functionsvim:v8.2.0897,
@@ -14276,7 +14277,6 @@ vim.lsp.util.border_width()neovim:v0.5.0,v0.6.0
 vim.lsp.util.buf_clear_references()neovim:v0.5.0,
 vim.lsp.util.buf_highlight_references()neovim:v0.5.0,
 vim.lsp.util.buf_lines()neovim:v0.5.0,v0.6.0
-vim.lsp.util.buf_versionsneovim:nightly,dev
 vim.lsp.util.character_offset()neovim:v0.5.0,
 vim.lsp.util.close_preview_autocmd()neovim:v0.5.0,v0.7.0
 vim.lsp.util.compute_diff()neovim:v0.5.0,v0.6.0
