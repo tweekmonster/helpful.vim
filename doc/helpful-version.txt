@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2024-06-09 00:17:03 UTC
+*helpful-version.txt*  Generated: 2024-06-10 00:15:29 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -61226,7 +61226,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |text-prop-functions-details|
 
-       Vim: +dev 
+       Vim: +v9.1.0471 
 
 |text-prop-intro|
 
