@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2024-06-10 00:15:29 UTC
+*helpful-version.txt*  Generated: 2024-06-12 00:14:52 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -40481,6 +40481,10 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v7.2a -v7.2.328 
 
+|g:vimsyn_comment_strings|
+
+       Vim: +v9.1.0477 
+
 |g:vimsyn_embed|
 
     Neovim: +v0.1.0 
@@ -43138,6 +43142,14 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.9.0 
        Vim: +v9.0.1397 
+
+|hl-PmenuMatch|
+
+       Vim: +v9.1.0476 
+
+|hl-PmenuMatchSel|
+
+       Vim: +v9.1.0476 
 
 |hl-PmenuSbar|
 
@@ -60853,6 +60865,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 -v0.2.0 
        Vim: +v7.0001 
+
+|terminal-osc52|
+
+    Neovim: +dev 
 
 |terminal-osc7|
 
