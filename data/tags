@@ -7057,6 +7057,7 @@ compiler-dotnetneovim:v0.9.0,vim:v9.0.1048,
 compiler-gccneovim:v0.1.0,vim:v7.1b,
 compiler-gnatneovim:v0.1.0,vim:v7.2a,v7.2a.00
 compiler-hpadaneovim:v0.1.0,vim:v7.2a,v7.2a.00
+compiler-javacneovim:dev,vim:dev,
 compiler-manxvim:v7.0001,
 compiler-pandocneovim:v0.10.0,vim:v9.1.0336,
 compiler-perlneovim:v0.1.0,vim:v7.2a,
@@ -13986,7 +13987,7 @@ vim-raku.txtneovim:v0.5.0,v0.6.0vim:v8.2.2800,v8.2.3065
 vim-script-introneovim:v0.1.0,vim:v7.0001,
 vim-script-libraryneovim:v0.10.0,vim:v9.0.2092,
 vim-securityvim:v9.0.2113,
-vim-shebangneovim:dev,vim:dev,
+vim-shebangneovim:nightly,vim:v9.1.0492,
 vim-syntaxvim:v7.0001,v7.0139
 vim-tutor-createneovim:v0.1.0,
 vim-tutor-modeneovim:v0.1.0,
