@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2024-06-17 00:15:40 UTC
+*helpful-version.txt*  Generated: 2024-06-18 00:15:07 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -33710,8 +33710,8 @@ A listing of helptags with the versions they became available or were removed.
 
 |compiler-javac|
 
-    Neovim: +dev 
-       Vim: +dev 
+    Neovim: +nightly 
+       Vim: +v9.1.0495 
 
 |compiler-manx|
 
@@ -61243,6 +61243,10 @@ A listing of helptags with the versions they became available or were removed.
 |text-prop-changes|
 
        Vim: +v8.1.0764 
+
+|text-prop-cleared|
+
+       Vim: +v9.1.0495 
 
 |text-prop-functions|
 
