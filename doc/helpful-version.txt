@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2024-06-18 00:15:07 UTC
+*helpful-version.txt*  Generated: 2024-06-19 00:14:49 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -51810,6 +51810,16 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.8.0 -v0.9.0 
 
+|nohlsearch-auto|
+
+    Neovim: +dev 
+       Vim: +v9.1.0497 
+
+|nohlsearch-install|
+
+    Neovim: +dev 
+       Vim: +v9.1.0497 
+
 |non-greedy|
 
     Neovim: +v0.1.0 
@@ -54221,6 +54231,10 @@ A listing of helptags with the versions they became available or were removed.
 |popup_notification()|
 
        Vim: +v8.1.1329 
+
+|popup_setbuf()|
+
+       Vim: +v9.1.0500 
 
 |popup_setlines()|
 
