@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2024-06-20 00:14:32 UTC
+*helpful-version.txt*  Generated: 2024-06-21 00:14:38 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -20622,6 +20622,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0195 
 
+|CursorMovedC|
+
+       Vim: +v9.1.0507 
+
 |CursorMovedI|
 
     Neovim: +v0.1.0 
@@ -31699,6 +31703,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.2.0 
        Vim: +v7.4.2228 
+
+|bindtextdomain()|
+
+       Vim: +v9.1.0509 
 
 |bisect|
 
@@ -60692,6 +60700,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.4.0 
        Vim: +v8.0.1290 
+
+|termdebug-timeout|
+
+       Vim: +v9.1.0508 
 
 |termdebug-variables|
 
