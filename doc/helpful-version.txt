@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2024-07-05 00:14:47 UTC
+*helpful-version.txt*  Generated: 2024-07-06 00:14:28 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -18955,6 +18955,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|<S-CR>|
+
+       Vim: +v9.1.0532 
+
 |<S-Del>|
 
     Neovim: +v0.1.0 -v0.1.3 
@@ -19050,6 +19054,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|<S-Minus>|
+
+       Vim: +v9.1.0532 
+
 |<S-MouseDown>|
 
        Vim: +v7.0001 -v7.3 
@@ -19057,6 +19065,14 @@ A listing of helptags with the versions they became available or were removed.
 |<S-MouseUp>|
 
        Vim: +v7.0001 -v7.3 
+
+|<S-NL>|
+
+       Vim: +v9.1.0532 
+
+|<S-Plus>|
+
+       Vim: +v9.1.0532 
 
 |<S-Right>|
 
@@ -19985,6 +20001,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|CTRL-SHIFT-CR|
+
+       Vim: +v9.1.0532 
 
 |CTRL-T|
 
@@ -28799,6 +28819,14 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|SHIFT-+|
+
+       Vim: +v9.1.0532 
+
+|SHIFT-MINUS|
+
+       Vim: +v9.1.0532 
 
 |SQLGetType|
 
@@ -39337,7 +39365,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |g:filetype_md|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.0517 
 
 |g:filetype_r|
