@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2024-07-07 00:16:34 UTC
+*helpful-version.txt*  Generated: 2024-07-08 00:15:41 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -18957,7 +18957,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |<S-CR>|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.0532 
 
 |<S-Del>|
@@ -19057,7 +19057,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |<S-Minus>|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.0532 
 
 |<S-MouseDown>|
@@ -19070,12 +19070,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |<S-NL>|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.0532 
 
 |<S-Plus>|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.0532 
 
 |<S-Right>|
@@ -28826,12 +28826,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |SHIFT-+|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.0532 
 
 |SHIFT-MINUS|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.0532 
 
 |SQLGetType|
@@ -37830,7 +37830,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |fswatch-limitations|
 
-    Neovim: +v0.10.0 -dev 
+    Neovim: +v0.10.0 -nightly 
 
 |ft-abel-syntax|
 
@@ -38035,6 +38035,11 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0150 
+
+|ft-csv-syntax|
+
+    Neovim: +dev 
+       Vim: +v9.1.0539 
 
 |ft-cweb-syntax|
 
@@ -44565,7 +44570,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |inotify-limitations|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |input()|
 
