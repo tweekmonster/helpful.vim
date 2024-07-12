@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2024-07-11 00:16:07 UTC
+*helpful-version.txt*  Generated: 2024-07-12 00:15:16 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -27942,6 +27942,10 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v7.0007 
 
+|KeyInputPre|
+
+       Vim: +v9.1.0563 
+
 |Kibaale|
 
     Neovim: +v0.1.0 
@@ -53515,6 +53519,22 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.5 
        Vim: +v7.4.1663 
+
+|package-doc|
+
+       Vim: +v9.1.0559 
+
+|package-documentation|
+
+       Vim: +v9.1.0559 
+
+|package-translate_example|
+
+       Vim: +v9.1.0559 
+
+|package-translation|
+
+       Vim: +v9.1.0559 
 
 |package.cpath|
 
