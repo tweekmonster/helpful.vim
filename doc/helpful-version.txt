@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2024-07-16 00:15:36 UTC
+*helpful-version.txt*  Generated: 2024-07-17 00:15:40 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -31145,6 +31145,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.10.0 
        Vim: +v9.1.0363 
 
+|asy.vim|
+
+       Vim: +v9.1.0593 
+
 |at|
 
     Neovim: +v0.1.0 
@@ -33801,6 +33805,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |compiler-typst|
 
+    Neovim: +dev 
        Vim: +v9.1.0588 
 
 |compiler-vaxada|
@@ -37958,6 +37963,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.10.0 
        Vim: +v9.1.0363 
 
+|ft-asy-syntax|
+
+       Vim: +v9.1.0593 
+
 |ft-awk-plugin|
 
     Neovim: +v0.5.0 
@@ -38191,10 +38200,18 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0139 
 
+|ft-gdscript-plugin|
+
+       Vim: +v9.1.0593 
+
 |ft-gitcommit-plugin|
 
     Neovim: +v0.1.0 
        Vim: +v7.2a 
+
+|ft-go-plugin|
+
+       Vim: +v9.1.0593 
 
 |ft-gprof-plugin|
 
@@ -38369,6 +38386,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.5.0 
        Vim: +v8.1.2411 
+
+|ft-mediawiki-syntax|
+
+       Vim: +v9.1.0592 
 
 |ft-metafont|
 
@@ -38766,10 +38787,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |ft-typst-plugin|
 
+    Neovim: +dev 
        Vim: +v9.1.0588 
 
 |ft-typst-syntax|
 
+    Neovim: +dev 
        Vim: +v9.1.0588 
 
 |ft-vb-syntax|
@@ -40547,14 +40570,17 @@ A listing of helptags with the versions they became available or were removed.
 
 |g:typst_cmd|
 
+    Neovim: +dev 
        Vim: +v9.1.0588 
 
 |g:typst_conceal|
 
+    Neovim: +dev 
        Vim: +v9.1.0588 
 
 |g:typst_embedded_languages|
 
+    Neovim: +dev 
        Vim: +v9.1.0588 
 
 |g:var|
