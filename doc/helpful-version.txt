@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2024-07-17 00:15:40 UTC
+*helpful-version.txt*  Generated: 2024-07-18 00:15:07 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -31147,6 +31147,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |asy.vim|
 
+    Neovim: +dev 
        Vim: +v9.1.0593 
 
 |at|
@@ -33805,7 +33806,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |compiler-typst|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.0588 
 
 |compiler-vaxada|
@@ -37965,6 +37966,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |ft-asy-syntax|
 
+    Neovim: +dev 
        Vim: +v9.1.0593 
 
 |ft-awk-plugin|
@@ -38202,6 +38204,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |ft-gdscript-plugin|
 
+    Neovim: +dev 
        Vim: +v9.1.0593 
 
 |ft-gitcommit-plugin|
@@ -38211,6 +38214,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |ft-go-plugin|
 
+    Neovim: +dev 
        Vim: +v9.1.0593 
 
 |ft-gprof-plugin|
@@ -38389,6 +38393,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |ft-mediawiki-syntax|
 
+    Neovim: +dev 
        Vim: +v9.1.0592 
 
 |ft-metafont|
@@ -38787,12 +38792,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |ft-typst-plugin|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.0588 
 
 |ft-typst-syntax|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.0588 
 
 |ft-vb-syntax|
@@ -40570,17 +40575,17 @@ A listing of helptags with the versions they became available or were removed.
 
 |g:typst_cmd|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.0588 
 
 |g:typst_conceal|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.0588 
 
 |g:typst_embedded_languages|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.0588 
 
 |g:var|
