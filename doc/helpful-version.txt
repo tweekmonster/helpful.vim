@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2024-07-18 00:15:07 UTC
+*helpful-version.txt*  Generated: 2024-07-19 00:15:26 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -31147,7 +31147,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |asy.vim|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.0593 
 
 |at|
@@ -35314,6 +35314,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.10.0 
 
+|dev-vimpatch-filetype|
+
+    Neovim: +dev 
+
 |dev-vimpatch-list-management|
 
     Neovim: +v0.10.0 
@@ -37966,7 +37970,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |ft-asy-syntax|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.0593 
 
 |ft-awk-plugin|
@@ -38204,7 +38208,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |ft-gdscript-plugin|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.0593 
 
 |ft-gitcommit-plugin|
@@ -38214,7 +38218,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |ft-go-plugin|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.0593 
 
 |ft-gprof-plugin|
@@ -38393,7 +38397,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |ft-mediawiki-syntax|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.0592 
 
 |ft-metafont|
