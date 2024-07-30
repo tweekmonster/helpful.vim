@@ -5831,6 +5831,7 @@ LanguageTree:is_valid()neovim:v0.5.0,
 LanguageTree:lang()neovim:v0.5.0,
 LanguageTree:language_for_range()neovim:v0.5.0,
 LanguageTree:named_node_for_range()neovim:v0.8.0,
+LanguageTree:node_for_range()neovim:dev,
 LanguageTree:parse()neovim:v0.5.0,
 LanguageTree:register_cbs()neovim:v0.5.0,
 LanguageTree:remove_child()neovim:v0.5.0,v0.8.0

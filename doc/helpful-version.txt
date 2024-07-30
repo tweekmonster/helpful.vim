@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2024-07-20 00:14:58 UTC
+*helpful-version.txt*  Generated: 2024-07-30 00:15:31 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -28026,6 +28026,10 @@ A listing of helptags with the versions they became available or were removed.
 |LanguageTree:named_node_for_range()|
 
     Neovim: +v0.8.0 
+
+|LanguageTree:node_for_range()|
+
+    Neovim: +dev 
 
 |LanguageTree:parse()|
 
