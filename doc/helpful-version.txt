@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2024-08-08 00:15:29 UTC
+*helpful-version.txt*  Generated: 2024-08-09 00:15:41 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -28291,6 +28291,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |NoDefaultCurrentDirectoryInExePath|
 
+    Neovim: +dev 
        Vim: +v8.2.4860 
 
 |None|
