@@ -8326,9 +8326,9 @@ g:loaded_python3_providerneovim:v0.1.0,
 g:loaded_python_providerneovim:v0.1.0,v0.7.0
 g:loaded_ruby_providerneovim:v0.1.5,
 g:man_hardwrapneovim:v0.4.0,
-g:markdown_fenced_languagesneovim:dev,vim:dev,
-g:markdown_minlinesneovim:dev,vim:dev,
-g:markdown_syntax_concealneovim:dev,vim:dev,
+g:markdown_fenced_languagesneovim:nightly,vim:v9.1.0674,
+g:markdown_minlinesneovim:nightly,vim:v9.1.0674,
+g:markdown_syntax_concealneovim:nightly,vim:v9.1.0674,
 g:netrw-avim:v7.0150,v7.0151
 g:netrw_avim:v7.0007,v7.0015
 g:netrw_altfileneovim:v0.1.0,vim:v7.4.156,
@@ -8514,8 +8514,8 @@ g:typst_embedded_languagesneovim:nightly,vim:v9.1.0588,
 g:varneovim:v0.1.0,vim:v7.0001,
 g:vim_indentvim:v9.0.0609,
 g:vim_indent_contneovim:v0.7.0,vim:v8.2.4047,
-g:vim_json_concealneovim:dev,vim:dev,
-g:vim_json_warningsneovim:dev,vim:dev,
+g:vim_json_concealneovim:nightly,vim:v9.1.0674,
+g:vim_json_warningsneovim:nightly,vim:v9.1.0674,
 g:vimball_homeneovim:v0.1.0,v0.1.5vim:v7.1a,
 g:vimball_mkdirneovim:v0.1.0,v0.1.5vim:v7.2a,
 g:vimball_path_escapevim:v7.2a,v7.2.328
