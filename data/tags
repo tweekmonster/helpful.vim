@@ -13221,6 +13221,7 @@ treesitter-language-injectionsneovim:v0.9.0,
 treesitter-languagetreeneovim:v0.5.0,v0.9.0
 treesitter-nodeneovim:v0.8.0,
 treesitter-parsersneovim:v0.5.0,
+treesitter-parsers-wasmneovim:dev,
 treesitter-predicate-any-contains?neovim:v0.10.0,
 treesitter-predicate-any-eq?neovim:v0.10.0,
 treesitter-predicate-any-lua-match?neovim:v0.10.0,

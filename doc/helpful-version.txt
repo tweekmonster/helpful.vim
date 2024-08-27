@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2024-08-15 00:15:30 UTC
+*helpful-version.txt*  Generated: 2024-08-27 00:16:03 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -61752,6 +61752,10 @@ A listing of helptags with the versions they became available or were removed.
 |treesitter-parsers|
 
     Neovim: +v0.5.0 
+
+|treesitter-parsers-wasm|
+
+    Neovim: +dev 
 
 |treesitter-predicate-any-contains?|
 
