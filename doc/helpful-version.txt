@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2024-09-12 00:16:43 UTC
+*helpful-version.txt*  Generated: 2024-09-13 00:16:21 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -33787,7 +33787,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |compiler-groff|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.0725 
 
 |compiler-hpada|
@@ -33802,7 +33802,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |compiler-make|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.0727 
 
 |compiler-manx|
@@ -55386,7 +55386,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |quickfix-groff|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.0725 
 
 |quickfix-index|
