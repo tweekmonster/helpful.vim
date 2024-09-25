@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2024-09-24 00:17:16 UTC
+*helpful-version.txt*  Generated: 2024-09-25 00:17:15 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -35240,6 +35240,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.2.1 
 
+|dev-error-patterns|
+
+    Neovim: +dev 
+
 |dev-guidelines|
 
     Neovim: +v0.4.0 
@@ -46531,6 +46535,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.10.0 
 
+|lua-error-handling|
+
+    Neovim: +dev 
+
 |lua-errors|
 
     Neovim: +v0.10.0 
@@ -46913,6 +46921,10 @@ A listing of helptags with the versions they became available or were removed.
 |lua-require-example|
 
     Neovim: +v0.2.1 -v0.9.0 
+
+|lua-result-or-message|
+
+    Neovim: +dev 
 
 |lua-return|
 
@@ -52369,11 +52381,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |nvim__id_dict()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim__id_dictionary()|
 
-    Neovim: +v0.2.1 -dev 
+    Neovim: +v0.2.1 -nightly 
 
 |nvim__id_float()|
 

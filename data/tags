@@ -7381,6 +7381,7 @@ dev-api-clientneovim:v0.2.1,
 dev-api-nameneovim:v0.10.0,
 dev-api-patternsneovim:v0.10.0,
 dev-docneovim:v0.2.1,
+dev-error-patternsneovim:dev,
 dev-guidelinesneovim:v0.4.0,
 dev-helpneovim:v0.2.0,v0.2.1
 dev-jargonneovim:v0.1.5,v0.3.2
@@ -9806,6 +9807,7 @@ lua-elseneovim:v0.10.0,
 lua-elseifneovim:v0.10.0,
 lua-endneovim:v0.10.0,
 lua-environmentsneovim:v0.10.0,
+lua-error-handlingneovim:dev,
 lua-errorsneovim:v0.10.0,
 lua-evalneovim:v0.2.1,vim:v7.3.601,
 lua-expressionsneovim:v0.10.0,
@@ -9901,6 +9903,7 @@ lua-relationalneovim:v0.10.0,
 lua-repeatneovim:v0.10.0,
 lua-requireneovim:v0.2.1,v0.10.0
 lua-require-exampleneovim:v0.2.1,v0.9.0
+lua-result-or-messageneovim:dev,
 lua-returnneovim:v0.10.0,
 lua-secureneovim:v0.9.0,v0.10.0
 lua-special-tblneovim:v0.2.1,
@@ -11150,8 +11153,8 @@ nvim__get_lib_dir()neovim:v0.5.0,v0.8.0
 nvim__get_runtime()neovim:v0.6.0,
 nvim__id()neovim:v0.2.1,
 nvim__id_array()neovim:v0.2.1,
-nvim__id_dict()neovim:dev,
-nvim__id_dictionary()neovim:v0.2.1,dev
+nvim__id_dict()neovim:nightly,
+nvim__id_dictionary()neovim:v0.2.1,nightly
 nvim__id_float()neovim:v0.2.1,
 nvim__inspect_cell()neovim:v0.3.2,
 nvim__invalidate_glyph_cache()neovim:v0.10.0,
