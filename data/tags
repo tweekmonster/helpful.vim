@@ -7381,7 +7381,7 @@ dev-api-clientneovim:v0.2.1,
 dev-api-nameneovim:v0.10.0,
 dev-api-patternsneovim:v0.10.0,
 dev-docneovim:v0.2.1,
-dev-error-patternsneovim:dev,
+dev-error-patternsneovim:nightly,
 dev-guidelinesneovim:v0.4.0,
 dev-helpneovim:v0.2.0,v0.2.1
 dev-jargonneovim:v0.1.5,v0.3.2
@@ -9807,7 +9807,7 @@ lua-elseneovim:v0.10.0,
 lua-elseifneovim:v0.10.0,
 lua-endneovim:v0.10.0,
 lua-environmentsneovim:v0.10.0,
-lua-error-handlingneovim:dev,
+lua-error-handlingneovim:nightly,
 lua-errorsneovim:v0.10.0,
 lua-evalneovim:v0.2.1,vim:v7.3.601,
 lua-expressionsneovim:v0.10.0,
@@ -9903,7 +9903,7 @@ lua-relationalneovim:v0.10.0,
 lua-repeatneovim:v0.10.0,
 lua-requireneovim:v0.2.1,v0.10.0
 lua-require-exampleneovim:v0.2.1,v0.9.0
-lua-result-or-messageneovim:dev,
+lua-result-or-messageneovim:nightly,
 lua-returnneovim:v0.10.0,
 lua-secureneovim:v0.9.0,v0.10.0
 lua-special-tblneovim:v0.2.1,
