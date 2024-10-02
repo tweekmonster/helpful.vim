@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2024-09-28 00:16:41 UTC
+*helpful-version.txt*  Generated: 2024-10-02 00:17:09 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -726,6 +726,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|'cia'|
+
+       Vim: +v9.1.0754 
+
 |'cin'|
 
     Neovim: +v0.1.0 
@@ -860,6 +864,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0007 
+
+|'completeitemalign'|
+
+       Vim: +v9.1.0754 
 
 |'completeopt'|
 
@@ -29893,6 +29901,26 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0051 
 
+|[A|
+
+    Neovim: +dev 
+
+|[B|
+
+    Neovim: +dev 
+
+|[CTRL-L|
+
+    Neovim: +dev 
+
+|[CTRL-Q|
+
+    Neovim: +dev 
+
+|[CTRL-T|
+
+    Neovim: +dev 
+
 |[D|
 
     Neovim: +v0.1.0 
@@ -29907,6 +29935,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|[L|
+
+    Neovim: +dev 
+
 |[M|
 
     Neovim: +v0.1.0 
@@ -29917,10 +29949,18 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|[Q|
+
+    Neovim: +dev 
+
 |[S|
 
     Neovim: +v0.1.0 
        Vim: +v7.0069 
+
+|[T|
+
+    Neovim: +dev 
 
 |[[|
 
@@ -29946,6 +29986,14 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|[a|
+
+    Neovim: +dev 
+
+|[b|
+
+    Neovim: +dev 
 
 |[c|
 
@@ -29976,6 +30024,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|[l|
+
+    Neovim: +dev 
+
 |[m|
 
     Neovim: +v0.1.0 
@@ -29990,6 +30042,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|[q|
+
+    Neovim: +dev 
 
 |[quotex]|
 
@@ -30015,6 +30071,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|[t|
+
+    Neovim: +dev 
 
 |[z|
 
@@ -30065,6 +30125,26 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|]A|
+
+    Neovim: +dev 
+
+|]B|
+
+    Neovim: +dev 
+
+|]CTRL-L|
+
+    Neovim: +dev 
+
+|]CTRL-Q|
+
+    Neovim: +dev 
+
+|]CTRL-T|
+
+    Neovim: +dev 
+
 |]D|
 
     Neovim: +v0.1.0 
@@ -30079,6 +30159,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|]L|
+
+    Neovim: +dev 
+
 |]M|
 
     Neovim: +v0.1.0 
@@ -30089,10 +30173,18 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|]Q|
+
+    Neovim: +dev 
+
 |]S|
 
     Neovim: +v0.1.0 
        Vim: +v7.0069 
+
+|]T|
+
+    Neovim: +dev 
 
 |][|
 
@@ -30119,6 +30211,14 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|]a|
+
+    Neovim: +dev 
+
+|]b|
+
+    Neovim: +dev 
+
 |]c|
 
     Neovim: +v0.1.0 
@@ -30143,6 +30243,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|]l|
+
+    Neovim: +dev 
+
 |]m|
 
     Neovim: +v0.1.0 
@@ -30152,6 +30256,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|]q|
+
+    Neovim: +dev 
 
 |]r|
 
@@ -30167,6 +30275,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|]t|
+
+    Neovim: +dev 
 
 |]z|
 
@@ -62584,6 +62696,11 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|usr|
+
+    Neovim: +dev 
+       Vim: +v9.1.0752 
 
 |usr_01.txt|
 
