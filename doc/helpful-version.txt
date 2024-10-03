@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2024-10-02 00:17:09 UTC
+*helpful-version.txt*  Generated: 2024-10-03 00:16:52 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -728,6 +728,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'cia'|
 
+    Neovim: +dev 
        Vim: +v9.1.0754 
 
 |'cin'|
@@ -867,6 +868,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'completeitemalign'|
 
+    Neovim: +dev 
        Vim: +v9.1.0754 
 
 |'completeopt'|
@@ -29903,23 +29905,23 @@ A listing of helptags with the versions they became available or were removed.
 
 |[A|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |[B|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |[CTRL-L|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |[CTRL-Q|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |[CTRL-T|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |[D|
 
@@ -29937,7 +29939,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |[L|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |[M|
 
@@ -29951,7 +29953,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |[Q|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |[S|
 
@@ -29960,7 +29962,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |[T|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |[[|
 
@@ -29989,11 +29991,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |[a|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |[b|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |[c|
 
@@ -30026,7 +30028,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |[l|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |[m|
 
@@ -30045,7 +30047,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |[q|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |[quotex]|
 
@@ -30074,7 +30076,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |[t|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |[z|
 
@@ -30127,23 +30129,23 @@ A listing of helptags with the versions they became available or were removed.
 
 |]A|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |]B|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |]CTRL-L|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |]CTRL-Q|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |]CTRL-T|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |]D|
 
@@ -30161,7 +30163,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |]L|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |]M|
 
@@ -30175,7 +30177,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |]Q|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |]S|
 
@@ -30184,7 +30186,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |]T|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |][|
 
@@ -30213,11 +30215,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |]a|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |]b|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |]c|
 
@@ -30245,7 +30247,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |]l|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |]m|
 
@@ -30259,7 +30261,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |]q|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |]r|
 
@@ -30278,7 +30280,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |]t|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |]z|
 
@@ -62699,7 +62701,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |usr|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.0752 
 
 |usr_01.txt|
