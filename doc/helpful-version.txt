@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2024-10-03 00:16:52 UTC
+*helpful-version.txt*  Generated: 2024-10-04 00:16:59 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -728,7 +728,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'cia'|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.0754 
 
 |'cin'|
@@ -868,7 +868,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'completeitemalign'|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.0754 
 
 |'completeopt'|
