@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2024-10-08 00:16:31 UTC
+*helpful-version.txt*  Generated: 2024-10-09 00:17:12 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -33881,7 +33881,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |compiler-cppcheck|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.0759 
 
 |compiler-decada|
@@ -35357,7 +35357,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |dev-arch|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |dev-doc|
 
@@ -35497,7 +35497,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |dev_arch.txt|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |dev_style.txt|
 
@@ -37749,7 +37749,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |focusable|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |fold-behavior|
 
@@ -41273,6 +41273,11 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.6.0 
        Vim: +v8.2.2957 
+
+|getcmdcomplpat()|
+
+    Neovim: +dev 
+       Vim: +v9.1.0770 
 
 |getcmdcompltype()|
 
@@ -50359,7 +50364,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |neovim|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |netbeans|
 
@@ -53514,7 +53519,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |opacity|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |opening-window|
 
@@ -55535,7 +55540,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |quickfix-cppcheck|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.0759 
 
 |quickfix-directory-stack|
