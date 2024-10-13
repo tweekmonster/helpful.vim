@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2024-10-12 00:16:37 UTC
+*helpful-version.txt*  Generated: 2024-10-13 00:18:22 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -29083,7 +29083,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |TSNode:child_with_descendant()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |TSNode:descendant_for_range()|
 
@@ -41829,7 +41829,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |gri|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |grn|
 
