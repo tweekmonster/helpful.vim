@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2024-10-13 00:18:22 UTC
+*helpful-version.txt*  Generated: 2024-10-14 00:18:00 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -31559,6 +31559,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.9.0 
 
+|b:lf_shell_syntax|
+
+       Vim: +v9.1.0778 
+
 |b:man_default_sects|
 
     Neovim: +v0.1.6 
@@ -38491,6 +38495,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0139 
 
+|ft-lf-syntax|
+
+       Vim: +v9.1.0778 
+
 |ft-lifelines-syntax|
 
     Neovim: +v0.1.0 
@@ -38641,6 +38649,14 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0139 
+
+|ft-neomuttlog-syntax|
+
+       Vim: +v9.1.0779 
+
+|ft-neomuttrc-syntax|
+
+       Vim: +v9.1.0779 
 
 |ft-nroff-syntax|
 
@@ -39849,6 +39865,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 -v0.10.0 
        Vim: +v7.3.616 
+
+|g:lf_shell_syntax|
+
+       Vim: +v9.1.0778 
 
 |g:loaded_node_provider|
 
@@ -45919,6 +45939,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|lf.vim|
+
+       Vim: +v9.1.0778 
+
 |lhaskell.vim|
 
     Neovim: +v0.1.0 
@@ -50369,6 +50393,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|neomutt.vim|
+
+       Vim: +v9.1.0779 
 
 |neovim|
 
