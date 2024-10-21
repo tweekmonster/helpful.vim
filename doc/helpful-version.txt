@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2024-10-19 00:17:03 UTC
+*helpful-version.txt*  Generated: 2024-10-21 00:18:05 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -66040,15 +66040,31 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.highlight.on_yank()|
 
-    Neovim: +v0.5.0 
+    Neovim: +v0.5.0 -dev 
 
 |vim.highlight.priorities|
 
-    Neovim: +v0.7.0 
+    Neovim: +v0.7.0 -dev 
 
 |vim.highlight.range()|
 
-    Neovim: +v0.5.0 
+    Neovim: +v0.5.0 -dev 
+
+|vim.hl|
+
+    Neovim: +dev 
+
+|vim.hl.on_yank()|
+
+    Neovim: +dev 
+
+|vim.hl.priorities|
+
+    Neovim: +dev 
+
+|vim.hl.range()|
+
+    Neovim: +dev 
 
 |vim.iconv()|
 
@@ -66878,9 +66894,13 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.10.0 -v0.6.0 
 
+|vim.lsp.util.jump_to_location|
+
+    Neovim: +dev 
+
 |vim.lsp.util.jump_to_location()|
 
-    Neovim: +v0.5.0 
+    Neovim: +v0.5.0 -dev 
 
 |vim.lsp.util.locations_to_items()|
 

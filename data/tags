@@ -14199,9 +14199,13 @@ vim.health.report_warn()neovim:v0.8.0,
 vim.health.start()neovim:v0.10.0,
 vim.health.warn()neovim:v0.10.0,
 vim.highlightneovim:v0.10.0,
-vim.highlight.on_yank()neovim:v0.5.0,
-vim.highlight.prioritiesneovim:v0.7.0,
-vim.highlight.range()neovim:v0.5.0,
+vim.highlight.on_yank()neovim:v0.5.0,dev
+vim.highlight.prioritiesneovim:v0.7.0,dev
+vim.highlight.range()neovim:v0.5.0,dev
+vim.hlneovim:dev,
+vim.hl.on_yank()neovim:dev,
+vim.hl.prioritiesneovim:dev,
+vim.hl.range()neovim:dev,
 vim.iconv()neovim:v0.8.0,
 vim.in_fast_event()neovim:v0.4.0,
 vim.insert_keys()neovim:v0.5.0,v0.6.0
@@ -14409,7 +14413,8 @@ vim.lsp.util.get_effective_tabstop()neovim:v0.5.0,
 vim.lsp.util.get_line()neovim:v0.5.0,v0.6.0
 vim.lsp.util.get_lines()neovim:v0.5.0,v0.6.0
 vim.lsp.util.get_progress_messages()neovim:v0.10.0,v0.6.0
-vim.lsp.util.jump_to_location()neovim:v0.5.0,
+vim.lsp.util.jump_to_locationneovim:dev,
+vim.lsp.util.jump_to_location()neovim:v0.5.0,dev
 vim.lsp.util.locations_to_items()neovim:v0.5.0,
 vim.lsp.util.lookup_section()neovim:v0.5.0,
 vim.lsp.util.make_floating_popup_options()neovim:v0.5.0,
