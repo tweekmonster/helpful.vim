@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2024-10-21 00:18:05 UTC
+*helpful-version.txt*  Generated: 2024-10-22 00:17:24 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -40808,6 +40808,14 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +nightly 
        Vim: +v9.1.0588 
 
+|g:typst_folding|
+
+       Vim: +v9.1.0796 
+
+|g:typst_foldnested|
+
+       Vim: +v9.1.0796 
+
 |g:var|
 
     Neovim: +v0.1.0 
@@ -51709,7 +51717,7 @@ A listing of helptags with the versions they became available or were removed.
 |netrw_filehandler|
 
     Neovim: +v0.1.0 
-       Vim: +v7.0191 
+       Vim: +v7.0191 -v9.1.0796 
 
 |netterm-mouse|
 
@@ -66040,31 +66048,31 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.highlight.on_yank()|
 
-    Neovim: +v0.5.0 -dev 
+    Neovim: +v0.5.0 -nightly 
 
 |vim.highlight.priorities|
 
-    Neovim: +v0.7.0 -dev 
+    Neovim: +v0.7.0 -nightly 
 
 |vim.highlight.range()|
 
-    Neovim: +v0.5.0 -dev 
+    Neovim: +v0.5.0 -nightly 
 
 |vim.hl|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.hl.on_yank()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.hl.priorities|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.hl.range()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.iconv()|
 
@@ -66896,11 +66904,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.lsp.util.jump_to_location|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.util.jump_to_location()|
 
-    Neovim: +v0.5.0 -dev 
+    Neovim: +v0.5.0 -nightly 
 
 |vim.lsp.util.locations_to_items()|
 
