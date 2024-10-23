@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2024-10-22 00:17:24 UTC
+*helpful-version.txt*  Generated: 2024-10-23 00:17:24 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -1388,6 +1388,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0197 
 
+|'fexpr'|
+
+       Vim: +v9.1.0810 
+
 |'ff'|
 
     Neovim: +v0.1.0 
@@ -1437,6 +1441,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|'findexpr'|
+
+       Vim: +v9.1.0810 
 
 |'fixendofline'|
 
@@ -1712,7 +1720,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'go-A'|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.1a 
 
 |'go-F'|
@@ -1722,52 +1730,52 @@ A listing of helptags with the versions they became available or were removed.
 
 |'go-L'|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.1a 
 
 |'go-M'|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.1a 
 
 |'go-P'|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.3.597 
 
 |'go-R'|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.1a 
 
 |'go-T'|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.1a 
 
 |'go-a'|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.1a 
 
 |'go-b'|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.1a 
 
 |'go-c'|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.1a 
 
 |'go-d'|
 
-    Neovim: +v0.5.0 
+    Neovim: +v0.5.0 -dev 
        Vim: +v8.1.2034 
 
 |'go-e'|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.1a 
 
 |'go-f'|
@@ -1776,42 +1784,42 @@ A listing of helptags with the versions they became available or were removed.
 
 |'go-g'|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.1a 
 
 |'go-h'|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.1a 
 
 |'go-i'|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.1a 
 
 |'go-k'|
 
-    Neovim: +v0.4.0 
+    Neovim: +v0.4.0 -dev 
        Vim: +v8.0.1278 
 
 |'go-l'|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.1a 
 
 |'go-m'|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.1a 
 
 |'go-p'|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.1a 
 
 |'go-r'|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.1a 
 
 |'go-t'|
@@ -1820,7 +1828,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'go-v'|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.1a 
 
 |'gp'|
@@ -25096,7 +25104,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |E547|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |E548|
@@ -40810,10 +40818,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |g:typst_folding|
 
+    Neovim: +dev 
        Vim: +v9.1.0796 
 
 |g:typst_foldnested|
 
+    Neovim: +dev 
        Vim: +v9.1.0796 
 
 |g:var|
@@ -42247,7 +42257,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |guioptions_a|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 -v8.1.0511 
 
 |guisp|
@@ -51716,7 +51726,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |netrw_filehandler|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0191 -v9.1.0796 
 
 |netterm-mouse|
