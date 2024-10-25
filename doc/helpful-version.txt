@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2024-10-24 00:17:22 UTC
+*helpful-version.txt*  Generated: 2024-10-25 00:17:37 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -20554,6 +20554,10 @@ A listing of helptags with the versions they became available or were removed.
 |Class|
 
        Vim: +v9.0.1048 
+
+|Client:exec_cmd()|
+
+    Neovim: +dev 
 
 |Cmd-event|
 
@@ -66336,9 +66340,13 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.5.0 
 
+|vim.lsp.buf.completion|
+
+    Neovim: +dev 
+
 |vim.lsp.buf.completion()|
 
-    Neovim: +v0.5.0 
+    Neovim: +v0.5.0 -dev 
 
 |vim.lsp.buf.declaration()|
 
@@ -66356,9 +66364,13 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.5.0 
 
+|vim.lsp.buf.execute_command|
+
+    Neovim: +dev 
+
 |vim.lsp.buf.execute_command()|
 
-    Neovim: +v0.5.0 
+    Neovim: +v0.5.0 -dev 
 
 |vim.lsp.buf.format()|
 
