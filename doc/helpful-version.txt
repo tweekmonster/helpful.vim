@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2024-10-26 00:17:06 UTC
+*helpful-version.txt*  Generated: 2024-10-28 00:18:28 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -28095,6 +28095,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.5.0 
 
+|Launch|
+
+       Vim: +dev 
+
 |Lfilter|
 
     Neovim: +v0.3.2 -v0.4.0 
@@ -28434,6 +28438,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 -v0.10.0 
        Vim: +v7.0001 
+
+|Open|
+
+       Vim: +dev 
 
 |Operator-pending|
 
@@ -61201,6 +61209,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.5.0 
        Vim: +v8.2.2329 
+
+|termdebug_evaluate_in_popup|
+
+       Vim: +v9.1.0817 
 
 |termdebug_map_K|
 
