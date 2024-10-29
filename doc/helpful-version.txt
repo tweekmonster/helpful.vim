@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2024-10-28 00:18:28 UTC
+*helpful-version.txt*  Generated: 2024-10-29 00:17:50 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -28097,7 +28097,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |Launch|
 
-       Vim: +dev 
+       Vim: +v9.1.0819 
 
 |Lfilter|
 
@@ -28441,7 +28441,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |Open|
 
-       Vim: +dev 
+       Vim: +v9.1.0819 
 
 |Operator-pending|
 
@@ -33704,6 +33704,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|cmdcomplete-variable|
+
+       Vim: +v9.1.0821 
 
 |cmdline|
 
@@ -64101,6 +64105,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|v:cmdcomplete|
+
+       Vim: +v9.1.0821 
 
 |v:collate|
 
