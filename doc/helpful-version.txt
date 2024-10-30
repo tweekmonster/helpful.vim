@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2024-10-29 00:17:50 UTC
+*helpful-version.txt*  Generated: 2024-10-30 00:17:27 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -1390,6 +1390,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'fexpr'|
 
+    Neovim: +nightly 
        Vim: +v9.1.0810 
 
 |'ff'|
@@ -1444,6 +1445,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'findexpr'|
 
+    Neovim: +nightly 
        Vim: +v9.1.0810 
 
 |'fixendofline'|
@@ -22866,6 +22868,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |E1514|
 
+    Neovim: +nightly 
        Vim: +v9.1.0811 
 
 |E152|
@@ -33707,6 +33710,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |cmdcomplete-variable|
 
+    Neovim: +nightly 
        Vim: +v9.1.0821 
 
 |cmdline|
@@ -64108,6 +64112,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |v:cmdcomplete|
 
+    Neovim: +nightly 
        Vim: +v9.1.0821 
 
 |v:collate|
@@ -66412,6 +66417,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.5.0 
 
+|vim.lsp.buf.hover.Opts|
+
+    Neovim: +dev 
+
 |vim.lsp.buf.implementation()|
 
     Neovim: +v0.5.0 
@@ -66706,7 +66715,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.lsp.handlers.hover()|
 
-    Neovim: +v0.6.0 
+    Neovim: +v0.6.0 -dev 
 
 |vim.lsp.handlers.progress_handler()|
 
