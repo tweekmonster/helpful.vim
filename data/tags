@@ -14292,7 +14292,7 @@ vim.lsp.buf.formatting()neovim:v0.5.0,
 vim.lsp.buf.formatting_seq_sync()neovim:v0.5.0,v0.9.0
 vim.lsp.buf.formatting_sync()neovim:v0.10.0,v0.9.0
 vim.lsp.buf.hover()neovim:v0.5.0,
-vim.lsp.buf.hover.Optsneovim:dev,
+vim.lsp.buf.hover.Optsneovim:nightly,
 vim.lsp.buf.implementation()neovim:v0.5.0,
 vim.lsp.buf.incoming_calls()neovim:v0.5.0,
 vim.lsp.buf.list_workspace_folders()neovim:v0.5.0,
@@ -14366,7 +14366,7 @@ vim.lsp.get_client_by_id()neovim:v0.5.0,
 vim.lsp.get_clients()neovim:v0.10.0,
 vim.lsp.get_log_path()neovim:v0.5.0,
 vim.lsp.handlersneovim:v0.5.0,
-vim.lsp.handlers.hover()neovim:v0.6.0,dev
+vim.lsp.handlers.hover()neovim:v0.6.0,nightly
 vim.lsp.handlers.progress_handler()neovim:v0.5.0,v0.6.0
 vim.lsp.handlers.signature_help()neovim:v0.5.0,
 vim.lsp.init()neovim:v0.5.0,v0.6.0
