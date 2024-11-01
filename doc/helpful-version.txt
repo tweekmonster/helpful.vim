@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2024-10-31 00:17:24 UTC
+*helpful-version.txt*  Generated: 2024-11-01 00:19:14 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -10810,6 +10810,11 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v7.4.748 
 
+|:Launch|
+
+    Neovim: +dev 
+       Vim: +v9.1.0823 
+
 |:Lexplore|
 
     Neovim: +v0.1.0 
@@ -10897,6 +10902,11 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.2.434 
+
+|:Open|
+
+    Neovim: +dev 
+       Vim: +v9.1.0823 
 
 |:Over|
 
@@ -28100,7 +28110,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |Launch|
 
-       Vim: +v9.1.0819 
+       Vim: +v9.1.0819 -v9.1.0823 
 
 |Lfilter|
 
@@ -28444,7 +28454,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |Open|
 
-       Vim: +v9.1.0819 
+       Vim: +v9.1.0819 -v9.1.0823 
 
 |Operator-pending|
 
@@ -59103,14 +59113,30 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.3 
 
+|style-braces|
+
+       Vim: +v9.1.0825 
+
 |style-changes|
 
     Neovim: +v0.1.0 -v0.1.1 
        Vim: +v7.0001 
 
+|style-comments|
+
+       Vim: +v9.1.0825 
+
+|style-common-functions|
+
+       Vim: +v9.1.0825 
+
 |style-compiler|
 
        Vim: +v7.4.1152 
+
+|style-declarations|
+
+       Vim: +v9.1.0825 
 
 |style-examples|
 
@@ -59122,6 +59148,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 -v0.1.1 
        Vim: +v7.0001 
 
+|style-indentation|
+
+       Vim: +v9.1.0825 
+
 |style-names|
 
     Neovim: +v0.1.0 -v0.1.1 
@@ -59131,6 +59161,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 -v0.1.1 
        Vim: +v7.0001 
+
+|style-types|
+
+       Vim: +v9.1.0825 
 
 |style-various|
 
