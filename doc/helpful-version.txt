@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2024-11-01 00:19:14 UTC
+*helpful-version.txt*  Generated: 2024-11-02 00:20:00 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -10812,7 +10812,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |:Launch|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.0823 
 
 |:Lexplore|
@@ -10905,7 +10905,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |:Open|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.0823 
 
 |:Over|
@@ -46494,7 +46494,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |lsp-handler-configuration|
 
-    Neovim: +v0.5.0 
+    Neovim: +v0.5.0 -dev 
 
 |lsp-handler-resolution|
 
@@ -46502,7 +46502,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |lsp-handlers|
 
-    Neovim: +v0.5.0 
+    Neovim: +v0.5.0 -dev 
 
 |lsp-highlight|
 
@@ -66498,6 +66498,10 @@ A listing of helptags with the versions they became available or were removed.
 |vim.lsp.buf.signature_help()|
 
     Neovim: +v0.5.0 
+
+|vim.lsp.buf.signature_help.Opts|
+
+    Neovim: +dev 
 
 |vim.lsp.buf.type_definition()|
 
