@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2024-11-03 00:19:08 UTC
+*helpful-version.txt*  Generated: 2024-11-04 00:18:27 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -1390,7 +1390,6 @@ A listing of helptags with the versions they became available or were removed.
 
 |'fexpr'|
 
-    Neovim: +nightly 
        Vim: +v9.1.0810 -v9.1.0831 
 
 |'ff'|
@@ -1405,6 +1404,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'ffu'|
 
+    Neovim: +nightly 
        Vim: +v9.1.0831 
 
 |'fic'|
@@ -1449,11 +1449,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |'findexpr'|
 
-    Neovim: +nightly 
        Vim: +v9.1.0810 -v9.1.0831 
 
 |'findfunc'|
 
+    Neovim: +nightly 
        Vim: +v9.1.0831 
 
 |'fixendofline'|
@@ -11062,6 +11062,7 @@ A listing of helptags with the versions they became available or were removed.
 |:Tutor|
 
     Neovim: +v0.1.0 
+       Vim: +v9.1.0836 
 
 |:Untarvim|
 
@@ -33728,7 +33729,6 @@ A listing of helptags with the versions they became available or were removed.
 
 |cmdcomplete-variable|
 
-    Neovim: +nightly 
        Vim: +v9.1.0821 -v9.1.0831 
 
 |cmdline|
@@ -54480,6 +54480,7 @@ A listing of helptags with the versions they became available or were removed.
 |pi_tutor.txt|
 
     Neovim: +v0.1.0 
+       Vim: +v9.1.0836 
 
 |pi_vimball.txt|
 
@@ -64162,7 +64163,6 @@ A listing of helptags with the versions they became available or were removed.
 
 |v:cmdcomplete|
 
-    Neovim: +nightly 
        Vim: +v9.1.0821 -v9.1.0831 
 
 |v:collate|
@@ -65742,14 +65742,17 @@ A listing of helptags with the versions they became available or were removed.
 |vim-tutor-create|
 
     Neovim: +v0.1.0 
+       Vim: +v9.1.0836 
 
 |vim-tutor-mode|
 
     Neovim: +v0.1.0 
+       Vim: +v9.1.0836 
 
 |vim-tutor-usage|
 
     Neovim: +v0.1.0 
+       Vim: +v9.1.0836 
 
 |vim-use|
 
