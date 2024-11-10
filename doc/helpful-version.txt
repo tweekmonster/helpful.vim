@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2024-11-08 00:17:12 UTC
+*helpful-version.txt*  Generated: 2024-11-10 00:18:24 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -33997,6 +33997,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |compiler-mypy|
 
+    Neovim: +nightly 
        Vim: +v9.1.0846 
 
 |compiler-pandoc|
@@ -34011,6 +34012,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |compiler-pylint|
 
+    Neovim: +nightly 
        Vim: +v9.1.0846 
 
 |compiler-pyunit|
@@ -34020,6 +34022,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |compiler-ruff|
 
+    Neovim: +nightly 
        Vim: +v9.1.0846 
 
 |compiler-select|
