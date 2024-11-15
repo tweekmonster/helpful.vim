@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2024-11-14 00:17:22 UTC
+*helpful-version.txt*  Generated: 2024-11-15 00:18:25 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -2561,6 +2561,11 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|'mhi'|
+
+    Neovim: +dev 
+       Vim: +v9.1.0864 
+
 |'mis'|
 
     Neovim: +v0.1.0 
@@ -2714,6 +2719,11 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|'msghistory'|
+
+    Neovim: +dev 
+       Vim: +v9.1.0864 
 
 |'msm'|
 
@@ -38536,13 +38546,13 @@ A listing of helptags with the versions they became available or were removed.
 
 |ft-idris2-indent|
 
-    Neovim: +dev 
-       Vim: +dev 
+    Neovim: +nightly 
+       Vim: +v9.1.0862 
 
 |ft-idris2-plugin|
 
-    Neovim: +dev 
-       Vim: +dev 
+    Neovim: +nightly 
+       Vim: +v9.1.0862 
 
 |ft-inform-syntax|
 
@@ -38768,6 +38778,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0139 
+
+|ft-org-plugin|
+
+       Vim: +v9.1.0865 
 
 |ft-pandoc-syntax|
 
