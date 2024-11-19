@@ -9099,7 +9099,7 @@ hl-LspDiagnosticsVirtualTextInformationneovim:v0.5.0,v0.6.0
 hl-LspDiagnosticsVirtualTextWarningneovim:v0.5.0,v0.6.0
 hl-LspInlayHintneovim:v0.10.0,
 hl-LspReferenceReadneovim:v0.5.0,
-hl-LspReferenceTargetneovim:dev,
+hl-LspReferenceTargetneovim:nightly,
 hl-LspReferenceTextneovim:v0.5.0,
 hl-LspReferenceWriteneovim:v0.5.0,
 hl-LspSignatureActiveParameterneovim:v0.6.0,
