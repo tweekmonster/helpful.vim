@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2024-11-22 00:18:37 UTC
+*helpful-version.txt*  Generated: 2024-11-24 00:20:31 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -61161,6 +61161,10 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v8.0.0896 
 
+|term++shell|
+
+       Vim: +dev 
+
 |term-dependent-settings|
 
     Neovim: +v0.1.0 
@@ -61569,6 +61573,10 @@ A listing of helptags with the versions they became available or were removed.
 |terminal-ms-windows|
 
        Vim: +v8.0.1290 
+
+|terminal-nospecial|
+
+       Vim: +dev 
 
 |terminal-options|
 
