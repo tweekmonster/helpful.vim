@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2024-11-24 00:20:31 UTC
+*helpful-version.txt*  Generated: 2024-11-25 00:18:46 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -61163,7 +61163,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |term++shell|
 
-       Vim: +dev 
+       Vim: +v9.1.0883 
 
 |term-dependent-settings|
 
@@ -61576,7 +61576,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |terminal-nospecial|
 
-       Vim: +dev 
+       Vim: +v9.1.0883 
 
 |terminal-options|
 
