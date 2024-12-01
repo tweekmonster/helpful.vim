@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2024-11-30 00:18:16 UTC
+*helpful-version.txt*  Generated: 2024-12-01 00:22:03 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -34079,6 +34079,11 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +nightly 
        Vim: +v9.1.0846 
 
+|compiler-pytest|
+
+    Neovim: +dev 
+       Vim: +v9.1.0898 
+
 |compiler-pyunit|
 
     Neovim: +v0.1.0 
@@ -35728,7 +35733,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |diagnostic-loclist-example|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |diagnostic-quickstart|
 
@@ -66888,15 +66893,15 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.lsp.foldclose()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.foldexpr()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.foldtext()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.for_each_buffer_client()|
 
