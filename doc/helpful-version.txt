@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2024-12-01 00:22:03 UTC
+*helpful-version.txt*  Generated: 2024-12-02 00:19:30 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -34081,7 +34081,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |compiler-pytest|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.0898 
 
 |compiler-pyunit|
