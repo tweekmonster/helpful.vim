@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2024-12-02 00:19:30 UTC
+*helpful-version.txt*  Generated: 2024-12-04 00:18:44 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -29534,6 +29534,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|Vietnamese|
+
+       Vim: +dev 
+
 |View|
 
     Neovim: +v0.1.0 
@@ -29578,6 +29582,10 @@ A listing of helptags with the versions they became available or were removed.
 |Vim9-using-interface|
 
        Vim: +v9.0.1001 
+
+|Vim9script|
+
+    Neovim: +dev 
 
 |VimEnter|
 
@@ -37448,7 +37456,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |feature-request|
 
-    Neovim: +v0.4.0 -v0.5.0 
+    Neovim: +dev -v0.5.0 
 
 |feedkeys()|
 
@@ -38686,6 +38694,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0139 
+
+|ft-lua-plugin|
+
+       Vim: +dev 
 
 |ft-lua-syntax|
 
@@ -45832,6 +45844,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0039 
 
+|keybind|
+
+    Neovim: +dev 
+
 |keycodes|
 
     Neovim: +v0.1.0 
@@ -45955,6 +45971,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.8.0 
        Vim: +v9.0.0449 
 
+|kickstart|
+
+    Neovim: +dev 
+
 |kitty-keyboard-protocol|
 
        Vim: +v9.0.0930 
@@ -46047,6 +46067,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.3.1241 
+
+|lazyvim|
+
+    Neovim: +dev 
 
 |lc_time-variable|
 
@@ -52588,6 +52612,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.5.0 
        Vim: +v8.2.0296 
 
+|nvchad|
+
+    Neovim: +dev 
+
 |nvim|
 
     Neovim: +v0.1.0 
@@ -52691,6 +52719,10 @@ A listing of helptags with the versions they became available or were removed.
 |nvim-python-quickstart|
 
     Neovim: +v0.1.0 -v0.1.5 
+
+|nvim-quickstart|
+
+    Neovim: +dev 
 
 |nvim-removed|
 
@@ -61627,6 +61659,10 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v8.0.1526 
 
+|terminal-scrollback-pager|
+
+    Neovim: +dev 
+
 |terminal-session|
 
        Vim: +v8.0.1593 
@@ -62672,6 +62708,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|ubuntu|
+
+    Neovim: +dev 
+
 |uganda|
 
     Neovim: +v0.1.0 
@@ -62946,6 +62986,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|upgrade|
+
+    Neovim: +dev 
 
 |uppercase|
 
@@ -65739,6 +65783,42 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.6 
        Vim: +v7.4.2047 
 
+|vietnamese|
+
+       Vim: +dev 
+
+|vietnamese-ime_diff|
+
+       Vim: +dev 
+
+|vietnamese-intro|
+
+       Vim: +dev 
+
+|vietnamese-keymap|
+
+       Vim: +dev 
+
+|vietnamese-l18n|
+
+       Vim: +dev 
+
+|vietnamese-telex_utf-8|
+
+       Vim: +dev 
+
+|vietnamese-viqr_utf-8|
+
+       Vim: +dev 
+
+|vietnamese-vni_utf-8|
+
+       Vim: +dev 
+
+|vietnamese.txt|
+
+       Vim: +dev 
+
 |view|
 
        Vim: +v7.0001 
@@ -68502,6 +68582,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|vscode|
+
+    Neovim: +dev 
 
 |vt100-cursor-keys|
 
