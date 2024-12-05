@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2024-12-04 00:18:44 UTC
+*helpful-version.txt*  Generated: 2024-12-05 00:19:00 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -29536,7 +29536,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |Vietnamese|
 
-       Vim: +dev 
+       Vim: +v9.1.0903 
 
 |View|
 
@@ -29585,7 +29585,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |Vim9script|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |VimEnter|
 
@@ -37456,7 +37456,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |feature-request|
 
-    Neovim: +dev -v0.5.0 
+    Neovim: +nightly -v0.5.0 
 
 |feedkeys()|
 
@@ -38697,7 +38697,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |ft-lua-plugin|
 
-       Vim: +dev 
+       Vim: +v9.1.0903 
 
 |ft-lua-syntax|
 
@@ -45846,7 +45846,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |keybind|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |keycodes|
 
@@ -45973,7 +45973,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |kickstart|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |kitty-keyboard-protocol|
 
@@ -46070,7 +46070,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |lazyvim|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lc_time-variable|
 
@@ -52614,7 +52614,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |nvchad|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim|
 
@@ -52722,7 +52722,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |nvim-quickstart|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim-removed|
 
@@ -61661,7 +61661,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |terminal-scrollback-pager|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |terminal-session|
 
@@ -62710,7 +62710,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |ubuntu|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uganda|
 
@@ -62989,7 +62989,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |upgrade|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uppercase|
 
@@ -65785,39 +65785,39 @@ A listing of helptags with the versions they became available or were removed.
 
 |vietnamese|
 
-       Vim: +dev 
+       Vim: +v9.1.0903 
 
 |vietnamese-ime_diff|
 
-       Vim: +dev 
+       Vim: +v9.1.0903 
 
 |vietnamese-intro|
 
-       Vim: +dev 
+       Vim: +v9.1.0903 
 
 |vietnamese-keymap|
 
-       Vim: +dev 
+       Vim: +v9.1.0903 
 
 |vietnamese-l18n|
 
-       Vim: +dev 
+       Vim: +v9.1.0903 
 
 |vietnamese-telex_utf-8|
 
-       Vim: +dev 
+       Vim: +v9.1.0903 
 
 |vietnamese-viqr_utf-8|
 
-       Vim: +dev 
+       Vim: +v9.1.0903 
 
 |vietnamese-vni_utf-8|
 
-       Vim: +dev 
+       Vim: +v9.1.0903 
 
 |vietnamese.txt|
 
-       Vim: +dev 
+       Vim: +v9.1.0903 
 
 |view|
 
@@ -67157,7 +67157,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.lsp.start_client()|
 
-    Neovim: +v0.5.0 
+    Neovim: +v0.5.0 -dev 
 
 |vim.lsp.status()|
 
@@ -68585,7 +68585,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vscode|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vt100-cursor-keys|
 
