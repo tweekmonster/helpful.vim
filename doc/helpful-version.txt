@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2024-12-07 00:18:34 UTC
+*helpful-version.txt*  Generated: 2024-12-08 00:20:16 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -2553,6 +2553,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'messagesopt'|
 
+    Neovim: +nightly 
        Vim: +v9.1.0908 
 
 |'mfd'|
@@ -2567,7 +2568,6 @@ A listing of helptags with the versions they became available or were removed.
 
 |'mhi'|
 
-    Neovim: +nightly 
        Vim: +v9.1.0864 -v9.1.0908 
 
 |'mis'|
@@ -2647,6 +2647,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'mopt'|
 
+    Neovim: +nightly 
        Vim: +v9.1.0908 
 
 |'more'|
@@ -2730,7 +2731,6 @@ A listing of helptags with the versions they became available or were removed.
 
 |'msghistory'|
 
-    Neovim: +nightly 
        Vim: +v9.1.0864 -v9.1.0908 
 
 |'msm'|
@@ -65824,9 +65824,13 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v9.1.0903 
 
+|vietnamese-l10n|
+
+       Vim: +v9.1.0910 
+
 |vietnamese-l18n|
 
-       Vim: +v9.1.0903 
+       Vim: +v9.1.0903 -v9.1.0910 
 
 |vietnamese-telex_utf-8|
 
