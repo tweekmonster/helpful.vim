@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2024-12-08 00:20:16 UTC
+*helpful-version.txt*  Generated: 2024-12-09 00:19:36 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -65814,18 +65814,22 @@ A listing of helptags with the versions they became available or were removed.
 
 |vietnamese-ime_diff|
 
+    Neovim: +nightly 
        Vim: +v9.1.0903 
 
 |vietnamese-intro|
 
+    Neovim: +nightly 
        Vim: +v9.1.0903 
 
 |vietnamese-keymap|
 
+    Neovim: +nightly 
        Vim: +v9.1.0903 
 
 |vietnamese-l10n|
 
+    Neovim: +nightly 
        Vim: +v9.1.0910 
 
 |vietnamese-l18n|
@@ -65834,18 +65838,22 @@ A listing of helptags with the versions they became available or were removed.
 
 |vietnamese-telex_utf-8|
 
+    Neovim: +nightly 
        Vim: +v9.1.0903 
 
 |vietnamese-viqr_utf-8|
 
+    Neovim: +nightly 
        Vim: +v9.1.0903 
 
 |vietnamese-vni_utf-8|
 
+    Neovim: +nightly 
        Vim: +v9.1.0903 
 
 |vietnamese.txt|
 
+    Neovim: +nightly 
        Vim: +v9.1.0903 
 
 |view|
