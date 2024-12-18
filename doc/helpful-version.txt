@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2024-12-17 00:18:43 UTC
+*helpful-version.txt*  Generated: 2024-12-18 00:18:02 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -15355,10 +15355,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |:pb|
 
+    Neovim: +nightly 
        Vim: +v9.1.0934 
 
 |:pbuffer|
 
+    Neovim: +nightly 
        Vim: +v9.1.0934 
 
 |:pc|
@@ -29374,6 +29376,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.1 
 
+|TermCursorNC|
+
+    Neovim: +dev 
+
 |TermEnter|
 
     Neovim: +v0.4.0 
@@ -37981,6 +37987,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |fold-expr-slow|
 
+    Neovim: +nightly 
        Vim: +v9.1.0934 
 
 |fold-foldcolumn|
@@ -43916,7 +43923,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |hl-TermCursorNC|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
 
 |hl-Terminal|
 
