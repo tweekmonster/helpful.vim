@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2024-12-18 00:18:02 UTC
+*helpful-version.txt*  Generated: 2024-12-19 00:18:22 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -29378,7 +29378,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |TermCursorNC|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |TermEnter|
 
@@ -43093,6 +43093,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |hl-ComplMatchIns|
 
+    Neovim: +nightly 
        Vim: +v9.1.0936 
 
 |hl-Conceal|
@@ -43923,7 +43924,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |hl-TermCursorNC|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
 
 |hl-Terminal|
 
