@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2024-12-19 00:18:22 UTC
+*helpful-version.txt*  Generated: 2024-12-26 00:17:13 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -39944,6 +39944,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +nightly 
        Vim: +v9.1.0442 
 
+|g:help_example_languages|
+
+       Vim: +dev 
+
 |g:html_charset_override|
 
     Neovim: +v0.1.0 -v0.10.0 
@@ -42833,6 +42837,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.5.0 
        Vim: +v8.2.2276 
+
+|help-notation|
+
+       Vim: +dev 
 
 |help-summary|
 
@@ -59361,6 +59369,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 -v0.1.1 
        Vim: +v7.0001 
+
+|style-clang-format|
+
+       Vim: +dev 
 
 |style-comments|
 
