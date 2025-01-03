@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2025-01-02 00:17:10 UTC
+*helpful-version.txt*  Generated: 2025-01-03 00:17:26 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -15523,6 +15523,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|:pt|
+
+       Vim: +v9.1.0984 
+
 |:ptN|
 
     Neovim: +v0.1.0 
@@ -15536,7 +15540,7 @@ A listing of helptags with the versions they became available or were removed.
 |:pta|
 
     Neovim: +v0.1.0 
-       Vim: +v7.0001 
+       Vim: +v7.0001 -v9.1.0984 
 
 |:ptag|
 
@@ -35399,7 +35403,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |defaults|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |defaults.vim|
 
@@ -41816,6 +41820,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.9.0 
        Vim: +v9.0.0244 
+
+|getstacktrace()|
+
+       Vim: +v9.1.0984 
 
 |gettabinfo()|
 
@@ -59035,6 +59043,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|stacktrace-variable|
+
+       Vim: +v9.1.0984 
+
 |standard-path|
 
     Neovim: +v0.2.1 
@@ -62144,7 +62156,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |third-party-guis|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |this_session-variable|
 
@@ -64775,6 +64787,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.7.0 
        Vim: +v8.2.3583 
+
+|v:stacktrace|
+
+       Vim: +v9.1.0984 
 
 |v:statusmsg|
 
