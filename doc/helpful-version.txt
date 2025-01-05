@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2025-01-04 00:17:02 UTC
+*helpful-version.txt*  Generated: 2025-01-05 00:19:01 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -47490,11 +47490,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |lua-treesitter-all-predicate|
 
-    Neovim: +v0.10.0 -dev 
+    Neovim: +v0.10.0 -nightly 
 
 |lua-treesitter-any-predicate|
 
-    Neovim: +v0.10.0 -dev 
+    Neovim: +v0.10.0 -nightly 
 
 |lua-treesitter-core|
 
@@ -47518,11 +47518,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |lua-treesitter-language|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |lua-treesitter-languagetree|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |lua-treesitter-node|
 
@@ -47530,7 +47530,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |lua-treesitter-not-predicate|
 
-    Neovim: +v0.5.0 -dev 
+    Neovim: +v0.5.0 -nightly 
 
 |lua-treesitter-parser|
 
@@ -62371,7 +62371,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |treesitter-language|
 
-    Neovim: +dev -v0.8.0 
+    Neovim: +nightly -v0.8.0 
 
 |treesitter-language-injections|
 
@@ -62379,7 +62379,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |treesitter-languagetree|
 
-    Neovim: +dev -v0.9.0 
+    Neovim: +nightly -v0.9.0 
 
 |treesitter-node|
 
@@ -62395,11 +62395,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |treesitter-predicate-all|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |treesitter-predicate-any|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |treesitter-predicate-any-contains?|
 
@@ -62451,7 +62451,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |treesitter-predicate-not|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |treesitter-predicate-vim-match?|
 
