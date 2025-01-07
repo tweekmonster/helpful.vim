@@ -3194,10 +3194,10 @@ $quoteneovim:v0.10.0,vim:v8.2.5055,
 :promptreplneovim:v0.1.0,v0.5.0vim:v7.0001,
 :psneovim:v0.1.0,vim:v7.0001,
 :psearchneovim:v0.1.0,vim:v7.0001,
-:ptvim:v9.1.0984,
+:ptneovim:nightly,vim:v9.1.0984,
 :ptNneovim:v0.1.0,vim:v7.0001,
 :ptNextneovim:v0.1.0,vim:v7.0001,
-:ptaneovim:v0.1.0,vim:v7.0001,v9.1.0984
+:ptaneovim:v0.1.0,nightlyvim:v7.0001,v9.1.0984
 :ptagneovim:v0.1.0,vim:v7.0001,
 :ptfneovim:v0.1.0,vim:v7.0001,
 :ptfirstneovim:v0.1.0,vim:v7.0001,
@@ -10016,6 +10016,7 @@ lua-require-exampleneovim:v0.2.1,v0.9.0
 lua-result-or-messageneovim:nightly,
 lua-returnneovim:v0.10.0,
 lua-secureneovim:v0.9.0,v0.10.0
+lua-shebangneovim:nightly,
 lua-special-tblneovim:v0.2.1,
 lua-spellneovim:v0.7.0,v0.10.0
 lua-stackneovim:v0.10.0,
