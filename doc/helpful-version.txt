@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2025-01-07 00:17:57 UTC
+*helpful-version.txt*  Generated: 2025-01-08 00:17:26 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -39961,6 +39961,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +nightly 
        Vim: +v9.1.0442 
 
+|g:health|
+
+    Neovim: +dev 
+
 |g:help_example_languages|
 
        Vim: +v9.1.0962 
@@ -41824,6 +41828,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |getstacktrace()|
 
+    Neovim: +nightly 
        Vim: +v9.1.0984 
 
 |gettabinfo()|
@@ -59050,6 +59055,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |stacktrace-variable|
 
+    Neovim: +nightly 
        Vim: +v9.1.0984 
 
 |standard-path|
@@ -64807,6 +64813,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |v:stacktrace|
 
+    Neovim: +nightly 
        Vim: +v9.1.0984 
 
 |v:statusmsg|
