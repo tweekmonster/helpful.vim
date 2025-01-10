@@ -6486,6 +6486,7 @@ altfontneovim:v0.9.0,
 amiga-windowvim:v7.0001,
 and()neovim:v0.1.0,vim:v7.3.377,
 anonymous-functionneovim:v0.1.0,vim:v7.0c10,
+ansi-colorizeneovim:dev,
 ant-syntaxvim:v7.0001,v7.0139
 ant.vimneovim:v0.1.0,vim:v7.0001,
 antialiasvim:v7.0007,v7.0163
@@ -8980,6 +8981,7 @@ health-functionsneovim:v0.8.0,nightly
 health-functions-luaneovim:v0.6.0,v0.8.0
 health-functions-vimscriptneovim:v0.6.0,v0.8.0
 health-luaneovim:v0.6.0,v0.8.0
+health-usageneovim:dev,
 health-vimscriptneovim:v0.6.0,v0.8.0
 health.report_error()neovim:v0.6.0,v0.8.0
 health.report_info()neovim:v0.6.0,v0.8.0
@@ -11347,8 +11349,8 @@ nvim_del_mark()neovim:v0.6.0,
 nvim_del_user_command()neovim:v0.7.0,
 nvim_del_var()neovim:v0.2.0,
 nvim_echo()neovim:v0.5.0,
-nvim_err_write()neovim:v0.2.0,
-nvim_err_writeln()neovim:v0.2.0,
+nvim_err_write()neovim:v0.2.0,dev
+nvim_err_writeln()neovim:v0.2.0,dev
 nvim_error_eventneovim:v0.3.2,
 nvim_eval()neovim:v0.2.0,
 nvim_eval_statusline()neovim:v0.6.0,
@@ -11401,7 +11403,7 @@ nvim_load_context()neovim:v0.4.0,
 nvim_notify()neovim:v0.5.0,
 nvim_open_term()neovim:v0.5.0,
 nvim_open_win()neovim:v0.4.0,
-nvim_out_write()neovim:v0.2.0,
+nvim_out_write()neovim:v0.2.0,dev
 nvim_parse_cmd()neovim:v0.8.0,
 nvim_parse_expression()neovim:v0.3.0,
 nvim_paste()neovim:v0.4.0,
@@ -15051,6 +15053,7 @@ yankneovim:v0.1.0,vim:v7.0001,
 ye-option-gonevim:v7.0001,
 year-2000neovim:v0.1.0,v0.3.2vim:v7.0001,
 your-runtime-dirneovim:v0.1.0,vim:v7.0001,
+yxxneovim:dev,
 yyneovim:v0.1.0,vim:v7.0001,
 zneovim:v0.1.0,vim:v7.0001,
 z+neovim:v0.1.0,vim:v7.0001,

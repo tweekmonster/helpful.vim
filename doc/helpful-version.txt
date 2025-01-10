@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2025-01-09 00:17:34 UTC
+*helpful-version.txt*  Generated: 2025-01-10 00:17:44 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -31042,6 +31042,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0c10 
 
+|ansi-colorize|
+
+    Neovim: +dev 
+
 |ant-syntax|
 
        Vim: +v7.0001 -v7.0139 
@@ -42782,6 +42786,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.6.0 -v0.8.0 
 
+|health-usage|
+
+    Neovim: +dev 
+
 |health-vimscript|
 
     Neovim: +v0.6.0 -v0.8.0 
@@ -53198,11 +53206,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |nvim_err_write()|
 
-    Neovim: +v0.2.0 
+    Neovim: +v0.2.0 -dev 
 
 |nvim_err_writeln()|
 
-    Neovim: +v0.2.0 
+    Neovim: +v0.2.0 -dev 
 
 |nvim_error_event|
 
@@ -53414,7 +53422,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |nvim_out_write()|
 
-    Neovim: +v0.2.0 
+    Neovim: +v0.2.0 -dev 
 
 |nvim_parse_cmd()|
 
@@ -69672,6 +69680,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|yxx|
+
+    Neovim: +dev 
 
 |yy|
 
