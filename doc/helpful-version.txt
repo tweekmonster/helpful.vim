@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2025-01-11 00:17:32 UTC
+*helpful-version.txt*  Generated: 2025-01-12 00:19:14 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -10827,6 +10827,11 @@ A listing of helptags with the versions they became available or were removed.
 |:InspectTree|
 
     Neovim: +v0.9.0 
+
+|:Justify|
+
+    Neovim: +dev 
+       Vim: +v9.1.1003 
 
 |:LP|
 
@@ -28067,6 +28072,11 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v7.4.1727 
 
+|Justify()|
+
+    Neovim: +dev 
+       Vim: +v9.1.1003 
+
 |K|
 
     Neovim: +v0.1.0 
@@ -41913,6 +41923,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
 
+|git-vimdumps|
+
+       Vim: +dev 
+
 |gj|
 
     Neovim: +v0.1.0 
@@ -45893,6 +45907,11 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|justify|
+
+    Neovim: +dev 
+       Vim: +v9.1.1003 
 
 |k|
 
@@ -53410,7 +53429,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |nvim_notify()|
 
-    Neovim: +v0.5.0 -dev 
+    Neovim: +v0.5.0 -nightly 
 
 |nvim_open_term()|
 
@@ -54204,6 +54223,15 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.5 
        Vim: +v7.4.1486 
 
+|package-cfilter|
+
+    Neovim: +dev 
+       Vim: +v9.1.1003 
+
+|package-comment|
+
+       Vim: +v9.1.1003 
+
 |package-create|
 
     Neovim: +v0.1.5 
@@ -54216,6 +54244,33 @@ A listing of helptags with the versions they became available or were removed.
 |package-documentation|
 
        Vim: +v9.1.0559 
+
+|package-editorconfig|
+
+       Vim: +v9.1.1003 
+
+|package-helptoc|
+
+       Vim: +v9.1.1003 
+
+|package-justify|
+
+    Neovim: +dev 
+       Vim: +v9.1.1003 
+
+|package-matchit|
+
+       Vim: +v9.1.1003 
+
+|package-nohlsearch|
+
+    Neovim: +dev 
+       Vim: +v9.1.1003 
+
+|package-termdebug|
+
+    Neovim: +dev 
+       Vim: +v9.1.1003 
 
 |package-translate_example|
 
@@ -61664,6 +61719,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |terminal-debugger|
 
+    Neovim: +dev 
        Vim: +v8.1.0000 
 
 |terminal-diff|
