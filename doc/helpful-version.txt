@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2025-01-12 00:19:14 UTC
+*helpful-version.txt*  Generated: 2025-01-13 00:18:52 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -10830,7 +10830,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |:Justify|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.1003 
 
 |:LP|
@@ -28074,7 +28074,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |Justify()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.1003 
 
 |K|
@@ -41925,7 +41925,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |git-vimdumps|
 
-       Vim: +dev 
+       Vim: +v9.1.1007 
 
 |gj|
 
@@ -45910,7 +45910,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |justify|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.1003 
 
 |k|
@@ -54225,7 +54225,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |package-cfilter|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.1003 
 
 |package-comment|
@@ -54255,7 +54255,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |package-justify|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.1003 
 
 |package-matchit|
@@ -54264,12 +54264,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |package-nohlsearch|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.1003 
 
 |package-termdebug|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.1003 
 
 |package-translate_example|
@@ -61719,7 +61719,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |terminal-debugger|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.1.0000 
 
 |terminal-diff|
