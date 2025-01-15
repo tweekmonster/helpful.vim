@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2025-01-13 00:18:52 UTC
+*helpful-version.txt*  Generated: 2025-01-15 00:17:07 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -21075,6 +21075,10 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v8.2.4189 
 
+|E1045|
+
+       Vim: +v9.1.1014 
+
 |E1047|
 
        Vim: +v8.2.4189 
@@ -22968,6 +22972,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +nightly 
        Vim: +v9.1.0811 
+
+|E1515|
+
+       Vim: +v9.1.1016 
 
 |E152|
 
@@ -32122,6 +32130,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.9.0 
        Vim: +v8.2.3438 
+
+|blob2str()|
+
+       Vim: +v9.1.1016 
 
 |blockwise-examples|
 
@@ -59253,6 +59265,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.8.0 -v0.9.0 
 
+|str2blob()|
+
+       Vim: +v9.1.1016 
+
 |str2float()|
 
     Neovim: +v0.1.0 
@@ -66507,6 +66523,10 @@ A listing of helptags with the versions they became available or were removed.
 |vim.fs.parents()|
 
     Neovim: +v0.8.0 
+
+|vim.fs.relpath()|
+
+    Neovim: +nightly 
 
 |vim.fs.rm()|
 
