@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2025-01-20 00:17:28 UTC
+*helpful-version.txt*  Generated: 2025-01-21 00:16:46 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -28179,6 +28179,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +nightly 
 
+|LanguageTree:parent()|
+
+    Neovim: +dev 
+
 |LanguageTree:parse()|
 
     Neovim: +v0.5.0 
@@ -38739,6 +38743,11 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.5.0 
        Vim: +v8.1.2060 
+
+|ft-kconfig-syntax|
+
+    Neovim: +dev 
+       Vim: +v9.1.1040 
 
 |ft-ksh-syntax|
 
@@ -53000,7 +53009,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |nvim_buf_add_highlight()|
 
-    Neovim: +v0.2.0 
+    Neovim: +v0.2.0 -dev 
 
 |nvim_buf_attach()|
 

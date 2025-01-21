@@ -5864,6 +5864,7 @@ LanguageTree:lang()neovim:v0.5.0,
 LanguageTree:language_for_range()neovim:v0.5.0,
 LanguageTree:named_node_for_range()neovim:v0.8.0,
 LanguageTree:node_for_range()neovim:nightly,
+LanguageTree:parent()neovim:dev,
 LanguageTree:parse()neovim:v0.5.0,
 LanguageTree:register_cbs()neovim:v0.5.0,
 LanguageTree:remove_child()neovim:v0.5.0,v0.8.0
@@ -8135,6 +8136,7 @@ ft-javascript-omnineovim:v0.1.0,vim:v7.0191,
 ft-jq-syntaxneovim:v0.10.0,vim:v9.1.0375,
 ft-json-pluginvim:v9.0.2156,
 ft-json-syntaxneovim:v0.5.0,vim:v8.1.2060,
+ft-kconfig-syntaxneovim:dev,vim:v9.1.1040,
 ft-ksh-syntaxneovim:v0.1.0,vim:v7.0139,
 ft-lace-syntaxneovim:v0.1.0,vim:v7.0139,
 ft-lex-syntaxneovim:v0.1.0,vim:v7.0139,
@@ -11297,7 +11299,7 @@ nvim__stats()neovim:v0.3.0,
 nvim__win_add_ns()neovim:v0.10.0,nightly
 nvim__win_del_ns()neovim:v0.10.0,nightly
 nvim__win_get_ns()neovim:v0.10.0,nightly
-nvim_buf_add_highlight()neovim:v0.2.0,
+nvim_buf_add_highlight()neovim:v0.2.0,dev
 nvim_buf_attach()neovim:v0.3.0,
 nvim_buf_call()neovim:v0.5.0,
 nvim_buf_changedtick_eventneovim:v0.3.0,
