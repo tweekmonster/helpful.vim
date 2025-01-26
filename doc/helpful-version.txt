@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2025-01-22 00:17:22 UTC
+*helpful-version.txt*  Generated: 2025-01-26 00:17:17 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -10847,7 +10847,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |:Launch|
 
-       Vim: +v9.1.0823 -v9.1.1026 
+       Vim: +dev -v9.1.1026 
 
 |:Lexplore|
 
@@ -10939,7 +10939,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |:Open|
 
-       Vim: +v9.1.0823 -v9.1.1026 
+       Vim: +dev -v9.1.1026 
 
 |:Over|
 
@@ -36082,6 +36082,14 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v9.0.2092 
 
+|dist#vim9#Launch()|
+
+       Vim: +dev 
+
+|dist#vim9#Open()|
+
+       Vim: +dev 
+
 |distribute-script|
 
     Neovim: +v0.1.0 
@@ -39603,6 +39611,10 @@ A listing of helptags with the versions they became available or were removed.
 |g:Nvim_color_expr|
 
     Neovim: +v0.2.1 -v0.3.0 
+
+|g:Openprg|
+
+       Vim: +dev 
 
 |g:actual_curbuf|
 
