@@ -2244,7 +2244,7 @@ $quoteneovim:v0.10.0,vim:v8.2.5055,
 :LPvim:v7.4.748,
 :LPEvim:v7.4.1725,
 :LPFvim:v7.4.748,
-:Launchvim:dev,v9.1.1026
+:Launchvim:v9.1.1054,v9.1.1026
 :Lexploreneovim:v0.1.0,nightlyvim:v7.4.156,v9.1.1026
 :Lfilterneovim:v0.4.0,vim:v8.1.0649,
 :LogiPatvim:v7.4.748,
@@ -2263,7 +2263,7 @@ $quoteneovim:v0.10.0,vim:v8.2.5055,
 :Ntreeneovim:v0.1.0,nightlyvim:v7.4.156,v9.1.1026
 :Nwneovim:v0.1.0,nightlyvim:v7.2.434,v9.1.1026
 :Nwriteneovim:v0.1.0,nightlyvim:v7.2.434,v9.1.1026
-:Openvim:dev,v9.1.1026
+:Openvim:v9.1.1054,v9.1.1026
 :Overneovim:v0.4.0,vim:v8.0.1725,
 :Pvim:v7.0001,
 :Pexploreneovim:v0.1.0,nightlyvim:v7.0128,v9.1.1026
@@ -7524,6 +7524,7 @@ diagnostic-quickstartneovim:v0.6.0,
 diagnostic-severityneovim:v0.6.0,
 diagnostic-signsneovim:v0.6.0,
 diagnostic-structureneovim:v0.6.0,
+diagnostic-toggle-virtual-lines-exampleneovim:dev,
 diagnostic.txtneovim:v0.6.0,
 dialogneovim:v0.1.0,v0.1.5vim:v7.0001,
 dialogs-addedvim:v7.0001,
@@ -7574,8 +7575,8 @@ disable_char_avail_for_testing()vim:v7.4.1310,v7.4.1844
 discardneovim:v0.1.0,vim:v7.4b.015,
 dist#vimneovim:v0.10.0,vim:v9.0.2092,
 dist#vim9vim:v9.0.2092,
-dist#vim9#Launch()vim:dev,
-dist#vim9#Open()vim:dev,
+dist#vim9#Launch()vim:v9.1.1054,
+dist#vim9#Open()vim:v9.1.1054,
 distribute-scriptneovim:v0.1.0,vim:v7.0231,
 distributed-pluginsvim:v9.0.1898,
 distributionneovim:v0.1.0,vim:v7.0001,
@@ -8314,7 +8315,7 @@ g:Netrw_corehandlerneovim:v0.1.0,nightlyvim:v7.3.347,v9.1.1026
 g:Netrw_funcrefneovim:v0.1.0,nightlyvim:v7.2.328,v9.1.1026
 g:Nvim_color_cmdlineneovim:v0.2.1,
 g:Nvim_color_exprneovim:v0.2.1,v0.3.0
-g:Openprgvim:dev,
+g:Openprgvim:v9.1.1054,
 g:actual_curbufneovim:v0.1.5,vim:v7.4.931,
 g:actual_curwinneovim:v0.5.0,vim:v8.1.1372,
 g:ada#Commentneovim:v0.1.0,vim:v7.2a,v7.2a.00
@@ -14269,6 +14270,7 @@ vim.diagnostic.Opts.Floatneovim:v0.10.0,
 vim.diagnostic.Opts.Jumpneovim:nightly,
 vim.diagnostic.Opts.Signsneovim:v0.10.0,
 vim.diagnostic.Opts.Underlineneovim:v0.10.0,
+vim.diagnostic.Opts.VirtualLinesneovim:dev,
 vim.diagnostic.Opts.VirtualTextneovim:v0.10.0,
 vim.diagnostic.config()neovim:v0.6.0,
 vim.diagnostic.count()neovim:v0.10.0,

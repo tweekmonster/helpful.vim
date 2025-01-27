@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2025-01-26 00:17:17 UTC
+*helpful-version.txt*  Generated: 2025-01-27 00:17:43 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -10847,7 +10847,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |:Launch|
 
-       Vim: +dev -v9.1.1026 
+       Vim: +v9.1.1054 -v9.1.1026 
 
 |:Lexplore|
 
@@ -10939,7 +10939,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |:Open|
 
-       Vim: +dev -v9.1.1026 
+       Vim: +v9.1.1054 -v9.1.1026 
 
 |:Over|
 
@@ -35843,6 +35843,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.6.0 
 
+|diagnostic-toggle-virtual-lines-example|
+
+    Neovim: +dev 
+
 |diagnostic.txt|
 
     Neovim: +v0.6.0 
@@ -36084,11 +36088,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |dist#vim9#Launch()|
 
-       Vim: +dev 
+       Vim: +v9.1.1054 
 
 |dist#vim9#Open()|
 
-       Vim: +dev 
+       Vim: +v9.1.1054 
 
 |distribute-script|
 
@@ -39614,7 +39618,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |g:Openprg|
 
-       Vim: +dev 
+       Vim: +v9.1.1054 
 
 |g:actual_curbuf|
 
@@ -66367,6 +66371,10 @@ A listing of helptags with the versions they became available or were removed.
 |vim.diagnostic.Opts.Underline|
 
     Neovim: +v0.10.0 
+
+|vim.diagnostic.Opts.VirtualLines|
+
+    Neovim: +dev 
 
 |vim.diagnostic.Opts.VirtualText|
 
