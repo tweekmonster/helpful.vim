@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2025-02-02 00:18:23 UTC
+*helpful-version.txt*  Generated: 2025-02-06 00:17:28 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -49077,6 +49077,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.8.0 
 
+|luv-constants|
+
+    Neovim: +dev 
+
 |luv-contents|
 
     Neovim: +v0.8.0 
@@ -49152,6 +49156,10 @@ A listing of helptags with the versions they became available or were removed.
 |luv-stream-handle|
 
     Neovim: +v0.8.0 
+
+|luv-string-manipulation|
+
+    Neovim: +dev 
 
 |luv-tcp-handle|
 
@@ -63837,6 +63845,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.8.0 
 
+|uv.getrusage_thread()|
+
+    Neovim: +dev 
+
 |uv.gettimeofday()|
 
     Neovim: +v0.8.0 
@@ -64277,6 +64289,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.10.0 
 
+|uv.thread_detach()|
+
+    Neovim: +dev 
+
 |uv.thread_equal()|
 
     Neovim: +v0.8.0 
@@ -64289,6 +64305,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.10.0 
 
+|uv.thread_getname()|
+
+    Neovim: +dev 
+
 |uv.thread_join()|
 
     Neovim: +v0.8.0 
@@ -64300,6 +64320,10 @@ A listing of helptags with the versions they became available or were removed.
 |uv.thread_setaffinity()|
 
     Neovim: +v0.10.0 
+
+|uv.thread_setname()|
+
+    Neovim: +dev 
 
 |uv.timer_again()|
 
@@ -64429,6 +64453,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.8.0 
 
+|uv.udp_try_send2()|
+
+    Neovim: +dev 
+
 |uv.unref()|
 
     Neovim: +v0.8.0 
@@ -64440,6 +64468,14 @@ A listing of helptags with the versions they became available or were removed.
 |uv.uptime()|
 
     Neovim: +v0.8.0 
+
+|uv.utf16_length_as_wtf8()|
+
+    Neovim: +dev 
+
+|uv.utf16_to_wtf8()|
+
+    Neovim: +dev 
 
 |uv.version()|
 
@@ -64460,6 +64496,14 @@ A listing of helptags with the versions they became available or were removed.
 |uv.write2()|
 
     Neovim: +v0.8.0 
+
+|uv.wtf8_length_as_utf16()|
+
+    Neovim: +dev 
+
+|uv.wtf8_to_utf16()|
+
+    Neovim: +dev 
 
 |uv_async_t|
 
