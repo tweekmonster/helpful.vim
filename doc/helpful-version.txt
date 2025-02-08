@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2025-02-06 00:17:28 UTC
+*helpful-version.txt*  Generated: 2025-02-08 00:16:53 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -49079,7 +49079,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |luv-constants|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |luv-contents|
 
@@ -49159,7 +49159,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |luv-string-manipulation|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |luv-tcp-handle|
 
@@ -63847,7 +63847,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |uv.getrusage_thread()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.gettimeofday()|
 
@@ -64291,7 +64291,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |uv.thread_detach()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.thread_equal()|
 
@@ -64307,7 +64307,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |uv.thread_getname()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.thread_join()|
 
@@ -64323,7 +64323,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |uv.thread_setname()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.timer_again()|
 
@@ -64455,7 +64455,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |uv.udp_try_send2()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.unref()|
 
@@ -64471,11 +64471,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |uv.utf16_length_as_wtf8()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.utf16_to_wtf8()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.version()|
 
@@ -64499,11 +64499,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |uv.wtf8_length_as_utf16()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv.wtf8_to_utf16()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |uv_async_t|
 
