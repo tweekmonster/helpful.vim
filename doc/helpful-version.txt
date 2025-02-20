@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2025-02-14 00:18:35 UTC
+*helpful-version.txt*  Generated: 2025-02-20 00:17:43 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -32098,6 +32098,50 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.5.0 
 
+|bit.arshift()|
+
+    Neovim: +dev 
+
+|bit.band()|
+
+    Neovim: +dev 
+
+|bit.bnot()|
+
+    Neovim: +dev 
+
+|bit.bor()|
+
+    Neovim: +dev 
+
+|bit.bxor()|
+
+    Neovim: +dev 
+
+|bit.lshift()|
+
+    Neovim: +dev 
+
+|bit.rol()|
+
+    Neovim: +dev 
+
+|bit.ror()|
+
+    Neovim: +dev 
+
+|bit.rshift()|
+
+    Neovim: +dev 
+
+|bit.tobit()|
+
+    Neovim: +dev 
+
+|bit.tohex()|
+
+    Neovim: +dev 
+
 |bitwise-function|
 
     Neovim: +v0.1.0 
@@ -46993,6 +47037,50 @@ A listing of helptags with the versions they became available or were removed.
 |lua-bit|
 
     Neovim: +v0.9.0 
+
+|lua-bit-api|
+
+    Neovim: +dev 
+
+|lua-bit-caveats|
+
+    Neovim: +dev 
+
+|lua-bit-hex-literals|
+
+    Neovim: +dev 
+
+|lua-bit-io-ranges|
+
+    Neovim: +dev 
+
+|lua-bit-modular-arith|
+
+    Neovim: +dev 
+
+|lua-bit-module|
+
+    Neovim: +dev 
+
+|lua-bit-restrictions|
+
+    Neovim: +dev 
+
+|lua-bit-semantics|
+
+    Neovim: +dev 
+
+|lua-bit-shortcuts|
+
+    Neovim: +dev 
+
+|lua-bit.txt|
+
+    Neovim: +dev 
+
+|lua-bitop|
+
+    Neovim: +dev 
 
 |lua-blob|
 
