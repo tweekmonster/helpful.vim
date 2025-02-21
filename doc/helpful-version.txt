@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2025-02-20 00:17:43 UTC
+*helpful-version.txt*  Generated: 2025-02-21 00:17:38 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -32100,47 +32100,47 @@ A listing of helptags with the versions they became available or were removed.
 
 |bit.arshift()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |bit.band()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |bit.bnot()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |bit.bor()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |bit.bxor()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |bit.lshift()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |bit.rol()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |bit.ror()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |bit.rshift()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |bit.tobit()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |bit.tohex()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |bitwise-function|
 
@@ -43994,6 +43994,10 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v9.0.0336 
 
+|hl-PopupSelected|
+
+       Vim: +v9.1.1123 
+
 |hl-Question|
 
     Neovim: +v0.1.0 
@@ -47040,47 +47044,47 @@ A listing of helptags with the versions they became available or were removed.
 
 |lua-bit-api|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-bit-caveats|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-bit-hex-literals|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-bit-io-ranges|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-bit-modular-arith|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-bit-module|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-bit-restrictions|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-bit-semantics|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-bit-shortcuts|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-bit.txt|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-bitop|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-blob|
 
