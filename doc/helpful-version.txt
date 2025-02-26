@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2025-02-21 00:17:38 UTC
+*helpful-version.txt*  Generated: 2025-02-26 00:17:42 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -40257,6 +40257,18 @@ A listing of helptags with the versions they became available or were removed.
 |g:loaded_ruby_provider|
 
     Neovim: +v0.1.5 
+
+|g:lua_folding|
+
+       Vim: +v9.1.1148 
+
+|g:lua_subversion|
+
+       Vim: +v9.1.1148 
+
+|g:lua_version|
+
+       Vim: +v9.1.1148 
 
 |g:man_hardwrap|
 
