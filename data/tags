@@ -2265,7 +2265,7 @@ $quoteneovim:v0.10.0,vim:v8.2.5055,
 :Ntreeneovim:v0.1.0,nightlyvim:v7.4.156,v9.1.1026
 :Nwneovim:v0.1.0,nightlyvim:v7.2.434,v9.1.1026
 :Nwriteneovim:v0.1.0,nightlyvim:v7.2.434,v9.1.1026
-:Openvim:v9.1.1054,v9.1.1026
+:Openneovim:dev,vim:v9.1.1054,v9.1.1026
 :Overneovim:v0.4.0,vim:v8.0.1725,
 :Pvim:v7.0001,
 :Pexploreneovim:v0.1.0,nightlyvim:v7.0128,v9.1.1026
@@ -13069,12 +13069,12 @@ t_xovim:v9.1.0321,
 t_xsneovim:v0.1.0,v0.2.0vim:v7.0001,
 t_xxneovim:v0.2.0,
 tabneovim:v0.1.0,vim:v7.0001,
-tab-IDneovim:dev,
+tab-IDneovim:nightly,
 tab-pageneovim:v0.1.0,vim:v7.0201,
 tab-page-commandsneovim:v0.1.0,vim:v7.0201,
 tab-page-introneovim:v0.1.0,vim:v7.0201,
 tab-page-otherneovim:v0.1.0,vim:v7.0201,
-tabidneovim:dev,
+tabidneovim:nightly,
 table.concat()neovim:v0.8.0,
 table.foreach()neovim:v0.8.0,
 table.foreachi()neovim:v0.8.0,
@@ -13088,7 +13088,7 @@ tabpageneovim:v0.1.0,vim:v7.0201,
 tabpage-variableneovim:v0.1.0,vim:v7.0c10,
 tabpage.txtneovim:v0.1.0,vim:v7.0201,
 tabpagebuflist()neovim:v0.1.0,vim:v7.0202,
-tabpageidneovim:dev,
+tabpageidneovim:nightly,
 tabpagenr()neovim:v0.1.0,vim:v7.0201,
 tabpagewinnr()neovim:v0.1.0,vim:v7.0202,
 tagneovim:v0.1.0,vim:v7.0001,
