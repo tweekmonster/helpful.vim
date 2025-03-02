@@ -2265,7 +2265,7 @@ $quoteneovim:v0.10.0,vim:v8.2.5055,
 :Ntreeneovim:v0.1.0,nightlyvim:v7.4.156,v9.1.1026
 :Nwneovim:v0.1.0,nightlyvim:v7.2.434,v9.1.1026
 :Nwriteneovim:v0.1.0,nightlyvim:v7.2.434,v9.1.1026
-:Openneovim:dev,vim:v9.1.1054,v9.1.1026
+:Openneovim:nightly,vim:v9.1.1054,v9.1.1026
 :Overneovim:v0.4.0,vim:v8.0.1725,
 :Pvim:v7.0001,
 :Pexploreneovim:v0.1.0,nightlyvim:v7.0128,v9.1.1026
@@ -8163,7 +8163,7 @@ ft-lifelines-syntaxneovim:v0.1.0,vim:v7.3,
 ft-lisp-syntaxneovim:v0.1.0,vim:v7.0157,
 ft-lite-syntaxneovim:v0.1.0,vim:v7.0139,
 ft-lpc-syntaxneovim:v0.1.0,vim:v7.0139,
-ft-lua-pluginvim:v9.1.0903,
+ft-lua-pluginneovim:dev,vim:v9.1.0903,
 ft-lua-syntaxneovim:v0.1.0,vim:v7.0139,
 ft-mail-pluginneovim:v0.1.0,vim:v7.0139,
 ft-mail.vimneovim:v0.1.0,vim:v7.0139,
@@ -8453,8 +8453,8 @@ g:loaded_python3_providerneovim:v0.1.0,
 g:loaded_python_providerneovim:v0.1.0,v0.7.0
 g:loaded_ruby_providerneovim:v0.1.5,
 g:lua_foldingvim:v9.1.1148,
-g:lua_subversionvim:v9.1.1148,
-g:lua_versionvim:v9.1.1148,
+g:lua_subversionneovim:dev,vim:v9.1.1148,
+g:lua_versionneovim:dev,vim:v9.1.1148,
 g:man_hardwrapneovim:v0.4.0,
 g:markdown_fenced_languagesneovim:nightly,vim:v9.1.0674,
 g:markdown_minlinesneovim:nightly,vim:v9.1.0674,
