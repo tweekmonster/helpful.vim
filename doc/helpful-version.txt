@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2025-03-02 00:19:05 UTC
+*helpful-version.txt*  Generated: 2025-03-03 00:18:59 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -38866,7 +38866,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |ft-lua-plugin|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.0903 
 
 |ft-lua-syntax|
@@ -40266,12 +40266,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |g:lua_subversion|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.1148 
 
 |g:lua_version|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.1148 
 
 |g:man_hardwrap|
@@ -50460,6 +50460,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|mouse-hover|
+
+    Neovim: +dev 
 
 |mouse-mode-table|
 
@@ -62629,6 +62633,10 @@ A listing of helptags with the versions they became available or were removed.
 |treesitter-highlight|
 
     Neovim: +v0.8.0 
+
+|treesitter-highlight-commentstring|
+
+    Neovim: +dev 
 
 |treesitter-highlight-conceal|
 
