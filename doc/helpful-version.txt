@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2025-03-03 00:18:59 UTC
+*helpful-version.txt*  Generated: 2025-03-04 00:18:03 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -50463,7 +50463,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |mouse-hover|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |mouse-mode-table|
 
@@ -62636,7 +62636,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |treesitter-highlight-commentstring|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |treesitter-highlight-conceal|
 
