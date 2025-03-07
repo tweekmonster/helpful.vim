@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2025-03-04 00:18:03 UTC
+*helpful-version.txt*  Generated: 2025-03-07 00:17:56 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -697,6 +697,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|'cfc'|
+
+       Vim: +v9.1.1178 
+
 |'cfu'|
 
     Neovim: +v0.1.0 
@@ -865,6 +869,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0007 
+
+|'completefuzzycollect'|
+
+       Vim: +v9.1.1178 
 
 |'completeitemalign'|
 
