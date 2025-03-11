@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2025-03-10 00:15:53 UTC
+*helpful-version.txt*  Generated: 2025-03-11 00:18:19 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -10885,6 +10885,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|:ManReload|
+
+       Vim: +v9.1.1194 
 
 |:MatchDebug|
 
@@ -39090,6 +39094,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |ft-plsql-plugin|
 
+    Neovim: +dev 
        Vim: +v9.1.1192 
 
 |ft-posix-synax|
@@ -40013,6 +40018,10 @@ A listing of helptags with the versions they became available or were removed.
 |g:ft_man_folding_enable|
 
     Neovim: +v0.1.5 
+
+|g:ft_man_implementation|
+
+       Vim: +v9.1.1194 
 
 |g:ftplugin_rust_source_path|
 
@@ -43280,7 +43289,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |hitest.vim|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |hjkl|
