@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2025-03-11 00:18:19 UTC
+*helpful-version.txt*  Generated: 2025-03-12 00:17:51 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -29357,6 +29357,18 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.2a -v7.2a.00 
 
+|TSQuery|
+
+    Neovim: +dev 
+
+|TSQuery:disable_capture()|
+
+    Neovim: +dev 
+
+|TSQuery:disable_pattern()|
+
+    Neovim: +dev 
+
 |TSTree|
 
     Neovim: +v0.9.0 
@@ -34256,6 +34268,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|compiler-tsc|
+
+       Vim: +dev 
+
 |compiler-typst|
 
     Neovim: +nightly 
@@ -39094,7 +39110,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |ft-plsql-plugin|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.1192 
 
 |ft-posix-synax|
@@ -68196,6 +68212,10 @@ A listing of helptags with the versions they became available or were removed.
 |vim.tohtml|
 
     Neovim: +v0.10.0 
+
+|vim.treesitter.Query|
+
+    Neovim: +dev 
 
 |vim.treesitter.add_directive()|
 
