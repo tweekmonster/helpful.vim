@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2025-03-12 00:17:51 UTC
+*helpful-version.txt*  Generated: 2025-03-13 00:18:29 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -29359,15 +29359,15 @@ A listing of helptags with the versions they became available or were removed.
 
 |TSQuery|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |TSQuery:disable_capture()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |TSQuery:disable_pattern()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |TSTree|
 
@@ -34270,7 +34270,8 @@ A listing of helptags with the versions they became available or were removed.
 
 |compiler-tsc|
 
-       Vim: +dev 
+    Neovim: +dev 
+       Vim: +v9.1.1195 
 
 |compiler-typst|
 
@@ -68215,7 +68216,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.treesitter.Query|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.treesitter.add_directive()|
 
