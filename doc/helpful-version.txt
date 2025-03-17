@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2025-03-16 00:20:11 UTC
+*helpful-version.txt*  Generated: 2025-03-17 00:19:15 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -13749,6 +13749,14 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|:ip|
+
+       Vim: +v9.1.1213 -v9.1.1215 
+
+|:iput|
+
+       Vim: +v9.1.1213 -v9.1.1215 
 
 |:is|
 
@@ -34975,7 +34983,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |cs.vim|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.1204 
 
 |cs7-problem|
@@ -38611,7 +38619,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |ft-cs-syntax|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.1204 
 
 |ft-csh-syntax|
@@ -38914,7 +38922,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |ft-lua-omni|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |ft-lua-plugin|
 
@@ -54545,11 +54553,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |package.loaded|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |package.loaded()|
 
-    Neovim: +v0.8.0 -dev 
+    Neovim: +v0.8.0 -nightly 
 
 |package.loadlib()|
 
@@ -67408,9 +67416,13 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +nightly 
 
+|vim.lsp.completion.get()|
+
+    Neovim: +dev 
+
 |vim.lsp.completion.trigger()|
 
-    Neovim: +nightly 
+    Neovim: +nightly -dev 
 
 |vim.lsp.config()|
 
