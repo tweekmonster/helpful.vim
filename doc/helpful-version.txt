@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2025-03-18 00:18:21 UTC
+*helpful-version.txt*  Generated: 2025-03-19 00:18:30 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -6706,6 +6706,10 @@ A listing of helptags with the versions they became available or were removed.
 |'winblend'|
 
     Neovim: +v0.4.0 
+
+|'winborder'|
+
+    Neovim: +dev 
 
 |'wincolor'|
 
@@ -13752,11 +13756,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |:ip|
 
-       Vim: +v9.1.1213 -v9.1.1215 
+       Vim: +v9.1.1224 -v9.1.1215 
 
 |:iput|
 
-       Vim: +v9.1.1213 -v9.1.1215 
+       Vim: +v9.1.1224 -v9.1.1215 
 
 |:is|
 
@@ -23009,6 +23013,10 @@ A listing of helptags with the versions they became available or were removed.
 |E1515|
 
        Vim: +v9.1.1016 
+
+|E1516|
+
+       Vim: +v9.1.1223 
 
 |E152|
 
@@ -46970,6 +46978,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.5.0 
 
+|lsp-format|
+
+    Neovim: +dev 
+
 |lsp-handler|
 
     Neovim: +v0.5.0 
@@ -47005,6 +47017,10 @@ A listing of helptags with the versions they became available or were removed.
 |lsp-inlay_hint|
 
     Neovim: +v0.10.0 
+
+|lsp-lint|
+
+    Neovim: +dev 
 
 |lsp-log|
 
@@ -55664,7 +55680,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |project-config|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |prompt-buffer|
 
@@ -58111,13 +58127,17 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.3.0 
 
+|shell-prompt|
+
+    Neovim: +dev 
+
 |shell-prompt-config|
 
-    Neovim: +nightly 
+    Neovim: +nightly -dev 
 
 |shell-prompt-signs|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |shell-unquoting|
 
@@ -62138,10 +62158,6 @@ A listing of helptags with the versions they became available or were removed.
 |terminal-session|
 
        Vim: +v8.0.1593 
-
-|terminal-shell-prompt-signs|
-
-    Neovim: +nightly -dev 
 
 |terminal-size-color|
 
@@ -69767,7 +69783,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |workspace-config|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |wrap-off|
 
