@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2025-03-19 00:18:30 UTC
+*helpful-version.txt*  Generated: 2025-03-20 00:18:07 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -6709,7 +6709,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'winborder'|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |'wincolor'|
 
@@ -44313,6 +44313,10 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v8.2.3578 
 
+|hlyank-install|
+
+       Vim: +dev 
+
 |holy-grail|
 
     Neovim: +v0.1.0 
@@ -46980,7 +46984,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |lsp-format|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lsp-handler|
 
@@ -47020,7 +47024,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |lsp-lint|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lsp-log|
 
@@ -54536,6 +54540,10 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v9.1.1003 
 
+|package-hlyank|
+
+       Vim: +dev 
+
 |package-justify|
 
     Neovim: +nightly 
@@ -58129,11 +58137,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |shell-prompt|
 
-    Neovim: +dev 
-
-|shell-prompt-config|
-
-    Neovim: +nightly -dev 
+    Neovim: +nightly 
 
 |shell-prompt-signs|
 
