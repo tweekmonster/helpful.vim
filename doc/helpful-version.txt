@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2025-03-20 00:18:07 UTC
+*helpful-version.txt*  Generated: 2025-03-22 00:18:01 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -29320,6 +29320,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.9.0 
 
+|TSNode:named_children()|
+
+    Neovim: +dev 
+
 |TSNode:named_descendant_for_range()|
 
     Neovim: +v0.9.0 
@@ -44315,7 +44319,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |hlyank-install|
 
-       Vim: +dev 
+       Vim: +v9.1.1228 
 
 |holy-grail|
 
@@ -54174,6 +54178,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.2a -v7.2a.00 
 
+|omnicompletion|
+
+    Neovim: +dev 
+
 |on_data|
 
     Neovim: +v0.3.0 
@@ -54542,7 +54550,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |package-hlyank|
 
-       Vim: +dev 
+       Vim: +v9.1.1228 
 
 |package-justify|
 
@@ -67438,7 +67446,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.lsp.completion.BufferOpts|
 
-    Neovim: +nightly 
+    Neovim: +nightly -dev 
 
 |vim.lsp.completion.enable()|
 
