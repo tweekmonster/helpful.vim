@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2025-03-22 00:18:01 UTC
+*helpful-version.txt*  Generated: 2025-03-23 00:20:05 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -29322,7 +29322,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |TSNode:named_children()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |TSNode:named_descendant_for_range()|
 
@@ -54180,7 +54180,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |omnicompletion|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |on_data|
 
@@ -67443,10 +67443,6 @@ A listing of helptags with the versions they became available or were removed.
 |vim.lsp.commands|
 
     Neovim: +v0.10.0 
-
-|vim.lsp.completion.BufferOpts|
-
-    Neovim: +nightly -dev 
 
 |vim.lsp.completion.enable()|
 
