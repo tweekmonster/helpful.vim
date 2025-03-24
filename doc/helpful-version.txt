@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2025-03-23 00:20:05 UTC
+*helpful-version.txt*  Generated: 2025-03-24 00:19:30 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -23018,6 +23018,18 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v9.1.1223 
 
+|E1517|
+
+       Vim: +v9.1.1232 
+
+|E1518|
+
+       Vim: +v9.1.1232 
+
+|E1519|
+
+       Vim: +v9.1.1232 
+
 |E152|
 
     Neovim: +v0.1.0 
@@ -23025,17 +23037,97 @@ A listing of helptags with the versions they became available or were removed.
 
 |E1520|
 
-       Vim: +v9.0.1975 -v9.0.1997 
+       Vim: +v9.1.1232 -v9.0.1997 
+
+|E1521|
+
+       Vim: +v9.1.1232 
+
+|E1522|
+
+       Vim: +v9.1.1232 
+
+|E1523|
+
+       Vim: +v9.1.1232 
+
+|E1524|
+
+       Vim: +v9.1.1232 
+
+|E1525|
+
+       Vim: +v9.1.1232 
+
+|E1526|
+
+       Vim: +v9.1.1232 
+
+|E1527|
+
+       Vim: +v9.1.1232 
+
+|E1528|
+
+       Vim: +v9.1.1232 
+
+|E1529|
+
+       Vim: +v9.1.1232 
 
 |E153|
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|E1530|
+
+       Vim: +v9.1.1232 
+
+|E1531|
+
+       Vim: +v9.1.1232 
+
+|E1532|
+
+       Vim: +v9.1.1232 
+
+|E1533|
+
+       Vim: +v9.1.1232 
+
+|E1534|
+
+       Vim: +v9.1.1232 
+
+|E1535|
+
+       Vim: +v9.1.1232 
+
+|E1536|
+
+       Vim: +v9.1.1232 
+
+|E1537|
+
+       Vim: +v9.1.1232 
+
+|E1538|
+
+       Vim: +v9.1.1232 
+
+|E1539|
+
+       Vim: +v9.1.1232 
+
 |E154|
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|E1540|
+
+       Vim: +v9.1.1232 
 
 |E155|
 
@@ -29563,6 +29655,14 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.2a -v7.2a.00 
+
+|Tuple|
+
+       Vim: +v9.1.1232 
+
+|Tuples|
+
+       Vim: +v9.1.1232 
 
 |U|
 
@@ -41681,6 +41781,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +nightly 
        Vim: +v9.1.0547 
 
+|get()-tuple|
+
+       Vim: +v9.1.1232 
+
 |get-ms-debuggers|
 
     Neovim: +v0.1.0 
@@ -46633,6 +46737,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.5.0 
        Vim: +v8.1.1122 
+
+|list2tuple()|
+
+       Vim: +v9.1.1232 
 
 |list_directives()|
 
@@ -59898,6 +60006,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.8.0 
        Vim: +v8.2.5162 
 
+|subtuple|
+
+       Vim: +v9.1.1232 
+
 |suffixes|
 
     Neovim: +v0.1.0 
@@ -61113,6 +61225,10 @@ A listing of helptags with the versions they became available or were removed.
 |t_ts_old|
 
        Vim: +v7.0001 
+
+|t_tuple-variable|
+
+       Vim: +v9.1.1232 
 
 |t_typealias-variable|
 
@@ -62358,6 +62474,10 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v7.4.1838 
 
+|test_null_tuple()|
+
+       Vim: +v9.1.1232 
+
 |test_option_not_set()|
 
        Vim: +v8.1.0386 
@@ -63161,6 +63281,34 @@ A listing of helptags with the versions they became available or were removed.
 |tui.txt|
 
     Neovim: +nightly 
+
+|tuple|
+
+       Vim: +v9.1.1232 
+
+|tuple-concatenation|
+
+       Vim: +v9.1.1232 
+
+|tuple-functions|
+
+       Vim: +v9.1.1232 
+
+|tuple-identity|
+
+       Vim: +v9.1.1232 
+
+|tuple-index|
+
+       Vim: +v9.1.1232 
+
+|tuple-type|
+
+       Vim: +v9.1.1232 
+
+|tuple2list()|
+
+       Vim: +v9.1.1232 
 
 |tutor|
 
@@ -65360,6 +65508,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.2.0 
        Vim: +v7.4.2071 
 
+|v:t_tuple|
+
+       Vim: +v9.1.1232 
+
 |v:t_typealias|
 
        Vim: +v9.0.2162 
@@ -66109,6 +66261,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|variadic-tuple|
+
+       Vim: +v9.1.1232 
 
 |various|
 
