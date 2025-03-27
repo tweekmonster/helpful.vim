@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2025-03-25 00:20:09 UTC
+*helpful-version.txt*  Generated: 2025-03-27 00:18:26 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -699,6 +699,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'cfc'|
 
+    Neovim: +dev 
        Vim: +v9.1.1178 
 
 |'cfu'|
@@ -872,6 +873,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'completefuzzycollect'|
 
+    Neovim: +dev 
        Vim: +v9.1.1178 
 
 |'completeitemalign'|
@@ -29349,7 +29351,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |TSNode:child_containing_descendant()|
 
-    Neovim: +nightly 
+    Neovim: +nightly -v0.11.0 
 
 |TSNode:child_count()|
 
@@ -43619,6 +43621,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|hl-DiffTextAdd|
+
+       Vim: +v9.1.1243 
+
 |hl-Directory|
 
     Neovim: +v0.1.0 
@@ -47016,6 +47022,10 @@ A listing of helptags with the versions they became available or were removed.
 |lsp-autocommands|
 
     Neovim: +v0.5.0 -v0.6.0 
+
+|lsp-autocompletion|
+
+    Neovim: +v0.11.0 
 
 |lsp-buf|
 
@@ -52845,6 +52855,18 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +nightly 
 
+|news-0.10.txt|
+
+    Neovim: +dev 
+
+|news-0.11|
+
+    Neovim: +dev 
+
+|news-0.11.txt|
+
+    Neovim: +dev 
+
 |news-0.9|
 
     Neovim: +v0.10.0 
@@ -52855,7 +52877,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |news-10.txt|
 
-    Neovim: +nightly 
+    Neovim: +nightly -dev 
 
 |news-breaking|
 
@@ -52863,7 +52885,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |news-breaking-dev|
 
-    Neovim: +nightly 
+    Neovim: +dev -v0.11.0 
 
 |news-changed|
 
@@ -55165,7 +55187,7 @@ A listing of helptags with the versions they became available or were removed.
 |pi_netrw.txt|
 
     Neovim: +v0.1.0 -nightly 
-       Vim: +v7.0021 -v9.1.1026 
+       Vim: +v9.1.1240 -v9.1.1026 
 
 |pi_paren.txt|
 
@@ -56022,6 +56044,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 -v0.4.0 
        Vim: +v7.3.1061 
+
+|python-Tuple|
+
+       Vim: +v9.1.1239 
 
 |python-VIM_SPECIAL_PATH|
 
