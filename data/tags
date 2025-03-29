@@ -9171,7 +9171,7 @@ hl-DiffAddneovim:v0.1.0,vim:v7.0001,
 hl-DiffChangeneovim:v0.1.0,vim:v7.0001,
 hl-DiffDeleteneovim:v0.1.0,vim:v7.0001,
 hl-DiffTextneovim:v0.1.0,vim:v7.0001,
-hl-DiffTextAddvim:v9.1.1243,
+hl-DiffTextAddneovim:dev,vim:v9.1.1243,
 hl-Directoryneovim:v0.1.0,vim:v7.0001,
 hl-EndOfBufferneovim:v0.1.0,vim:v7.4.2218,
 hl-EndofBuffervim:v7.4.2213,v7.4.2218
