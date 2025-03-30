@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2025-03-29 00:18:21 UTC
+*helpful-version.txt*  Generated: 2025-03-30 00:20:15 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -4321,6 +4321,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'pmw'|
 
+    Neovim: +dev 
        Vim: +v9.1.1250 
 
 |'popt'|
@@ -4414,6 +4415,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'pummaxwidth'|
 
+    Neovim: +dev 
        Vim: +v9.1.1250 
 
 |'pumwidth'|
@@ -23139,6 +23141,11 @@ A listing of helptags with the versions they became available or were removed.
 |E1540|
 
        Vim: +v9.1.1232 
+
+|E1541|
+
+    Neovim: +dev 
+       Vim: +v9.1.1258 
 
 |E155|
 
@@ -43629,7 +43636,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |hl-DiffTextAdd|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.1243 
 
 |hl-Directory|
