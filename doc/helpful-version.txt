@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2025-03-30 00:20:15 UTC
+*helpful-version.txt*  Generated: 2025-03-31 00:19:45 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -4321,7 +4321,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'pmw'|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.1250 
 
 |'popt'|
@@ -4415,7 +4415,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'pummaxwidth'|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.1250 
 
 |'pumwidth'|
@@ -23144,7 +23144,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |E1541|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.1258 
 
 |E155|
@@ -47749,7 +47749,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |lua-package-path|
 
-    Neovim: +v0.9.0 -v0.8.0 
+    Neovim: +v0.9.0 -dev 
 
 |lua-pattern|
 
@@ -63312,6 +63312,10 @@ A listing of helptags with the versions they became available or were removed.
 |tuple-index|
 
        Vim: +v9.1.1232 
+
+|tuple-modification|
+
+       Vim: +dev 
 
 |tuple-type|
 
