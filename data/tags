@@ -14695,7 +14695,7 @@ vim.lsp.util.set_lines()neovim:v0.5.0,v0.10.0
 vim.lsp.util.set_loclist()neovim:v0.5.0,v0.6.0
 vim.lsp.util.set_qflist()neovim:v0.5.0,v0.6.0
 vim.lsp.util.show_document()neovim:v0.9.0,
-vim.lsp.util.stylize_markdown()neovim:v0.5.0,dev
+vim.lsp.util.stylize_markdown()neovim:v0.5.0,nightly
 vim.lsp.util.symbols_to_items()neovim:v0.5.0,
 vim.lsp.util.text_document_completion_list_to_complete_items()neovim:v0.5.0,v0.10.0
 vim.lsp.util.trim_empty_lines()neovim:v0.5.0,v0.10.0
