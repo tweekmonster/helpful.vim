@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2025-04-09 00:19:10 UTC
+*helpful-version.txt*  Generated: 2025-04-10 00:18:43 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -728,12 +728,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |'chi'|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.1283 
 
 |'chistory'|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.1283 
 
 |'ci'|
@@ -2380,12 +2380,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |'lhi'|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.1283 
 
 |'lhistory'|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.1283 
 
 |'linebreak'|
@@ -38934,7 +38934,8 @@ A listing of helptags with the versions they became available or were removed.
 
 |ft-help-omni|
 
-       Vim: +dev 
+    Neovim: +dev 
+       Vim: +v9.1.1289 
 
 |ft-html-indent|
 
@@ -56497,7 +56498,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |quickfix-stack|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.1283 
 
 |quickfix-title|
