@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2025-04-13 00:44:05 UTC
+*helpful-version.txt*  Generated: 2025-04-14 00:20:16 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -39115,6 +39115,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.5.0 
        Vim: +v8.1.2411 
 
+|ft-mbsync-syntax|
+
+       Vim: +v9.1.1299 
+
 |ft-mediawiki-syntax|
 
     Neovim: +v0.11.0 
@@ -50339,6 +50343,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.9.0 
        Vim: +v8.2.3969 
+
+|mbsync.vim|
+
+       Vim: +v9.1.1299 
 
 |mbyte-IME|
 
@@ -70229,7 +70237,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |yankring|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |ye-option-gone|
 
