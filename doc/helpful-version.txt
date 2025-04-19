@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2025-04-18 00:18:47 UTC
+*helpful-version.txt*  Generated: 2025-04-19 00:18:14 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -38904,7 +38904,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |ft-gleam-plugin|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.1310 
 
 |ft-go-plugin|

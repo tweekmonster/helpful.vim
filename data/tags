@@ -8176,7 +8176,7 @@ ft-fvwm-syntaxneovim:v0.1.0,vim:v7.0139,
 ft-gdscript-pluginneovim:v0.11.0,vim:v9.1.0593,
 ft-gitcommit-pluginneovim:v0.1.0,vim:v7.2a,
 ft-gitrebase-pluginneovim:v0.11.0,vim:v9.1.1201,
-ft-gleam-pluginneovim:dev,vim:v9.1.1310,
+ft-gleam-pluginneovim:nightly,vim:v9.1.1310,
 ft-go-pluginneovim:v0.11.0,vim:v9.1.0593,
 ft-gprof-pluginneovim:v0.6.0,vim:v8.2.3686,v8.2.3750
 ft-groff-syntaxneovim:v0.1.0,vim:v7.0139,
