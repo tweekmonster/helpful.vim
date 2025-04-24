@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2025-04-23 00:18:57 UTC
+*helpful-version.txt*  Generated: 2025-04-24 00:19:05 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -20770,6 +20770,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |CmdlineLeavePre|
 
+    Neovim: +dev 
        Vim: +v9.1.1329 
 
 |CmdwinEnter|
@@ -34121,6 +34122,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |cmdcomplete_info()|
 
+    Neovim: +dev 
        Vim: +v9.1.1329 
 
 |cmdline|
@@ -39624,7 +39626,8 @@ A listing of helptags with the versions they became available or were removed.
 
 |ft-yaml-plugin|
 
-       Vim: +dev 
+    Neovim: +dev 
+       Vim: +v9.1.1337 
 
 |ft-yaml-syntax|
 
