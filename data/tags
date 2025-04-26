@@ -9942,7 +9942,7 @@ lsp-coreneovim:v0.5.0,
 lsp-defaultsneovim:v0.10.0,
 lsp-defaults-disableneovim:v0.10.0,
 lsp-diagnosticneovim:v0.5.0,
-lsp-document_colorneovim:dev,
+lsp-document_colorneovim:nightly,
 lsp-eventsneovim:v0.6.0,
 lsp-extension-exampleneovim:v0.5.0,v0.10.0
 lsp-extension.txtneovim:v0.5.0,v0.10.0
@@ -14619,8 +14619,8 @@ vim.lsp.diagnostic.set_signs()neovim:v0.5.0,v0.6.0
 vim.lsp.diagnostic.set_underline()neovim:v0.5.0,v0.6.0
 vim.lsp.diagnostic.set_virtual_text()neovim:v0.5.0,v0.6.0
 vim.lsp.diagnostic.show_line_diagnostics()neovim:v0.5.0,v0.6.0
-vim.lsp.document_color.enable()neovim:dev,
-vim.lsp.document_color.is_enabled()neovim:dev,
+vim.lsp.document_color.enable()neovim:nightly,
+vim.lsp.document_color.is_enabled()neovim:nightly,
 vim.lsp.enable()neovim:v0.11.0,
 vim.lsp.flush()neovim:v0.5.0,v0.6.0
 vim.lsp.foldclose()neovim:v0.11.0,
