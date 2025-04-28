@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2025-04-26 00:18:43 UTC
+*helpful-version.txt*  Generated: 2025-04-28 00:20:15 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -36765,6 +36765,10 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v7.0001 
 
+|emoji|
+
+    Neovim: +dev 
+
 |empty()|
 
     Neovim: +v0.1.0 
@@ -47235,6 +47239,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.5.0 
 
+|lsp-root_dir()|
+
+    Neovim: +dev 
+
 |lsp-rpc|
 
     Neovim: +v0.5.0 
@@ -47793,6 +47801,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.10.0 
 
+|lua-nongreedy|
+
+    Neovim: +dev 
+
 |lua-not|
 
     Neovim: +v0.10.0 
@@ -47831,7 +47843,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |lua-patterns|
 
-    Neovim: +v0.8.0 
+    Neovim: +v0.8.0 -dev 
 
 |lua-precedence|
 
@@ -59729,6 +59741,14 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.10.0 
        Vim: +v8.1.2047 
 
+|state-isolation|
+
+    Neovim: +dev 
+
+|stateless|
+
+    Neovim: +dev 
+
 |static-tag|
 
     Neovim: +v0.1.0 
@@ -66802,6 +66822,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.10.0 
        Vim: +v9.0.2092 
+
+|vim-script-notation|
+
+       Vim: +v9.1.1348 
 
 |vim-security|
 
