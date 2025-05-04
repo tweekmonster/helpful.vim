@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2025-05-03 00:18:51 UTC
+*helpful-version.txt*  Generated: 2025-05-04 00:21:28 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -43663,6 +43663,26 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.10.0 
 
+|hl-DiagnosticVirtualLinesError|
+
+    Neovim: +dev 
+
+|hl-DiagnosticVirtualLinesHint|
+
+    Neovim: +dev 
+
+|hl-DiagnosticVirtualLinesInfo|
+
+    Neovim: +dev 
+
+|hl-DiagnosticVirtualLinesOk|
+
+    Neovim: +dev 
+
+|hl-DiagnosticVirtualLinesWarn|
+
+    Neovim: +dev 
+
 |hl-DiagnosticVirtualTextError|
 
     Neovim: +v0.6.0 
@@ -44343,11 +44363,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |hl-StderrMsg|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |hl-StdoutMsg|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |hl-Substitute|
 
@@ -66890,7 +66910,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim._extui|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.api|
 
@@ -67925,6 +67945,10 @@ A listing of helptags with the versions they became available or were removed.
 |vim.lsp.inlay_hint.is_enabled()|
 
     Neovim: +v0.10.0 
+
+|vim.lsp.is_enabled()|
+
+    Neovim: +dev 
 
 |vim.lsp.log.get_filename()|
 
