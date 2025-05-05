@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2025-05-04 00:21:28 UTC
+*helpful-version.txt*  Generated: 2025-05-05 00:20:38 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -43665,23 +43665,23 @@ A listing of helptags with the versions they became available or were removed.
 
 |hl-DiagnosticVirtualLinesError|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |hl-DiagnosticVirtualLinesHint|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |hl-DiagnosticVirtualLinesInfo|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |hl-DiagnosticVirtualLinesOk|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |hl-DiagnosticVirtualLinesWarn|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |hl-DiagnosticVirtualTextError|
 
@@ -67948,7 +67948,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.lsp.is_enabled()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.log.get_filename()|
 
