@@ -7241,6 +7241,7 @@ compl-occult-filetypesvim:v7.0145,v7.0146
 compl-omnineovim:v0.1.0,vim:v7.0146,
 compl-omni-filetypesneovim:v0.1.0,vim:v7.0146,
 compl-spellingneovim:v0.1.0,vim:v7.0128,
+compl-statesneovim:dev,vim:v9.1.1374,
 compl-stopneovim:v0.6.0,vim:v8.2.3389,
 compl-tagneovim:v0.1.0,vim:v7.0001,
 compl-thesaurusneovim:v0.6.0,vim:v8.2.3528,
