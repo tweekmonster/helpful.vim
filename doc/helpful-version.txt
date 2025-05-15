@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2025-05-13 00:20:16 UTC
+*helpful-version.txt*  Generated: 2025-05-15 00:18:42 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -4937,6 +4937,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0202 
 
+|'showtabpanel'|
+
+       Vim: +v9.1.1391 
+
 |'shq'|
 
     Neovim: +v0.1.0 
@@ -5216,6 +5220,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0051 
+
+|'stpl'|
+
+       Vim: +v9.1.1391 
 
 |'sts'|
 
@@ -6035,6 +6043,14 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0211 
 
+|'tabpanel'|
+
+       Vim: +v9.1.1391 
+
+|'tabpanelopt'|
+
+       Vim: +v9.1.1391 
+
 |'tabstop'|
 
     Neovim: +v0.1.0 
@@ -6321,6 +6337,14 @@ A listing of helptags with the versions they became available or were removed.
 |'tpf'|
 
     Neovim: +v0.5.0 
+
+|'tpl'|
+
+       Vim: +v9.1.1391 
+
+|'tplo'|
+
+       Vim: +v9.1.1391 
 
 |'tpm'|
 
@@ -7550,6 +7574,10 @@ A listing of helptags with the versions they became available or were removed.
 |+tablineat|
 
     Neovim: +v0.1.2 -v0.4.0 
+
+|+tabpanel|
+
+       Vim: +v9.1.1391 
 
 |+tag_any_white|
 
@@ -15950,6 +15978,14 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.4.0 
        Vim: +v8.1.0706 
 
+|:redrawtabp|
+
+       Vim: +v9.1.1391 
+
+|:redrawtabpanel|
+
+       Vim: +v9.1.1391 
+
 |:reg|
 
     Neovim: +v0.1.0 
@@ -23185,6 +23221,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +nightly 
        Vim: +v9.1.1258 
+
+|E1547|
+
+       Vim: +v9.1.1391 
 
 |E155|
 
@@ -36088,6 +36128,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.11.0 
 
+|diagnostic-on-jump-example|
+
+    Neovim: +nightly 
+
 |diagnostic-quickstart|
 
     Neovim: +v0.6.0 
@@ -39938,6 +39982,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.5 
        Vim: +v7.4.931 
+
+|g:actual_curtabpage|
+
+       Vim: +v9.1.1391 
 
 |g:actual_curwin|
 
@@ -44402,6 +44450,18 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0202 
+
+|hl-TabPanel|
+
+       Vim: +v9.1.1391 
+
+|hl-TabPanelFill|
+
+       Vim: +v9.1.1391 
+
+|hl-TabPanelSel|
+
+       Vim: +v9.1.1391 
 
 |hl-TermCursor|
 
@@ -58231,6 +58291,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0203 
 
+|setting-tabpanel|
+
+       Vim: +v9.1.1391 
+
 |setuid|
 
     Neovim: +v0.1.0 
@@ -61559,6 +61623,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0202 
+
+|tabpanel|
+
+       Vim: +v9.1.1391 
 
 |tag|
 
