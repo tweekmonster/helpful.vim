@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2025-05-27 00:19:37 UTC
+*helpful-version.txt*  Generated: 2025-05-29 00:20:02 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -34560,6 +34560,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |compl-register-words|
 
+    Neovim: +dev 
        Vim: +v9.1.1408 
 
 |compl-spelling|
@@ -45221,6 +45222,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |i_CTRL-X_CTRL-R|
 
+    Neovim: +dev 
        Vim: +v9.1.1408 
 
 |i_CTRL-X_CTRL-S|
