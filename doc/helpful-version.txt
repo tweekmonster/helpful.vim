@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2025-05-31 00:19:28 UTC
+*helpful-version.txt*  Generated: 2025-06-01 00:24:43 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -46101,6 +46101,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|java-package-info-url|
+
+       Vim: +v9.1.1420 
+
 |java-syntax|
 
        Vim: +v7.0001 -v7.0139 
@@ -68072,7 +68076,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.lsp.log.should_log()|
 
-    Neovim: +v0.5.0 
+    Neovim: +v0.5.0 -dev 
 
 |vim.lsp.log_levels|
 
@@ -69239,7 +69243,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vimeval.txt|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vimfiles|
 
@@ -69248,7 +69252,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vimfn.txt|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |viminfo|
 
