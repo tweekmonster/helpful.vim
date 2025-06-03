@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2025-06-02 00:21:07 UTC
+*helpful-version.txt*  Generated: 2025-06-03 00:20:32 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -16005,6 +16005,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|:restart|
+
+    Neovim: +dev 
 
 |:ret|
 
@@ -43333,7 +43337,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |help-notation|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.0962 
 
 |help-summary|
@@ -46104,7 +46108,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |java-package-info-url|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.1420 
 
 |java-syntax|
@@ -47358,7 +47362,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |lsp-restart|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lsp-root_dir()|
 
@@ -47366,7 +47370,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |lsp-root_markers|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lsp-rpc|
 
