@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2025-06-06 00:20:08 UTC
+*helpful-version.txt*  Generated: 2025-06-08 00:22:26 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -6675,7 +6675,7 @@ A listing of helptags with the versions they became available or were removed.
 |'wfb'|
 
     Neovim: +v0.10.0 
-       Vim: +dev 
+       Vim: +v9.1.1436 
 
 |'wfh'|
 
@@ -40724,7 +40724,7 @@ A listing of helptags with the versions they became available or were removed.
 |g:netrw_errorlvl|
 
     Neovim: +v0.1.0 -v0.11.0 
-       Vim: +v9.1.1206 -v9.1.1026 
+       Vim: +v9.1.1206 -v9.1.1436 
 
 |g:netrw_extracmd|
 

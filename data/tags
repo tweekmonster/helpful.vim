@@ -1372,7 +1372,7 @@ $quoteneovim:v0.10.0,vim:v8.2.5055,
 'wcr'vim:v8.1.1391,
 'wd'neovim:v0.1.0,vim:v7.0001,
 'weirdinvert'neovim:v0.1.0,v0.1.6vim:v7.0001,
-'wfb'neovim:v0.10.0,vim:dev,
+'wfb'neovim:v0.10.0,vim:v9.1.1436,
 'wfh'neovim:v0.1.0,vim:v7.0001,
 'wfw'neovim:v0.1.0,vim:v7.0228,
 'wh'neovim:v0.1.0,vim:v7.0001,
@@ -8554,7 +8554,7 @@ g:netrw_dav_cmdneovim:v0.1.0,v0.11.0vim:v9.1.1206,v9.1.1026
 g:netrw_decompressneovim:v0.1.0,v0.11.0vim:v9.1.1206,v9.1.1026
 g:netrw_dirhistmaxneovim:v0.1.0,v0.11.0vim:v9.1.1206,v9.1.1026
 g:netrw_dynamic_maxfilenamelenneovim:v0.1.0,v0.11.0vim:v9.1.1206,v9.1.1026
-g:netrw_errorlvlneovim:v0.1.0,v0.11.0vim:v9.1.1206,v9.1.1026
+g:netrw_errorlvlneovim:v0.1.0,v0.11.0vim:v9.1.1206,v9.1.1436
 g:netrw_extracmdvim:v7.1a,v7.2.328
 g:netrw_fastbrowseneovim:v0.1.0,v0.11.0vim:v9.1.1206,v9.1.1026
 g:netrw_fetch_cmdneovim:v0.1.0,v0.11.0vim:v9.1.1206,v9.1.1026
