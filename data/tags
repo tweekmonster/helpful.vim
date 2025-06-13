@@ -6549,6 +6549,7 @@ alt-inputneovim:v0.1.0,v0.1.2vim:v7.0001,
 alternate-fileneovim:v0.1.0,vim:v7.0001,
 altfontneovim:v0.9.0,
 amiga-windowvim:v7.0001,
+anneovim:dev,
 and()neovim:v0.1.0,vim:v7.3.377,
 anonymous-functionneovim:v0.1.0,vim:v7.0c10,
 ansi-colorizeneovim:v0.11.0,
@@ -9594,6 +9595,7 @@ improvements-7vim:v7.0001,
 improvements-8vim:v7.4.1725,
 improvements-9vim:v8.2.4477,
 improvements-9.2vim:v9.1.0116,
+inneovim:dev,
 in-botvim:v7.4.1539,v7.4.1560
 in-bufvim:v7.4.1539,v7.4.1560
 in-namevim:v7.4.1539,v7.4.1560
@@ -14614,6 +14616,7 @@ vim.lsp.buf.range_formatting()neovim:v0.5.0,v0.9.0
 vim.lsp.buf.references()neovim:v0.5.0,
 vim.lsp.buf.remove_workspace_folder()neovim:v0.5.0,
 vim.lsp.buf.rename()neovim:v0.5.0,
+vim.lsp.buf.selection_range()neovim:dev,
 vim.lsp.buf.server_ready()neovim:v0.5.0,v0.10.0
 vim.lsp.buf.signature_help()neovim:v0.5.0,
 vim.lsp.buf.signature_help.Optsneovim:v0.11.0,
