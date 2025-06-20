@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2025-06-19 00:20:49 UTC
+*helpful-version.txt*  Generated: 2025-06-20 00:20:21 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -233,7 +233,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |':|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |'<|
 
@@ -10632,7 +10632,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |:<sfile>|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |:<sflnum>|
@@ -19660,7 +19660,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |<sfile>|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |<sflnum>|
@@ -30859,7 +30859,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |`:|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |`<|
 
@@ -49761,10 +49761,6 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
-|m:|
-
-    Neovim: +nightly -dev 
-
 |m<|
 
     Neovim: +v0.1.0 
@@ -55624,7 +55620,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |popup-window|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.1.1329 
 
 |popup-window-functions|
@@ -62959,7 +62955,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |textprop|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v8.1.1308 
 
 |textprop.txt|
@@ -69469,7 +69465,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |virtual-text|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.0.0067 
 
 |visual-block|
