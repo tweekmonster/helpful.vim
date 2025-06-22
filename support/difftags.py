@@ -69,10 +69,10 @@ def doc_diff(path, a, b):
     tags = defaultdict(int)
     if not a or not b:
         cmd = ['git', 'show', '-U0', '--oneline', a or b, '--',
-               'runtime/doc/*.txt', ':(exclude)runtime/doc/deprecated.txt']
+               'runtime/doc/*.txt', ':(exclude)runtime/doc/deprecated.txt', ':(exclude)runtime/doc/vim_diff.txt']
     else:
         cmd = ['git', 'diff', '-U0', a, b, '--',
-               'runtime/doc/*.txt', ':(exclude)runtime/doc/deprecated.txt']
+               'runtime/doc/*.txt', ':(exclude)runtime/doc/deprecated.txt', ':(exclude)runtime/doc/vim_diff.txt']
     stdout = command(cmd, cwd=path)
     i = 0
 
