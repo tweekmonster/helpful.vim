@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2025-06-22 03:57:57 UTC
+*helpful-version.txt*  Generated: 2025-06-24 00:20:28 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -16909,6 +16909,18 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0075 
 
+|:sort-l|
+
+       Vim: +dev 
+
+|:sort-u|
+
+       Vim: +dev 
+
+|:sort-uniq|
+
+       Vim: +dev 
+
 |:source|
 
     Neovim: +v0.1.0 
@@ -18074,6 +18086,14 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|:uni|
+
+       Vim: +dev 
+
+|:uniq|
+
+       Vim: +dev 
 
 |:unl|
 
@@ -35737,6 +35757,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.2a -v7.2a.00 
+
+|deduplicating|
+
+       Vim: +dev 
 
 |deepcopy()|
 
@@ -63803,6 +63827,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.4.218 
+
+|unique|
+
+       Vim: +dev 
 
 |unix|
 
