@@ -11991,7 +11991,7 @@ progress-syntaxvim:v7.0001,v7.0139
 progress.vimneovim:v0.1.0,vim:v7.0001,
 project-configneovim:v0.11.0,
 prompt-bufferneovim:v0.5.0,vim:v8.1.0027,
-prompt_getinput()neovim:dev,
+prompt_getinput()neovim:nightly,
 prompt_getprompt()neovim:v0.5.0,vim:v8.2.1588,
 prompt_setcallback()neovim:v0.5.0,vim:v8.1.0027,
 prompt_setinterrupt()neovim:v0.5.0,vim:v8.1.0069,
