@@ -1908,6 +1908,7 @@ $quoteneovim:v0.10.0,vim:v8.2.5055,
 /\{-neovim:v0.1.0,vim:v7.0001,
 /\~neovim:v0.1.0,vim:v7.0001,
 /^neovim:v0.1.0,vim:v7.0001,
+/_<Tab>vim:v9.1.1490,
 /_CTRL-Gneovim:v0.2.1,vim:v7.4.2268,
 /_CTRL-Lneovim:v0.2.1,vim:v7.4.2259,
 /_CTRL-Nvim:v7.4.2259,v7.4.2268
