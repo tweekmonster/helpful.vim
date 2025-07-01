@@ -11189,7 +11189,7 @@ netrw-rightmouseneovim:v0.1.0,v0.11.0vim:v9.1.1206,v9.1.1026
 netrw-sneovim:v0.1.0,v0.11.0vim:v9.1.1206,v9.1.1026
 netrw-s-crneovim:v0.1.5,v0.11.0vim:v9.1.1206,v9.1.1026
 netrw-settingsneovim:v0.1.0,v0.11.0vim:v9.1.1206,v9.1.1026
-netrw-settings-windowneovim:v0.1.0,v0.11.0vim:v9.1.1206,v9.1.1026
+netrw-settings-windowneovim:v0.1.0,v0.11.0vim:v9.1.1206,dev
 netrw-sexploreneovim:v0.1.0,v0.11.0vim:v9.1.1206,v9.1.1026
 netrw-sortneovim:v0.1.0,v0.11.0vim:v9.1.1206,v9.1.1026
 netrw-sort-sequenceneovim:v0.1.0,v0.11.0vim:v9.1.1206,v9.1.1026
