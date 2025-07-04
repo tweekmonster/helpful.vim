@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2025-07-03 00:20:49 UTC
+*helpful-version.txt*  Generated: 2025-07-04 00:20:16 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -35265,6 +35265,10 @@ A listing of helptags with the versions they became available or were removed.
 |cpo-{|
 
        Vim: +v7.0050 
+
+|cpo-~|
+
+       Vim: +v9.1.1507 
 
 |cpp.vim|
 
