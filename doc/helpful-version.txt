@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2025-07-04 00:20:16 UTC
+*helpful-version.txt*  Generated: 2025-07-05 00:19:36 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -28968,6 +28968,14 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.4.274 
 
+|PackChanged|
+
+    Neovim: +dev 
+
+|PackChangedPre|
+
+    Neovim: +dev 
+
 |Partial|
 
     Neovim: +v0.2.0 
@@ -35268,6 +35276,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |cpo-~|
 
+    Neovim: +dev 
        Vim: +v9.1.1507 
 
 |cpp.vim|
@@ -68486,6 +68495,34 @@ A listing of helptags with the versions they became available or were removed.
 |vim.opt_local|
 
     Neovim: +v0.9.0 
+
+|vim.pack|
+
+    Neovim: +dev 
+
+|vim.pack-directory|
+
+    Neovim: +dev 
+
+|vim.pack.Spec|
+
+    Neovim: +dev 
+
+|vim.pack.add()|
+
+    Neovim: +dev 
+
+|vim.pack.del()|
+
+    Neovim: +dev 
+
+|vim.pack.get()|
+
+    Neovim: +dev 
+
+|vim.pack.update()|
+
+    Neovim: +dev 
 
 |vim.paste()|
 
