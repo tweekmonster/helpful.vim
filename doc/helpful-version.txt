@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2025-07-05 00:19:36 UTC
+*helpful-version.txt*  Generated: 2025-07-06 00:22:51 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -9188,6 +9188,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |/_<Tab>|
 
+    Neovim: +dev 
        Vim: +v9.1.1490 
 
 |/_CTRL-G|
@@ -16975,14 +16976,17 @@ A listing of helptags with the versions they became available or were removed.
 
 |:sort-l|
 
+    Neovim: +dev 
        Vim: +v9.1.1477 
 
 |:sort-u|
 
+    Neovim: +dev 
        Vim: +v9.1.1477 
 
 |:sort-uniq|
 
+    Neovim: +dev 
        Vim: +v9.1.1477 
 
 |:source|
@@ -18153,10 +18157,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |:uni|
 
+    Neovim: +dev 
        Vim: +v9.1.1477 
 
 |:uniq|
 
+    Neovim: +dev 
        Vim: +v9.1.1477 
 
 |:unl|
@@ -28970,11 +28976,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |PackChanged|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |PackChangedPre|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |Partial|
 
@@ -35276,7 +35282,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |cpo-~|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.1507 
 
 |cpp.vim|
@@ -35853,6 +35859,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |deduplicating|
 
+    Neovim: +dev 
        Vim: +v9.1.1477 
 
 |deepcopy()|
@@ -42145,6 +42152,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.5 
        Vim: +v7.4.2011 
+
+|getcompletiontype()|
+
+       Vim: +v9.1.1509 
 
 |getcurpos()|
 
@@ -63931,6 +63942,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |unique|
 
+    Neovim: +dev 
        Vim: +v9.1.1477 
 
 |unix|
@@ -68498,31 +68510,31 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.pack|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.pack-directory|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.pack.Spec|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.pack.add()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.pack.del()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.pack.get()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.pack.update()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.paste()|
 
