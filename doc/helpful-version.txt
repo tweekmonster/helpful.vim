@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2025-07-06 00:22:51 UTC
+*helpful-version.txt*  Generated: 2025-07-07 00:22:10 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -650,6 +650,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|'busy'|
+
+    Neovim: +dev 
 
 |'casemap'|
 
@@ -9188,7 +9192,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |/_<Tab>|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.1490 
 
 |/_CTRL-G|
@@ -16976,17 +16980,17 @@ A listing of helptags with the versions they became available or were removed.
 
 |:sort-l|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.1477 
 
 |:sort-u|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.1477 
 
 |:sort-uniq|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.1477 
 
 |:source|
@@ -18157,12 +18161,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |:uni|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.1477 
 
 |:uniq|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.1477 
 
 |:unl|
@@ -35859,7 +35863,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |deduplicating|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.1477 
 
 |deepcopy()|
@@ -42155,6 +42159,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |getcompletiontype()|
 
+    Neovim: +nightly 
        Vim: +v9.1.1509 
 
 |getcurpos()|
@@ -58066,6 +58071,11 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|search-options|
+
+    Neovim: +dev 
+       Vim: +v9.1.1513 
+
 |search-pattern|
 
     Neovim: +v0.1.0 
@@ -63942,7 +63952,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |unique|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.1477 
 
 |unix|
