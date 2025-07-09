@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2025-07-08 00:20:25 UTC
+*helpful-version.txt*  Generated: 2025-07-09 00:21:00 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -10906,6 +10906,10 @@ A listing of helptags with the versions they became available or were removed.
 |:ELP|
 
        Vim: +v7.4.748 -v7.4.1725 
+
+|:EditQuery|
+
+    Neovim: +dev 
 
 |:Evaluate|
 
@@ -45642,7 +45646,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |improvements-9.2|
 
-       Vim: +v9.1.0116 
+       Vim: +v9.1.0116 -v9.1.1529 
 
 |in|
 
@@ -57132,7 +57136,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |register|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |register-faq|
