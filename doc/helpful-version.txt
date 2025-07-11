@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2025-07-10 00:20:48 UTC
+*helpful-version.txt*  Generated: 2025-07-11 00:20:51 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -2591,6 +2591,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 -v0.3.0 
        Vim: +v7.0001 
 
+|'maxsearchcount'|
+
+       Vim: +v9.1.1535 
+
 |'mco'|
 
     Neovim: +v0.1.0 -v0.8.0 
@@ -2793,6 +2797,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|'msc'|
+
+       Vim: +v9.1.1535 
 
 |'msghistory'|
 
@@ -29488,6 +29496,22 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|SystemObj:is_closing()|
+
+    Neovim: +dev 
+
+|SystemObj:kill()|
+
+    Neovim: +dev 
+
+|SystemObj:wait()|
+
+    Neovim: +dev 
+
+|SystemObj:write()|
+
+    Neovim: +dev 
+
 |T|
 
     Neovim: +v0.1.0 
@@ -48355,6 +48379,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.5.0 
 
+|lua-vim-system|
+
+    Neovim: +dev 
+
 |lua-vim-variables|
 
     Neovim: +v0.5.0 
@@ -67080,6 +67108,14 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.10.0 
 
+|vim.SystemCompleted|
+
+    Neovim: +dev 
+
+|vim.SystemObj|
+
+    Neovim: +dev 
+
 |vim.VersionRange|
 
     Neovim: +nightly 
@@ -68041,6 +68077,10 @@ A listing of helptags with the versions they became available or were removed.
 |vim.lsp.diagnostic.show_line_diagnostics()|
 
     Neovim: +v0.5.0 -v0.6.0 
+
+|vim.lsp.document_color.color_presentation()|
+
+    Neovim: +dev 
 
 |vim.lsp.document_color.enable()|
 
