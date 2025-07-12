@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2025-07-11 00:20:51 UTC
+*helpful-version.txt*  Generated: 2025-07-12 00:20:31 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -2593,6 +2593,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'maxsearchcount'|
 
+    Neovim: +nightly 
        Vim: +v9.1.1535 
 
 |'mco'|
@@ -2800,6 +2801,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'msc'|
 
+    Neovim: +nightly 
        Vim: +v9.1.1535 
 
 |'msghistory'|
@@ -15523,7 +15525,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |:ownsyntax|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.3 
 
 |:p|
@@ -18993,7 +18995,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |<CursorHold>|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.4.464 
 
 |<D-|
@@ -29498,19 +29500,19 @@ A listing of helptags with the versions they became available or were removed.
 
 |SystemObj:is_closing()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |SystemObj:kill()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |SystemObj:wait()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |SystemObj:write()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |T|
 
@@ -31597,6 +31599,14 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.2.0 
 
+|api-ui-events|
+
+    Neovim: +nightly 
+
+|api-ui-events.txt|
+
+    Neovim: +nightly 
+
 |api-vimscript|
 
     Neovim: +v0.6.0 
@@ -32820,7 +32830,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |builtin-function-details|
 
-    Neovim: +v0.7.0 
+    Neovim: +v0.7.0 -nightly 
        Vim: +v8.2.3917 
 
 |builtin-function-list|
@@ -32830,7 +32840,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |builtin-functions|
 
-    Neovim: +v0.7.0 
+    Neovim: +v0.7.0 -nightly 
        Vim: +v8.2.3917 
 
 |builtin-object-methods|
@@ -48381,7 +48391,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |lua-vim-system|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-vim-variables|
 
@@ -63845,7 +63855,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |ui.txt|
 
-    Neovim: +v0.2.1 
+    Neovim: +v0.2.1 -nightly 
 
 |undercurl|
 
@@ -67110,11 +67120,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.SystemCompleted|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.SystemObj|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.VersionRange|
 
@@ -68080,7 +68090,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.lsp.document_color.color_presentation()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.document_color.enable()|
 
@@ -69531,6 +69541,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.9.0 
 
+|vimscript-functions-details|
+
+    Neovim: +nightly 
+
 |vimscript-version|
 
        Vim: +v8.1.1116 
@@ -69735,7 +69749,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |w:current_syntax|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.3 
 
 |w:quickfix_title|
