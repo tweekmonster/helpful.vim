@@ -14506,8 +14506,8 @@ vim.diagnostic.setqflist()neovim:v0.6.0,
 vim.diagnostic.severityneovim:v0.6.0,
 vim.diagnostic.show()neovim:v0.6.0,
 vim.diagnostic.toqflist()neovim:v0.6.0,
-vim.diffneovim:v0.10.0,dev
-vim.diff()neovim:v0.6.0,dev
+vim.diffneovim:v0.10.0,nightly
+vim.diff()neovim:v0.6.0,nightly
 vim.empty_dict()neovim:v0.5.0,
 vim.endswith()neovim:v0.5.0,
 vim.envneovim:v0.5.0,
@@ -14734,11 +14734,13 @@ vim.lsp.rpc.notify()neovim:v0.5.0,
 vim.lsp.rpc.request()neovim:v0.5.0,
 vim.lsp.rpc.rpc_response_error()neovim:v0.5.0,
 vim.lsp.rpc.start()neovim:v0.5.0,
+vim.lsp.semantic_tokens.enable()neovim:nightly,
 vim.lsp.semantic_tokens.force_refresh()neovim:v0.9.0,
 vim.lsp.semantic_tokens.get_at_pos()neovim:v0.9.0,
 vim.lsp.semantic_tokens.highlight_token()neovim:v0.9.0,
-vim.lsp.semantic_tokens.start()neovim:v0.9.0,
-vim.lsp.semantic_tokens.stop()neovim:v0.9.0,
+vim.lsp.semantic_tokens.is_enabled()neovim:nightly,
+vim.lsp.semantic_tokens.start()neovim:v0.9.0,nightly
+vim.lsp.semantic_tokens.stop()neovim:v0.9.0,nightly
 vim.lsp.set_log_level()neovim:v0.5.0,
 vim.lsp.start()neovim:v0.8.0,
 vim.lsp.start_client()neovim:v0.5.0,v0.11.0
@@ -14799,6 +14801,8 @@ vim.mpack.decodeneovim:v0.6.0,v0.10.0
 vim.mpack.decode()neovim:v0.10.0,
 vim.mpack.encodeneovim:v0.6.0,v0.10.0
 vim.mpack.encode()neovim:v0.10.0,
+vim.netneovim:dev,
+vim.net.request()neovim:dev,
 vim.notify()neovim:v0.5.0,
 vim.notify_once()neovim:v0.7.0,
 vim.oneovim:v0.5.0,
@@ -14873,7 +14877,7 @@ vim.tbl_keys()neovim:v0.5.0,
 vim.tbl_map()neovim:v0.5.0,
 vim.tbl_values()neovim:v0.5.0,
 vim.textneovim:v0.10.0,
-vim.text.diff()neovim:dev,
+vim.text.diff()neovim:nightly,
 vim.text.hexdecode()neovim:v0.10.0,
 vim.text.hexencode()neovim:v0.10.0,
 vim.text.indent()neovim:v0.11.0,
