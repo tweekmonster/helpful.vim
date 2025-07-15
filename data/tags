@@ -14801,8 +14801,8 @@ vim.mpack.decodeneovim:v0.6.0,v0.10.0
 vim.mpack.decode()neovim:v0.10.0,
 vim.mpack.encodeneovim:v0.6.0,v0.10.0
 vim.mpack.encode()neovim:v0.10.0,
-vim.netneovim:dev,
-vim.net.request()neovim:dev,
+vim.netneovim:nightly,
+vim.net.request()neovim:nightly,
 vim.notify()neovim:v0.5.0,
 vim.notify_once()neovim:v0.7.0,
 vim.oneovim:v0.5.0,
