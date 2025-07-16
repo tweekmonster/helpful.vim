@@ -8722,7 +8722,7 @@ g:tar_copycmdneovim:v0.1.0,v0.10.0vim:v7.2.328,
 g:tar_extractcmdneovim:v0.1.0,v0.10.0vim:v7.2.328,
 g:tar_nomaxneovim:v0.1.0,vim:v7.2a,
 g:tar_readoptionsneovim:v0.1.0,vim:v7.0c10,
-g:tar_secureneovim:v0.1.0,vim:v7.2,
+g:tar_secureneovim:v0.1.0,vim:v7.2,v9.1.1552
 g:tar_writeoptionsneovim:v0.1.0,vim:v7.0c10,
 g:termdebug_configneovim:v0.8.0,vim:v8.2.5010,
 g:termdebuggerneovim:v0.8.0,vim:v8.2.3346,
