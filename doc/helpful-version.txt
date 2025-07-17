@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2025-07-16 00:21:18 UTC
+*helpful-version.txt*  Generated: 2025-07-17 00:21:55 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -1138,6 +1138,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|'dia'|
+
+       Vim: +v9.1.1557 
+
 |'dict'|
 
     Neovim: +v0.1.0 
@@ -1152,6 +1156,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|'diffanchors'|
+
+       Vim: +v9.1.1557 
 
 |'diffexpr'|
 
@@ -23350,10 +23358,18 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v9.1.1485 
 
+|E1549|
+
+       Vim: +v9.1.1557 
+
 |E155|
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|E1550|
+
+       Vim: +v9.1.1557 
 
 |E156|
 
@@ -36368,6 +36384,10 @@ A listing of helptags with the versions they became available or were removed.
 |diff()|
 
        Vim: +v9.1.0071 
+
+|diff-anchors|
+
+       Vim: +v9.1.1557 
 
 |diff-diffexpr|
 
