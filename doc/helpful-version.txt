@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2025-07-18 00:21:18 UTC
+*helpful-version.txt*  Generated: 2025-07-19 00:20:53 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -1140,7 +1140,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'dia'|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.1557 
 
 |'dict'|
@@ -1160,7 +1160,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'diffanchors'|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.1557 
 
 |'diffexpr'|
@@ -23371,7 +23371,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |E1550|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.1557 
 
 |E156|
@@ -36390,7 +36390,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |diff-anchors|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.1557 
 
 |diff-diffexpr|
@@ -41541,7 +41541,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |g:tar_secure|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.2 -v9.1.1552 
 
 |g:tar_writeoptions|
@@ -54951,6 +54951,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.5 
        Vim: +v7.4.1486 
 
+|pack.txt|
+
+    Neovim: +dev 
+
 |package-cfilter|
 
     Neovim: +v0.11.0 
@@ -61948,6 +61952,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |tar-mappings|
 
+    Neovim: +nightly 
        Vim: +v9.1.1309 
 
 |tar-options|
