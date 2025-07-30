@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2025-07-29 00:23:33 UTC
+*helpful-version.txt*  Generated: 2025-07-30 00:22:15 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -31873,7 +31873,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |assert-functions-details|
 
-    Neovim: +v0.5.0 
+    Neovim: +v0.5.0 -nightly 
        Vim: +v8.1.1783 
 
 |assert-return|
@@ -35028,6 +35028,10 @@ A listing of helptags with the versions they became available or were removed.
 |context.vim|
 
        Vim: +v9.0.0281 
+
+|continuation|
+
+    Neovim: +nightly 
 
 |control|
 
@@ -47272,7 +47276,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |load-vim-script|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |loadfile()|
@@ -47533,6 +47537,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.5.0 
 
+|lsp-config-merge|
+
+    Neovim: +nightly 
+
 |lsp-core|
 
     Neovim: +v0.5.0 
@@ -47624,6 +47632,10 @@ A listing of helptags with the versions they became available or were removed.
 |lsp-method|
 
     Neovim: +v0.5.0 
+
+|lsp-new-config|
+
+    Neovim: +nightly 
 
 |lsp-notification|
 
@@ -48314,6 +48326,10 @@ A listing of helptags with the versions they became available or were removed.
 |lua-return|
 
     Neovim: +v0.10.0 
+
+|lua-script-location|
+
+    Neovim: +nightly 
 
 |lua-secure|
 
@@ -53294,7 +53310,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |new-style-testing|
 
-    Neovim: +v0.5.0 
+    Neovim: +v0.5.0 -nightly 
        Vim: +v7.4.2218 
 
 |new-tab-pages|
@@ -58130,7 +58146,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |script|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0044 
 
 |script-here|
@@ -62877,7 +62893,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |test-functions-details|
 
-    Neovim: +v0.5.0 
+    Neovim: +v0.5.0 -nightly 
        Vim: +v8.1.1783 
 
 |test_alloc_fail()|
@@ -63015,12 +63031,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |testing|
 
-    Neovim: +v0.5.0 
+    Neovim: +v0.5.0 -nightly 
        Vim: +v7.4.2218 
 
 |testing-support|
 
-    Neovim: +v0.5.0 
+    Neovim: +v0.5.0 -nightly 
        Vim: +v8.1.1726 
 
 |testing-variable|
@@ -63030,7 +63046,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |testing.txt|
 
-    Neovim: +v0.5.0 
+    Neovim: +v0.5.0 -nightly 
        Vim: +v8.1.1726 
 
 |tex-cchar|
@@ -67222,12 +67238,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim-script-intro|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |vim-script-library|
 
-    Neovim: +v0.10.0 
+    Neovim: +v0.10.0 -nightly 
        Vim: +v9.0.2092 
 
 |vim-script-notation|
@@ -67800,7 +67816,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.list.unique()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.list_contains()|
 
@@ -69740,6 +69756,14 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.9.0 
 
 |vimscript-functions-details|
+
+    Neovim: +nightly 
+
+|vimscript-intro|
+
+    Neovim: +nightly 
+
+|vimscript-library|
 
     Neovim: +nightly 
 
