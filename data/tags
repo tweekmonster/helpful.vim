@@ -14549,6 +14549,7 @@ vim.diagnostic.setloclist()neovim:v0.6.0,
 vim.diagnostic.setqflist()neovim:v0.6.0,
 vim.diagnostic.severityneovim:v0.6.0,
 vim.diagnostic.show()neovim:v0.6.0,
+vim.diagnostic.status()neovim:nightly,
 vim.diagnostic.toqflist()neovim:v0.6.0,
 vim.diffneovim:v0.10.0,nightly
 vim.diff()neovim:v0.6.0,nightly
