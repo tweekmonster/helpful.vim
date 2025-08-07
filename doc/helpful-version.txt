@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2025-08-05 00:22:17 UTC
+*helpful-version.txt*  Generated: 2025-08-07 00:22:06 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -28350,6 +28350,10 @@ A listing of helptags with the versions they became available or were removed.
 |Haiku|
 
        Vim: +v8.2.0320 
+
+|HelpToc-mappings|
+
+       Vim: +v9.1.1594 
 
 |I|
 
