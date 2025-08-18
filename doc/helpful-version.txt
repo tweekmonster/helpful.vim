@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2025-08-17 00:22:32 UTC
+*helpful-version.txt*  Generated: 2025-08-18 00:22:18 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -29150,6 +29150,14 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v7.0001 
 
+|Pos:lsp()|
+
+    Neovim: +dev 
+
+|Pos:to_lsp()|
+
+    Neovim: +dev 
+
 |Posix|
 
        Vim: +v7.0001 
@@ -29426,6 +29434,22 @@ A listing of helptags with the versions they became available or were removed.
 |RPC|
 
     Neovim: +v0.1.5 
+
+|Range:has()|
+
+    Neovim: +dev 
+
+|Range:intersect()|
+
+    Neovim: +dev 
+
+|Range:lsp()|
+
+    Neovim: +dev 
+
+|Range:to_lsp()|
+
+    Neovim: +dev 
 
 |RecordingEnter|
 
@@ -67326,6 +67350,14 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.5.0 
 
+|vim.Pos|
+
+    Neovim: +dev 
+
+|vim.Range|
+
+    Neovim: +dev 
+
 |vim.Ringbuf|
 
     Neovim: +v0.10.0 
@@ -68852,6 +68884,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.4.0 
 
+|vim.pos|
+
+    Neovim: +dev 
+
 |vim.pretty_print()|
 
     Neovim: +v0.7.0 -v0.9.0 
@@ -68859,6 +68895,10 @@ A listing of helptags with the versions they became available or were removed.
 |vim.print()|
 
     Neovim: +v0.9.0 
+
+|vim.range|
+
+    Neovim: +dev 
 
 |vim.re|
 
