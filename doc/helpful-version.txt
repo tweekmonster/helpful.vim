@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2025-08-20 00:19:16 UTC
+*helpful-version.txt*  Generated: 2025-08-21 00:18:31 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -33692,7 +33692,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |cangjie.vim|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.1647 
 
 |carriage-return|
@@ -39125,7 +39125,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |ft-cangjie-syntax|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.1647 
 
 |ft-ch-syntax|
@@ -44768,7 +44768,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |hl-SnippetTabstopActive|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |hl-SpecialKey|
 
