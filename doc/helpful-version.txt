@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2025-08-23 00:19:17 UTC
+*helpful-version.txt*  Generated: 2025-08-24 00:21:41 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -282,7 +282,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |'acl'|
 
+    Neovim: +dev 
        Vim: +v9.1.1638 
+
+|'act'|
+
+       Vim: +v9.1.1672 
 
 |'ai'|
 
@@ -390,7 +395,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |'autocompletedelay'|
 
+    Neovim: +dev 
        Vim: +v9.1.1638 
+
+|'autocompletetimeout'|
+
+       Vim: +v9.1.1672 
 
 |'autoindent'|
 
@@ -935,6 +945,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.5.0 
        Vim: +v8.1.1769 
 
+|'completetimeout'|
+
+       Vim: +v9.1.1672 
+
 |'concealcursor'|
 
     Neovim: +v0.1.0 
@@ -1080,6 +1094,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 -v0.3.0 
        Vim: +v7.0001 
+
+|'cto'|
+
+       Vim: +v9.1.1672 
 
 |'cuc'|
 
@@ -5653,6 +5671,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 -v0.2.0 
        Vim: +v7.0001 
+
+|'t_Ms'|
+
+       Vim: +v9.1.1666 
 
 |'t_PE'|
 
@@ -54568,7 +54590,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |nvim_ui_send()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim_ui_set_focus()|
 
@@ -61210,6 +61232,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 -v0.2.0 
        Vim: +v7.0001 
 
+|t_Ms|
+
+       Vim: +v9.1.1666 
+
 |t_PE|
 
        Vim: +v8.0.0210 
@@ -64324,6 +64350,14 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|uri_decode()|
+
+       Vim: +v9.1.1669 
+
+|uri_encode()|
+
+       Vim: +v9.1.1669 
+
 |urxvt-mouse|
 
        Vim: +v7.3.382 
@@ -66179,6 +66213,10 @@ A listing of helptags with the versions they became available or were removed.
 |v:termblinkresp|
 
        Vim: +v8.0.1016 
+
+|v:termda1|
+
+       Vim: +v9.1.1666 
 
 |v:termrbgresp|
 
