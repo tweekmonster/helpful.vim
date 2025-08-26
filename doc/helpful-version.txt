@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2025-08-25 00:20:40 UTC
+*helpful-version.txt*  Generated: 2025-08-26 00:19:39 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -287,7 +287,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'act'|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.1672 
 
 |'ai'|
@@ -401,7 +401,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'autocompletetimeout'|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.1672 
 
 |'autoindent'|
@@ -949,7 +949,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'completetimeout'|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.1672 
 
 |'concealcursor'|
@@ -1100,7 +1100,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'cto'|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.1672 
 
 |'cuc'|
@@ -29204,7 +29204,23 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v7.0001 
 
+|Pos:cursor()|
+
+    Neovim: +nightly 
+
+|Pos:extmark()|
+
+    Neovim: +nightly 
+
 |Pos:lsp()|
+
+    Neovim: +nightly 
+
+|Pos:to_cursor()|
+
+    Neovim: +nightly 
+
+|Pos:to_extmark()|
 
     Neovim: +nightly 
 
@@ -44005,6 +44021,14 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.3 
 
+|hl-ComplHint|
+
+    Neovim: +nightly 
+
+|hl-ComplHintMore|
+
+    Neovim: +nightly 
+
 |hl-ComplMatchIns|
 
     Neovim: +v0.11.0 
@@ -47738,6 +47762,10 @@ A listing of helptags with the versions they became available or were removed.
 |lsp-inlay_hint|
 
     Neovim: +v0.10.0 
+
+|lsp-inline_completion|
+
+    Neovim: +nightly 
 
 |lsp-linked_editing_range|
 
@@ -68543,6 +68571,22 @@ A listing of helptags with the versions they became available or were removed.
 |vim.lsp.inlay_hint.is_enabled()|
 
     Neovim: +v0.10.0 
+
+|vim.lsp.inline_completion.enable()|
+
+    Neovim: +nightly 
+
+|vim.lsp.inline_completion.get()|
+
+    Neovim: +nightly 
+
+|vim.lsp.inline_completion.is_enabled()|
+
+    Neovim: +nightly 
+
+|vim.lsp.inline_completion.select()|
+
+    Neovim: +nightly 
 
 |vim.lsp.is_enabled()|
 
