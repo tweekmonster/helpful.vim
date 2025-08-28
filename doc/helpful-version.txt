@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2025-08-27 00:19:41 UTC
+*helpful-version.txt*  Generated: 2025-08-28 00:19:25 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -4330,9 +4330,17 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|'osctimeoutlen'|
+
+       Vim: +v9.1.1703 
+
 |'osfiletype'|
 
        Vim: +v7.0001 
+
+|'ost'|
+
+       Vim: +v9.1.1703 
 
 |'pa'|
 
@@ -22285,7 +22293,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |E1235|
 
-       Vim: +v8.2.4296 -v8.2.4727 
+       Vim: +v9.1.1698 -v8.2.4727 
 
 |E1236|
 
@@ -22372,7 +22380,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |E1253|
 
-       Vim: +v8.2.4296 -v9.0.1403 
+       Vim: +v9.1.1698 -v9.0.1403 
 
 |E1254|
 
@@ -22726,7 +22734,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |E1329|
 
-       Vim: +v9.0.1122 -v9.0.1909 
+       Vim: +v9.1.1698 -v9.0.1909 
 
 |E133|
 
@@ -23073,7 +23081,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |E1404|
 
-       Vim: +v9.0.1704 -v9.0.1950 
+       Vim: +v9.1.1698 -v9.0.1950 
 
 |E1405|
 
@@ -23173,6 +23181,14 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v9.1.0219 
 
+|E1427|
+
+       Vim: +v9.1.1698 
+
+|E1428|
+
+       Vim: +v9.1.1698 
+
 |E1429|
 
        Vim: +v9.1.0314 
@@ -23181,6 +23197,14 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|E1430|
+
+       Vim: +v9.1.1698 
+
+|E1431|
+
+       Vim: +v9.1.1698 
 
 |E1432|
 
@@ -23446,6 +23470,29 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +nightly 
        Vim: +v9.1.1258 
 
+|E1542|
+
+    Neovim: +dev 
+       Vim: +v9.1.1698 
+
+|E1543|
+
+    Neovim: +dev 
+       Vim: +v9.1.1698 
+
+|E1544|
+
+       Vim: +v9.1.1698 
+
+|E1545|
+
+       Vim: +v9.1.1698 
+
+|E1546|
+
+    Neovim: +dev 
+       Vim: +v9.1.1698 
+
 |E1547|
 
        Vim: +v9.1.1391 
@@ -23467,6 +23514,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +nightly 
        Vim: +v9.1.1557 
+
+|E1551|
+
+       Vim: +v9.1.1698 
 
 |E1552|
 
@@ -23537,6 +23588,10 @@ A listing of helptags with the versions they became available or were removed.
 |E1567|
 
        Vim: +v9.1.1651 
+
+|E1568|
+
+       Vim: +v9.1.1703 
 
 |E157|
 
@@ -29234,7 +29289,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |Progress|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |Python|
 
@@ -56437,7 +56492,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |progress-message|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |progress-syntax|
 
@@ -66257,6 +66312,10 @@ A listing of helptags with the versions they became available or were removed.
 |v:termda1|
 
        Vim: +v9.1.1666 
+
+|v:termosc|
+
+       Vim: +v9.1.1703 
 
 |v:termrbgresp|
 
