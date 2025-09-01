@@ -10111,6 +10111,7 @@ lsp-methodneovim:v0.5.0,
 lsp-new-configneovim:nightly,
 lsp-notificationneovim:v0.5.0,
 lsp-on-list-handlerneovim:v0.8.0,v0.10.0
+lsp-on_type_formattingneovim:dev,
 lsp-protocolneovim:v0.5.0,
 lsp-quickstartneovim:v0.5.0,
 lsp-responseneovim:v0.5.0,
@@ -14840,6 +14841,7 @@ vim.lsp.log.set_level()neovim:v0.5.0,
 vim.lsp.log.should_log()neovim:v0.5.0,nightly
 vim.lsp.log_levelsneovim:v0.7.0,
 vim.lsp.omnifunc()neovim:v0.5.0,
+vim.lsp.on_type_formatting.enable()neovim:dev,
 vim.lsp.prepare()neovim:v0.5.0,v0.6.0
 vim.lsp.protocolneovim:v0.5.0,
 vim.lsp.protocol.Methodsneovim:v0.10.0,
