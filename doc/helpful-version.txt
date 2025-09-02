@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2025-09-01 00:23:30 UTC
+*helpful-version.txt*  Generated: 2025-09-02 00:19:23 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -7844,6 +7844,10 @@ A listing of helptags with the versions they became available or were removed.
 |+wayland_clipboard|
 
        Vim: +v9.1.1485 
+
+|+wayland_focus_steal|
+
+       Vim: +v9.1.1725 
 
 |+wildignore|
 
@@ -32144,6 +32148,10 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v9.1.1576 
 
+|assumptions-prototypes|
+
+       Vim: +dev 
+
 |assumptions-variables|
 
        Vim: +v9.1.1576 
@@ -44788,6 +44796,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.3.0 
 
+|hl-OkMsg|
+
+    Neovim: +dev 
+
 |hl-Pmenu|
 
     Neovim: +v0.1.0 
@@ -47856,7 +47868,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |lsp-on_type_formatting|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lsp-protocol|
 
@@ -48483,6 +48495,58 @@ A listing of helptags with the versions they became available or were removed.
 |lua-patterns|
 
     Neovim: +v0.8.0 -nightly 
+
+|lua-plugin|
+
+    Neovim: +dev 
+
+|lua-plugin-config|
+
+    Neovim: +dev 
+
+|lua-plugin-defer-require|
+
+    Neovim: +dev 
+
+|lua-plugin-doc|
+
+    Neovim: +dev 
+
+|lua-plugin-filetype|
+
+    Neovim: +dev 
+
+|lua-plugin-init|
+
+    Neovim: +dev 
+
+|lua-plugin-keymaps|
+
+    Neovim: +dev 
+
+|lua-plugin-lazy|
+
+    Neovim: +dev 
+
+|lua-plugin-new|
+
+    Neovim: +dev 
+
+|lua-plugin-troubleshooting|
+
+    Neovim: +dev 
+
+|lua-plugin-type-safety|
+
+    Neovim: +dev 
+
+|lua-plugin-versioning|
+
+    Neovim: +dev 
+
+|lua-plugin.txt|
+
+    Neovim: +dev 
 
 |lua-precedence|
 
@@ -68671,6 +68735,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.10.0 
 
+|vim.lsp.inline_completion.Item|
+
+    Neovim: +dev 
+
 |vim.lsp.inline_completion.enable()|
 
     Neovim: +nightly 
@@ -68725,7 +68793,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.lsp.on_type_formatting.enable()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.prepare()|
 
