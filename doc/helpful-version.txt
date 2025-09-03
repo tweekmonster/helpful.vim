@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2025-09-02 00:19:23 UTC
+*helpful-version.txt*  Generated: 2025-09-03 00:18:06 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -5686,7 +5686,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'t_Ms'|
 
-       Vim: +v9.1.1666 
+       Vim: +v9.1.1666 -v9.1.1730 
 
 |'t_PE'|
 
@@ -7847,7 +7847,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |+wayland_focus_steal|
 
-       Vim: +v9.1.1725 
+       Vim: +v9.1.1725 -v9.1.1726 
 
 |+wildignore|
 
@@ -32150,7 +32150,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |assumptions-prototypes|
 
-       Vim: +dev 
+       Vim: +v9.1.1726 
 
 |assumptions-variables|
 
@@ -44798,7 +44798,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |hl-OkMsg|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |hl-Pmenu|
 
@@ -48498,55 +48498,55 @@ A listing of helptags with the versions they became available or were removed.
 
 |lua-plugin|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-plugin-config|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-plugin-defer-require|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-plugin-doc|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-plugin-filetype|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-plugin-init|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-plugin-keymaps|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-plugin-lazy|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-plugin-new|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-plugin-troubleshooting|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-plugin-type-safety|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-plugin-versioning|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-plugin.txt|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-precedence|
 
@@ -61397,7 +61397,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |t_Ms|
 
-       Vim: +v9.1.1666 
+       Vim: +v9.1.1666 -v9.1.1730 
 
 |t_PE|
 
@@ -68737,7 +68737,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.lsp.inline_completion.Item|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.inline_completion.enable()|
 
