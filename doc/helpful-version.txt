@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2025-09-03 00:18:06 UTC
+*helpful-version.txt*  Generated: 2025-09-05 00:19:02 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -31816,6 +31816,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.4.0 
 
+|api-events|
+
+    Neovim: +nightly 
+
 |api-extended-marks|
 
     Neovim: +v0.5.0 
@@ -31838,7 +31842,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |api-global-events|
 
-    Neovim: +v0.3.2 
+    Neovim: +v0.3.2 -nightly 
 
 |api-highlights|
 
@@ -36284,6 +36288,10 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v7.4.1842 
 
+|deprecated-features|
+
+       Vim: +v9.1.1731 
+
 |design-assumptions|
 
     Neovim: +v0.1.0 -v0.1.1 
@@ -36333,6 +36341,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|design-policy|
+
+       Vim: +v9.1.1731 
 
 |design-speed-size|
 
@@ -47758,6 +47770,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +nightly 
 
+|lsp-copilot|
+
+    Neovim: +nightly 
+
 |lsp-core|
 
     Neovim: +v0.5.0 
@@ -53355,6 +53371,10 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v7.0001 
 
+|new-features|
+
+       Vim: +v9.1.1731 
+
 |new-file-browser|
 
        Vim: +v7.0001 
@@ -54759,9 +54779,13 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.2.0 
 
+|nvim_ui_term_event|
+
+    Neovim: +nightly 
+
 |nvim_ui_term_event()|
 
-    Neovim: +v0.10.0 
+    Neovim: +v0.10.0 -nightly 
 
 |nvim_ui_try_resize()|
 
