@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2025-09-05 00:19:02 UTC
+*helpful-version.txt*  Generated: 2025-09-09 00:19:22 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -31458,7 +31458,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |abel.vim|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |abs()|
@@ -31535,7 +31535,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |ada.vim|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.2a -v7.2a.00 
 
 |add()|
@@ -31759,7 +31759,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |ant.vim|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |antialias|
@@ -31777,7 +31777,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |apache.vim|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |api|
@@ -32020,7 +32020,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |asm.vim|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |asm68k|
@@ -32038,7 +32038,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |asmh8300.vim|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |aspperl-syntax|
@@ -32162,12 +32162,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |astro.vim|
 
-    Neovim: +v0.10.0 
+    Neovim: +v0.10.0 -nightly 
        Vim: +v9.1.0363 
 
 |asy.vim|
 
-    Neovim: +v0.11.0 
+    Neovim: +v0.11.0 -nightly 
        Vim: +v9.1.0593 
 
 |at|
@@ -32586,7 +32586,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |baan.vim|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0f02 
 
 |backers.txt|
@@ -32684,7 +32684,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |basic.vim|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |beep|
@@ -33212,7 +33212,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |c.vim|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |cW|
@@ -33805,7 +33805,6 @@ A listing of helptags with the versions they became available or were removed.
 
 |cangjie.vim|
 
-    Neovim: +nightly 
        Vim: +v9.1.1647 
 
 |carriage-return|
@@ -33864,7 +33863,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |ch.vim|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0015 
 
 |ch_canread()|
@@ -34058,7 +34057,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |changelog.vim|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |changenr()|
@@ -34287,7 +34286,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |chill.vim|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |chmod|
@@ -34726,7 +34725,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |cobol.vim|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |codeset|
@@ -34750,7 +34749,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |coldfusion.vim|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |collapse|
@@ -34884,6 +34883,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.11.0 
        Vim: +v9.1.0725 
+
+|compiler-hare|
+
+       Vim: +v9.1.1743 
 
 |compiler-hpada|
 
@@ -35652,7 +35655,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |cpp.vim|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.3.845 
 
 |crash-recovery|
@@ -35686,7 +35689,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |cs.vim|
 
-    Neovim: +v0.11.0 
+    Neovim: +v0.11.0 -nightly 
        Vim: +v9.1.1204 
 
 |cs7-problem|
@@ -35794,7 +35797,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |csh.vim|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |cspc|
@@ -35993,7 +35996,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |cweb.vim|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |cynlib-syntax|
@@ -36002,7 +36005,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |cynlib.vim|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |d|
@@ -36036,7 +36039,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |dart.vim|
 
-    Neovim: +v0.5.0 
+    Neovim: +v0.5.0 -nightly 
        Vim: +v8.1.2222 
 
 |das|
@@ -36357,7 +36360,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |desktop.vim|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |dev|
@@ -36853,7 +36856,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |dircolors.vim|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |dis|
@@ -36932,7 +36935,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |docbk.vim|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |docbksgml-syntax|
@@ -36941,7 +36944,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |docbksgml.vim|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |docbkxml-syntax|
@@ -36950,7 +36953,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |docbkxml.vim|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |docbook|
@@ -37043,7 +37046,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |dosbatch.vim|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |double-click|
@@ -37063,7 +37066,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |doxygen.vim|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0d05 
 
 |dp|
@@ -37096,7 +37099,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |dtd.vim|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |dtd2vim|
@@ -37289,12 +37292,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |eiffel.vim|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |elixir.vim|
 
-    Neovim: +v0.6.0 
+    Neovim: +v0.6.0 -nightly 
        Vim: +v8.2.3117 
 
 |emacs-keys|
@@ -37393,7 +37396,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |erlang.vim|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |err-buf|
@@ -37547,12 +37550,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |euphoria3.vim|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.4.194 
 
 |euphoria4.vim|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.4.194 
 
 |euro|
@@ -38325,7 +38328,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |fasm.vim|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |fast-functions|
@@ -38630,7 +38633,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |flexwiki.vim|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0g01 
 
 |float-e|
@@ -39013,7 +39016,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |form.vim|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |format-bullet-list|
@@ -39047,7 +39050,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |forth.vim|
 
-    Neovim: +v0.6.0 
+    Neovim: +v0.6.0 -nightly 
        Vim: +v8.2.3686 
 
 |fortran-indent|
@@ -39064,12 +39067,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |fortran.vim|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |freebasic.vim|
 
-    Neovim: +v0.8.0 
+    Neovim: +v0.8.0 -nightly 
        Vim: +v9.0.0019 
 
 |freebasic_no_comment_fold|
@@ -39502,6 +39505,22 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.11.0 
        Vim: +v9.1.0442 
+
+|ft-hare-indent|
+
+       Vim: +v9.1.1743 
+
+|ft-hare-intro|
+
+       Vim: +v9.1.1743 
+
+|ft-hare-plugin|
+
+       Vim: +v9.1.1743 
+
+|ft-haredoc-plugin|
+
+       Vim: +v9.1.1743 
 
 |ft-haskell-syntax|
 
@@ -40343,6 +40362,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|fuzzy-file-picker|
+
+       Vim: +dev 
+
 |fuzzy-match|
 
        Vim: +v8.2.2857 -v8.2.4530 
@@ -40358,7 +40381,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |fvwm.vim|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |fvwm2rc|
@@ -40859,6 +40882,18 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.10.0 
        Vim: +v9.0.2092 
 
+|g:hare_indent_case|
+
+       Vim: +v9.1.1743 
+
+|g:hare_indent_match_switch|
+
+       Vim: +v9.1.1743 
+
+|g:hare_makeprg_params|
+
+       Vim: +v9.1.1743 
+
 |g:hare_recommended_style|
 
     Neovim: +v0.11.0 
@@ -40869,10 +40904,14 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.11.0 
        Vim: +v9.1.0442 
 
+|g:hare_symbol_operators|
+
+       Vim: +v9.1.1743 
+
 |g:haredoc_search_depth|
 
     Neovim: +v0.11.0 
-       Vim: +v9.1.0442 
+       Vim: +v9.1.0442 -v9.1.1743 
 
 |g:health|
 
@@ -43094,7 +43133,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |groff.vim|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |gross-national-happiness|
@@ -43122,7 +43161,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |gsp.vim|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |gstar|
@@ -43636,17 +43675,21 @@ A listing of helptags with the versions they became available or were removed.
 |hare-intro|
 
     Neovim: +v0.11.0 
-       Vim: +v9.1.0442 
+       Vim: +v9.1.0442 -v9.1.1743 
 
 |hare-plugin|
 
     Neovim: +v0.11.0 
-       Vim: +v9.1.0442 
+       Vim: +v9.1.0442 -v9.1.1743 
 
 |hare-settings|
 
     Neovim: +v0.11.0 
-       Vim: +v9.1.0442 
+       Vim: +v9.1.0442 -v9.1.1743 
+
+|hare.vim|
+
+       Vim: +v9.1.1743 
 
 |has()|
 
@@ -43679,7 +43722,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |haskell.vim|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |haslocaldir()|
@@ -44870,6 +44913,10 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v9.1.1123 
 
+|hl-PreInsert|
+
+       Vim: +v9.1.1742 
+
 |hl-Question|
 
     Neovim: +v0.1.0 
@@ -45201,7 +45248,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |html.vim|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |htmlos-syntax|
@@ -45210,7 +45257,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |htmlos.vim|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |http|
@@ -45884,7 +45931,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |ia64.vim|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |ib|
@@ -45943,7 +45990,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |idl.vim|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0d04 
 
 |if_cscop.txt|
@@ -46213,7 +46260,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |inform.vim|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |informix|
@@ -46280,6 +46327,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +nightly 
        Vim: +v9.1.1590 
+
+|ins-autocompletion-example|
+
+       Vim: +v9.1.1742 
 
 |ins-completion|
 
@@ -46633,7 +46684,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |java.vim|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |javascript-cinoptions|
@@ -46855,7 +46906,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |jq.vim|
 
-    Neovim: +v0.10.0 
+    Neovim: +v0.10.0 -nightly 
        Vim: +v9.1.0375 
 
 |jq_quote_highlight|
@@ -46885,7 +46936,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |json.vim|
 
-    Neovim: +v0.5.0 
+    Neovim: +v0.5.0 -nightly 
        Vim: +v8.1.2060 
 
 |json_decode()|
@@ -47156,7 +47207,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |lace.vim|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |lambda|
@@ -47296,17 +47347,17 @@ A listing of helptags with the versions they became available or were removed.
 
 |lex.vim|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |lf.vim|
 
-    Neovim: +v0.11.0 
+    Neovim: +v0.11.0 -nightly 
        Vim: +v9.1.0778 
 
 |lhaskell.vim|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |libcall()|
@@ -47331,7 +47382,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |lifelines.vim|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.3 
 
 |limits|
@@ -47381,7 +47432,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |lisp.vim|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0157 
 
 |lispindent()|
@@ -47472,7 +47523,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |lite.vim|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |literal-Dict|
@@ -47484,6 +47535,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|live-grep|
+
+       Vim: +dev 
 
 |lnum-variable|
 
@@ -47723,7 +47778,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |lpc.vim|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |lsp|
@@ -48908,7 +48963,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |lua.vim|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |luaL_Buffer|
@@ -50427,7 +50482,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |mail.vim|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |maillist|
@@ -50446,7 +50501,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |make.vim|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |man-plugin|
@@ -50656,7 +50711,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |maple.vim|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |mapleader|
@@ -50784,7 +50839,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |masm.vim|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |match()|
@@ -51122,7 +51177,6 @@ A listing of helptags with the versions they became available or were removed.
 
 |mbsync.vim|
 
-    Neovim: +nightly 
        Vim: +v9.1.1299 
 
 |mbyte-IME|
@@ -51333,7 +51387,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |mma.vim|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0072 
 
 |mode()|
@@ -51396,7 +51450,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |modula2.vim|
 
-    Neovim: +v0.10.0 
+    Neovim: +v0.10.0 -nightly 
        Vim: +v9.1.0013 
 
 |modula2_iso_allow_lowline|
@@ -51444,7 +51498,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |moo.vim|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |more-compatible|
@@ -51727,7 +51781,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |msql.vim|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |mswin.vim|
@@ -51882,7 +51936,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |n1ql.vim|
 
-    Neovim: +v0.2.1 
+    Neovim: +v0.2.1 -nightly 
        Vim: +v8.0.1007 
 
 |namespace|
@@ -51895,7 +51949,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |nasm.vim|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |navigation|
@@ -51937,12 +51991,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |ncf.vim|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |neomutt.vim|
 
-    Neovim: +v0.11.0 
+    Neovim: +v0.11.0 -nightly 
        Vim: +v9.1.0779 
 
 |neovim|
@@ -53858,7 +53912,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |nroff.vim|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |null|
@@ -54993,7 +55047,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |ocaml.vim|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |octal|
@@ -55553,7 +55607,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |papp.vim|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |paragraph|
@@ -55576,7 +55630,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |pascal.vim|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |paste|
@@ -55868,7 +55922,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |perl.vim|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |perleval()|
@@ -55925,7 +55979,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |php.vim|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |php3-syntax|
@@ -55934,7 +55988,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |php3.vim|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |phtml-syntax|
@@ -55943,7 +55997,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |phtml.vim|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |pi_expl.txt|
@@ -56017,7 +56071,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |plaintex.vim|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0c02 
 
 |plsql|
@@ -56356,7 +56410,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |postscr.vim|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |postscript-cjk-printing|
@@ -56395,7 +56449,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |ppwiz.vim|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |press-enter|
@@ -56592,7 +56646,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |progress.vim|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |project-config|
@@ -56767,7 +56821,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |ptcap.vim|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |pterm-mouse|
@@ -57051,7 +57105,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |python.vim|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |python2|
@@ -57158,7 +57212,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |quake.vim|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |quickfix|
@@ -57476,7 +57530,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |r.vim|
 
-    Neovim: +v0.3.2 
+    Neovim: +v0.3.2 -nightly 
        Vim: +v8.1.0332 
 
 |raku-unicode|
@@ -57500,7 +57554,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |rasi.vim|
 
-    Neovim: +v0.11.0 
+    Neovim: +v0.11.0 -nightly 
        Vim: +v9.1.0453 
 
 |raw-terminal-mode|
@@ -57572,7 +57626,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |readline.vim|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |recording|
@@ -57687,7 +57741,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |rego.vim|
 
-    Neovim: +v0.5.0 
+    Neovim: +v0.5.0 -nightly 
        Vim: +v8.2.0025 
 
 |regular-expression|
@@ -57890,7 +57944,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |rexx.vim|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |rgb.txt|
@@ -57971,7 +58025,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |rmd.vim|
 
-    Neovim: +v0.3.2 
+    Neovim: +v0.3.2 -nightly 
        Vim: +v8.1.0332 
 
 |rot13|
@@ -58030,12 +58084,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |rrst.vim|
 
-    Neovim: +v0.3.2 
+    Neovim: +v0.3.2 -nightly 
        Vim: +v8.1.0332 
 
 |rst.vim|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.3.716 
 
 |rsync|
@@ -58116,7 +58170,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |ruby.vim|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |ruby_fold|
@@ -58405,7 +58459,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |scheme.vim|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0009 
 
 |scp|
@@ -58578,7 +58632,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |sdl.vim|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |search()|
@@ -58662,7 +58716,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |sed.vim|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |select()|
@@ -58919,7 +58973,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |sgml.vim|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |sgr-mouse|
@@ -58942,7 +58996,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |sh.vim|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |sha256()|
@@ -60195,7 +60249,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |spup.vim|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |sql-adding-dialects|
@@ -60308,7 +60362,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |sql.vim|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0015 
 
 |sqlanywhere|
@@ -60318,7 +60372,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |sqlanywhere.vim|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0219 
 
 |sqlgettype|
@@ -60332,7 +60386,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |sqlinformix.vim|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0015 
 
 |sqlj|
@@ -60357,7 +60411,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |squirrel.vim|
 
-    Neovim: +v0.7.0 
+    Neovim: +v0.7.0 -nightly 
        Vim: +v8.2.3750 
 
 |srand()|
@@ -62636,7 +62690,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |tcsh.vim|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |tear-off-menus|
@@ -63497,7 +63551,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |tex.vim|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |text-functions|
@@ -63561,7 +63615,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |tf.vim|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |third-party-guis|
@@ -64255,12 +64309,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |typescript.vim|
 
-    Neovim: +v0.11.0 
+    Neovim: +v0.11.0 -nightly 
        Vim: +v9.1.0443 
 
 |typescriptreact.vim|
 
-    Neovim: +v0.11.0 
+    Neovim: +v0.11.0 -nightly 
        Vim: +v9.1.0443 
 
 |u|
@@ -67219,7 +67273,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vb.vim|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |vba|
@@ -69747,7 +69801,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.vim|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |vim.w|
@@ -70477,7 +70531,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |wdl.vim|
 
-    Neovim: +v0.9.0 
+    Neovim: +v0.9.0 -nightly 
        Vim: +v9.0.1025 
 
 |white-space|
@@ -71120,7 +71174,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |xf86conf.vim|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |xfontset|
@@ -71164,7 +71218,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |xml.vim|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |xor()|
@@ -71182,7 +71236,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |xpm.vim|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |xterm-8-bit|
@@ -71311,7 +71365,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |yaml.vim|
 
-    Neovim: +v0.1.2 
+    Neovim: +v0.1.2 -nightly 
        Vim: +v7.4.694 
 
 |yank|
@@ -71663,7 +71717,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |zsh.vim|
 
-    Neovim: +v0.1.5 
+    Neovim: +v0.1.5 -nightly 
        Vim: +v7.4.1416 
 
 |zt|
