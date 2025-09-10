@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2025-09-09 00:19:22 UTC
+*helpful-version.txt*  Generated: 2025-09-10 00:18:44 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -40364,7 +40364,8 @@ A listing of helptags with the versions they became available or were removed.
 
 |fuzzy-file-picker|
 
-       Vim: +dev 
+    Neovim: +nightly 
+       Vim: +v9.1.1745 
 
 |fuzzy-match|
 
@@ -44915,6 +44916,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |hl-PreInsert|
 
+    Neovim: +nightly 
        Vim: +v9.1.1742 
 
 |hl-Question|
@@ -46330,6 +46332,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |ins-autocompletion-example|
 
+    Neovim: +nightly 
        Vim: +v9.1.1742 
 
 |ins-completion|
@@ -47538,7 +47541,8 @@ A listing of helptags with the versions they became available or were removed.
 
 |live-grep|
 
-       Vim: +dev 
+    Neovim: +nightly 
+       Vim: +v9.1.1745 
 
 |lnum-variable|
 
