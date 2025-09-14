@@ -115,7 +115,7 @@ def repo_tags(path):
 
     tags = [('alpha', first, None)]
     stdout = command(cmd, print_stderr=False, cwd=path)
-    for line in sorted(stdout, key=lambda x: x.split()[0]):
+    for line in sorted(stdout, key=lambda x: int(x.split()[0])):
         parts = line.decode('utf8').split()
         timestamp, tz = parts[:2]
         tag_date = date.fromtimestamp(int(timestamp))
