@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2025-09-14 00:19:56 UTC
+*helpful-version.txt*  Generated: 2025-09-15 00:20:20 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -11236,6 +11236,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.4.0 
        Vim: +v8.0.1725 
 
+|:RunOrContinue|
+
+       Vim: +v9.1.1756 
+
 |:RustEmitAsm|
 
     Neovim: +v0.2.1 
@@ -11340,6 +11344,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 -v0.11.0 
        Vim: +v9.1.1206 -v9.1.1026 
+
+|:ToggleBreak|
+
+       Vim: +v9.1.1756 
 
 |:Tutor|
 
@@ -12851,7 +12859,7 @@ A listing of helptags with the versions they became available or were removed.
 |:defe|
 
     Neovim: +nightly 
-       Vim: +dev 
+       Vim: +v9.1.1755 
 
 |:defer|
 
@@ -36506,7 +36514,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |dev-ui-multigrid|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |dev-vimpatch|
 
@@ -37242,7 +37250,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |editorconfig.txt|
 
-    Neovim: +v0.9.0 
+    Neovim: +v0.9.0 -nightly 
 
 |editorconfig_charset|
 
