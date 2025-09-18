@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2025-09-17 00:18:58 UTC
+*helpful-version.txt*  Generated: 2025-09-18 00:18:29 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -31820,7 +31820,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |an|
 
-    Neovim: +nightly 
+    Neovim: +nightly -dev 
 
 |and()|
 
@@ -39735,6 +39735,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |ft-log-syntax|
 
+    Neovim: +nightly 
        Vim: +v9.1.1766 
 
 |ft-lpc-syntax|
@@ -46207,7 +46208,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |in|
 
-    Neovim: +nightly 
+    Neovim: +nightly -dev 
 
 |in-bot|
 
@@ -56139,6 +56140,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|pi_swapmouse|
+
+    Neovim: +dev 
 
 |pi_tar.txt|
 
@@ -66947,6 +66952,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|v_an|
+
+    Neovim: +dev 
+
 |v_ap|
 
     Neovim: +v0.1.0 
@@ -67207,6 +67216,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|v_in|
+
+    Neovim: +dev 
 
 |v_ip|
 
