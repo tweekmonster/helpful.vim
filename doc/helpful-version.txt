@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2025-09-22 00:20:43 UTC
+*helpful-version.txt*  Generated: 2025-09-23 00:19:03 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -7847,7 +7847,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |+wayland_focus_steal|
 
-       Vim: +v9.1.1725 -v9.1.1726 
+       Vim: +v9.1.1784 -v9.1.1726 
 
 |+wildignore|
 
