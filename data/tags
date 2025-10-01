@@ -12135,7 +12135,7 @@ postscript-printingneovim:v0.1.0,v0.9.0vim:v7.0001,
 pow()neovim:v0.1.0,vim:v7.2a,
 ppwiz-syntaxvim:v7.0001,v7.0139
 ppwiz.vimneovim:v0.1.0,nightlyvim:v7.0001,
-preinserted()vim:v9.1.1797,
+preinserted()neovim:nightly,vim:v9.1.1797,
 press-enterneovim:v0.1.0,vim:v7.0001,
 press-returnneovim:v0.1.0,vim:v7.0001,
 prevcount-variableneovim:v0.1.0,vim:v7.0001,
