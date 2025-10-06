@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2025-10-05 00:20:49 UTC
+*helpful-version.txt*  Generated: 2025-10-06 00:19:29 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -43487,7 +43487,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |gui-w32-title-bar-behaviour|
 
-       Vim: +v9.1.1813 
+       Vim: +v9.1.1813 -v9.1.1830 
 
 |gui-w32-various|
 
@@ -69012,7 +69012,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.lsp.protocol.Methods|
 
-    Neovim: +v0.10.0 
+    Neovim: +v0.10.0 -nightly 
 
 |vim.lsp.protocol.make_client_capabilities()|
 
@@ -69388,7 +69388,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.pack-lockfile|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.pack.Spec|
 
