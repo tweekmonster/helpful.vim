@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2025-10-07 00:19:15 UTC
+*helpful-version.txt*  Generated: 2025-10-08 00:18:59 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -1827,6 +1827,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 -v0.11.0 
        Vim: +v7.1a 
+
+|'go-C'|
+
+       Vim: +v9.1.1834 
 
 |'go-F'|
 
@@ -4390,6 +4394,7 @@ A listing of helptags with the versions they became available or were removed.
 |'pb'|
 
     Neovim: +v0.4.0 
+       Vim: +v9.1.1835 
 
 |'pdev'|
 
@@ -4537,6 +4542,10 @@ A listing of helptags with the versions they became available or were removed.
 |'pumblend'|
 
     Neovim: +v0.4.0 
+
+|'pumborder'|
+
+       Vim: +v9.1.1835 
 
 |'pumheight'|
 
@@ -11427,6 +11436,10 @@ A listing of helptags with the versions they became available or were removed.
 |:URLOpen|
 
        Vim: +v9.1.1268 
+
+|:Undotree|
+
+    Neovim: +dev 
 
 |:Untarvim|
 
@@ -43489,6 +43502,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 -v0.1.5 
        Vim: +v7.0001 
 
+|gui-w32-title-bar|
+
+       Vim: +v9.1.1834 
+
 |gui-w32-title-bar-behaviour|
 
        Vim: +v9.1.1813 -v9.1.1830 
@@ -44961,6 +44978,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0153 
 
+|hl-PmenuBorder|
+
+       Vim: +v9.1.1835 
+
 |hl-PmenuExtra|
 
     Neovim: +v0.9.0 
@@ -45000,6 +45021,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0153 
+
+|hl-PmenuShadow|
+
+       Vim: +v9.1.1835 
 
 |hl-PmenuThumb|
 
@@ -45157,6 +45182,14 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|hl-TitleBar|
+
+       Vim: +v9.1.1834 
+
+|hl-TitleBarNC|
+
+       Vim: +v9.1.1834 
 
 |hl-ToolbarButton|
 
@@ -64697,10 +64730,18 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.3 
 
+|undotree|
+
+    Neovim: +dev 
+
 |undotree()|
 
     Neovim: +v0.1.0 
        Vim: +v7.3 
+
+|undotree.open()|
+
+    Neovim: +dev 
 
 |unicode|
 
