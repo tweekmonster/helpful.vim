@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2025-10-10 00:19:17 UTC
+*helpful-version.txt*  Generated: 2025-10-11 00:18:01 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -4545,6 +4545,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'pumborder'|
 
+    Neovim: +dev 
        Vim: +v9.1.1835 
 
 |'pumheight'|
@@ -17874,7 +17875,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |:synti|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.1842 
 
 |:syntime|
