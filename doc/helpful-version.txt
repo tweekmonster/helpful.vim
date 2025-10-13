@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2025-10-12 00:19:48 UTC
+*helpful-version.txt*  Generated: 2025-10-13 00:20:29 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -11067,6 +11067,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.1a 
 
+|:DiffTool|
+
+    Neovim: +nightly 
+
 |:DoMatchParen|
 
     Neovim: +v0.1.0 
@@ -12313,8 +12317,8 @@ A listing of helptags with the versions they became available or were removed.
 
 |:cfd|
 
-    Neovim: +dev 
-       Vim: +dev 
+    Neovim: +nightly 
+       Vim: +v9.1.1847 
 
 |:cfdo|
 
@@ -14436,8 +14440,8 @@ A listing of helptags with the versions they became available or were removed.
 
 |:ld|
 
-    Neovim: +dev 
-       Vim: +dev 
+    Neovim: +nightly 
+       Vim: +v9.1.1847 
 
 |:ldo|
 
@@ -14578,8 +14582,8 @@ A listing of helptags with the versions they became available or were removed.
 
 |:lfd|
 
-    Neovim: +dev 
-       Vim: +dev 
+    Neovim: +nightly 
+       Vim: +v9.1.1847 
 
 |:lfdo|
 
@@ -16393,8 +16397,8 @@ A listing of helptags with the versions they became available or were removed.
 
 |:rund|
 
-    Neovim: +dev 
-       Vim: +dev 
+    Neovim: +nightly 
+       Vim: +v9.1.1847 
 
 |:rundo|
 
@@ -18879,8 +18883,8 @@ A listing of helptags with the versions they became available or were removed.
 
 |:wu|
 
-    Neovim: +dev 
-       Vim: +dev 
+    Neovim: +nightly 
+       Vim: +v9.1.1847 
 
 |:wundo|
 
@@ -36902,6 +36906,14 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.2 
        Vim: +v7.4.618 
 
+|difftool|
+
+    Neovim: +nightly 
+
+|difftool.open()|
+
+    Neovim: +nightly 
+
 |digraph|
 
     Neovim: +v0.1.0 
@@ -44522,6 +44534,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|hl-FLoatShadowThrough|
+
+    Neovim: +nightly 
+
 |hl-FloatBorder|
 
     Neovim: +v0.9.0 
@@ -44529,6 +44545,10 @@ A listing of helptags with the versions they became available or were removed.
 |hl-FloatFooter|
 
     Neovim: +v0.10.0 
+
+|hl-FloatShadow|
+
+    Neovim: +nightly 
 
 |hl-FloatTitle|
 
@@ -45011,6 +45031,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |hl-PmenuBorder|
 
+    Neovim: +nightly 
        Vim: +v9.1.1835 
 
 |hl-PmenuExtra|
@@ -45055,7 +45076,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |hl-PmenuShadow|
 
+    Neovim: +nightly 
        Vim: +v9.1.1835 
+
+|hl-PmenuShadowThrough|
+
+    Neovim: +nightly 
 
 |hl-PmenuThumb|
 
