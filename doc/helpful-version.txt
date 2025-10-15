@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2025-10-14 00:18:42 UTC
+*helpful-version.txt*  Generated: 2025-10-15 00:19:08 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -7222,6 +7222,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 -v0.4.0 
        Vim: +v7.0001 
+
+|+clipboard_provider|
+
+       Vim: +v9.1.1857 
 
 |+clipboard_working|
 
@@ -34714,6 +34718,30 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.10.0 
 
+|clipboard-provider-available|
+
+       Vim: +v9.1.1857 
+
+|clipboard-provider-copy|
+
+       Vim: +v9.1.1857 
+
+|clipboard-provider-example|
+
+       Vim: +v9.1.1857 
+
+|clipboard-provider-paste|
+
+       Vim: +v9.1.1857 
+
+|clipboard-provider-textlock|
+
+       Vim: +v9.1.1857 
+
+|clipboard-providers|
+
+       Vim: +v9.1.1857 
+
 |clipboard-tool|
 
     Neovim: +v0.2.1 
@@ -36146,7 +36174,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |d-special|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.0589 
 
 |daB|
@@ -66274,6 +66302,10 @@ A listing of helptags with the versions they became available or were removed.
 |v:clipmethod|
 
        Vim: +v9.1.1485 
+
+|v:clipproviders|
+
+       Vim: +v9.1.1857 
 
 |v:cmdarg|
 
