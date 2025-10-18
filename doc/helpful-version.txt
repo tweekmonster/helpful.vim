@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2025-10-17 00:19:39 UTC
+*helpful-version.txt*  Generated: 2025-10-18 00:18:05 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -40356,7 +40356,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |ft-vim-omni|
 
-       Vim: +dev 
+       Vim: +v9.1.1864 
 
 |ft-vim-plugin|
 
