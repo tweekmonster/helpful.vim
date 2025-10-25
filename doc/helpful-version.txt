@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2025-10-24 00:17:53 UTC
+*helpful-version.txt*  Generated: 2025-10-25 00:19:11 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -36242,7 +36242,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |debug-gcc|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0140 
 
 |debug-highlight|
@@ -36252,12 +36252,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |debug-leaks|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.2.328 
 
 |debug-minidump|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0g01 
 
 |debug-mode|
@@ -36277,22 +36277,22 @@ A listing of helptags with the versions they became available or were removed.
 
 |debug-vim|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |debug-vs2005|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0g01 
 
 |debug-win32|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0140 
 
 |debug-windbg|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0g01 
 
 |debug.debug()|
@@ -36353,7 +36353,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |debug.txt|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0140 
 
 |debugbreak()|
@@ -36573,7 +36573,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |dev-events|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |dev-guidelines|
 
@@ -36661,7 +36661,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |dev-tools-asan|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |dev-tools-backtrace|
 
@@ -36673,15 +36673,15 @@ A listing of helptags with the versions they became available or were removed.
 
 |dev-tools-logs|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |dev-tools-perf|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |dev-tools-tui|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |dev-ui|
 
@@ -36689,7 +36689,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |dev-ui-events|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |dev-ui-multigrid|
 
@@ -37815,7 +37815,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |event-loop|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |event-variable|
 
@@ -42608,7 +42608,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |gdb|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.3.445 
 
 |gdb-version|
@@ -42676,7 +42676,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |get-ms-debuggers|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0g01 
 
 |get_captures_at_cursor()|
@@ -48872,7 +48872,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |lua-plugin-ui|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lua-plugin-versioning|
 
@@ -54151,7 +54151,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |not|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |not-compatible|
 
@@ -67539,7 +67539,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |valgrind|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.2.328 
 
 |values()|
