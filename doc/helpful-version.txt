@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2025-10-25 00:19:11 UTC
+*helpful-version.txt*  Generated: 2025-10-26 00:21:05 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -36575,6 +36575,14 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +nightly 
 
+|dev-filter-test|
+
+    Neovim: +nightly 
+
+|dev-fix-test|
+
+    Neovim: +nightly 
+
 |dev-guidelines|
 
     Neovim: +v0.4.0 
@@ -36623,6 +36631,14 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.5 
 
+|dev-quickstart|
+
+    Neovim: +nightly 
+
+|dev-run-test|
+
+    Neovim: +nightly 
+
 |dev-style|
 
     Neovim: +v0.6.0 
@@ -36650,6 +36666,14 @@ A listing of helptags with the versions they became available or were removed.
 |dev-style-scope|
 
     Neovim: +v0.6.0 
+
+|dev-test|
+
+    Neovim: +nightly 
+
+|dev-test-config|
+
+    Neovim: +nightly 
 
 |dev-theme|
 
@@ -36731,6 +36755,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.10.0 
 
+|dev-write-test|
+
+    Neovim: +nightly 
+
 |dev_arch.txt|
 
     Neovim: +v0.11.0 
@@ -36738,6 +36766,10 @@ A listing of helptags with the versions they became available or were removed.
 |dev_style.txt|
 
     Neovim: +v0.6.0 
+
+|dev_test|
+
+    Neovim: +nightly 
 
 |dev_theme.txt|
 
