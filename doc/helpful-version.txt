@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2025-10-26 00:21:05 UTC
+*helpful-version.txt*  Generated: 2025-10-27 00:21:22 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -7225,15 +7225,15 @@ A listing of helptags with the versions they became available or were removed.
 
 |+clipboard_plus_avail|
 
-       Vim: +v9.1.1863 
+       Vim: +v9.1.1863 -v9.1.1873 
 
 |+clipboard_provider|
 
-       Vim: +v9.1.1857 
+       Vim: +v9.1.1857 -v9.1.1873 
 
 |+clipboard_star_avail|
 
-       Vim: +v9.1.1863 
+       Vim: +v9.1.1863 -v9.1.1873 
 
 |+clipboard_working|
 
@@ -34728,27 +34728,27 @@ A listing of helptags with the versions they became available or were removed.
 
 |clipboard-provider-available|
 
-       Vim: +v9.1.1857 
+       Vim: +v9.1.1857 -v9.1.1873 
 
 |clipboard-provider-copy|
 
-       Vim: +v9.1.1857 
+       Vim: +v9.1.1857 -v9.1.1873 
 
 |clipboard-provider-example|
 
-       Vim: +v9.1.1857 
+       Vim: +v9.1.1857 -v9.1.1873 
 
 |clipboard-provider-paste|
 
-       Vim: +v9.1.1857 
+       Vim: +v9.1.1857 -v9.1.1873 
 
 |clipboard-provider-textlock|
 
-       Vim: +v9.1.1857 
+       Vim: +v9.1.1857 -v9.1.1873 
 
 |clipboard-providers|
 
-       Vim: +v9.1.1857 
+       Vim: +v9.1.1857 -v9.1.1873 
 
 |clipboard-tool|
 
@@ -66385,7 +66385,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |v:clipproviders|
 
-       Vim: +v9.1.1857 
+       Vim: +v9.1.1857 -v9.1.1873 
 
 |v:cmdarg|
 
