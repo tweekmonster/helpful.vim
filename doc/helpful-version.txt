@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2025-10-29 00:20:21 UTC
+*helpful-version.txt*  Generated: 2025-10-30 00:20:15 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -32080,7 +32080,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |arabic.txt|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |arabicfonts|
@@ -35131,6 +35131,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |compiler-tombi|
 
+    Neovim: +nightly 
        Vim: +v9.1.1887 
 
 |compiler-tsc|
@@ -44115,7 +44116,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |hebrew.txt|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |help|
@@ -47478,6 +47479,22 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|l10n-arabic.txt|
+
+    Neovim: +nightly 
+
+|l10n-hebrew.txt|
+
+    Neovim: +nightly 
+
+|l10n-russian.txt|
+
+    Neovim: +nightly 
+
+|l10n-vietnamese.txt|
+
+    Neovim: +nightly 
 
 |l:|
 
@@ -57638,6 +57655,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |quickfix-toml|
 
+    Neovim: +nightly 
        Vim: +v9.1.1887 
 
 |quickfix-valid|
@@ -58571,7 +58589,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |russian.txt|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |rust|
@@ -67913,7 +67931,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vietnamese.txt|
 
-    Neovim: +v0.11.0 
+    Neovim: +v0.11.0 -nightly 
        Vim: +v9.1.0903 
 
 |view|
