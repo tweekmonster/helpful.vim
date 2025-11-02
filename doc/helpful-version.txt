@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2025-10-30 00:20:15 UTC
+*helpful-version.txt*  Generated: 2025-11-02 00:21:27 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -19481,6 +19481,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|<OSC>|
+
+       Vim: +v9.1.1895 
+
 |<PageDown>|
 
     Neovim: +v0.1.0 
@@ -20094,6 +20098,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 -v0.2.0 
        Vim: +v7.0056 
+
+|<xOSC>|
+
+       Vim: +v9.1.1895 
 
 |<xRight>|
 
@@ -28849,6 +28857,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|Kuwasha|
+
+       Vim: +v9.1.1893 
 
 |L|
 
@@ -46244,7 +46256,7 @@ A listing of helptags with the versions they became available or were removed.
 |iccf-donations|
 
     Neovim: +v0.1.0 
-       Vim: +v7.0b 
+       Vim: +v7.0b -v9.1.1893 
 
 |icon-changed|
 
@@ -58062,7 +58074,7 @@ A listing of helptags with the versions they became available or were removed.
 |register|
 
     Neovim: +v0.1.0 -nightly 
-       Vim: +v7.0001 
+       Vim: +v7.0001 -v9.1.1893 
 
 |register-faq|
 
@@ -66950,6 +66962,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.7 
        Vim: +v7.4.1658 
 
+|v:vim_did_init|
+
+       Vim: +v9.1.1892 
+
 |v:virtnum|
 
     Neovim: +v0.9.0 
@@ -70410,6 +70426,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.7 
        Vim: +v7.4.1658 
 
+|vim_did_init-variable|
+
+       Vim: +v9.1.1892 
+
 |vim_mac|
 
     Neovim: +v0.2.0 -v0.3.2 
@@ -70778,7 +70798,7 @@ A listing of helptags with the versions they became available or were removed.
 |vote-for-features|
 
     Neovim: +v0.1.0 -v0.3.2 
-       Vim: +v7.0001 
+       Vim: +v7.0001 -v9.1.1893 
 
 |votes-counted|
 
