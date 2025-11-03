@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2025-11-02 00:21:27 UTC
+*helpful-version.txt*  Generated: 2025-11-03 00:21:08 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -19483,7 +19483,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |<OSC>|
 
-       Vim: +v9.1.1895 
+       Vim: +v9.1.1895 -v9.1.1896 
 
 |<PageDown>|
 
@@ -20101,7 +20101,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |<xOSC>|
 
-       Vim: +v9.1.1895 
+       Vim: +v9.1.1895 -v9.1.1896 
 
 |<xRight>|
 
@@ -28860,6 +28860,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |Kuwasha|
 
+    Neovim: +nightly 
        Vim: +v9.1.1893 
 
 |L|
@@ -46255,7 +46256,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |iccf-donations|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0b -v9.1.1893 
 
 |icon-changed|
@@ -66964,6 +66965,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |v:vim_did_init|
 
+    Neovim: +dev 
        Vim: +v9.1.1892 
 
 |v:virtnum|
@@ -70428,6 +70430,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim_did_init-variable|
 
+    Neovim: +dev 
        Vim: +v9.1.1892 
 
 |vim_mac|
