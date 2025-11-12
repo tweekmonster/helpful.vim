@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2025-11-11 00:20:38 UTC
+*helpful-version.txt*  Generated: 2025-11-12 00:20:27 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -46772,7 +46772,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |interface|
 
-       Vim: +dev 
+       Vim: +v9.1.1905 
 
 |interfaces-5.2|
 
@@ -54443,7 +54443,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |nvim.spellfile.Opts|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim.txt|
 
@@ -60571,19 +60571,19 @@ A listing of helptags with the versions they became available or were removed.
 
 |spellfile.config()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |spellfile.get()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |spellfile.lua|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |spellfile.vim|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0191 
 
 |spellsuggest()|
@@ -69202,7 +69202,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.lsp.get_buffers_by_client_id()|
 
-    Neovim: +v0.5.0 -dev 
+    Neovim: +v0.5.0 -nightly 
 
 |vim.lsp.get_client_by_id()|
 
@@ -69410,7 +69410,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.lsp.stop_client()|
 
-    Neovim: +v0.5.0 
+    Neovim: +v0.5.0 -nightly 
 
 |vim.lsp.sync.compute_diff()|
 
@@ -70286,7 +70286,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim9-class-type|
 
-       Vim: +dev 
+       Vim: +v9.1.1905 
 
 |vim9-classes|
 
@@ -70318,11 +70318,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim9-enum-type|
 
-       Vim: +dev 
+       Vim: +v9.1.1905 
 
 |vim9-enumvalue-type|
 
-       Vim: +dev 
+       Vim: +v9.1.1905 
 
 |vim9-export|
 
@@ -70342,7 +70342,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim9-func-type|
 
-       Vim: +dev 
+       Vim: +v9.1.1905 
 
 |vim9-function-defined-later|
 
@@ -70362,7 +70362,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim9-interface-type|
 
-       Vim: +dev 
+       Vim: +v9.1.1905 
 
 |vim9-lambda|
 
@@ -70398,11 +70398,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim9-object-type|
 
-       Vim: +dev 
+       Vim: +v9.1.1905 
 
 |vim9-partial-declaration|
 
-       Vim: +dev 
+       Vim: +v9.1.1905 
 
 |vim9-rationale|
 
@@ -70434,7 +70434,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim9-typealias-type|
 
-       Vim: +dev 
+       Vim: +v9.1.1905 
 
 |vim9-types|
 
