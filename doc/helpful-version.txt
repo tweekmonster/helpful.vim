@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2025-11-12 00:20:27 UTC
+*helpful-version.txt*  Generated: 2025-11-13 00:20:21 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -64980,12 +64980,16 @@ A listing of helptags with the versions they became available or were removed.
 
 |undotree|
 
-    Neovim: +nightly 
+    Neovim: +nightly -dev 
 
 |undotree()|
 
     Neovim: +v0.1.0 
        Vim: +v7.3 
+
+|undotree-plugin|
+
+    Neovim: +dev 
 
 |undotree.open()|
 
