@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2025-11-14 00:20:30 UTC
+*helpful-version.txt*  Generated: 2025-11-16 00:21:53 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -35033,6 +35033,11 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v9.1.0116 
 
+|compiler-biome|
+
+    Neovim: +dev 
+       Vim: +v9.1.1916 
+
 |compiler-compaqada|
 
     Neovim: +v0.1.0 
@@ -57593,6 +57598,11 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.2.1 
        Vim: +v8.0.1093 -v8.0.1129 
+
+|quickfix-biome|
+
+    Neovim: +dev 
+       Vim: +v9.1.1916 
 
 |quickfix-buffer|
 
