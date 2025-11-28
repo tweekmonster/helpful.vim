@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2025-11-27 00:19:55 UTC
+*helpful-version.txt*  Generated: 2025-11-28 00:19:58 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -2307,12 +2307,12 @@ A listing of helptags with the versions they became available or were removed.
 |'ise'|
 
     Neovim: +nightly 
-       Vim: +v9.1.1341 
+       Vim: +v9.1.1341 -v9.1.1933 
 
 |'isexpand'|
 
     Neovim: +nightly 
-       Vim: +v9.1.1341 
+       Vim: +v9.1.1341 -v9.1.1933 
 
 |'isf'|
 
@@ -19483,7 +19483,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |<OSC>|
 
-       Vim: +v9.1.1895 -v9.1.1896 
+       Vim: +v9.1.1932 -v9.1.1896 
 
 |<PageDown>|
 
@@ -20101,7 +20101,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |<xOSC>|
 
-       Vim: +v9.1.1895 -v9.1.1896 
+       Vim: +v9.1.1932 -v9.1.1896 
 
 |<xRight>|
 
@@ -35343,7 +35343,7 @@ A listing of helptags with the versions they became available or were removed.
 |complete_match()|
 
     Neovim: +nightly 
-       Vim: +v9.1.1341 
+       Vim: +v9.1.1341 -v9.1.1933 
 
 |completed_item-variable|
 

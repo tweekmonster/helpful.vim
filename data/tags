@@ -471,8 +471,8 @@ $quoteneovim:v0.10.0,vim:v8.2.5055,
 'infercase'neovim:v0.1.0,vim:v7.0001,
 'insertmode'neovim:v0.1.0,v0.8.0vim:v7.0001,
 'is'neovim:v0.1.0,vim:v7.0001,
-'ise'neovim:nightly,vim:v9.1.1341,
-'isexpand'neovim:nightly,vim:v9.1.1341,
+'ise'neovim:nightly,vim:v9.1.1341,v9.1.1933
+'isexpand'neovim:nightly,vim:v9.1.1341,v9.1.1933
 'isf'neovim:v0.1.0,vim:v7.0001,
 'isfname'neovim:v0.1.0,vim:v7.0001,
 'isi'neovim:v0.1.0,vim:v7.0001,
@@ -4005,7 +4005,7 @@ $quoteneovim:v0.10.0,vim:v8.2.5055,
 <NL>neovim:v0.1.0,vim:v7.0001,
 <Nop>neovim:v0.1.0,vim:v7.0001,
 <Nul>neovim:v0.1.0,vim:v7.0001,
-<OSC>vim:v9.1.1895,v9.1.1896
+<OSC>vim:v9.1.1932,v9.1.1896
 <PageDown>neovim:v0.1.0,vim:v7.0001,
 <PageUp>neovim:v0.1.0,vim:v7.0001,
 <Plug>neovim:v0.1.0,vim:v7.0001,
@@ -4130,7 +4130,7 @@ $quoteneovim:v0.10.0,vim:v8.2.5055,
 <xHome>neovim:v0.1.0,v0.2.0vim:v7.0001,
 <xHome>-xtermneovim:v0.1.0,v0.2.0vim:v7.0001,
 <xLeft>neovim:v0.1.0,v0.2.0vim:v7.0056,
-<xOSC>vim:v9.1.1895,v9.1.1896
+<xOSC>vim:v9.1.1932,v9.1.1896
 <xRight>neovim:v0.1.0,v0.2.0vim:v7.0056,
 <xUp>neovim:v0.1.0,v0.2.0vim:v7.0056,
 =neovim:v0.1.0,vim:v7.0001,
@@ -7429,7 +7429,7 @@ complete_add()neovim:v0.1.0,vim:v7.0124,
 complete_check()neovim:v0.1.0,vim:v7.0124,
 complete_info()neovim:v0.4.0,vim:v8.1.1068,
 complete_info_modeneovim:v0.4.0,vim:v8.1.1068,
-complete_match()neovim:nightly,vim:v9.1.1341,
+complete_match()neovim:nightly,vim:v9.1.1341,v9.1.1933
 completed_item-variableneovim:v0.1.0,vim:v7.4.774,
 completion-functionsneovim:v0.1.0,vim:v7.3,
 complex-changeneovim:v0.1.0,vim:v7.0001,
