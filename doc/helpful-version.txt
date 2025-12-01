@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2025-11-29 00:19:48 UTC
+*helpful-version.txt*  Generated: 2025-12-01 00:24:50 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -35445,6 +35445,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 -v0.10.0 
        Vim: +v7.0001 
 
+|convert_:function_to_:def|
+
+       Vim: +v9.1.1935 
+
 |convert_legacy_function_to_vim9|
 
        Vim: +v8.2.4296 
@@ -70472,6 +70476,10 @@ A listing of helptags with the versions they became available or were removed.
 |vim9-variable-arguments|
 
        Vim: +v8.2.2744 
+
+|vim9-white-space|
+
+       Vim: +v9.1.1935 
 
 |vim9.txt|
 
