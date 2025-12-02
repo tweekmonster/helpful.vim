@@ -11644,6 +11644,7 @@ nvim_...()neovim:v0.1.6,
 nvim__buf_redraw_range()neovim:v0.5.0,v0.8.0
 nvim__buf_stats()neovim:v0.4.0,v0.8.0
 nvim__complete_set()neovim:v0.10.0,
+nvim__exec_lua_fast()neovim:nightly,
 nvim__get_hl_defs()neovim:v0.5.0,v0.8.0
 nvim__get_lib_dir()neovim:v0.5.0,v0.8.0
 nvim__get_runtime()neovim:v0.6.0,
