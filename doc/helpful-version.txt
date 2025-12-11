@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2025-12-09 00:20:34 UTC
+*helpful-version.txt*  Generated: 2025-12-11 00:21:15 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -59526,6 +59526,10 @@ A listing of helptags with the versions they became available or were removed.
 |shell-prompt-signs|
 
     Neovim: +v0.11.0 
+
+|shell-pwsh|
+
+    Neovim: +dev 
 
 |shell-unquoting|
 

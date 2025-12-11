@@ -12776,6 +12776,7 @@ sharp-stringvim:v7.0037,v7.0038
 shell-powershellneovim:v0.3.0,
 shell-promptneovim:v0.11.0,
 shell-prompt-signsneovim:v0.11.0,
+shell-pwshneovim:dev,
 shell-unquotingneovim:v0.1.2,
 shell-windowvim:v7.0001,
 shell_error-variableneovim:v0.1.0,vim:v7.0001,
