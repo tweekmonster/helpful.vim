@@ -14,6 +14,7 @@ $NVIM_APPNAMEneovim:v0.9.0,
 $NVIM_LISTEN_ADDRESSneovim:v0.1.0,v0.3.0
 $NVIM_LOG_FILEneovim:v0.2.1,
 $NVIM_RPLUGIN_MANIFESTneovim:v0.1.5,
+$NoDefaultCurrentDirectoryInExePathvim:v9.1.1970,
 $TERMneovim:v0.2.1,
 $VIMneovim:v0.1.0,vim:v7.0001,
 $VIM-usevim:v7.0001,
@@ -1491,7 +1492,7 @@ $quoteneovim:v0.10.0,vim:v8.2.5055,
 +clientserverneovim:v0.1.0,v0.4.0vim:v7.0001,
 +clipboardneovim:v0.1.0,v0.4.0vim:v7.0001,
 +clipboard_plus_availvim:v9.1.1863,v9.1.1873
-+clipboard_providervim:v9.1.1857,v9.1.1873
++clipboard_providervim:v9.1.1972,v9.1.1873
 +clipboard_star_availvim:v9.1.1863,v9.1.1873
 +clipboard_workingvim:v8.1.1876,
 +cmdneovim:v0.1.0,vim:v7.0001,
@@ -6096,7 +6097,7 @@ Neovimvim:v8.1.0764,
 NetBSD-backspaceneovim:v0.1.0,v0.2.0vim:v7.0001,
 NetBeansvim:v8.1.0763,
 NetUserPass()neovim:v0.1.0,v0.11.0vim:v9.1.1206,v9.1.1026
-NoDefaultCurrentDirectoryInExePathneovim:v0.11.0,vim:v8.2.4860,
+NoDefaultCurrentDirectoryInExePathneovim:v0.11.0,vim:v8.2.4860,v9.1.1970
 Nonevim:v8.1.0764,
 Normalneovim:v0.1.0,vim:v7.0001,
 Normal-modeneovim:v0.1.0,vim:v7.0001,
@@ -7308,7 +7309,15 @@ clipboard-provider-copyvim:v9.1.1857,v9.1.1873
 clipboard-provider-examplevim:v9.1.1857,v9.1.1873
 clipboard-provider-pastevim:v9.1.1857,v9.1.1873
 clipboard-provider-textlockvim:v9.1.1857,v9.1.1873
-clipboard-providersvim:v9.1.1857,v9.1.1873
+clipboard-providersvim:v9.1.1972,v9.1.1873
+clipboard-providers-availablevim:v9.1.1972,
+clipboard-providers-clipmethodvim:v9.1.1972,
+clipboard-providers-copyvim:v9.1.1972,
+clipboard-providers-definevim:v9.1.1972,
+clipboard-providers-no-clipboardvim:v9.1.1972,
+clipboard-providers-pastevim:v9.1.1972,
+clipboard-providers-plusvim:v9.1.1972,
+clipboard-providers-textlockvim:v9.1.1972,
 clipboard-toolneovim:v0.2.1,
 clipboard-unnamedneovim:v0.1.0,vim:v7.3.597,
 clipboard-unnamedplusneovim:v0.1.0,vim:v7.3.601,
@@ -12776,7 +12785,7 @@ sharp-stringvim:v7.0037,v7.0038
 shell-powershellneovim:v0.3.0,
 shell-promptneovim:v0.11.0,
 shell-prompt-signsneovim:v0.11.0,
-shell-pwshneovim:dev,
+shell-pwshneovim:nightly,
 shell-unquotingneovim:v0.1.2,
 shell-windowvim:v7.0001,
 shell_error-variableneovim:v0.1.0,vim:v7.0001,
@@ -14336,7 +14345,7 @@ v:charneovim:v0.1.0,vim:v7.0f02,
 v:charconvert_fromneovim:v0.1.0,vim:v7.0001,
 v:charconvert_toneovim:v0.1.0,vim:v7.0001,
 v:clipmethodvim:v9.1.1485,
-v:clipprovidersvim:v9.1.1857,v9.1.1873
+v:clipprovidersvim:v9.1.1972,v9.1.1873
 v:cmdargneovim:v0.1.0,vim:v7.0001,
 v:cmdbangneovim:v0.1.0,vim:v7.0001,
 v:cmdcompletevim:v9.1.0821,v9.1.0831
