@@ -14,7 +14,7 @@ $NVIM_APPNAMEneovim:v0.9.0,
 $NVIM_LISTEN_ADDRESSneovim:v0.1.0,v0.3.0
 $NVIM_LOG_FILEneovim:v0.2.1,
 $NVIM_RPLUGIN_MANIFESTneovim:v0.1.5,
-$NoDefaultCurrentDirectoryInExePathvim:v9.1.1970,
+$NoDefaultCurrentDirectoryInExePathneovim:nightly,vim:v9.1.1970,
 $TERMneovim:v0.2.1,
 $VIMneovim:v0.1.0,vim:v7.0001,
 $VIM-usevim:v7.0001,
@@ -6097,7 +6097,7 @@ Neovimvim:v8.1.0764,
 NetBSD-backspaceneovim:v0.1.0,v0.2.0vim:v7.0001,
 NetBeansvim:v8.1.0763,
 NetUserPass()neovim:v0.1.0,v0.11.0vim:v9.1.1206,v9.1.1026
-NoDefaultCurrentDirectoryInExePathneovim:v0.11.0,vim:v8.2.4860,v9.1.1970
+NoDefaultCurrentDirectoryInExePathneovim:v0.11.0,nightlyvim:v8.2.4860,v9.1.1970
 Nonevim:v8.1.0764,
 Normalneovim:v0.1.0,vim:v7.0001,
 Normal-modeneovim:v0.1.0,vim:v7.0001,
