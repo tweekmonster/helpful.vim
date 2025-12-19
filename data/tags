@@ -7319,6 +7319,7 @@ clipboard-provider-pastevim:v9.1.1857,v9.1.1873
 clipboard-provider-textlockvim:v9.1.1857,v9.1.1873
 clipboard-providersvim:v9.1.1972,v9.1.1873
 clipboard-providers-availablevim:v9.1.1972,
+clipboard-providers-clipboardvim:v9.1.1999,
 clipboard-providers-clipmethodvim:v9.1.1972,
 clipboard-providers-copyvim:v9.1.1972,
 clipboard-providers-definevim:v9.1.1972,
