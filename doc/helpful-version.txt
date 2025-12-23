@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2025-12-22 00:22:17 UTC
+*helpful-version.txt*  Generated: 2025-12-23 00:21:23 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -1780,12 +1780,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |'gd'|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |'gdefault'|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |'gfm'|
@@ -2583,7 +2583,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'magic'|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |'makeef'|
@@ -3381,12 +3381,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |'nogd'|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |'nogdefault'|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |'noguipty'|
@@ -3579,7 +3579,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'nomagic'|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |'nomh'|
@@ -35240,7 +35240,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |compiler-ty|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.2004 
 
 |compiler-typst|
@@ -48245,7 +48245,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |lsp-commands|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lsp-completion|
 
