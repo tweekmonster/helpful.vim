@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2025-12-31 00:22:20 UTC
+*helpful-version.txt*  Generated: 2026-01-01 00:24:19 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -36717,7 +36717,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |dev-lua-builtin|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |dev-lua-doc|
 
@@ -54331,10 +54331,6 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
-
-|not|
-
-    Neovim: +nightly -dev 
 
 |not-compatible|
 
