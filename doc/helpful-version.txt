@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2026-01-01 00:24:19 UTC
+*helpful-version.txt*  Generated: 2026-01-09 00:21:45 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -63423,6 +63423,10 @@ A listing of helptags with the versions they became available or were removed.
 |termda1-variable|
 
        Vim: +v9.1.1711 
+
+|termdebug|
+
+       Vim: +v9.1.2064 
 
 |termdebug-commands|
 
