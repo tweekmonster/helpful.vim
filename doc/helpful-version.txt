@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2026-02-06 00:24:51 UTC
+*helpful-version.txt*  Generated: 2026-02-07 00:26:01 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -32649,6 +32649,14 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.9.0 
 
+|b:hare_indent_case|
+
+       Vim: +v9.1.2134 
+
+|b:hare_indent_match_switch|
+
+       Vim: +v9.1.2134 
+
 |b:lf_shell_syntax|
 
     Neovim: +v0.11.0 
@@ -41282,7 +41290,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |g:hare_symbol_operators|
 
-       Vim: +v9.1.1743 
+       Vim: +v9.1.1743 -v9.1.2134 
 
 |g:haredoc_search_depth|
 
@@ -44064,6 +44072,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.11.0 
        Vim: +v9.1.0442 
 
+|hare-folding|
+
+       Vim: +v9.1.2134 
+
 |hare-intro|
 
     Neovim: +v0.11.0 
@@ -44078,6 +44090,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.11.0 
        Vim: +v9.1.0442 -v9.1.1743 
+
+|hare-symbol-operators|
+
+       Vim: +v9.1.2134 
 
 |hare.vim|
 
@@ -68339,11 +68355,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim._core.ui2|
 
-    Neovim: +dev 
-
-|vim._extui|
-
-    Neovim: +nightly -dev 
+    Neovim: +nightly 
 
 |vim.api|
 
