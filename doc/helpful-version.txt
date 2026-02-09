@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2026-02-08 00:33:30 UTC
+*helpful-version.txt*  Generated: 2026-02-09 00:27:48 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -35210,7 +35210,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |compiler-pyright|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.2023 
 
 |compiler-pytest|
@@ -39836,6 +39836,11 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0139 
 
+|ft-gdb-syntax|
+
+    Neovim: +dev 
+       Vim: +v9.1.2141 
+
 |ft-gdscript-plugin|
 
     Neovim: +v0.11.0 
@@ -42782,6 +42787,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.4.0 
        Vim: +v8.0.1256 
+
+|gdb.vim|
+
+       Vim: +v9.1.2141 
 
 |ge|
 
