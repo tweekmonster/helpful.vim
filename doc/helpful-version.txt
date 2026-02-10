@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2026-02-09 00:27:48 UTC
+*helpful-version.txt*  Generated: 2026-02-10 00:32:29 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -30967,15 +30967,15 @@ A listing of helptags with the versions they became available or were removed.
 
 |[CTRL-L|
 
-    Neovim: +v0.11.0 
+    Neovim: +v0.11.0 -dev 
 
 |[CTRL-Q|
 
-    Neovim: +v0.11.0 
+    Neovim: +v0.11.0 -dev 
 
 |[CTRL-T|
 
-    Neovim: +v0.11.0 
+    Neovim: +v0.11.0 -dev 
 
 |[D|
 
@@ -31037,6 +31037,18 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|[_CTRL-L|
+
+    Neovim: +dev 
+
+|[_CTRL-Q|
+
+    Neovim: +dev 
+
+|[_CTRL-T|
+
+    Neovim: +dev 
 
 |[`|
 
@@ -31195,15 +31207,15 @@ A listing of helptags with the versions they became available or were removed.
 
 |]CTRL-L|
 
-    Neovim: +v0.11.0 
+    Neovim: +v0.11.0 -dev 
 
 |]CTRL-Q|
 
-    Neovim: +v0.11.0 
+    Neovim: +v0.11.0 -dev 
 
 |]CTRL-T|
 
-    Neovim: +v0.11.0 
+    Neovim: +v0.11.0 -dev 
 
 |]D|
 
@@ -31265,6 +31277,18 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|]_CTRL-L|
+
+    Neovim: +dev 
+
+|]_CTRL-Q|
+
+    Neovim: +dev 
+
+|]_CTRL-T|
+
+    Neovim: +dev 
 
 |]`|
 
@@ -39838,7 +39862,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |ft-gdb-syntax|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.2141 
 
 |ft-gdscript-plugin|
