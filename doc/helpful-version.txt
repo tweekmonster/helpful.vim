@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2026-02-16 00:27:40 UTC
+*helpful-version.txt*  Generated: 2026-02-17 00:28:30 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -31941,6 +31941,10 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v9.1.0116 
 
+|added-9.3|
+
+       Vim: +v9.2.0011 
+
 |added-BeOS|
 
        Vim: +v7.0001 
@@ -33402,6 +33406,10 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v9.1.0116 
 
+|bug-fixes-9.3|
+
+       Vim: +v9.2.0011 
+
 |bug-report|
 
     Neovim: +v0.4.0 
@@ -34325,6 +34333,10 @@ A listing of helptags with the versions they became available or were removed.
 |changed-9.2|
 
        Vim: +v9.1.0116 
+
+|changed-9.3|
+
+       Vim: +v9.2.0011 
 
 |changelist|
 
@@ -56237,6 +56249,10 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v9.1.0116 
 
+|patches-9.3|
+
+       Vim: +v9.2.0011 
+
 |patches-after-8.2|
 
        Vim: +v8.2.1462 
@@ -56248,6 +56264,10 @@ A listing of helptags with the versions they became available or were removed.
 |patches-after-9.1|
 
        Vim: +v9.1.0116 
+
+|patches-after-9.2|
+
+       Vim: +v9.2.0011 
 
 |pathshorten()|
 
@@ -68067,6 +68087,10 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v9.1.0116 
 
+|version-9.3|
+
+       Vim: +v9.2.0011 
+
 |version-range|
 
     Neovim: +v0.9.0 
@@ -68139,6 +68163,10 @@ A listing of helptags with the versions they became available or were removed.
 |version9.2|
 
        Vim: +v9.1.0116 
+
+|version9.3|
+
+       Vim: +v9.2.0011 
 
 |version9.txt|
 
@@ -68276,6 +68304,10 @@ A listing of helptags with the versions they became available or were removed.
 |vim-9.2|
 
        Vim: +v9.1.0116 
+
+|vim-9.3|
+
+       Vim: +v9.2.0011 
 
 |vim-additions|
 
