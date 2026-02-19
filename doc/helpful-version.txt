@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2026-02-17 00:28:30 UTC
+*helpful-version.txt*  Generated: 2026-02-19 00:28:21 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -56793,6 +56793,10 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v7.0001 
 
+|popup-opacity|
+
+       Vim: +v9.2.0017 
+
 |popup-position|
 
        Vim: +v8.1.1391 
@@ -71957,6 +71961,10 @@ A listing of helptags with the versions they became available or were removed.
 |xdg-vimrc|
 
        Vim: +v9.1.0327 
+
+|xdg.vim|
+
+       Vim: +v9.2.0019 
 
 |xf86conf-syntax|
 
