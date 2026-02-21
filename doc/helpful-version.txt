@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2026-02-19 00:28:21 UTC
+*helpful-version.txt*  Generated: 2026-02-21 00:26:23 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -33140,6 +33140,10 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v8.2.5003 
 
+|blink|
+
+    Neovim: +dev 
+
 |blob|
 
     Neovim: +v0.6.0 
@@ -37300,6 +37304,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|dim|
+
+    Neovim: +dev 
 
 |dip|
 
@@ -45658,6 +45666,10 @@ A listing of helptags with the versions they became available or were removed.
 |hl-WinSeparator|
 
     Neovim: +v0.7.0 
+
+|hl-conceal|
+
+    Neovim: +dev 
 
 |hl-debugBreakpoint|
 
@@ -56026,6 +56038,10 @@ A listing of helptags with the versions they became available or were removed.
 |out_timeout|
 
        Vim: +v7.4.1560 
+
+|overline|
+
+    Neovim: +dev 
 
 |p|
 
