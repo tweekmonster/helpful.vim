@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2026-02-21 00:26:23 UTC
+*helpful-version.txt*  Generated: 2026-02-22 00:27:07 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -33142,7 +33142,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |blink|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |blob|
 
@@ -37307,7 +37307,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |dim|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |dip|
 
@@ -45669,7 +45669,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |hl-conceal|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |hl-debugBreakpoint|
 
@@ -56041,7 +56041,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |overline|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |p|
 
