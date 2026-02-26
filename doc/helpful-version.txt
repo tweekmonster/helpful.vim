@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2026-02-25 00:28:47 UTC
+*helpful-version.txt*  Generated: 2026-02-26 00:24:54 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -29961,6 +29961,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0163 
 
+|SessionLoadPre|
+
+       Vim: +v9.2.0061 
+
 |SessionWritePost|
 
     Neovim: +v0.10.0 
@@ -32239,6 +32243,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|argf-variable|
+
+    Neovim: +dev 
 
 |argidx()|
 
@@ -36455,6 +36463,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|debug-adapter-protocol|
+
+       Vim: +v9.2.0060 
 
 |debug-gcc|
 
@@ -66688,6 +66700,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.3.928 
+
+|v:argf|
+
+    Neovim: +dev 
 
 |v:argv|
 
