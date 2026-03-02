@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2026-02-28 00:23:43 UTC
+*helpful-version.txt*  Generated: 2026-03-02 00:26:41 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -5321,6 +5321,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|'statuslineopt'|
+
+       Vim: +v9.2.0083 
+
 |'stc'|
 
     Neovim: +v0.9.0 
@@ -5329,6 +5333,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|'stlo'|
+
+       Vim: +v9.2.0083 
 
 |'stmp'|
 
@@ -23793,6 +23801,10 @@ A listing of helptags with the versions they became available or were removed.
 |E1571|
 
        Vim: +v9.1.1976 
+
+|E1572|
+
+       Vim: +v9.2.0088 
 
 |E158|
 
@@ -47863,6 +47875,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.8.0 
        Vim: +v8.2.5066 
 
+|lcs-leadtab|
+
+       Vim: +v9.2.0088 
+
 |lcs-multispace|
 
     Neovim: +v0.6.0 
@@ -61239,6 +61255,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.11.0 
        Vim: +v9.1.0890 
+
+|stl-%@|
+
+       Vim: +v9.2.0083 
 
 |stl-%{|
 
