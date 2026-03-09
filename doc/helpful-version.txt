@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2026-03-05 00:27:03 UTC
+*helpful-version.txt*  Generated: 2026-03-09 00:27:14 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -64542,6 +64542,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.5.0 
 
+|treesitter-defaults|
+
+    Neovim: +dev 
+
 |treesitter-directive-gsub!|
 
     Neovim: +v0.10.0 
@@ -67558,9 +67562,17 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 -v0.4.0 
 
+|v_[n|
+
+    Neovim: +dev 
+
 |v_]%|
 
     Neovim: +v0.1.0 -v0.4.0 
+
+|v_]n|
+
+    Neovim: +dev 
 
 |v_a|
 
