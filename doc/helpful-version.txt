@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2026-03-10 00:24:07 UTC
+*helpful-version.txt*  Generated: 2026-03-12 00:22:53 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -6315,6 +6315,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.5.0 
 
+|'termresize|
+
+       Vim: +v9.2.0139 
+
 |'termsize'|
 
        Vim: +v8.0.0761 -v8.0.1740 
@@ -6490,6 +6494,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|'trz'|
+
+       Vim: +v9.2.0139 
 
 |'ts'|
 
@@ -44670,17 +44678,17 @@ A listing of helptags with the versions they became available or were removed.
 
 |hit-enter|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |hit-enter-prompt|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0117 
 
 |hit-return|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |hitest.vim|
@@ -57136,12 +57144,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |press-enter|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |press-return|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |prevcount-variable|
