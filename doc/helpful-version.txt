@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2026-03-13 00:27:31 UTC
+*helpful-version.txt*  Generated: 2026-03-14 00:24:55 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -23837,6 +23837,14 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +nightly 
        Vim: +v9.2.0088 
 
+|E1573|
+
+       Vim: +v9.2.0153 
+
+|E1574|
+
+       Vim: +v9.2.0153 
+
 |E158|
 
     Neovim: +v0.1.0 
@@ -34246,6 +34254,10 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v7.4.1624 
 
+|ch_listen()|
+
+       Vim: +v9.2.0153 
+
 |ch_log()|
 
        Vim: +v7.4.1368 
@@ -34488,6 +34500,10 @@ A listing of helptags with the versions they became available or were removed.
 |channel-lines|
 
     Neovim: +v0.3.0 
+
+|channel-listen-demo|
+
+       Vim: +v9.2.0153 
 
 |channel-mode|
 
