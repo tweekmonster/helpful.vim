@@ -9209,6 +9209,7 @@ gross-national-happinessneovim:v0.1.0,vim:v7.3.1241,
 group-nameneovim:v0.1.0,vim:v7.0001,
 grrneovim:v0.11.0,
 grtneovim:nightly,
+grxneovim:dev,
 gsneovim:v0.1.0,vim:v7.0001,
 gsp.vimneovim:v0.1.0,nightlyvim:v7.0001,
 gstarneovim:v0.1.0,vim:v7.0001,
@@ -15062,6 +15063,7 @@ vim.lsp.get_active_clients()neovim:v0.5.0,v0.10.0
 vim.lsp.get_buffers_by_client_id()neovim:v0.5.0,nightly
 vim.lsp.get_client_by_id()neovim:v0.5.0,
 vim.lsp.get_clients()neovim:v0.10.0,
+vim.lsp.get_configs()neovim:dev,
 vim.lsp.get_log_path()neovim:v0.5.0,nightly
 vim.lsp.handlersneovim:v0.5.0,
 vim.lsp.handlers.hover()neovim:v0.6.0,v0.11.0
