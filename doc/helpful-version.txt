@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2026-03-22 00:28:25 UTC
+*helpful-version.txt*  Generated: 2026-03-23 00:30:28 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -28537,9 +28537,13 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|Ex-command|
+
+    Neovim: +nightly 
+
 |Ex-commands|
 
-    Neovim: +v0.10.0 
+    Neovim: +v0.10.0 -nightly 
 
 |Ex-mode|
 
@@ -48461,7 +48465,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |lsp-buftypes|
 
-    Neovim: +dev 
+    Neovim: +nightly -dev 
 
 |lsp-client|
 

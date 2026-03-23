@@ -5953,7 +5953,8 @@ Elvisneovim:v0.1.0,vim:v7.0001,
 EncodingChangedneovim:v0.1.0,v0.1.6vim:v7.0001,
 Etermneovim:v0.1.0,v0.2.0vim:v7.0001,
 Exneovim:v0.1.0,vim:v7.0001,
-Ex-commandsneovim:v0.10.0,
+Ex-commandneovim:nightly,
+Ex-commandsneovim:v0.10.0,nightly
 Ex-modeneovim:v0.1.0,vim:v7.0001,
 ExitPreneovim:v0.3.2,vim:v8.0.1595,
 Exuberant_ctagsneovim:v0.1.0,vim:v7.0012,
@@ -10252,7 +10253,7 @@ lsp-attachneovim:v0.11.0,
 lsp-autocommandsneovim:v0.5.0,v0.6.0
 lsp-autocompletionneovim:v0.11.0,
 lsp-bufneovim:v0.5.0,
-lsp-buftypesneovim:dev,
+lsp-buftypesneovim:nightly,dev
 lsp-clientneovim:v0.10.0,
 lsp-codelensneovim:v0.5.0,
 lsp-commandsneovim:nightly,
