@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2026-03-25 00:28:16 UTC
+*helpful-version.txt*  Generated: 2026-03-26 00:30:30 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -23849,6 +23849,10 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v9.2.0153 
 
+|E1575|
+
+       Vim: +v9.2.0250 
+
 |E158|
 
     Neovim: +v0.1.0 
@@ -35651,7 +35655,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |config-example|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |confirm()|
 
@@ -38230,7 +38234,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |example-init|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |except-autocmd|
 
@@ -48625,7 +48629,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |lsp-request|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lsp-response|
 
@@ -56233,7 +56237,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |package-spellfile|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |package-termdebug|
 
@@ -56242,7 +56246,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |package-tohtml|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |package-translate_example|
 
@@ -56254,7 +56258,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |package-undotree|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |package.cpath|
 
@@ -59232,7 +59236,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |schedule|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |scheme-syntax|
 
@@ -60991,10 +60995,6 @@ A listing of helptags with the versions they became available or were removed.
 |spellfile.get()|
 
     Neovim: +nightly 
-
-|spellfile.lua|
-
-    Neovim: +nightly -dev 
 
 |spellfile.vim|
 
@@ -64579,10 +64579,6 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v7.0001 
 
-|tohtml|
-
-    Neovim: +nightly -dev 
-
 |tohtml.tohtml()|
 
     Neovim: +nightly 
@@ -65427,10 +65423,6 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.3 
-
-|undotree-plugin|
-
-    Neovim: +nightly -dev 
 
 |undotree.open()|
 
