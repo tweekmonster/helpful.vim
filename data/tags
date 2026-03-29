@@ -11641,7 +11641,7 @@ news-0.9neovim:v0.10.0,
 news-0.9.txtneovim:v0.10.0,
 news-10.txtneovim:v0.11.0,nightly
 news-breakingneovim:v0.9.0,
-news-breaking-devneovim:nightly,
+news-breaking-devneovim:nightly,dev
 news-changedneovim:v0.10.0,
 news-changesneovim:v0.9.0,v0.10.0
 news-deprecationsneovim:v0.9.0,
@@ -11723,6 +11723,7 @@ nvim.txtneovim:v0.1.0,
 nvim_...()neovim:v0.1.6,
 nvim__buf_redraw_range()neovim:v0.5.0,v0.8.0
 nvim__buf_stats()neovim:v0.4.0,v0.8.0
+nvim__chan_set_detach()neovim:dev,
 nvim__complete_set()neovim:v0.10.0,
 nvim__exec_lua_fast()neovim:nightly,
 nvim__get_hl_defs()neovim:v0.5.0,v0.8.0
@@ -12337,7 +12338,7 @@ progress-syntaxvim:v7.0001,v7.0139
 progress.vimneovim:v0.1.0,nightlyvim:v7.0001,
 project-configneovim:v0.11.0,
 prompt-bufferneovim:v0.5.0,vim:v8.1.0027,
-prompt_appendbuf()neovim:dev,
+prompt_appendbuf()neovim:nightly,
 prompt_getinput()neovim:nightly,
 prompt_getprompt()neovim:v0.5.0,vim:v8.2.1588,
 prompt_setcallback()neovim:v0.5.0,vim:v8.1.0027,
@@ -14882,6 +14883,7 @@ vim.fnneovim:v0.5.0,
 vim.fsneovim:v0.10.0,
 vim.fs.abspath()neovim:v0.11.0,
 vim.fs.basename()neovim:v0.8.0,
+vim.fs.copy()neovim:dev,
 vim.fs.dir()neovim:v0.8.0,
 vim.fs.dirname()neovim:v0.8.0,
 vim.fs.exists()neovim:v0.11.0,
