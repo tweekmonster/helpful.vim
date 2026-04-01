@@ -14985,9 +14985,9 @@ vim.lsp.Client.Progressneovim:v0.10.0,
 vim.lsp.ClientConfigneovim:v0.10.0,
 vim.lsp.Configneovim:v0.11.0,
 vim.lsp.ListOptsneovim:v0.10.0,
-vim.lsp.ListOpts.OnListneovim:dev,
-vim.lsp.LocationOptsneovim:v0.10.0,dev
-vim.lsp.LocationOpts.OnListneovim:v0.10.0,dev
+vim.lsp.ListOpts.OnListneovim:nightly,
+vim.lsp.LocationOptsneovim:v0.10.0,nightly
+vim.lsp.LocationOpts.OnListneovim:v0.10.0,nightly
 vim.lsp.buf.add_workspace_folder()neovim:v0.5.0,
 vim.lsp.buf.clear_references()neovim:v0.5.0,
 vim.lsp.buf.code_action()neovim:v0.5.0,
