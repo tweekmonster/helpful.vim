@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2026-04-02 00:28:49 UTC
+*helpful-version.txt*  Generated: 2026-04-03 00:30:23 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -64710,7 +64710,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |treesitter-incremental-selection|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |treesitter-language|
 
@@ -69859,11 +69859,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.lsp.rpc.Client|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.rpc.PublicClient|
 
-    Neovim: +v0.10.0 -dev 
+    Neovim: +v0.10.0 -nightly 
 
 |vim.lsp.rpc.connect()|
 
