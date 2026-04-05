@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2026-04-04 00:28:40 UTC
+*helpful-version.txt*  Generated: 2026-04-05 00:31:51 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -32930,7 +32930,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |b:rustfmt_autosave_if_config_present|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.2.0285 
 
 |b:term_title|

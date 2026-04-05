@@ -6918,7 +6918,7 @@ b:rust_cargo_check_benchesneovim:v0.10.0,vim:v9.0.1898,
 b:rust_cargo_check_examplesneovim:v0.10.0,vim:v9.0.1898,
 b:rust_cargo_check_testsneovim:v0.10.0,vim:v9.0.1898,
 b:rustfmt_autosaveneovim:v0.10.0,vim:v9.0.1898,
-b:rustfmt_autosave_if_config_presentneovim:dev,vim:v9.2.0285,
+b:rustfmt_autosave_if_config_presentneovim:nightly,vim:v9.2.0285,
 b:term_titleneovim:v0.1.5,
 b:terminal_job_idneovim:v0.1.5,v0.3.0
 b:terminal_job_pidneovim:v0.1.5,v0.3.0
