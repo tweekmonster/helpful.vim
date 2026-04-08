@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2026-04-07 00:32:07 UTC
+*helpful-version.txt*  Generated: 2026-04-08 00:32:06 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -4562,6 +4562,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.12.0 
        Vim: +v9.1.1250 
+
+|'pumopt'|
+
+       Vim: +v9.2.0318 
 
 |'pumwidth'|
 
@@ -26659,7 +26663,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |E649|
 
-       Vim: +v7.0001 -v9.0.2132 
+       Vim: +v9.2.0316 -v9.0.2132 
 
 |E65|
 
@@ -68947,7 +68951,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.filetype.inspect()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.filetype.match()|
 
