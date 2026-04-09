@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2026-04-08 00:32:06 UTC
+*helpful-version.txt*  Generated: 2026-04-09 00:27:00 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -29578,15 +29578,15 @@ A listing of helptags with the versions they became available or were removed.
 
 |Pos:cursor()|
 
-    Neovim: +v0.12.0 
+    Neovim: +v0.12.0 -dev 
 
 |Pos:extmark()|
 
-    Neovim: +v0.12.0 
+    Neovim: +v0.12.0 -dev 
 
 |Pos:lsp()|
 
-    Neovim: +v0.12.0 
+    Neovim: +v0.12.0 -dev 
 
 |Pos:to_cursor()|
 
@@ -29883,11 +29883,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |Range:cursor()|
 
-    Neovim: +v0.12.0 
+    Neovim: +v0.12.0 -dev 
 
 |Range:extmark()|
 
-    Neovim: +v0.12.0 
+    Neovim: +v0.12.0 -dev 
 
 |Range:has()|
 
@@ -29903,7 +29903,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |Range:lsp()|
 
-    Neovim: +v0.12.0 
+    Neovim: +v0.12.0 -dev 
 
 |Range:to_cursor()|
 
@@ -70278,6 +70278,18 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.12.0 
 
+|vim.pos.cursor()|
+
+    Neovim: +dev 
+
+|vim.pos.extmark()|
+
+    Neovim: +dev 
+
+|vim.pos.lsp()|
+
+    Neovim: +dev 
+
 |vim.pretty_print()|
 
     Neovim: +v0.7.0 -v0.9.0 
@@ -70289,6 +70301,18 @@ A listing of helptags with the versions they became available or were removed.
 |vim.range|
 
     Neovim: +v0.12.0 
+
+|vim.range.cursor()|
+
+    Neovim: +dev 
+
+|vim.range.extmark()|
+
+    Neovim: +dev 
+
+|vim.range.lsp()|
+
+    Neovim: +dev 
 
 |vim.re|
 
