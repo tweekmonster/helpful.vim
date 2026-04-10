@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2026-04-09 00:27:00 UTC
+*helpful-version.txt*  Generated: 2026-04-10 00:31:36 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -7758,6 +7758,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 -v0.4.0 
        Vim: +v7.0001 
+
+|+statusline_click|
+
+       Vim: +v9.2.0328 
 
 |+sun_workshop|
 
@@ -29578,15 +29582,15 @@ A listing of helptags with the versions they became available or were removed.
 
 |Pos:cursor()|
 
-    Neovim: +v0.12.0 -dev 
+    Neovim: +v0.12.0 -nightly 
 
 |Pos:extmark()|
 
-    Neovim: +v0.12.0 -dev 
+    Neovim: +v0.12.0 -nightly 
 
 |Pos:lsp()|
 
-    Neovim: +v0.12.0 -dev 
+    Neovim: +v0.12.0 -nightly 
 
 |Pos:to_cursor()|
 
@@ -29883,11 +29887,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |Range:cursor()|
 
-    Neovim: +v0.12.0 -dev 
+    Neovim: +v0.12.0 -nightly 
 
 |Range:extmark()|
 
-    Neovim: +v0.12.0 -dev 
+    Neovim: +v0.12.0 -nightly 
 
 |Range:has()|
 
@@ -29903,7 +29907,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |Range:lsp()|
 
-    Neovim: +v0.12.0 -dev 
+    Neovim: +v0.12.0 -nightly 
 
 |Range:to_cursor()|
 
@@ -61398,6 +61402,10 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v9.2.0083 
 
+|stl-%[FuncName]|
+
+       Vim: +v9.2.0328 
+
 |stl-%{|
 
     Neovim: +v0.5.0 
@@ -70280,15 +70288,15 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.pos.cursor()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.pos.extmark()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.pos.lsp()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.pretty_print()|
 
@@ -70304,15 +70312,15 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.range.cursor()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.range.extmark()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.range.lsp()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.re|
 
