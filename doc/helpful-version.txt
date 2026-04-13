@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2026-04-12 00:34:01 UTC
+*helpful-version.txt*  Generated: 2026-04-13 00:34:30 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -40201,8 +40201,8 @@ A listing of helptags with the versions they became available or were removed.
 
 |ft-jjdescription-plugin|
 
-    Neovim: +dev 
-       Vim: +dev 
+    Neovim: +nightly 
+       Vim: +v9.2.0339 
 
 |ft-jq-syntax|
 
@@ -54505,6 +54505,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.9.0 
 
+|news-breaking-dev|
+
+    Neovim: +dev 
+
 |news-changed|
 
     Neovim: +v0.10.0 
@@ -56907,7 +56911,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |plugins|
 
-    Neovim: +v0.12.0 
+    Neovim: +v0.12.0 -dev 
 
 |plugins.txt|
 
