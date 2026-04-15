@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2026-04-14 00:36:29 UTC
+*helpful-version.txt*  Generated: 2026-04-15 00:37:11 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -2724,6 +2724,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|'mlst'|
+
+       Vim: +v9.2.0350 
+
 |'mm'|
 
     Neovim: +v0.1.0 -v0.3.0 
@@ -2763,6 +2767,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|'modelinestrict'|
+
+       Vim: +v9.2.0350 
 
 |'modifiable'|
 
@@ -3597,6 +3605,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.4.0 
        Vim: +v8.1.1366 
 
+|'nomlst'|
+
+       Vim: +v9.2.0350 
+
 |'nomod'|
 
     Neovim: +v0.1.0 
@@ -3611,6 +3623,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.4.0 
        Vim: +v8.1.1366 
+
+|'nomodelinestrict'|
+
+       Vim: +v9.2.0350 
 
 |'nomodifiable'|
 
@@ -40201,8 +40217,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |ft-jjdescription-plugin|
 
-    Neovim: +nightly -dev 
-       Vim: +v9.2.0339 -dev 
+       Vim: +v9.2.0339 -v9.2.0341 
 
 |ft-jq-syntax|
 
@@ -45774,6 +45789,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 -v0.7.0 
        Vim: +v7.0001 
 
+|hl-VertSplitNC|
+
+       Vim: +v9.2.0349 
+
 |hl-Visual|
 
     Neovim: +v0.1.0 
@@ -48696,6 +48715,10 @@ A listing of helptags with the versions they became available or were removed.
 |lsp-semantic_tokens|
 
     Neovim: +v0.9.0 
+
+|lsp-server|
+
+    Neovim: +nightly 
 
 |lsp-sync|
 
@@ -54555,6 +54578,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 -v0.4.0 
        Vim: +v7.0001 
+
+|no-modeline-option|
+
+    Neovim: +nightly 
 
 |no-type-checking|
 
