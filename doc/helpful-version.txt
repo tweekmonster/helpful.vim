@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2026-04-15 00:37:11 UTC
+*helpful-version.txt*  Generated: 2026-04-16 00:37:06 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -4886,6 +4886,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|'scrolloffpad'|
+
+       Vim: +v9.2.0356 
+
 |'scrollopt'|
 
     Neovim: +v0.1.0 
@@ -5189,6 +5193,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|'sop'|
+
+       Vim: +v9.2.0356 
 
 |'sourceany'|
 
@@ -37040,6 +37048,10 @@ A listing of helptags with the versions they became available or were removed.
 |dev-test-config|
 
     Neovim: +v0.12.0 
+
+|dev-test-harness-isolation|
+
+    Neovim: +dev 
 
 |dev-theme|
 
