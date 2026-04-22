@@ -6520,6 +6520,7 @@ Yneovim:v0.1.0,vim:v7.0001,
 Y-defaultneovim:v0.6.0,
 Y2Kneovim:v0.1.0,v0.3.2vim:v7.0001,
 ZQneovim:v0.1.0,vim:v7.0001,
+ZRneovim:dev,
 ZZneovim:v0.1.0,vim:v7.0001,
 [neovim:v0.1.0,vim:v7.0001,
 [#neovim:v0.1.0,vim:v7.0001,
@@ -7827,9 +7828,9 @@ dev-name-commonneovim:v0.9.0,
 dev-name-eventsneovim:v0.9.0,
 dev-namespace-nameneovim:v0.11.0,
 dev-namingneovim:v0.6.0,
-dev-new-eventneovim:dev,
-dev-new-excmdneovim:dev,
-dev-new-vimfnneovim:dev,
+dev-new-eventneovim:nightly,
+dev-new-excmdneovim:nightly,
+dev-new-vimfnneovim:nightly,
 dev-patternsneovim:v0.10.0,
 dev-providerneovim:v0.1.5,
 dev-quickstartneovim:v0.12.0,
@@ -8944,7 +8945,7 @@ g:netrw_ssh_cmdneovim:v0.1.0,v0.11.0vim:v9.1.1206,v9.1.1026
 g:netrw_sshportneovim:v0.1.0,v0.11.0vim:v9.1.1206,v9.1.1026
 g:netrw_suppress_gx_mesgneovim:v0.2.0,v0.11.0vim:v7.4.1761,v9.1.1026
 g:netrw_timefmtneovim:v0.1.0,v0.11.0vim:v9.1.1206,v9.1.1026
-g:netrw_tmpfile_escapeneovim:v0.1.0,v0.11.0vim:v9.1.1206,v9.1.1026
+g:netrw_tmpfile_escapeneovim:v0.1.0,v0.11.0vim:v9.1.1206,v9.2.0383
 g:netrw_uidneovim:v0.1.0,v0.11.0vim:v9.1.1206,v9.1.1026
 g:netrw_use_errorwindowneovim:v0.1.0,v0.11.0vim:v9.1.1206,v9.1.1304
 g:netrw_use_noswfneovim:v0.1.0,v0.11.0vim:v9.1.1206,v9.1.1026
@@ -13613,6 +13614,7 @@ tabpageidneovim:v0.11.0,
 tabpagenr()neovim:v0.1.0,vim:v7.0201,
 tabpagewinnr()neovim:v0.1.0,vim:v7.0202,
 tabpanelvim:v9.1.1391,
+tabpanel-scrollvim:v9.2.0386,
 tagneovim:v0.1.0,vim:v7.0001,
 tag-!neovim:v0.1.0,vim:v7.0001,
 tag-any-whiteneovim:v0.1.0,v0.4.0vim:v7.0001,v8.1.1048

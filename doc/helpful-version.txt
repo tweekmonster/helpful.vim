@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2026-04-21 00:35:59 UTC
+*helpful-version.txt*  Generated: 2026-04-22 00:33:21 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -31132,6 +31132,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|ZR|
+
+    Neovim: +dev 
+
 |ZZ|
 
     Neovim: +v0.1.0 
@@ -37171,15 +37175,15 @@ A listing of helptags with the versions they became available or were removed.
 
 |dev-new-event|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |dev-new-excmd|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |dev-new-vimfn|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |dev-patterns|
 
@@ -42459,7 +42463,7 @@ A listing of helptags with the versions they became available or were removed.
 |g:netrw_tmpfile_escape|
 
     Neovim: +v0.1.0 -v0.11.0 
-       Vim: +v9.1.1206 -v9.1.1026 
+       Vim: +v9.1.1206 -v9.2.0383 
 
 |g:netrw_uid|
 
@@ -63394,6 +63398,10 @@ A listing of helptags with the versions they became available or were removed.
 |tabpanel|
 
        Vim: +v9.1.1391 
+
+|tabpanel-scroll|
+
+       Vim: +v9.2.0386 
 
 |tag|
 
