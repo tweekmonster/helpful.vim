@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2026-04-22 00:33:21 UTC
+*helpful-version.txt*  Generated: 2026-04-23 00:38:40 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -4896,6 +4896,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'scrolloffpad'|
 
+    Neovim: +nightly 
        Vim: +v9.2.0356 
 
 |'scrollopt'|
@@ -5204,6 +5205,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'sop'|
 
+    Neovim: +nightly 
        Vim: +v9.2.0356 
 
 |'sourceany'|
@@ -31134,7 +31136,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |ZR|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |ZZ|
 
@@ -38616,6 +38618,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.2.0 
        Vim: +v8.2.2070 
+
+|exitreason-variable|
+
+    Neovim: +dev 
 
 |exp()|
 
@@ -61577,6 +61583,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|starttime-variable|
+
+    Neovim: +dev 
+
 |startup|
 
     Neovim: +v0.1.0 
@@ -67273,6 +67283,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.2.0 
        Vim: +v8.2.2070 
 
+|v:exitreason|
+
+    Neovim: +dev 
+
 |v:false|
 
     Neovim: +v0.1.4 
@@ -67537,6 +67551,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.11.0 
        Vim: +v9.1.0984 
+
+|v:starttime|
+
+    Neovim: +dev 
 
 |v:statusmsg|
 
@@ -67941,6 +67959,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 -v0.4.0 
 
+|v_[N|
+
+    Neovim: +dev 
+
 |v_[n|
 
     Neovim: +v0.12.0 
@@ -67948,6 +67970,10 @@ A listing of helptags with the versions they became available or were removed.
 |v_]%|
 
     Neovim: +v0.1.0 -v0.4.0 
+
+|v_]N|
+
+    Neovim: +dev 
 
 |v_]n|
 
