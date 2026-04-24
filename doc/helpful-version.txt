@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2026-04-23 00:38:40 UTC
+*helpful-version.txt*  Generated: 2026-04-24 00:37:47 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -18614,6 +18614,14 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|:upt|
+
+    Neovim: +dev 
+
+|:uptime|
+
+    Neovim: +dev 
 
 |:v|
 
@@ -38621,7 +38629,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |exitreason-variable|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |exp()|
 
@@ -61585,7 +61593,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |starttime-variable|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |startup|
 
@@ -67285,7 +67293,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |v:exitreason|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |v:false|
 
@@ -67554,7 +67562,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |v:starttime|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |v:statusmsg|
 
@@ -67961,7 +67969,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |v_[N|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |v_[n|
 
@@ -67973,7 +67981,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |v_]N|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |v_]n|
 
