@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2026-04-25 00:34:25 UTC
+*helpful-version.txt*  Generated: 2026-04-26 00:37:34 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -71,6 +71,10 @@ A listing of helptags with the versions they became available or were removed.
 |$NVIM_LOG_FILE|
 
     Neovim: +v0.2.1 
+
+|$NVIM_NOTTYFAST|
+
+    Neovim: +dev 
 
 |$NVIM_RPLUGIN_MANIFEST|
 
@@ -4058,7 +4062,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'notf'|
 
-    Neovim: +dev -v0.8.0 
+    Neovim: +nightly -v0.8.0 
        Vim: +v7.0001 
 
 |'notgc'|
@@ -4113,7 +4117,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'nottyfast'|
 
-    Neovim: +dev -v0.8.0 
+    Neovim: +nightly -v0.8.0 
        Vim: +v7.0001 
 
 |'notx'|
@@ -6406,7 +6410,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'tf'|
 
-    Neovim: +dev -v0.8.0 
+    Neovim: +nightly -v0.8.0 
        Vim: +v7.0001 
 
 |'tfu'|
@@ -6592,7 +6596,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |'ttyfast'|
 
-    Neovim: +dev -v0.8.0 
+    Neovim: +nightly -v0.8.0 
        Vim: +v7.0001 
 
 |'ttym'|
@@ -23909,6 +23913,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |E1568|
 
+    Neovim: +dev 
        Vim: +v9.1.1703 
 
 |E1569|
@@ -37126,6 +37131,10 @@ A listing of helptags with the versions they became available or were removed.
 |dev-events|
 
     Neovim: +v0.12.0 
+
+|dev-filesystem|
+
+    Neovim: +dev 
 
 |dev-filter-test|
 
@@ -69318,6 +69327,10 @@ A listing of helptags with the versions they became available or were removed.
 |vim.fs.root()|
 
     Neovim: +v0.10.0 
+
+|vim.fs.write()|
+
+    Neovim: +dev 
 
 |vim.g|
 
