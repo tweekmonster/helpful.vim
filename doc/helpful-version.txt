@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2026-04-26 00:37:34 UTC
+*helpful-version.txt*  Generated: 2026-04-27 00:37:59 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -74,7 +74,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |$NVIM_NOTTYFAST|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |$NVIM_RPLUGIN_MANIFEST|
 
@@ -23913,7 +23913,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |E1568|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.1.1703 
 
 |E1569|
@@ -32295,6 +32295,21 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 -v0.9.0 
        Vim: +v7.0001 
 
+|algol68|
+
+    Neovim: +dev 
+       Vim: +v9.2.0397 
+
+|algol68_no_preludes|
+
+    Neovim: +dev 
+       Vim: +v9.2.0397 
+
+|algol68_symbolic_operators|
+
+    Neovim: +dev 
+       Vim: +v9.2.0397 
+
 |alloc_fail()|
 
        Vim: +v7.4.1058 -v7.4.1844 
@@ -37134,7 +37149,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |dev-filesystem|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |dev-filter-test|
 
@@ -40007,6 +40022,11 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.2a -v7.2a.00 
+
+|ft-algol68-syntax|
+
+    Neovim: +dev 
+       Vim: +v9.2.0397 
 
 |ft-ant-syntax|
 
@@ -63426,6 +63446,10 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v9.1.1391 
 
+|tabpanel-mouse|
+
+       Vim: +v9.2.0397 
+
 |tabpanel-scroll|
 
        Vim: +v9.2.0386 
@@ -69330,7 +69354,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.fs.write()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.g|
 
@@ -71037,6 +71061,22 @@ A listing of helptags with the versions they became available or were removed.
 |vim.ui|
 
     Neovim: +v0.10.0 
+
+|vim.ui.img|
+
+    Neovim: +dev 
+
+|vim.ui.img.del()|
+
+    Neovim: +dev 
+
+|vim.ui.img.get()|
+
+    Neovim: +dev 
+
+|vim.ui.img.set()|
+
+    Neovim: +dev 
 
 |vim.ui.input()|
 
