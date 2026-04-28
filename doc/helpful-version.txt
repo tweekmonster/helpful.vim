@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2026-04-27 00:37:59 UTC
+*helpful-version.txt*  Generated: 2026-04-28 00:40:37 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -20505,7 +20505,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |BufModifiedSet|
 
-    Neovim: +v0.5.0 
+    Neovim: +v0.5.0 -dev 
 
 |BufNew|
 
@@ -23949,6 +23949,11 @@ A listing of helptags with the versions they became available or were removed.
 |E1575|
 
        Vim: +v9.2.0250 
+
+|E1576|
+
+    Neovim: +dev 
+       Vim: +v9.2.0405 
 
 |E158|
 
@@ -32297,17 +32302,17 @@ A listing of helptags with the versions they became available or were removed.
 
 |algol68|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.2.0397 
 
 |algol68_no_preludes|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.2.0397 
 
 |algol68_symbolic_operators|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.2.0397 
 
 |alloc_fail()|
@@ -40025,7 +40030,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |ft-algol68-syntax|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.2.0397 
 
 |ft-ant-syntax|
@@ -71064,19 +71069,19 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.ui.img|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.ui.img.del()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.ui.img.get()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.ui.img.set()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.ui.input()|
 
