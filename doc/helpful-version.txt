@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2026-04-29 00:41:57 UTC
+*helpful-version.txt*  Generated: 2026-04-30 00:41:17 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -23952,7 +23952,6 @@ A listing of helptags with the versions they became available or were removed.
 
 |E1576|
 
-    Neovim: +nightly -dev 
        Vim: +v9.2.0405 
 
 |E158|
@@ -36987,6 +36986,10 @@ A listing of helptags with the versions they became available or were removed.
 |defaults.vim-explained|
 
        Vim: +v8.1.0872 
+
+|deferred|
+
+    Neovim: +dev 
 
 |define-function|
 
@@ -65604,6 +65607,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.2.1 -v0.3.0 
 
+|ui-lifecycle|
+
+    Neovim: +dev 
+
 |ui-linegrid|
 
     Neovim: +v0.3.2 
@@ -71634,6 +71641,10 @@ A listing of helptags with the versions they became available or were removed.
 |viminfo-s|
 
        Vim: +v7.3.382 
+
+|viminfo-security|
+
+       Vim: +dev 
 
 |viminfo-timestamp|
 
