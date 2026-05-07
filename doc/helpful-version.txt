@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2026-05-06 00:38:46 UTC
+*helpful-version.txt*  Generated: 2026-05-07 00:41:00 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -29096,7 +29096,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |Iter:flatten()|
 
-    Neovim: +v0.10.0 
+    Neovim: +v0.10.0 -dev 
 
 |Iter:fold()|
 
@@ -29128,7 +29128,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |Iter:pop()|
 
-    Neovim: +v0.10.0 
+    Neovim: +v0.10.0 -dev 
 
 |Iter:reduce()|
 
@@ -29136,19 +29136,19 @@ A listing of helptags with the versions they became available or were removed.
 
 |Iter:rev()|
 
-    Neovim: +v0.10.0 
+    Neovim: +v0.10.0 -dev 
 
 |Iter:rfind()|
 
-    Neovim: +v0.10.0 
+    Neovim: +v0.10.0 -dev 
 
 |Iter:rpeek()|
 
-    Neovim: +v0.10.0 
+    Neovim: +v0.10.0 -dev 
 
 |Iter:rskip()|
 
-    Neovim: +v0.10.0 
+    Neovim: +v0.10.0 -dev 
 
 |Iter:skip()|
 
@@ -29156,7 +29156,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |Iter:slice()|
 
-    Neovim: +v0.10.0 
+    Neovim: +v0.10.0 -dev 
 
 |Iter:take()|
 
@@ -29169,6 +29169,34 @@ A listing of helptags with the versions they became available or were removed.
 |Iter:unique()|
 
     Neovim: +v0.12.0 
+
+|IterArray:flatten()|
+
+    Neovim: +dev 
+
+|IterArray:pop()|
+
+    Neovim: +dev 
+
+|IterArray:rev()|
+
+    Neovim: +dev 
+
+|IterArray:rfind()|
+
+    Neovim: +dev 
+
+|IterArray:rpeek()|
+
+    Neovim: +dev 
+
+|IterArray:rskip()|
+
+    Neovim: +dev 
+
+|IterArray:slice()|
+
+    Neovim: +dev 
 
 |J|
 
@@ -69520,6 +69548,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.10.0 
 
+|vim.isnil()|
+
+    Neovim: +dev 
+
 |vim.iter|
 
     Neovim: +v0.10.0 
@@ -70536,6 +70568,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.12.0 
 
+|vim.nonnil()|
+
+    Neovim: +dev 
+
 |vim.notify()|
 
     Neovim: +v0.5.0 
@@ -70543,6 +70579,10 @@ A listing of helptags with the versions they became available or were removed.
 |vim.notify_once()|
 
     Neovim: +v0.7.0 
+
+|vim.npcall()|
+
+    Neovim: +dev 
 
 |vim.o|
 
@@ -70644,6 +70684,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +nightly 
 
+|vim.pos.offset()|
+
+    Neovim: +dev 
+
 |vim.pos.to_cursor()|
 
     Neovim: +nightly 
@@ -70655,6 +70699,10 @@ A listing of helptags with the versions they became available or were removed.
 |vim.pos.to_lsp()|
 
     Neovim: +nightly 
+
+|vim.pos.to_offset()|
+
+    Neovim: +dev 
 
 |vim.pretty_print()|
 
@@ -71064,6 +71112,10 @@ A listing of helptags with the versions they became available or were removed.
 |vim.treesitter.query.set()|
 
     Neovim: +v0.9.0 
+
+|vim.treesitter.select()|
+
+    Neovim: +dev 
 
 |vim.treesitter.start()|
 
