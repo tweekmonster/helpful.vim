@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2026-05-07 00:41:00 UTC
+*helpful-version.txt*  Generated: 2026-05-08 00:41:15 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -29096,7 +29096,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |Iter:flatten()|
 
-    Neovim: +v0.10.0 -dev 
+    Neovim: +v0.10.0 -nightly 
 
 |Iter:fold()|
 
@@ -29128,7 +29128,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |Iter:pop()|
 
-    Neovim: +v0.10.0 -dev 
+    Neovim: +v0.10.0 -nightly 
 
 |Iter:reduce()|
 
@@ -29136,19 +29136,19 @@ A listing of helptags with the versions they became available or were removed.
 
 |Iter:rev()|
 
-    Neovim: +v0.10.0 -dev 
+    Neovim: +v0.10.0 -nightly 
 
 |Iter:rfind()|
 
-    Neovim: +v0.10.0 -dev 
+    Neovim: +v0.10.0 -nightly 
 
 |Iter:rpeek()|
 
-    Neovim: +v0.10.0 -dev 
+    Neovim: +v0.10.0 -nightly 
 
 |Iter:rskip()|
 
-    Neovim: +v0.10.0 -dev 
+    Neovim: +v0.10.0 -nightly 
 
 |Iter:skip()|
 
@@ -29156,7 +29156,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |Iter:slice()|
 
-    Neovim: +v0.10.0 -dev 
+    Neovim: +v0.10.0 -nightly 
 
 |Iter:take()|
 
@@ -29172,31 +29172,31 @@ A listing of helptags with the versions they became available or were removed.
 
 |IterArray:flatten()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |IterArray:pop()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |IterArray:rev()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |IterArray:rfind()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |IterArray:rpeek()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |IterArray:rskip()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |IterArray:slice()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |J|
 
@@ -48925,6 +48925,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.6.0 
 
+|lsp-incremental-selection|
+
+    Neovim: +dev 
+
 |lsp-inlay_hint|
 
     Neovim: +v0.10.0 
@@ -63396,17 +63400,17 @@ A listing of helptags with the versions they became available or were removed.
 
 |tab-page-commands|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0201 
 
 |tab-page-intro|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0201 
 
 |tab-page-other|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0201 
 
 |tabid|
@@ -63455,6 +63459,22 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0201 
+
+|tabpage-commands|
+
+    Neovim: +dev 
+
+|tabpage-intro|
+
+    Neovim: +dev 
+
+|tabpage-number|
+
+    Neovim: +dev 
+
+|tabpage-other|
+
+    Neovim: +dev 
 
 |tabpage-variable|
 
@@ -65936,6 +65956,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|useractive-variable|
+
+    Neovim: +dev 
+
 |userdata|
 
     Neovim: +v0.10.0 
@@ -67818,6 +67842,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.4 
        Vim: +v7.4.1154 
 
+|v:useractive|
+
+    Neovim: +dev 
+
 |v:val|
 
     Neovim: +v0.1.0 
@@ -69550,7 +69578,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.isnil()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.iter|
 
@@ -69731,6 +69759,10 @@ A listing of helptags with the versions they became available or were removed.
 |vim.lpeg.version()|
 
     Neovim: +v0.10.0 
+
+|vim.lsp|
+
+    Neovim: +dev 
 
 |vim.lsp.Client|
 
@@ -70570,7 +70602,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.nonnil()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.notify()|
 
@@ -70582,7 +70614,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.npcall()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.o|
 
@@ -70686,7 +70718,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.pos.offset()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.pos.to_cursor()|
 
@@ -70702,7 +70734,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.pos.to_offset()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.pretty_print()|
 
@@ -70981,6 +71013,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.10.0 -v0.12.0 
 
+|vim.treesitter|
+
+    Neovim: +dev 
+
 |vim.treesitter.Query|
 
     Neovim: +v0.11.0 
@@ -71115,7 +71151,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.treesitter.select()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.treesitter.start()|
 
