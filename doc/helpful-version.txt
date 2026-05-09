@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2026-05-08 00:41:15 UTC
+*helpful-version.txt*  Generated: 2026-05-09 00:41:58 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -23955,6 +23955,10 @@ A listing of helptags with the versions they became available or were removed.
 |E1576|
 
        Vim: +v9.2.0405 
+
+|E1577|
+
+       Vim: +v9.2.0458 
 
 |E158|
 
@@ -48927,7 +48931,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |lsp-incremental-selection|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lsp-inlay_hint|
 
@@ -63400,17 +63404,17 @@ A listing of helptags with the versions they became available or were removed.
 
 |tab-page-commands|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0201 
 
 |tab-page-intro|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0201 
 
 |tab-page-other|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0201 
 
 |tabid|
@@ -63462,19 +63466,19 @@ A listing of helptags with the versions they became available or were removed.
 
 |tabpage-commands|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |tabpage-intro|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |tabpage-number|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |tabpage-other|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |tabpage-variable|
 
@@ -65958,7 +65962,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |useractive-variable|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |userdata|
 
@@ -67844,7 +67848,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |v:useractive|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |v:val|
 
@@ -69762,7 +69766,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.lsp|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.lsp.Client|
 
@@ -71015,7 +71019,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.treesitter|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.treesitter.Query|
 
