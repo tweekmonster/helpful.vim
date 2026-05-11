@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2026-05-10 00:43:01 UTC
+*helpful-version.txt*  Generated: 2026-05-11 00:44:02 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -23958,7 +23958,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |E1577|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.2.0458 
 
 |E158|
@@ -30754,6 +30754,14 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.9.0 
        Vim: +v9.0.0756 
+
+|TextPutPost|
+
+       Vim: +v9.2.0470 
+
+|TextPutPre|
+
+       Vim: +v9.2.0470 
 
 |TextYankPost|
 
@@ -49366,6 +49374,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.9.0 
 
+|lua-guide-interrupt|
+
+    Neovim: +dev 
+
 |lua-guide-mappings|
 
     Neovim: +v0.9.0 
@@ -57264,6 +57276,10 @@ A listing of helptags with the versions they became available or were removed.
 |popup-callback|
 
        Vim: +v8.1.1329 
+
+|popup-clipwindow|
+
+       Vim: +v9.2.0469 
 
 |popup-close|
 
@@ -69075,6 +69091,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.12.0 
 
+|vim.Log|
+
+    Neovim: +dev 
+
 |vim.NIL|
 
     Neovim: +v0.5.0 
@@ -69669,9 +69689,29 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.9.0 
 
+|vim.log|
+
+    Neovim: +dev 
+
+|vim.log.get_level()|
+
+    Neovim: +dev 
+
 |vim.log.levels|
 
     Neovim: +v0.7.0 
+
+|vim.log.new()|
+
+    Neovim: +dev 
+
+|vim.log.set_format_func()|
+
+    Neovim: +dev 
+
+|vim.log.set_level()|
+
+    Neovim: +dev 
 
 |vim.loop|
 
@@ -72413,6 +72453,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|window-number|
+
+    Neovim: +dev 
 
 |window-resize|
 
