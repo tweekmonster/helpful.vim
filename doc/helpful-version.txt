@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2026-05-12 00:40:25 UTC
+*helpful-version.txt*  Generated: 2026-05-13 00:44:39 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -30757,10 +30757,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |TextPutPost|
 
+    Neovim: +dev 
        Vim: +v9.2.0470 
 
 |TextPutPre|
 
+    Neovim: +dev 
        Vim: +v9.2.0470 
 
 |TextYankPost|
@@ -55265,6 +55267,10 @@ A listing of helptags with the versions they became available or were removed.
 |nvim__set_hl_ns()|
 
     Neovim: +v0.5.0 -v0.8.0 
+
+|nvim__set_restart_on_crash()|
+
+    Neovim: +dev 
 
 |nvim__stats()|
 
