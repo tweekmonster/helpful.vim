@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2026-05-15 00:43:55 UTC
+*helpful-version.txt*  Generated: 2026-05-16 00:41:16 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -37202,7 +37202,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |dev-excmd|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |dev-filesystem|
 
@@ -37226,7 +37226,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |dev-interface-patterns|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |dev-internals-howto|
 
@@ -37238,7 +37238,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |dev-layout|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |dev-lua|
 
@@ -37286,7 +37286,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |dev-patterns|
 
-    Neovim: +v0.10.0 -dev 
+    Neovim: +v0.10.0 -nightly 
 
 |dev-provider|
 
@@ -38211,7 +38211,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |emacs-eshell|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |emacs-keys|
 
@@ -47241,7 +47241,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |indent-guides|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |indent.txt|
 
@@ -59080,7 +59080,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |repl|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |replacing|
 
