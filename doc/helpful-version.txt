@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2026-05-16 00:41:16 UTC
+*helpful-version.txt*  Generated: 2026-05-17 00:45:19 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -15886,6 +15886,14 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.5 
        Vim: +v7.4.1488 
 
+|:packd|
+
+    Neovim: +dev 
+
+|:packdel|
+
+    Neovim: +dev 
+
 |:packl|
 
     Neovim: +v0.1.5 
@@ -15895,6 +15903,14 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.5 
        Vim: +v7.4.1626 
+
+|:packu|
+
+    Neovim: +dev 
+
+|:packupdate|
+
+    Neovim: +dev 
 
 |:pb|
 
@@ -26517,10 +26533,30 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +nightly 
 
+|E5807|
+
+    Neovim: +dev 
+
+|E5808|
+
+    Neovim: +dev 
+
+|E5809|
+
+    Neovim: +dev 
+
 |E581|
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|E5810|
+
+    Neovim: +dev 
+
+|E5811|
+
+    Neovim: +dev 
 
 |E582|
 
@@ -30646,6 +30682,10 @@ A listing of helptags with the versions they became available or were removed.
 |TabLeavePre|
 
        Vim: +v7.0201 -v7.0202 
+
+|TabMoved|
+
+    Neovim: +dev 
 
 |TabNew|
 
@@ -70730,6 +70770,10 @@ A listing of helptags with the versions they became available or were removed.
 |vim.pack|
 
     Neovim: +v0.12.0 
+
+|vim.pack-commands|
+
+    Neovim: +dev 
 
 |vim.pack-directory|
 
