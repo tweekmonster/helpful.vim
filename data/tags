@@ -15,7 +15,7 @@ $NVIM_LISTEN_ADDRESSneovim:v0.1.0,v0.3.0
 $NVIM_LOG_FILEneovim:v0.2.1,
 $NVIM_NOTTYFASTneovim:nightly,
 $NVIM_RPLUGIN_MANIFESTneovim:v0.1.5,
-$NVIM_TERMDEFSneovim:dev,
+$NVIM_TERMDEFSneovim:nightly,
 $NoDefaultCurrentDirectoryInExePathneovim:v0.12.0,vim:v9.1.1970,
 $TERMneovim:v0.2.1,
 $VIMneovim:v0.1.0,vim:v7.0001,
@@ -15047,8 +15047,8 @@ vim.highlight.on_yank()neovim:v0.5.0,v0.11.0
 vim.highlight.prioritiesneovim:v0.7.0,v0.11.0
 vim.highlight.range()neovim:v0.5.0,v0.11.0
 vim.hlneovim:v0.11.0,
-vim.hl.hl_op()neovim:dev,
-vim.hl.on_yank()neovim:v0.11.0,dev
+vim.hl.hl_op()neovim:nightly,
+vim.hl.on_yank()neovim:v0.11.0,nightly
 vim.hl.prioritiesneovim:v0.11.0,
 vim.hl.range()neovim:v0.11.0,
 vim.iconv()neovim:v0.8.0,
@@ -15274,7 +15274,7 @@ vim.lsp.util.border_width()neovim:v0.5.0,v0.6.0
 vim.lsp.util.buf_clear_references()neovim:v0.5.0,
 vim.lsp.util.buf_highlight_references()neovim:v0.5.0,
 vim.lsp.util.buf_lines()neovim:v0.5.0,v0.6.0
-vim.lsp.util.character_offset()neovim:v0.5.0,
+vim.lsp.util.character_offset()neovim:v0.5.0,dev
 vim.lsp.util.close_preview_autocmd()neovim:v0.5.0,v0.7.0
 vim.lsp.util.compute_diff()neovim:v0.5.0,v0.6.0
 vim.lsp.util.convert_input_to_markdown_lines()neovim:v0.5.0,
@@ -15352,10 +15352,12 @@ vim.posneovim:v0.12.0,
 vim.pos.cursor()neovim:nightly,
 vim.pos.extmark()neovim:nightly,
 vim.pos.lsp()neovim:nightly,
+vim.pos.mark()neovim:dev,
 vim.pos.offset()neovim:nightly,
 vim.pos.to_cursor()neovim:nightly,
 vim.pos.to_extmark()neovim:nightly,
 vim.pos.to_lsp()neovim:nightly,
+vim.pos.to_mark()neovim:dev,
 vim.pos.to_offset()neovim:nightly,
 vim.pretty_print()neovim:v0.7.0,v0.9.0
 vim.print()neovim:v0.9.0,
@@ -15366,9 +15368,11 @@ vim.range.has()neovim:nightly,
 vim.range.intersect()neovim:nightly,
 vim.range.is_empty()neovim:nightly,
 vim.range.lsp()neovim:nightly,
+vim.range.mark()neovim:dev,
 vim.range.to_cursor()neovim:nightly,
 vim.range.to_extmark()neovim:nightly,
 vim.range.to_lsp()neovim:nightly,
+vim.range.to_mark()neovim:dev,
 vim.reneovim:v0.10.0,
 vim.re.compile()neovim:v0.10.0,
 vim.re.find()neovim:v0.10.0,

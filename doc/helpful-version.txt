@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2026-05-18 00:46:29 UTC
+*helpful-version.txt*  Generated: 2026-05-19 00:47:29 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -82,7 +82,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |$NVIM_TERMDEFS|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |$NoDefaultCurrentDirectoryInExePath|
 
@@ -69653,11 +69653,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.hl.hl_op()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.hl.on_yank()|
 
-    Neovim: +v0.11.0 -dev 
+    Neovim: +v0.11.0 -nightly 
 
 |vim.hl.priorities|
 
@@ -70561,7 +70561,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.lsp.util.character_offset()|
 
-    Neovim: +v0.5.0 
+    Neovim: +v0.5.0 -dev 
 
 |vim.lsp.util.close_preview_autocmd()|
 
@@ -70871,6 +70871,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +nightly 
 
+|vim.pos.mark()|
+
+    Neovim: +dev 
+
 |vim.pos.offset()|
 
     Neovim: +nightly 
@@ -70886,6 +70890,10 @@ A listing of helptags with the versions they became available or were removed.
 |vim.pos.to_lsp()|
 
     Neovim: +nightly 
+
+|vim.pos.to_mark()|
+
+    Neovim: +dev 
 
 |vim.pos.to_offset()|
 
@@ -70927,6 +70935,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +nightly 
 
+|vim.range.mark()|
+
+    Neovim: +dev 
+
 |vim.range.to_cursor()|
 
     Neovim: +nightly 
@@ -70938,6 +70950,10 @@ A listing of helptags with the versions they became available or were removed.
 |vim.range.to_lsp()|
 
     Neovim: +nightly 
+
+|vim.range.to_mark()|
+
+    Neovim: +dev 
 
 |vim.re|
 
