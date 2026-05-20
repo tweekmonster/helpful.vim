@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2026-05-19 00:47:29 UTC
+*helpful-version.txt*  Generated: 2026-05-20 00:49:05 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -32399,6 +32399,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|al|
+
+    Neovim: +dev 
+
 |aleph|
 
     Neovim: +v0.1.0 -v0.9.0 
@@ -47151,6 +47155,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.5.0 
        Vim: +v8.1.2088 
+
+|il|
+
+    Neovim: +dev 
 
 |implements|
 
@@ -68290,6 +68298,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|v_al|
+
+    Neovim: +dev 
+
 |v_an|
 
     Neovim: +v0.12.0 
@@ -68554,6 +68566,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|v_il|
+
+    Neovim: +dev 
 
 |v_in|
 
@@ -70561,7 +70577,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.lsp.util.character_offset()|
 
-    Neovim: +v0.5.0 -dev 
+    Neovim: +v0.5.0 -nightly 
 
 |vim.lsp.util.close_preview_autocmd()|
 
@@ -70873,7 +70889,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.pos.mark()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.pos.offset()|
 
@@ -70893,7 +70909,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.pos.to_mark()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.pos.to_offset()|
 
@@ -70937,7 +70953,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.range.mark()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.range.to_cursor()|
 
@@ -70953,7 +70969,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.range.to_mark()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.re|
 
