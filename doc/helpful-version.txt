@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2026-05-21 00:48:47 UTC
+*helpful-version.txt*  Generated: 2026-05-22 00:46:59 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -8220,12 +8220,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |--serverlist|
 
-    Neovim: +v0.7.0 -dev 
+    Neovim: +v0.7.0 -nightly 
        Vim: +v7.0001 
 
 |--servername|
 
-    Neovim: +v0.7.0 -dev 
+    Neovim: +v0.7.0 -nightly 
        Vim: +v7.0001 
 
 |--socketid|
@@ -23044,7 +23044,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |E1319|
 
-       Vim: +v9.0.1048 
+       Vim: +v9.0.1048 -v9.2.0507 
 
 |E132|
 
@@ -23057,7 +23057,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |E1321|
 
-       Vim: +v9.0.1048 
+       Vim: +v9.0.1048 -v9.2.0507 
 
 |E1322|
 
@@ -23065,7 +23065,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |E1323|
 
-       Vim: +v9.0.1048 
+       Vim: +v9.0.1048 -v9.2.0507 
 
 |E1324|
 
@@ -23420,15 +23420,15 @@ A listing of helptags with the versions they became available or were removed.
 
 |E1400|
 
-       Vim: +v9.0.2162 -v9.0.1950 
+       Vim: +v9.0.2162 -v9.2.0507 
 
 |E1401|
 
-       Vim: +v9.0.2162 -v9.0.1950 
+       Vim: +v9.0.2162 -v9.2.0507 
 
 |E1402|
 
-       Vim: +v9.0.2162 -v9.0.1950 
+       Vim: +v9.0.2162 -v9.2.0507 
 
 |E1403|
 
@@ -26763,7 +26763,7 @@ A listing of helptags with the versions they became available or were removed.
 |E614|
 
     Neovim: +v0.1.0 
-       Vim: +v9.0.1975 -v8.2.4727 
+       Vim: +v9.0.1975 -v9.2.0507 
 
 |E615|
 
@@ -35296,7 +35296,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |client-server-name|
 
-    Neovim: +v0.7.0 -dev 
+    Neovim: +v0.7.0 -nightly 
        Vim: +v8.0.0837 
 
 |clientserver|
@@ -64946,7 +64946,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |text-object-define|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |text-objects|
 
@@ -65604,6 +65604,10 @@ A listing of helptags with the versions they became available or were removed.
 |tui-modifyOtherKeys|
 
     Neovim: +v0.8.0 
+
+|tui-termdefs|
+
+    Neovim: +dev 
 
 |tui.txt|
 
@@ -70931,10 +70935,6 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.12.0 
 
-|vim.range.cursor()|
-
-    Neovim: +nightly -dev 
-
 |vim.range.extmark()|
 
     Neovim: +nightly 
@@ -70958,10 +70958,6 @@ A listing of helptags with the versions they became available or were removed.
 |vim.range.mark()|
 
     Neovim: +nightly 
-
-|vim.range.to_cursor()|
-
-    Neovim: +nightly -dev 
 
 |vim.range.to_extmark()|
 
