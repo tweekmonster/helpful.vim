@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2026-05-22 00:46:59 UTC
+*helpful-version.txt*  Generated: 2026-05-23 00:45:48 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -23931,7 +23931,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |E1563|
 
-       Vim: +v9.1.1651 
+       Vim: +v9.1.1651 -v9.2.0512 
 
 |E1564|
 
@@ -23947,7 +23947,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |E1567|
 
-       Vim: +v9.1.1651 
+       Vim: +v9.1.1651 -v9.2.0512 
 
 |E1568|
 
@@ -60787,6 +60787,10 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v7.4.1191 -v7.4.1192 
 
+|socketserver-address|
+
+       Vim: +v9.2.0512 
+
 |socketserver-clientserver|
 
        Vim: +v9.1.1651 
@@ -65607,7 +65611,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |tui-termdefs|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |tui.txt|
 
