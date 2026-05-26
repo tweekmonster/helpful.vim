@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2026-05-25 00:48:29 UTC
+*helpful-version.txt*  Generated: 2026-05-26 00:46:34 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -8108,6 +8108,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|--display|
+
+       Vim: +v9.2.0536 
 
 |--echo-wid|
 
@@ -44276,6 +44280,10 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v7.0001 
 
+|gui-fullscreen|
+
+       Vim: +v9.2.0534 
+
 |gui-functions|
 
     Neovim: +v0.1.0 
@@ -44418,7 +44426,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |gui-w32-fullscreen|
 
-       Vim: +v9.1.2005 
+       Vim: +v9.1.2005 -v9.2.0534 
 
 |gui-w32-printing|
 
@@ -61879,6 +61887,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.11.0 
        Vim: +v9.1.0890 
+
+|stl-%0{|
+
+       Vim: +v9.2.0538 
 
 |stl-%@|
 
