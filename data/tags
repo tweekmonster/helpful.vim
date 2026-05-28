@@ -6804,7 +6804,7 @@ alneovim:nightly,
 alephneovim:v0.1.0,v0.9.0vim:v7.0001,
 algol68neovim:nightly,vim:v9.2.0397,
 algol68_no_preludesneovim:nightly,vim:v9.2.0397,
-algol68_symbolic_operatorsneovim:nightly,vim:v9.2.0397,
+algol68_symbolic_operatorsneovim:nightly,devvim:v9.2.0397,v9.2.0543
 alloc_fail()vim:v7.4.1058,v7.4.1844
 altneovim:v0.1.0,v0.3.2vim:v7.0001,
 alt-inputneovim:v0.1.0,v0.1.2vim:v7.0001,
