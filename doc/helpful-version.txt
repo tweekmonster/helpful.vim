@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2026-05-28 00:44:02 UTC
+*helpful-version.txt*  Generated: 2026-05-29 00:50:55 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -32429,7 +32429,6 @@ A listing of helptags with the versions they became available or were removed.
 
 |algol68_symbolic_operators|
 
-    Neovim: +nightly -dev 
        Vim: +v9.2.0397 -v9.2.0543 
 
 |alloc_fail()|
