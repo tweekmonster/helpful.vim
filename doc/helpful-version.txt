@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2026-06-06 00:48:44 UTC
+*helpful-version.txt*  Generated: 2026-06-08 00:53:14 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -44230,6 +44230,10 @@ A listing of helptags with the versions they became available or were removed.
 |gtk3-slow|
 
        Vim: +v8.2.0929 
+
+|gtk4-slow|
+
+       Vim: +v9.2.0602 
 
 |gu|
 
