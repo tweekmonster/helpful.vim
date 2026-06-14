@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2026-06-10 00:52:50 UTC
+*helpful-version.txt*  Generated: 2026-06-14 00:54:07 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -7535,6 +7535,10 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v9.2.0612 
 
+|+image_gdk|
+
+       Vim: +v9.2.0632 
+
 |+image_kitty|
 
        Vim: +v9.2.0612 
@@ -12833,6 +12837,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.1a 
+
+|:command-completeopt|
+
+       Vim: +v9.2.0638 
 
 |:command-completion|
 
@@ -33165,6 +33173,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.3.928 
 
+|b:beancount_root|
+
+       Vim: +v9.2.0635 
+
 |b:changedtick|
 
     Neovim: +v0.1.0 
@@ -40263,6 +40275,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0139 
 
+|ft-beancount-plugin|
+
+       Vim: +v9.2.0635 
+
 |ft-c-occult|
 
        Vim: +v7.0145 -v7.0146 
@@ -41662,6 +41678,22 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.2a -v7.2a.00 
+
+|g:beancount_account_completion|
+
+       Vim: +v9.2.0635 
+
+|g:beancount_completion_enable|
+
+       Vim: +v9.2.0635 
+
+|g:beancount_detailed_first|
+
+       Vim: +v9.2.0635 
+
+|g:beancount_separator_col|
+
+       Vim: +v9.2.0635 
 
 |g:cargo_makeprg_params|
 
@@ -44254,6 +44286,10 @@ A listing of helptags with the versions they became available or were removed.
 |gtk3-slow|
 
        Vim: +v8.2.0929 
+
+|gtk4-hwaccel|
+
+       Vim: +v9.2.0632 
 
 |gtk4-slow|
 
