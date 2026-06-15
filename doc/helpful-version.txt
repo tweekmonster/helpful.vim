@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2026-06-14 00:54:07 UTC
+*helpful-version.txt*  Generated: 2026-06-15 00:56:18 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -30401,6 +30401,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.10.0 
        Vim: +v9.1.0207 
 
+|SessionWritePre|
+
+    Neovim: +dev 
+
 |ShellCmdPost|
 
     Neovim: +v0.1.0 
@@ -33175,6 +33179,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |b:beancount_root|
 
+    Neovim: +nightly 
        Vim: +v9.2.0635 
 
 |b:changedtick|
@@ -40277,6 +40282,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |ft-beancount-plugin|
 
+    Neovim: +nightly 
        Vim: +v9.2.0635 
 
 |ft-c-occult|
@@ -41681,18 +41687,22 @@ A listing of helptags with the versions they became available or were removed.
 
 |g:beancount_account_completion|
 
+    Neovim: +nightly 
        Vim: +v9.2.0635 
 
 |g:beancount_completion_enable|
 
+    Neovim: +nightly 
        Vim: +v9.2.0635 
 
 |g:beancount_detailed_first|
 
+    Neovim: +nightly 
        Vim: +v9.2.0635 
 
 |g:beancount_separator_col|
 
+    Neovim: +nightly 
        Vim: +v9.2.0635 
 
 |g:cargo_makeprg_params|
