@@ -6970,7 +6970,7 @@ a{neovim:v0.1.0,vim:v7.0001,
 a}neovim:v0.1.0,vim:v7.0001,
 bneovim:v0.1.0,vim:v7.0001,
 b:neovim:v0.1.0,vim:v7.3.928,
-b:beancount_rootneovim:nightly,vim:v9.2.0635,
+b:beancount_rootneovim:nightly,devvim:v9.2.0635,v9.2.0670
 b:changedtickneovim:v0.1.0,vim:v7.3.883,
 b:changedtick-variablevim:v7.0001,v7.3.883
 b:changelog_nameneovim:v0.1.0,vim:v7.2c.000,
@@ -8789,10 +8789,10 @@ g:ada_space_errorsneovim:v0.1.0,vim:v7.2a,v7.2a.00
 g:ada_standard_typesneovim:v0.1.0,vim:v7.2a,v7.2a.00
 g:ada_with_gnat_project_filesneovim:v0.1.0,vim:v7.2a,v7.2a.00
 g:ada_withuse_ordinaryneovim:v0.1.0,vim:v7.2a,v7.2a.00
-g:beancount_account_completionneovim:nightly,vim:v9.2.0635,
-g:beancount_completion_enableneovim:nightly,vim:v9.2.0635,
-g:beancount_detailed_firstneovim:nightly,vim:v9.2.0635,
-g:beancount_separator_colneovim:nightly,vim:v9.2.0635,
+g:beancount_account_completionneovim:nightly,devvim:v9.2.0635,v9.2.0670
+g:beancount_completion_enableneovim:nightly,devvim:v9.2.0635,v9.2.0670
+g:beancount_detailed_firstneovim:nightly,devvim:v9.2.0635,v9.2.0670
+g:beancount_separator_colneovim:nightly,devvim:v9.2.0635,v9.2.0670
 g:cargo_makeprg_paramsneovim:v0.10.0,vim:v9.0.1898,
 g:cargo_shell_command_runnerneovim:v0.10.0,vim:v9.0.1898,
 g:clipboardneovim:v0.2.1,
