@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2026-06-19 00:59:36 UTC
+*helpful-version.txt*  Generated: 2026-06-20 00:50:14 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -40732,6 +40732,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |ft-luau-plugin|
 
+    Neovim: +nightly 
        Vim: +v9.2.0677 
 
 |ft-mail-plugin|
@@ -42196,6 +42197,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |g:luau_folding|
 
+    Neovim: +nightly 
        Vim: +v9.2.0677 
 
 |g:man_hardwrap|
@@ -61905,7 +61907,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |startreason-variable|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |starttime-variable|
 
@@ -67927,7 +67929,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |v:startreason|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |v:starttime|
 
