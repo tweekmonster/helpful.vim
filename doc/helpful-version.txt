@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2026-06-23 00:48:46 UTC
+*helpful-version.txt*  Generated: 2026-06-24 00:44:36 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -20422,6 +20422,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |@#|
 
+    Neovim: +nightly 
        Vim: +v9.2.0705 
 
 |@/|
@@ -33803,6 +33804,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|buffer-open|
+
+    Neovim: +dev 
 
 |buffer-reuse|
 
@@ -49857,6 +49862,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.12.0 
 
+|lua-plugin-open-file|
+
+    Neovim: +dev 
+
 |lua-plugin-troubleshooting|
 
     Neovim: +v0.12.0 
@@ -56451,6 +56460,10 @@ A listing of helptags with the versions they became available or were removed.
 |opacity|
 
     Neovim: +v0.11.0 
+
+|open-file|
+
+    Neovim: +dev 
 
 |opening-window|
 
