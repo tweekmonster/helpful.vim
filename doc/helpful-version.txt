@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2026-06-26 00:51:03 UTC
+*helpful-version.txt*  Generated: 2026-06-27 00:48:14 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -22443,7 +22443,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |E1188|
 
-    Neovim: +v0.6.0 -dev 
+    Neovim: +v0.6.0 -nightly 
        Vim: +v8.2.2914 
 
 |E1189|
@@ -24269,7 +24269,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |E199|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |E20|
@@ -37882,11 +37882,15 @@ A listing of helptags with the versions they became available or were removed.
 
 |dir|
 
+    Neovim: +nightly 
+
+|dir-buffer-mappings|
+
     Neovim: +dev 
 
 |dir-mappings|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |dircolors-syntax|
 
@@ -40441,7 +40445,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |ft-directory|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |ft-docbk-syntax|
 
@@ -42188,7 +42192,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |g:loaded_nvim_dir_plugin|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |g:loaded_perl_provider|
 
@@ -55430,7 +55434,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |nvim__cmdwin_set()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim__complete_set()|
 
