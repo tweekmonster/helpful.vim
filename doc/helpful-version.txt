@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2026-06-28 00:50:02 UTC
+*helpful-version.txt*  Generated: 2026-06-30 00:49:14 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -16507,6 +16507,10 @@ A listing of helptags with the versions they became available or were removed.
 |:restart|
 
     Neovim: +v0.12.0 
+
+|:restart!|
+
+    Neovim: +dev 
 
 |:ret|
 
@@ -41363,6 +41367,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |ft_recommended_style|
 
+    Neovim: +nightly 
        Vim: +v9.2.0539 
 
 |ft_rust.txt|
@@ -64598,6 +64603,10 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v8.0.1641 
 
+|terminal-concepts|
+
+    Neovim: +dev 
+
 |terminal-config|
 
     Neovim: +v0.5.0 
@@ -64605,6 +64614,10 @@ A listing of helptags with the versions they became available or were removed.
 |terminal-configuration|
 
     Neovim: +v0.2.1 -v0.5.0 
+
+|terminal-conpty|
+
+    Neovim: +dev 
 
 |terminal-cursor-style|
 
@@ -64695,6 +64708,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |terminal-ms-windows|
 
+    Neovim: +dev 
        Vim: +v8.0.1290 
 
 |terminal-nospecial|
@@ -66254,6 +66268,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 -v0.5.0 
        Vim: +v7.0001 
+
+|user-idle|
+
+    Neovim: +dev 
 
 |user-manual|
 
