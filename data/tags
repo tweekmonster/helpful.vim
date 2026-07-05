@@ -4385,6 +4385,7 @@ CTRL-]neovim:v0.1.0,vim:v7.0001,
 CTRL-^neovim:v0.1.0,vim:v7.0001,
 CTRL-{char}neovim:v0.1.0,vim:v7.0001,
 Cfilterneovim:v0.3.2,v0.4.0vim:v8.1.0444,v8.1.0649
+ChanCloseneovim:dev,
 ChanInfoneovim:v0.3.0,
 ChanOpenneovim:v0.3.0,
 Channelvim:v7.4.1382,
@@ -15300,8 +15301,8 @@ vim.lsp.rpc.Clientneovim:nightly,
 vim.lsp.rpc.PublicClientneovim:v0.10.0,nightly
 vim.lsp.rpc.connect()neovim:v0.8.0,
 vim.lsp.rpc.format_rpc_error()neovim:v0.5.0,
-vim.lsp.rpc.notify()neovim:v0.5.0,
-vim.lsp.rpc.request()neovim:v0.5.0,
+vim.lsp.rpc.notify()neovim:v0.5.0,dev
+vim.lsp.rpc.request()neovim:v0.5.0,dev
 vim.lsp.rpc.rpc_response_error()neovim:v0.5.0,
 vim.lsp.rpc.start()neovim:v0.5.0,
 vim.lsp.semantic_tokens.enable()neovim:v0.12.0,

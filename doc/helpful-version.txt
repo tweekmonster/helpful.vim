@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2026-07-03 00:40:26 UTC
+*helpful-version.txt*  Generated: 2026-07-05 00:42:14 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -21300,6 +21300,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.3.2 -v0.4.0 
        Vim: +v8.1.0444 -v8.1.0649 
+
+|ChanClose|
+
+    Neovim: +dev 
 
 |ChanInfo|
 
@@ -70673,11 +70677,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.lsp.rpc.notify()|
 
-    Neovim: +v0.5.0 
+    Neovim: +v0.5.0 -dev 
 
 |vim.lsp.rpc.request()|
 
-    Neovim: +v0.5.0 
+    Neovim: +v0.5.0 -dev 
 
 |vim.lsp.rpc.rpc_response_error()|
 
