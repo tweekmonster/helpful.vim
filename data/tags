@@ -4385,7 +4385,7 @@ CTRL-]neovim:v0.1.0,vim:v7.0001,
 CTRL-^neovim:v0.1.0,vim:v7.0001,
 CTRL-{char}neovim:v0.1.0,vim:v7.0001,
 Cfilterneovim:v0.3.2,v0.4.0vim:v8.1.0444,v8.1.0649
-ChanCloseneovim:dev,
+ChanCloseneovim:nightly,
 ChanInfoneovim:v0.3.0,
 ChanOpenneovim:v0.3.0,
 Channelvim:v7.4.1382,
@@ -12071,14 +12071,15 @@ nvim_win_get_var()neovim:v0.2.0,
 nvim_win_get_width()neovim:v0.2.0,
 nvim_win_hide()neovim:v0.5.0,
 nvim_win_is_valid()neovim:v0.2.0,
+nvim_win_resize()neovim:dev,
 nvim_win_set_buf()neovim:v0.3.2,
 nvim_win_set_config()neovim:v0.4.0,
 nvim_win_set_cursor()neovim:v0.2.0,
-nvim_win_set_height()neovim:v0.2.0,
+nvim_win_set_height()neovim:v0.2.0,dev
 nvim_win_set_hl_ns()neovim:v0.8.0,
 nvim_win_set_option()neovim:v0.2.0,v0.10.0
 nvim_win_set_var()neovim:v0.2.0,
-nvim_win_set_width()neovim:v0.2.0,
+nvim_win_set_width()neovim:v0.2.0,dev
 nvim_win_text_height()neovim:v0.10.0,
 oneovim:v0.1.0,vim:v7.0001,
 o_CTRL-Vneovim:v0.1.0,vim:v7.0001,
@@ -15301,8 +15302,8 @@ vim.lsp.rpc.Clientneovim:nightly,
 vim.lsp.rpc.PublicClientneovim:v0.10.0,nightly
 vim.lsp.rpc.connect()neovim:v0.8.0,
 vim.lsp.rpc.format_rpc_error()neovim:v0.5.0,
-vim.lsp.rpc.notify()neovim:v0.5.0,dev
-vim.lsp.rpc.request()neovim:v0.5.0,dev
+vim.lsp.rpc.notify()neovim:v0.5.0,nightly
+vim.lsp.rpc.request()neovim:v0.5.0,nightly
 vim.lsp.rpc.rpc_response_error()neovim:v0.5.0,
 vim.lsp.rpc.start()neovim:v0.5.0,
 vim.lsp.semantic_tokens.enable()neovim:v0.12.0,

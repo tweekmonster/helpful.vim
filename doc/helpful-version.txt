@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2026-07-05 00:42:14 UTC
+*helpful-version.txt*  Generated: 2026-07-06 00:41:49 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -21303,7 +21303,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |ChanClose|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |ChanInfo|
 
@@ -56262,6 +56262,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.2.0 
 
+|nvim_win_resize()|
+
+    Neovim: +dev 
+
 |nvim_win_set_buf()|
 
     Neovim: +v0.3.2 
@@ -56276,7 +56280,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |nvim_win_set_height()|
 
-    Neovim: +v0.2.0 
+    Neovim: +v0.2.0 -dev 
 
 |nvim_win_set_hl_ns()|
 
@@ -56292,7 +56296,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |nvim_win_set_width()|
 
-    Neovim: +v0.2.0 
+    Neovim: +v0.2.0 -dev 
 
 |nvim_win_text_height()|
 
@@ -70677,11 +70681,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.lsp.rpc.notify()|
 
-    Neovim: +v0.5.0 -dev 
+    Neovim: +v0.5.0 -nightly 
 
 |vim.lsp.rpc.request()|
 
-    Neovim: +v0.5.0 -dev 
+    Neovim: +v0.5.0 -nightly 
 
 |vim.lsp.rpc.rpc_response_error()|
 
