@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2026-07-07 00:42:00 UTC
+*helpful-version.txt*  Generated: 2026-07-09 00:39:17 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -4400,6 +4400,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|'packlockfile'|
+
+    Neovim: +dev 
+
 |'packpath'|
 
     Neovim: +v0.1.5 
@@ -4488,6 +4492,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|'plf'|
+
+    Neovim: +dev 
 
 |'pm'|
 
@@ -69761,6 +69769,10 @@ A listing of helptags with the versions they became available or were removed.
 |vim.fs.joinpath()|
 
     Neovim: +v0.10.0 
+
+|vim.fs.mkdir()|
+
+    Neovim: +dev 
 
 |vim.fs.normalize()|
 
