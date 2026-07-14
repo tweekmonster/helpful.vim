@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2026-07-10 00:40:59 UTC
+*helpful-version.txt*  Generated: 2026-07-14 00:32:31 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -36130,7 +36130,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |context-stack|
 
-    Neovim: +v0.4.0 
+    Neovim: +v0.4.0 -dev 
 
 |context-types|
 
@@ -36781,27 +36781,27 @@ A listing of helptags with the versions they became available or were removed.
 
 |ctx-functions|
 
-    Neovim: +v0.4.0 
+    Neovim: +v0.4.0 -dev 
 
 |ctxget()|
 
-    Neovim: +v0.4.0 
+    Neovim: +v0.4.0 -dev 
 
 |ctxpop()|
 
-    Neovim: +v0.4.0 
+    Neovim: +v0.4.0 -dev 
 
 |ctxpush()|
 
-    Neovim: +v0.4.0 
+    Neovim: +v0.4.0 -dev 
 
 |ctxset()|
 
-    Neovim: +v0.4.0 
+    Neovim: +v0.4.0 -dev 
 
 |ctxsize()|
 
-    Neovim: +v0.4.0 
+    Neovim: +v0.4.0 -dev 
 
 |ctype-variable|
 
