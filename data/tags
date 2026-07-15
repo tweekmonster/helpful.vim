@@ -7608,7 +7608,7 @@ console-menusneovim:v0.1.0,vim:v7.0001,
 constructorvim:v9.0.1950,
 contextneovim:v0.4.0,
 context-dictneovim:v0.4.0,
-context-stackneovim:v0.4.0,dev
+context-stackneovim:v0.4.0,nightly
 context-typesneovim:v0.4.0,
 context.vimvim:v9.0.0281,
 continuationneovim:v0.12.0,
@@ -7745,12 +7745,12 @@ cterm-colorsneovim:v0.1.0,vim:v7.0001,
 ctermbgneovim:v0.8.0,
 ctermfgneovim:v0.8.0,
 ctrlneovim:v0.1.0,vim:v7.0001,
-ctx-functionsneovim:v0.4.0,dev
-ctxget()neovim:v0.4.0,dev
-ctxpop()neovim:v0.4.0,dev
-ctxpush()neovim:v0.4.0,dev
-ctxset()neovim:v0.4.0,dev
-ctxsize()neovim:v0.4.0,dev
+ctx-functionsneovim:v0.4.0,nightly
+ctxget()neovim:v0.4.0,nightly
+ctxpop()neovim:v0.4.0,nightly
+ctxpush()neovim:v0.4.0,nightly
+ctxset()neovim:v0.4.0,nightly
+ctxsize()neovim:v0.4.0,nightly
 ctype-variableneovim:v0.1.0,vim:v7.0001,
 curly-braces-function-namesneovim:v0.1.0,vim:v7.0001,
 curly-braces-namesneovim:v0.1.0,vim:v7.0001,
