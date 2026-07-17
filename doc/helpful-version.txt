@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2026-07-15 00:29:39 UTC
+*helpful-version.txt*  Generated: 2026-07-17 00:35:09 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -37907,6 +37907,10 @@ A listing of helptags with the versions they became available or were removed.
 |dir-mappings|
 
     Neovim: +nightly 
+
+|dir-replace-browser|
+
+    Neovim: +dev 
 
 |dircolors-syntax|
 
