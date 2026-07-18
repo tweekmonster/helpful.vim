@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2026-07-17 00:35:09 UTC
+*helpful-version.txt*  Generated: 2026-07-18 00:32:06 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -26157,6 +26157,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +nightly 
 
+|E5201|
+
+    Neovim: +dev 
+
 |E521|
 
     Neovim: +v0.1.0 
@@ -26562,6 +26566,10 @@ A listing of helptags with the versions they became available or were removed.
 |E5767|
 
     Neovim: +v0.8.0 
+
+|E5768|
+
+    Neovim: +dev 
 
 |E577|
 
@@ -37910,7 +37918,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |dir-replace-browser|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |dircolors-syntax|
 
