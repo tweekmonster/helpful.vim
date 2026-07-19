@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2026-07-18 00:32:06 UTC
+*helpful-version.txt*  Generated: 2026-07-19 00:35:33 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -26159,7 +26159,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |E5201|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |E521|
 
@@ -26569,7 +26569,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |E5768|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |E577|
 
@@ -37535,27 +37535,47 @@ A listing of helptags with the versions they became available or were removed.
 
 |dev-vimpatch-code-differences|
 
-    Neovim: +v0.10.0 
+    Neovim: +v0.10.0 -dev 
+
+|dev-vimpatch-diff|
+
+    Neovim: +dev 
+
+|dev-vimpatch-doc|
+
+    Neovim: +dev 
 
 |dev-vimpatch-documentation|
 
-    Neovim: +v0.10.0 
+    Neovim: +v0.10.0 -dev 
 
 |dev-vimpatch-filetype|
 
     Neovim: +v0.11.0 
 
+|dev-vimpatch-list-impl|
+
+    Neovim: +dev 
+
 |dev-vimpatch-list-management|
 
-    Neovim: +v0.10.0 
+    Neovim: +v0.10.0 -dev 
+
+|dev-vimpatch-na|
+
+    Neovim: +dev 
 
 |dev-vimpatch-not-applicable|
 
-    Neovim: +v0.10.0 
+    Neovim: +v0.10.0 -dev 
+
+|dev-vimpatch-pr|
+
+    Neovim: +dev 
 
 |dev-vimpatch-pull-requests|
 
-    Neovim: +v0.10.0 
+    Neovim: +v0.10.0 -dev 
 
 |dev-vimpatch-quickstart|
 
@@ -37912,13 +37932,17 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +nightly 
 
+|dir-disable|
+
+    Neovim: +dev 
+
 |dir-mappings|
 
     Neovim: +nightly 
 
 |dir-replace-browser|
 
-    Neovim: +nightly 
+    Neovim: +nightly -dev 
 
 |dircolors-syntax|
 
@@ -45590,7 +45614,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |hl-FLoatShadowThrough|
 
-    Neovim: +v0.12.0 
+    Neovim: +v0.12.0 -dev 
 
 |hl-FloatBorder|
 
@@ -45603,6 +45627,10 @@ A listing of helptags with the versions they became available or were removed.
 |hl-FloatShadow|
 
     Neovim: +v0.12.0 
+
+|hl-FloatShadowThrough|
+
+    Neovim: +dev 
 
 |hl-FloatTitle|
 
