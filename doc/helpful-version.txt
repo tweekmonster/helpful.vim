@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2026-07-19 00:35:33 UTC
+*helpful-version.txt*  Generated: 2026-07-20 03:02:50 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -37535,19 +37535,19 @@ A listing of helptags with the versions they became available or were removed.
 
 |dev-vimpatch-code-differences|
 
-    Neovim: +v0.10.0 -dev 
+    Neovim: +v0.10.0 -nightly 
 
 |dev-vimpatch-diff|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |dev-vimpatch-doc|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |dev-vimpatch-documentation|
 
-    Neovim: +v0.10.0 -dev 
+    Neovim: +v0.10.0 -nightly 
 
 |dev-vimpatch-filetype|
 
@@ -37555,27 +37555,27 @@ A listing of helptags with the versions they became available or were removed.
 
 |dev-vimpatch-list-impl|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |dev-vimpatch-list-management|
 
-    Neovim: +v0.10.0 -dev 
+    Neovim: +v0.10.0 -nightly 
 
 |dev-vimpatch-na|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |dev-vimpatch-not-applicable|
 
-    Neovim: +v0.10.0 -dev 
+    Neovim: +v0.10.0 -nightly 
 
 |dev-vimpatch-pr|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |dev-vimpatch-pull-requests|
 
-    Neovim: +v0.10.0 -dev 
+    Neovim: +v0.10.0 -nightly 
 
 |dev-vimpatch-quickstart|
 
@@ -37934,15 +37934,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |dir-disable|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |dir-mappings|
 
     Neovim: +nightly 
-
-|dir-replace-browser|
-
-    Neovim: +nightly -dev 
 
 |dircolors-syntax|
 
@@ -45614,7 +45610,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |hl-FLoatShadowThrough|
 
-    Neovim: +v0.12.0 -dev 
+    Neovim: +v0.12.0 -nightly 
 
 |hl-FloatBorder|
 
@@ -45630,7 +45626,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |hl-FloatShadowThrough|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |hl-FloatTitle|
 
@@ -48307,6 +48303,10 @@ A listing of helptags with the versions they became available or were removed.
 |kde-toolbar|
 
        Vim: +v7.0007 -v7.0163 
+
+|key-chord|
+
+    Neovim: +dev 
 
 |key-codes|
 
