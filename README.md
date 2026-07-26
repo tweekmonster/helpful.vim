@@ -8,14 +8,19 @@ introduced or removed features.
 
 ## Usage
 
-The command `:HelpfulVersion` takes a subject to search for helptags and
-display version information.
+The command `:HelpfulVersion` searches helptags for a subject and displays the
+version information.
+
+Use `:HelpfulVersion!` to match the exact help tag name instead of doing a
+broader search.
 
 Examples:
 
 ```vim
-" Search for a function
-:HelpfulVersion matchaddpos()
+" Search for a matching name
+:HelpfulVersion matchaddpos
+" Search for the exact name
+:HelpfulVersion! matchaddpos()
 ```
 
 

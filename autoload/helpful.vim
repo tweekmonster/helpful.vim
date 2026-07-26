@@ -294,7 +294,7 @@ endfunction
 
 
 " Find helptag using a pattern and print the results.
-function! helpful#lookup(pattern) abort
+function! helpful#lookup(pattern, bang) abort
   " Remove @{lang} pattern
   let pattern = substitute(a:pattern, '.\+\zs@\w\+$', '', '')
 
@@ -303,7 +303,10 @@ function! helpful#lookup(pattern) abort
   let tags = []
   let width = 0
   for tag in keys(s:data)
-    if stridx(tolower(tag), tolower(pattern)) >= 0
+    let matched = a:bang ==# '!'
+          \ ? tag ==# pattern
+          \ : stridx(tolower(tag), tolower(pattern)) >= 0
+    if matched
       call add(tags, tag)
       let width = max([width, strlen(tag)])
     endif
