@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2026-07-30 00:33:20 UTC
+*helpful-version.txt*  Generated: 2026-07-31 00:36:59 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -41997,7 +41997,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |g:ftplugin_java_source_path|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |g:ftplugin_rust_source_path|
 
@@ -42263,7 +42263,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |g:loaded_nvim_zip_plugin|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |g:loaded_perl_provider|
 
@@ -43322,23 +43322,27 @@ A listing of helptags with the versions they became available or were removed.
 
 |g:zipPlugin_ext|
 
-    Neovim: +v0.2.0 -dev 
+    Neovim: +v0.2.0 -nightly 
        Vim: +v8.0.0006 
 
 |g:zip_exec|
 
-    Neovim: +v0.10.0 -dev 
+    Neovim: +v0.10.0 -nightly 
        Vim: +v9.0.2092 
 
 |g:zip_extractcmd|
 
-    Neovim: +v0.2.0 -dev 
+    Neovim: +v0.2.0 -nightly 
        Vim: +v8.0.0006 
 
 |g:zip_nomax|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.2a 
+
+|g:zip_pwsh|
+
+       Vim: +v9.2.0876 
 
 |g:zip_shq|
 
@@ -43347,12 +43351,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |g:zip_unzipcmd|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.1b 
 
 |g:zip_zipcmd|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.1b 
 
 |g;|
@@ -56499,7 +56503,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |old-zip|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |oldfiles-variable|
 
@@ -57541,7 +57545,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |pi_zip.txt|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0e06 
 
 |pkzip|
@@ -73671,54 +73675,54 @@ A listing of helptags with the versions they became available or were removed.
 
 |zip-contents|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0148 
 
 |zip-copyright|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0148 
 
 |zip-extension|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.1b 
 
 |zip-history|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0148 
 
 |zip-integrations|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |zip-limitations|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |zip-listing|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |zip-manual|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0148 
 
 |zip-usage|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0148 
 
 |zip-x|
 
-    Neovim: +v0.2.0 -dev 
+    Neovim: +v0.2.0 -nightly 
        Vim: +v8.0.0006 
 
 |zip.txt|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v7.0148 -v7.0e06 
 
 |zip_shq|
