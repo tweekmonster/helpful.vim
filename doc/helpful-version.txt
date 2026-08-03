@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2026-08-02 00:36:59 UTC
+*helpful-version.txt*  Generated: 2026-08-03 00:36:59 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -7732,6 +7732,10 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v7.4.1823 
 
+|+pango|
+
+       Vim: +v9.2.0898 
+
 |+path_extra|
 
     Neovim: +v0.1.0 -v0.4.0 
@@ -8401,7 +8405,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |-_default|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |-b|
 
@@ -44423,6 +44427,10 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v9.2.0719 
 
+|gtk4-print|
+
+       Vim: +v9.2.0898 
+
 |gtk4-slow|
 
        Vim: +v9.2.0602 
@@ -57075,6 +57083,10 @@ A listing of helptags with the versions they became available or were removed.
 |pairs()|
 
     Neovim: +v0.10.0 
+
+|pango-printing|
+
+       Vim: +v9.2.0898 
 
 |papp-syntax|
 
