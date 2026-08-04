@@ -16002,10 +16002,11 @@ zip-contentsneovim:v0.1.0,nightlyvim:v7.0148,
 zip-copyrightneovim:v0.1.0,nightlyvim:v7.0148,
 zip-extensionneovim:v0.1.0,nightlyvim:v7.1b,
 zip-historyneovim:v0.1.0,nightlyvim:v7.0148,
-zip-integrationsneovim:nightly,
+zip-integrationsneovim:nightly,dev
 zip-limitationsneovim:nightly,
-zip-listingneovim:nightly,
+zip-listingneovim:nightly,dev
 zip-manualneovim:v0.1.0,nightlyvim:v7.0148,
+zip-mappingsneovim:dev,
 zip-usageneovim:v0.1.0,nightlyvim:v7.0148,
 zip-xneovim:v0.2.0,nightlyvim:v8.0.0006,
 zip.txtneovim:nightly,vim:v7.0148,v7.0e06
