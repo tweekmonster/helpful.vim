@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2026-08-04 00:36:06 UTC
+*helpful-version.txt*  Generated: 2026-08-05 00:34:13 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -12052,6 +12052,26 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|:bc|
+
+    Neovim: +dev 
+
+|:bcd|
+
+    Neovim: +dev 
+
+|:bcd-|
+
+    Neovim: +dev 
+
+|:bch|
+
+    Neovim: +dev 
+
+|:bchdir|
+
+    Neovim: +dev 
+
 |:bd|
 
     Neovim: +v0.1.0 
@@ -13192,6 +13212,10 @@ A listing of helptags with the versions they became available or were removed.
 |:detach|
 
     Neovim: +v0.11.0 
+
+|:detach!|
+
+    Neovim: +dev 
 
 |:di|
 
@@ -25948,15 +25972,15 @@ A listing of helptags with the versions they became available or were removed.
 
 |E5000|
 
-    Neovim: +v0.1.4 -v0.6.0 
+    Neovim: +dev -v0.6.0 
 
 |E5001|
 
-    Neovim: +v0.1.4 -v0.6.0 
+    Neovim: +dev -v0.6.0 
 
 |E5002|
 
-    Neovim: +v0.1.4 -v0.6.0 
+    Neovim: +dev -v0.6.0 
 
 |E5003|
 
@@ -25969,6 +25993,14 @@ A listing of helptags with the versions they became available or were removed.
 |E5005|
 
     Neovim: +v0.1.7 
+
+|E5006|
+
+    Neovim: +dev 
+
+|E5007|
+
+    Neovim: +dev 
 
 |E5009|
 
@@ -69889,6 +69921,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.10.0 
 
+|vim.fs.slug()|
+
+    Neovim: +dev 
+
 |vim.fs.write()|
 
     Neovim: +nightly 
@@ -73709,17 +73745,9 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 -nightly 
        Vim: +v7.0148 
 
-|zip-integrations|
-
-    Neovim: +nightly -dev 
-
 |zip-limitations|
 
     Neovim: +nightly 
-
-|zip-listing|
-
-    Neovim: +nightly -dev 
 
 |zip-manual|
 
@@ -73728,7 +73756,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |zip-mappings|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |zip-usage|
 
