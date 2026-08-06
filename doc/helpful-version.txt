@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2026-08-05 00:34:13 UTC
+*helpful-version.txt*  Generated: 2026-08-06 02:22:41 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -12054,23 +12054,23 @@ A listing of helptags with the versions they became available or were removed.
 
 |:bc|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |:bcd|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |:bcd-|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |:bch|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |:bchdir|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |:bd|
 
@@ -13215,7 +13215,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |:detach!|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |:di|
 
@@ -25972,15 +25972,15 @@ A listing of helptags with the versions they became available or were removed.
 
 |E5000|
 
-    Neovim: +dev -v0.6.0 
+    Neovim: +nightly -v0.6.0 
 
 |E5001|
 
-    Neovim: +dev -v0.6.0 
+    Neovim: +nightly -v0.6.0 
 
 |E5002|
 
-    Neovim: +dev -v0.6.0 
+    Neovim: +nightly -v0.6.0 
 
 |E5003|
 
@@ -25996,11 +25996,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |E5006|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |E5007|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |E5009|
 
@@ -69923,7 +69923,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.fs.slug()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.fs.write()|
 
