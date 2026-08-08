@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2026-08-07 02:33:14 UTC
+*helpful-version.txt*  Generated: 2026-08-08 01:22:13 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -12060,6 +12060,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +nightly 
 
+|:bcd!|
+
+    Neovim: +dev 
+
 |:bcd-|
 
     Neovim: +nightly 
@@ -14623,6 +14627,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|:lcd!|
+
+    Neovim: +dev 
 
 |:lcd-|
 
@@ -18346,6 +18354,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.4 
        Vim: +v8.1.1218 
+
+|:tcd!|
+
+    Neovim: +dev 
 
 |:tcd-|
 
@@ -37988,7 +38000,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |dir-config|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |dir-disable|
 
@@ -49214,7 +49226,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |lsp-buf-working-dir|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |lsp-client|
 
@@ -58220,7 +58232,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |project-dir|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |prompt-buffer|
 
@@ -73152,7 +73164,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |workspace-dir|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |wrap-off|
 
