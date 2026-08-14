@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2026-08-12 01:44:26 UTC
+*helpful-version.txt*  Generated: 2026-08-14 01:44:57 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -71222,6 +71222,14 @@ A listing of helptags with the versions they became available or were removed.
 |vim.pack-lockfile|
 
     Neovim: +v0.12.0 
+
+|vim.pack-manifest|
+
+    Neovim: +dev 
+
+|vim.pack.Manifest|
+
+    Neovim: +dev 
 
 |vim.pack.Spec|
 
