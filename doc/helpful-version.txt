@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2026-08-14 01:44:57 UTC
+*helpful-version.txt*  Generated: 2026-08-15 01:05:32 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -21438,6 +21438,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|CmdAtom|
+
+    Neovim: +nightly 
+
 |CmdUndefined|
 
     Neovim: +v0.1.0 
@@ -21642,6 +21646,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.7.0 
        Vim: +v8.2.4335 
+
+|DirReadPost|
+
+    Neovim: +dev 
 
 |E|
 
@@ -37404,6 +37412,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.11.0 
 
+|dev-cmdatom|
+
+    Neovim: +nightly 
+
 |dev-doc|
 
     Neovim: +v0.2.1 
@@ -37472,6 +37484,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.5.0 
 
+|dev-multicursor|
+
+    Neovim: +nightly 
+
 |dev-name-api|
 
     Neovim: +v0.9.0 -v0.10.0 
@@ -37519,6 +37535,10 @@ A listing of helptags with the versions they became available or were removed.
 |dev-run-test|
 
     Neovim: +v0.12.0 
+
+|dev-state|
+
+    Neovim: +nightly 
 
 |dev-style|
 
@@ -38018,6 +38038,10 @@ A listing of helptags with the versions they became available or were removed.
 |dir-mappings|
 
     Neovim: +nightly 
+
+|dir-render|
+
+    Neovim: +dev 
 
 |dircolors-syntax|
 
@@ -47737,6 +47761,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|ins-repeat|
+
+    Neovim: +nightly 
+
 |ins-reverse|
 
     Neovim: +v0.1.0 
@@ -52718,6 +52746,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|mcursor|
+
+    Neovim: +nightly 
+
 |menu-changes-5.4|
 
        Vim: +v7.0001 
@@ -52983,6 +53015,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.6.0 
        Vim: +v8.2.2993 
+
+|motion-repeat|
+
+    Neovim: +nightly 
 
 |motion.txt|
 
@@ -53282,6 +53318,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 -v0.10.0 
        Vim: +v7.0001 
+
+|multicursor|
+
+    Neovim: +nightly 
 
 |multilang|
 
@@ -68548,6 +68588,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|v_Q|
+
+    Neovim: +nightly 
+
 |v_Q-default|
 
     Neovim: +v0.10.0 
@@ -71225,11 +71269,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.pack-manifest|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.pack.Manifest|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.pack.Spec|
 
@@ -72411,6 +72455,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|visual-fixed-size|
+
+    Neovim: +nightly 
 
 |visual-index|
 
