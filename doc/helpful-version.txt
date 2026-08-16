@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2026-08-15 01:05:32 UTC
+*helpful-version.txt*  Generated: 2026-08-16 01:09:09 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -21649,7 +21649,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |DirReadPost|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |E|
 
@@ -38041,7 +38041,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |dir-render|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |dircolors-syntax|
 
