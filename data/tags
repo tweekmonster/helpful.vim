@@ -4437,7 +4437,7 @@ CompleteDoneneovim:v0.1.0,vim:v7.3.601,
 CompleteDonePreneovim:v0.5.0,vim:v8.2.0158,
 ConPTYvim:v8.1.0870,
 Contentsneovim:v0.1.0,vim:v7.0001,
-Contextneovim:v0.4.0,
+Contextneovim:v0.4.0,dev
 Cscopeneovim:v0.1.0,v0.9.0vim:v7.0001,
 CursorHoldneovim:v0.1.0,vim:v7.0001,
 CursorHold-exampleneovim:v0.1.0,vim:v7.0001,
@@ -7491,6 +7491,7 @@ clipboard-providers-no-clipboardvim:v9.1.1972,
 clipboard-providers-pastevim:v9.1.1972,
 clipboard-providers-plusvim:v9.1.1972,
 clipboard-providers-textlockvim:v9.1.1972,
+clipboard-providers-wslvim:dev,
 clipboard-toolneovim:v0.2.1,
 clipboard-unnamedneovim:v0.1.0,vim:v7.3.597,
 clipboard-unnamedplusneovim:v0.1.0,vim:v7.3.601,
@@ -7628,10 +7629,10 @@ connect()vim:v7.4.1191,v7.4.1244
 connection-refusedvim:v7.0001,
 console-menusneovim:v0.1.0,vim:v7.0001,
 constructorvim:v9.0.1950,
-contextneovim:v0.4.0,
-context-dictneovim:v0.4.0,
+contextneovim:v0.4.0,dev
+context-dictneovim:v0.4.0,dev
 context-stackneovim:v0.4.0,nightly
-context-typesneovim:v0.4.0,
+context-typesneovim:v0.4.0,dev
 context.vimvim:v9.0.0281,
 continuationneovim:v0.12.0,
 controlneovim:v0.1.0,vim:v7.0001,
@@ -11466,7 +11467,7 @@ netbeans-supportvim:v7.0001,
 netbeans-xpmvim:v8.1.0763,
 netbeans.txtvim:v7.0001,
 netreadfixupneovim:v0.1.0,v0.11.0vim:v9.1.1206,v9.1.1026
-netrwneovim:v0.1.0,v0.11.0vim:v9.1.1206,v9.1.1026
+netrwneovim:dev,v0.11.0vim:v9.1.1206,v9.1.1026
 netrw-%neovim:v0.1.0,v0.11.0vim:v9.1.1206,v9.1.1026
 netrw--neovim:v0.1.0,v0.11.0vim:v9.1.1206,v9.1.1026
 netrw-:Exploreneovim:v0.1.0,v0.11.0vim:v9.1.1206,v9.1.1026
@@ -15729,6 +15730,7 @@ vimscript-introneovim:v0.12.0,
 vimscript-libraryneovim:v0.12.0,
 vimscript-versionvim:v8.1.1116,
 vimscript-versionsvim:v8.1.1116,
+vimscript.txtneovim:dev,
 vimtutorneovim:v0.1.0,vim:v7.0001,
 virtcol()neovim:v0.1.0,vim:v7.0001,
 virtcol2col()neovim:v0.8.0,vim:v8.2.5034,
