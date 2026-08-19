@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2026-08-18 01:04:29 UTC
+*helpful-version.txt*  Generated: 2026-08-19 01:05:48 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -21533,7 +21533,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |Context|
 
-    Neovim: +v0.4.0 -dev 
+    Neovim: +v0.4.0 -nightly 
 
 |Cscope|
 
@@ -24130,6 +24130,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|E1581|
+
+       Vim: +v9.2.0972 
 
 |E159|
 
@@ -35566,7 +35570,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |clipboard-providers-wsl|
 
-       Vim: +dev 
+       Vim: +v9.2.0968 
 
 |clipboard-tool|
 
@@ -36217,11 +36221,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |context|
 
-    Neovim: +v0.4.0 -dev 
+    Neovim: +v0.4.0 -nightly 
 
 |context-dict|
 
-    Neovim: +v0.4.0 -dev 
+    Neovim: +v0.4.0 -nightly 
 
 |context-stack|
 
@@ -36229,7 +36233,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |context-types|
 
-    Neovim: +v0.4.0 -dev 
+    Neovim: +v0.4.0 -nightly 
 
 |context.vim|
 
@@ -48956,6 +48960,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.5.0 -v0.9.0 
 
+|listener-text|
+
+       Vim: +v9.2.0970 
+
 |listener_add()|
 
        Vim: +v8.1.1321 
@@ -53594,7 +53602,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |netrw|
 
-    Neovim: +dev -v0.11.0 
+    Neovim: +nightly -v0.11.0 
        Vim: +v9.1.1206 -v9.1.1026 
 
 |netrw-%|
@@ -72423,7 +72431,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vimscript.txt|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vimtutor|
 
