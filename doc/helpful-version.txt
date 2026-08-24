@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2026-08-23 01:10:29 UTC
+*helpful-version.txt*  Generated: 2026-08-24 01:08:02 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -35625,6 +35625,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +nightly 
 
+|cmdatom-macro|
+
+    Neovim: +dev 
+
 |cmdbang-variable|
 
     Neovim: +v0.1.0 
@@ -38047,6 +38051,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +nightly 
 
+|dir-decorate|
+
+    Neovim: +dev 
+
 |dir-disable|
 
     Neovim: +nightly 
@@ -38260,7 +38268,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |dot-repeat|
 
-    Neovim: +nightly 
+    Neovim: +nightly -dev 
 
 |double-click|
 
@@ -38377,6 +38385,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.4.501 
+
+|edit-repeat|
+
+    Neovim: +dev 
 
 |edit-window|
 
