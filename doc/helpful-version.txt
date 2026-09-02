@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2026-09-01 03:32:54 UTC
+*helpful-version.txt*  Generated: 2026-09-02 02:50:55 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -31591,6 +31591,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.11.0 
 
+|[C|
+
+    Neovim: +nightly 
+
 |[CTRL-L|
 
     Neovim: +v0.11.0 -v0.12.0 
@@ -31830,6 +31834,10 @@ A listing of helptags with the versions they became available or were removed.
 |]B|
 
     Neovim: +v0.11.0 
+
+|]C|
+
+    Neovim: +nightly 
 
 |]CTRL-L|
 
@@ -43659,7 +43667,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |g_CTRL-A|
 
-    Neovim: +v0.1.0 -v0.1.2 
+    Neovim: +nightly -v0.1.2 
        Vim: +v7.0001 
 
 |g_CTRL-G|
@@ -45933,6 +45941,14 @@ A listing of helptags with the versions they became available or were removed.
 |hl-LspSignatureActiveParameter|
 
     Neovim: +v0.6.0 
+
+|hl-MCursor|
+
+    Neovim: +nightly 
+
+|hl-MCursorVisual|
+
+    Neovim: +nightly 
 
 |hl-MatchParen|
 
@@ -52790,6 +52806,18 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +nightly 
 
+|mcursor-clear|
+
+    Neovim: +nightly 
+
+|mcursor-limitations|
+
+    Neovim: +nightly 
+
+|mcursor-mouse|
+
+    Neovim: +nightly 
+
 |menu-changes-5.4|
 
        Vim: +v7.0001 
@@ -56229,6 +56257,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.4.0 
 
+|nvim_mcursor()|
+
+    Neovim: +nightly 
+
 |nvim_notify()|
 
     Neovim: +v0.5.0 -v0.11.0 
@@ -58853,6 +58885,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|q=|
+
+    Neovim: +nightly 
 
 |q?|
 
@@ -68638,7 +68674,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |v_Q-default|
 
-    Neovim: +v0.10.0 
+    Neovim: +v0.10.0 -nightly 
 
 |v_R|
 
