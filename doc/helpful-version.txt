@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2026-09-02 02:50:55 UTC
+*helpful-version.txt*  Generated: 2026-09-03 02:55:10 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -52809,6 +52809,10 @@ A listing of helptags with the versions they became available or were removed.
 |mcursor-clear|
 
     Neovim: +nightly 
+
+|mcursor-examples|
+
+    Neovim: +dev 
 
 |mcursor-limitations|
 
