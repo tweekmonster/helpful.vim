@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2026-09-03 02:55:10 UTC
+*helpful-version.txt*  Generated: 2026-09-04 02:54:15 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -30496,6 +30496,18 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|Semaphore:acquire()|
+
+    Neovim: +nightly 
+
+|Semaphore:release()|
+
+    Neovim: +nightly 
+
+|Semaphore:with()|
+
+    Neovim: +nightly 
+
 |Session|
 
     Neovim: +v0.1.0 
@@ -30880,6 +30892,42 @@ A listing of helptags with the versions they became available or were removed.
 |TabNewEntered|
 
     Neovim: +v0.1.0 
+
+|Task:close()|
+
+    Neovim: +nightly 
+
+|Task:completed()|
+
+    Neovim: +nightly 
+
+|Task:detach()|
+
+    Neovim: +nightly 
+
+|Task:on_complete()|
+
+    Neovim: +nightly 
+
+|Task:pwait()|
+
+    Neovim: +nightly 
+
+|Task:raise_on_error()|
+
+    Neovim: +nightly 
+
+|Task:status()|
+
+    Neovim: +nightly 
+
+|Task:traceback()|
+
+    Neovim: +nightly 
+
+|Task:wait()|
+
+    Neovim: +nightly 
 
 |Tcl|
 
@@ -49574,6 +49622,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.10.0 
 
+|lua-async|
+
+    Neovim: +nightly 
+
 |lua-aux|
 
     Neovim: +v0.10.0 
@@ -52812,7 +52864,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |mcursor-examples|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |mcursor-limitations|
 
@@ -69744,6 +69796,54 @@ A listing of helptags with the versions they became available or were removed.
 |vim.api|
 
     Neovim: +v0.5.0 
+
+|vim.async.Closable|
+
+    Neovim: +nightly 
+
+|vim.async.Semaphore|
+
+    Neovim: +nightly 
+
+|vim.async.Task|
+
+    Neovim: +nightly 
+
+|vim.async.await()|
+
+    Neovim: +nightly 
+
+|vim.async.checkpoint()|
+
+    Neovim: +nightly 
+
+|vim.async.is_closing()|
+
+    Neovim: +nightly 
+
+|vim.async.iter()|
+
+    Neovim: +nightly 
+
+|vim.async.pawait()|
+
+    Neovim: +nightly 
+
+|vim.async.run()|
+
+    Neovim: +nightly 
+
+|vim.async.sleep()|
+
+    Neovim: +nightly 
+
+|vim.async.timeout()|
+
+    Neovim: +nightly 
+
+|vim.async.wrap()|
+
+    Neovim: +nightly 
 
 |vim.b|
 
