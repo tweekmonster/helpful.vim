@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2026-09-07 02:52:20 UTC
+*helpful-version.txt*  Generated: 2026-09-08 03:02:13 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -59111,8 +59111,8 @@ A listing of helptags with the versions they became available or were removed.
 
 |quickfix-winfixbuf|
 
-    Neovim: +dev 
-       Vim: +dev 
+    Neovim: +nightly 
+       Vim: +v9.2.1038 
 
 |quickfix.txt|
 
