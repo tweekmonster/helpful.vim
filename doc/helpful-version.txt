@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2026-09-08 03:02:13 UTC
+*helpful-version.txt*  Generated: 2026-09-09 03:03:07 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -8282,6 +8282,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.2.269 
+
+|--stdio-channel|
+
+       Vim: +v9.2.1049 
 
 |--ttyfail|
 
@@ -24135,6 +24139,14 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v9.2.0972 
 
+|E1582|
+
+       Vim: +v9.2.1049 
+
+|E1583|
+
+       Vim: +v9.2.1049 
+
 |E159|
 
     Neovim: +v0.1.0 
@@ -35165,6 +35177,7 @@ A listing of helptags with the versions they became available or were removed.
 |channel-stdio|
 
     Neovim: +v0.3.0 
+       Vim: +v9.2.1049 
 
 |channel-timeout|
 
