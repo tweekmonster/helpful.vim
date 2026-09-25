@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2026-09-24 03:07:44 UTC
+*helpful-version.txt*  Generated: 2026-09-25 03:24:11 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -22131,7 +22131,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |E1102|
 
-       Vim: +v8.2.4258 
+       Vim: +v8.2.4258 -v9.2.1126 
 
 |E1103|
 
@@ -40912,6 +40912,16 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0139 
 
+|ft-icalendar-plugin|
+
+    Neovim: +dev 
+       Vim: +v9.2.1128 
+
+|ft-icalendar-syntax|
+
+    Neovim: +dev 
+       Vim: +v9.2.1128 
+
 |ft-idris2-indent|
 
     Neovim: +v0.11.0 
@@ -42454,6 +42464,11 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 -v0.10.0 
        Vim: +v7.3.616 
+
+|g:icalendar_folding|
+
+    Neovim: +dev 
+       Vim: +v9.2.1128 
 
 |g:lf_shell_syntax|
 
@@ -47473,6 +47488,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|icalendar.vim|
+
+       Vim: +v9.2.1128 
 
 |iccf|
 
@@ -72170,13 +72189,29 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v8.2.2239 -v8.2.2198 
 
+|vim9-!|
+
+       Vim: +v9.2.1126 
+
+|vim9-!!|
+
+       Vim: +v9.2.1126 
+
 |vim9-access-modes|
 
        Vim: +v9.0.2096 
 
+|vim9-any-type|
+
+       Vim: +v9.2.1126 
+
 |vim9-autoload|
 
        Vim: +v8.2.4050 
+
+|vim9-block|
+
+       Vim: +v9.2.1126 
 
 |vim9-boolean|
 
@@ -72197,6 +72232,14 @@ A listing of helptags with the versions they became available or were removed.
 |vim9-closure|
 
        Vim: +v9.2.0993 
+
+|vim9-comments|
+
+       Vim: +v9.2.1126 
+
+|vim9-comparators|
+
+       Vim: +v9.2.1126 
 
 |vim9-const|
 
@@ -72230,6 +72273,10 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v9.1.1905 
 
+|vim9-exists()|
+
+       Vim: +v9.2.1126 
+
 |vim9-export|
 
        Vim: +v8.2.0149 
@@ -72237,6 +72284,10 @@ A listing of helptags with the versions they became available or were removed.
 |vim9-false-true|
 
        Vim: +v9.0.1627 
+
+|vim9-falsy|
+
+       Vim: +v9.2.1126 
 
 |vim9-final|
 
@@ -72254,6 +72305,10 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v8.2.3346 
 
+|vim9-functions|
+
+       Vim: +v9.2.1126 
+
 |vim9-gotchas|
 
        Vim: +v8.2.1098 
@@ -72269,6 +72324,10 @@ A listing of helptags with the versions they became available or were removed.
 |vim9-interface-type|
 
        Vim: +v9.1.1905 
+
+|vim9-invalid-Ex-commands|
+
+       Vim: +v9.2.1126 
 
 |vim9-lambda|
 
@@ -72294,17 +72353,37 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v8.2.2239 
 
+|vim9-no-curly-braces-expansion|
+
+       Vim: +v9.2.1126 
+
 |vim9-no-dict-function|
 
        Vim: +v8.2.3386 
+
+|vim9-no-shadowing|
+
+       Vim: +v9.2.1126 
 
 |vim9-no-shorten|
 
        Vim: +v9.0.0498 
 
+|vim9-noclear|
+
+       Vim: +v9.2.1126 
+
 |vim9-object-type|
 
        Vim: +v9.1.1905 
+
+|vim9-omitting-:call|
+
+       Vim: +v9.2.1126 
+
+|vim9-omitting-:eval|
+
+       Vim: +v9.2.1126 
 
 |vim9-partial-declaration|
 
