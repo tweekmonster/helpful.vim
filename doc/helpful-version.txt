@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2026-09-25 03:24:11 UTC
+*helpful-version.txt*  Generated: 2026-09-26 03:30:15 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -40914,12 +40914,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |ft-icalendar-plugin|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.2.1128 
 
 |ft-icalendar-syntax|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.2.1128 
 
 |ft-idris2-indent|
@@ -42467,7 +42467,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |g:icalendar_folding|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.2.1128 
 
 |g:lf_shell_syntax|
