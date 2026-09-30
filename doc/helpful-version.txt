@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2026-09-29 04:12:22 UTC
+*helpful-version.txt*  Generated: 2026-09-30 03:58:16 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -69273,6 +69273,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|v_zq|
+
+    Neovim: +dev 
+
 |v_zy|
 
     Neovim: +v0.5.0 
@@ -71888,7 +71892,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.treesitter.get_captures()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.treesitter.get_captures_at_cursor()|
 
@@ -71896,7 +71900,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.treesitter.get_captures_at_pos()|
 
-    Neovim: +v0.9.0 -dev 
+    Neovim: +v0.9.0 -nightly 
 
 |vim.treesitter.get_node()|
 
@@ -74230,6 +74234,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.5.0 
        Vim: +v8.2.2914 
+
+|zq|
+
+    Neovim: +dev 
 
 |zr|
 
