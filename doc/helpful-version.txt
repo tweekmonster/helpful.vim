@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2026-09-30 03:58:16 UTC
+*helpful-version.txt*  Generated: 2026-10-01 04:07:28 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -2195,6 +2195,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 -v0.1.6 
        Vim: +v7.3.1248 
 
+|'imageprotocol'|
+
+       Vim: +v9.2.1161 
+
 |'imak'|
 
     Neovim: +v0.1.0 -v0.1.6 
@@ -2321,6 +2325,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 -v0.8.0 
        Vim: +v7.0001 
+
+|'ipc'|
+
+       Vim: +v9.2.1161 
 
 |'is'|
 
@@ -7547,23 +7555,27 @@ A listing of helptags with the versions they became available or were removed.
 
 |+image_cairo|
 
-       Vim: +v9.2.0612 
+       Vim: +v9.2.0612 -v9.2.1161 
 
 |+image_gdi|
 
-       Vim: +v9.2.0612 
+       Vim: +v9.2.0612 -v9.2.1161 
 
 |+image_gdk|
 
-       Vim: +v9.2.0632 
+       Vim: +v9.2.0632 -v9.2.1161 
 
 |+image_kitty|
 
-       Vim: +v9.2.0612 
+       Vim: +v9.2.0612 -v9.2.1161 
+
+|+image_popup|
+
+       Vim: +v9.2.1161 
 
 |+image_sixel|
 
-       Vim: +v9.2.0612 
+       Vim: +v9.2.0612 -v9.2.1161 
 
 |+insert_expand|
 
@@ -24158,6 +24170,22 @@ A listing of helptags with the versions they became available or were removed.
 |E1583|
 
        Vim: +v9.2.1049 
+
+|E1584|
+
+       Vim: +v9.2.1161 
+
+|E1585|
+
+       Vim: +v9.2.1161 
+
+|E1586|
+
+       Vim: +v9.2.1161 
+
+|E1587|
+
+       Vim: +v9.2.1161 
 
 |E159|
 
@@ -44118,6 +44146,10 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v8.1.2000 
 
+|getinfo()|
+
+       Vim: +v9.2.1160 
+
 |getjumplist()|
 
     Neovim: +v0.4.0 
@@ -47621,6 +47653,38 @@ A listing of helptags with the versions they became available or were removed.
 |il|
 
     Neovim: +nightly 
+
+|image|
+
+       Vim: +v9.2.1161 
+
+|image-animation|
+
+       Vim: +v9.2.1161 
+
+|image-backends|
+
+       Vim: +v9.2.1161 
+
+|image-functions|
+
+       Vim: +v9.2.1161 
+
+|image-options|
+
+       Vim: +v9.2.1161 
+
+|image_add()|
+
+       Vim: +v9.2.1161 
+
+|image_discard()|
+
+       Vim: +v9.2.1161 
+
+|image_info()|
+
+       Vim: +v9.2.1161 
 
 |implements|
 
@@ -52911,6 +52975,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +nightly 
 
+|mcursor-api|
+
+    Neovim: +dev 
+
 |mcursor-clear|
 
     Neovim: +nightly 
@@ -55794,9 +55862,13 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 -v0.1.5 
 
+|nvim.spellfile.Config|
+
+    Neovim: +dev 
+
 |nvim.spellfile.Opts|
 
-    Neovim: +v0.12.0 
+    Neovim: +v0.12.0 -dev 
 
 |nvim.txt|
 
@@ -56372,7 +56444,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |nvim_mcursor()|
 
-    Neovim: +nightly 
+    Neovim: +nightly -dev 
 
 |nvim_notify()|
 
@@ -68209,6 +68281,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.4.080 
 
+|v:imagebackend|
+
+       Vim: +v9.2.1161 
+
 |v:insertmode|
 
     Neovim: +v0.1.0 
@@ -69275,7 +69351,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |v_zq|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |v_zy|
 
@@ -69902,6 +69978,10 @@ A listing of helptags with the versions they became available or were removed.
 |vim.async.run()|
 
     Neovim: +nightly 
+
+|vim.async.semaphore()|
+
+    Neovim: +dev 
 
 |vim.async.sleep()|
 
@@ -74237,7 +74317,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |zq|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |zr|
 
