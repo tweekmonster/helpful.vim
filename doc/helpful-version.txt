@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2026-10-01 04:07:28 UTC
+*helpful-version.txt*  Generated: 2026-10-02 04:02:21 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -52977,7 +52977,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |mcursor-api|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |mcursor-clear|
 
@@ -55864,11 +55864,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |nvim.spellfile.Config|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |nvim.spellfile.Opts|
 
-    Neovim: +v0.12.0 -dev 
+    Neovim: +v0.12.0 -nightly 
 
 |nvim.txt|
 
@@ -56441,10 +56441,6 @@ A listing of helptags with the versions they became available or were removed.
 |nvim_load_context()|
 
     Neovim: +v0.4.0 
-
-|nvim_mcursor()|
-
-    Neovim: +nightly -dev 
 
 |nvim_notify()|
 
@@ -69981,7 +69977,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.async.semaphore()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.async.sleep()|
 

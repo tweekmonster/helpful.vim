@@ -11331,7 +11331,7 @@ mbyte-terminalneovim:v0.1.0,v0.2.0vim:v7.0001,
 mbyte-utf8neovim:v0.1.0,vim:v7.0001,
 mbyte.txtneovim:v0.1.0,vim:v7.0001,
 mcursorneovim:nightly,
-mcursor-apineovim:dev,
+mcursor-apineovim:nightly,
 mcursor-clearneovim:nightly,
 mcursor-examplesneovim:nightly,
 mcursor-limitationsneovim:nightly,
@@ -11969,8 +11969,8 @@ nvim-terminal-emulator-configurationneovim:v0.1.0,v0.1.5
 nvim-terminal-emulator-inputneovim:v0.1.0,v0.1.5
 nvim-terminal-emulator-introductionneovim:v0.1.0,v0.1.5
 nvim-terminal-emulator-spawningneovim:v0.1.0,v0.1.5
-nvim.spellfile.Configneovim:dev,
-nvim.spellfile.Optsneovim:v0.12.0,dev
+nvim.spellfile.Configneovim:nightly,
+nvim.spellfile.Optsneovim:v0.12.0,nightly
 nvim.txtneovim:v0.1.0,
 nvim_...()neovim:v0.1.6,
 nvim__buf_redraw_range()neovim:v0.5.0,v0.8.0
@@ -12114,7 +12114,6 @@ nvim_list_tabpages()neovim:v0.2.0,
 nvim_list_uis()neovim:v0.3.0,
 nvim_list_wins()neovim:v0.2.0,
 nvim_load_context()neovim:v0.4.0,
-nvim_mcursor()neovim:nightly,dev
 nvim_notify()neovim:v0.5.0,v0.11.0
 nvim_open_tabpage()neovim:v0.12.0,
 nvim_open_term()neovim:v0.5.0,
@@ -15125,7 +15124,7 @@ vim.async.is_closing()neovim:nightly,
 vim.async.iter()neovim:nightly,
 vim.async.pawait()neovim:nightly,
 vim.async.run()neovim:nightly,
-vim.async.semaphore()neovim:dev,
+vim.async.semaphore()neovim:nightly,
 vim.async.sleep()neovim:nightly,
 vim.async.timeout()neovim:nightly,
 vim.async.wrap()neovim:nightly,
