@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2026-10-02 04:02:21 UTC
+*helpful-version.txt*  Generated: 2026-10-10 04:18:37 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -55888,7 +55888,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |nvim__chan_set_detach()|
 
-    Neovim: +v0.12.0 
+    Neovim: +v0.12.0 -dev 
 
 |nvim__cmdwin_set()|
 
@@ -56161,6 +56161,10 @@ A listing of helptags with the versions they became available or were removed.
 |nvim_chan_send()|
 
     Neovim: +v0.5.0 
+
+|nvim_chan_set()|
+
+    Neovim: +dev 
 
 |nvim_clear_autocmds()|
 
@@ -66426,6 +66430,10 @@ A listing of helptags with the versions they became available or were removed.
 |ui-event-hl_attr_define|
 
     Neovim: +v0.3.2 
+
+|ui-event-restart|
+
+    Neovim: +dev 
 
 |ui-events|
 
