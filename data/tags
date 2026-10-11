@@ -11975,7 +11975,7 @@ nvim.txtneovim:v0.1.0,
 nvim_...()neovim:v0.1.6,
 nvim__buf_redraw_range()neovim:v0.5.0,v0.8.0
 nvim__buf_stats()neovim:v0.4.0,v0.8.0
-nvim__chan_set_detach()neovim:v0.12.0,dev
+nvim__chan_set_detach()neovim:v0.12.0,nightly
 nvim__cmdwin_set()neovim:nightly,
 nvim__complete_set()neovim:v0.10.0,
 nvim__exec_lua_fast()neovim:v0.12.0,
@@ -12044,7 +12044,7 @@ nvim_call_atomic()neovim:v0.2.0,v0.10.0
 nvim_call_dict_function()neovim:v0.3.0,
 nvim_call_function()neovim:v0.2.0,
 nvim_chan_send()neovim:v0.5.0,
-nvim_chan_set()neovim:dev,
+nvim_chan_set()neovim:nightly,
 nvim_clear_autocmds()neovim:v0.7.0,
 nvim_clipboard.txtneovim:v0.1.0,v0.1.5
 nvim_cmd()neovim:v0.8.0,
@@ -14323,7 +14323,7 @@ ui-cmdlineneovim:v0.2.1,
 ui-event-grid_lineneovim:v0.3.2,
 ui-event-highlight_setneovim:v0.2.1,
 ui-event-hl_attr_defineneovim:v0.3.2,
-ui-event-restartneovim:dev,
+ui-event-restartneovim:nightly,
 ui-eventsneovim:v0.3.0,
 ui-ext-optionsneovim:v0.2.1,
 ui-ext-popupmenuneovim:v0.2.0,v0.2.1
