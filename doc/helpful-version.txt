@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2026-10-14 03:31:22 UTC
+*helpful-version.txt*  Generated: 2026-10-17 02:58:58 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -40354,6 +40354,18 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 -v0.5.0 
        Vim: +v7.0001 
 
+|foo-intro|
+
+    Neovim: +dev 
+
+|foo-mappings|
+
+    Neovim: +dev 
+
+|foo-options|
+
+    Neovim: +dev 
+
 |for|
 
     Neovim: +v0.10.0 
@@ -45393,6 +45405,10 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v9.1.0831 
 
+|help-block|
+
+    Neovim: +dev 
+
 |help-buffer-options|
 
     Neovim: +v0.7.0 
@@ -45401,6 +45417,10 @@ A listing of helptags with the versions they became available or were removed.
 |help-codeblock|
 
     Neovim: +v0.8.0 
+
+|help-column-heading|
+
+    Neovim: +dev 
 
 |help-context|
 
@@ -45412,15 +45432,51 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.5.0 
        Vim: +v8.2.2276 -v9.1.1946 
 
+|help-h1|
+
+    Neovim: +dev 
+
+|help-h2|
+
+    Neovim: +dev 
+
+|help-h3|
+
+    Neovim: +dev 
+
+|help-h4|
+
+    Neovim: +dev 
+
+|help-heading|
+
+    Neovim: +dev 
+
+|help-list|
+
+    Neovim: +dev 
+
 |help-notation|
 
     Neovim: +v0.12.0 
        Vim: +v9.1.0962 
 
+|help-spec|
+
+    Neovim: +dev 
+
 |help-summary|
 
     Neovim: +v0.1.0 
        Vim: +v7.1a 
+
+|help-table|
+
+    Neovim: +dev 
+
+|help-tag|
+
+    Neovim: +dev 
 
 |help-toc-install|
 
@@ -45430,6 +45486,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0001 
+
+|help-url|
+
+    Neovim: +dev 
 
 |help-writing|
 
@@ -70473,6 +70533,22 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.9.0 
 
+|vim.inspect_pos.ExtmarkItem|
+
+    Neovim: +dev 
+
+|vim.inspect_pos.Item|
+
+    Neovim: +dev 
+
+|vim.inspect_pos.SyntaxItem|
+
+    Neovim: +dev 
+
+|vim.inspect_pos.TSItem|
+
+    Neovim: +dev 
+
 |vim.inspector|
 
     Neovim: +v0.10.0 
@@ -71973,6 +72049,10 @@ A listing of helptags with the versions they became available or were removed.
 |vim.treesitter|
 
     Neovim: +nightly 
+
+|vim.treesitter.CaptureInfo|
+
+    Neovim: +dev 
 
 |vim.treesitter.Query|
 
