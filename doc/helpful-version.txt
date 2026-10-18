@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2026-10-17 02:58:58 UTC
+*helpful-version.txt*  Generated: 2026-10-18 03:00:34 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -9219,7 +9219,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |/\_X|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
        Vim: +v7.0001 
 
 |/\_[]|
@@ -18821,12 +18821,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |:verb|
 
-    Neovim: +v0.1.0 
+    Neovim: +dev 
        Vim: +v7.0001 
 
 |:verbose|
 
-    Neovim: +v0.1.0 
+    Neovim: +dev 
        Vim: +v7.0001 
 
 |:verbose-cmd|
@@ -40356,15 +40356,15 @@ A listing of helptags with the versions they became available or were removed.
 
 |foo-intro|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |foo-mappings|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |foo-options|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |for|
 
@@ -45407,7 +45407,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |help-block|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |help-buffer-options|
 
@@ -45420,7 +45420,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |help-column-heading|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |help-context|
 
@@ -45432,29 +45432,33 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.5.0 
        Vim: +v8.2.2276 -v9.1.1946 
 
-|help-h1|
+|help-definition|
 
     Neovim: +dev 
+
+|help-h1|
+
+    Neovim: +nightly 
 
 |help-h2|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |help-h3|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |help-h4|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |help-heading|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |help-list|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |help-notation|
 
@@ -45463,7 +45467,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |help-spec|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |help-summary|
 
@@ -45472,9 +45476,13 @@ A listing of helptags with the versions they became available or were removed.
 
 |help-table|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |help-tag|
+
+    Neovim: +nightly 
+
+|help-tag-heading|
 
     Neovim: +dev 
 
@@ -45489,7 +45497,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |help-url|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |help-writing|
 
@@ -70535,19 +70543,19 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.inspect_pos.ExtmarkItem|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.inspect_pos.Item|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.inspect_pos.SyntaxItem|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.inspect_pos.TSItem|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.inspector|
 
@@ -72052,7 +72060,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.treesitter.CaptureInfo|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.treesitter.Query|
 
