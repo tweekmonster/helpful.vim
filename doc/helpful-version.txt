@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2026-10-18 03:00:34 UTC
+*helpful-version.txt*  Generated: 2026-10-19 03:14:14 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -8429,7 +8429,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |-_default|
 
-    Neovim: +nightly 
+    Neovim: +nightly -dev 
 
 |-b|
 
@@ -9219,7 +9219,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |/\_X|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
        Vim: +v7.0001 
 
 |/\_[]|
@@ -18821,12 +18821,12 @@ A listing of helptags with the versions they became available or were removed.
 
 |:verb|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v7.0001 
 
 |:verbose|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v7.0001 
 
 |:verbose-cmd|
@@ -38167,7 +38167,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |dir-buffer-mappings|
 
-    Neovim: +nightly 
+    Neovim: +nightly -dev 
 
 |dir-config|
 
@@ -45434,7 +45434,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |help-definition|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |help-h1|
 
@@ -45484,7 +45484,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |help-tag-heading|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |help-toc-install|
 
@@ -49814,6 +49814,10 @@ A listing of helptags with the versions they became available or were removed.
 |lua-async|
 
     Neovim: +nightly 
+
+|lua-async.txt|
+
+    Neovim: +dev 
 
 |lua-aux|
 
