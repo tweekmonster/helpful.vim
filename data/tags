@@ -7095,6 +7095,7 @@ base_font_name_listneovim:v0.1.0,v0.5.0vim:v7.0001,
 bash-syntaxvim:v7.0130,v7.0139
 basic-syntaxvim:v7.0001,v7.0139
 basic.vimneovim:v0.1.0,v0.12.0vim:v7.0001,
+bats.vimvim:v9.2.1254,
 beepneovim:v0.1.0,v0.10.0vim:v7.0001,
 beosvim:v8.2.0931,
 beos-colorsvim:v7.0001,v8.2.0931
@@ -8587,6 +8588,7 @@ ft-asy-syntaxneovim:v0.11.0,vim:v9.1.0593,
 ft-awk-pluginneovim:v0.5.0,vim:v8.2.1769,
 ft-bash-syntaxneovim:v0.1.0,vim:v7.0139,
 ft-basic-syntaxneovim:v0.1.0,vim:v7.0139,
+ft-bats-syntaxneovim:dev,vim:v9.2.1254,
 ft-beancount-pluginneovim:nightly,vim:v9.2.0635,
 ft-c-occultvim:v7.0145,v7.0146
 ft-c-omnineovim:v0.1.0,vim:v7.0146,

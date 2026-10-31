@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2026-10-27 03:41:48 UTC
+*helpful-version.txt*  Generated: 2026-10-31 04:00:47 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -33713,6 +33713,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 -v0.12.0 
        Vim: +v7.0001 
 
+|bats.vim|
+
+       Vim: +v9.2.1254 
+
 |beep|
 
     Neovim: +v0.1.0 -v0.10.0 
@@ -40629,6 +40633,11 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
        Vim: +v7.0139 
+
+|ft-bats-syntax|
+
+    Neovim: +dev 
+       Vim: +v9.2.1254 
 
 |ft-beancount-plugin|
 
