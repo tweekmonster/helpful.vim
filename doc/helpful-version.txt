@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2026-10-31 04:00:47 UTC
+*helpful-version.txt*  Generated: 2026-11-01 04:21:29 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -28644,7 +28644,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |E929|
 
-    Neovim: +v0.2.0 
+    Neovim: +v0.2.0 -dev 
        Vim: +v7.4.1926 
 
 |E93|
@@ -37575,6 +37575,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +nightly 
 
+|dev-conceal|
+
+    Neovim: +dev 
+
 |dev-doc|
 
     Neovim: +v0.2.1 
@@ -37594,6 +37598,10 @@ A listing of helptags with the versions they became available or were removed.
 |dev-excmd|
 
     Neovim: +nightly 
+
+|dev-extmarks|
+
+    Neovim: +dev 
 
 |dev-filesystem|
 
@@ -40636,7 +40644,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |ft-bats-syntax|
 
-    Neovim: +dev 
+    Neovim: +nightly 
        Vim: +v9.2.1254 
 
 |ft-beancount-plugin|
