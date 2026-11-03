@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2026-11-02 04:23:21 UTC
+*helpful-version.txt*  Generated: 2026-11-03 05:19:25 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -70043,7 +70043,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.Uri|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.VersionRange|
 
@@ -72306,55 +72306,55 @@ A listing of helptags with the versions they became available or were removed.
 
 |vim.uri.decode()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.uri.encode()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.uri.from_buf()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.uri.from_fname()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.uri.parse()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.uri.to_buf()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.uri.to_fname()|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |vim.uri_decode()|
 
-    Neovim: +v0.10.0 -dev 
+    Neovim: +v0.10.0 -nightly 
 
 |vim.uri_encode()|
 
-    Neovim: +v0.10.0 -dev 
+    Neovim: +v0.10.0 -nightly 
 
 |vim.uri_from_bufnr()|
 
-    Neovim: +v0.5.0 -dev 
+    Neovim: +v0.5.0 -nightly 
 
 |vim.uri_from_fname()|
 
-    Neovim: +v0.5.0 -dev 
+    Neovim: +v0.5.0 -nightly 
 
 |vim.uri_to_bufnr()|
 
-    Neovim: +v0.5.0 -dev 
+    Neovim: +v0.5.0 -nightly 
 
 |vim.uri_to_fname()|
 
-    Neovim: +v0.5.0 -dev 
+    Neovim: +v0.5.0 -nightly 
 
 |vim.uv|
 
