@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2026-11-03 05:19:25 UTC
+*helpful-version.txt*  Generated: 2026-11-05 05:04:13 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -24200,6 +24200,10 @@ A listing of helptags with the versions they became available or were removed.
 
        Vim: +v9.2.1161 
 
+|E1588|
+
+       Vim: +v9.2.1287 
+
 |E159|
 
     Neovim: +v0.1.0 
@@ -26963,6 +26967,18 @@ A listing of helptags with the versions they became available or were removed.
 |E6100|
 
     Neovim: +v0.3.0 
+
+|E6101|
+
+    Neovim: +dev 
+
+|E6102|
+
+    Neovim: +dev 
+
+|E6103|
+
+    Neovim: +dev 
 
 |E611|
 
@@ -59813,6 +59829,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 
 
+|remote-ssh|
+
+    Neovim: +dev 
+
 |remote.txt|
 
     Neovim: +v0.7.0 -v0.6.0 
@@ -60096,11 +60116,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |rpcnotify()|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
 
 |rpcrequest()|
 
-    Neovim: +v0.1.0 
+    Neovim: +v0.1.0 -dev 
 
 |rpcstart()|
 

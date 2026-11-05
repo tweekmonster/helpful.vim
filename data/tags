@@ -5059,6 +5059,7 @@ E1584vim:v9.2.1161,
 E1585vim:v9.2.1161,
 E1586vim:v9.2.1161,
 E1587vim:v9.2.1161,
+E1588vim:v9.2.1287,
 E159neovim:v0.1.0,vim:v7.0001,
 E16neovim:v0.1.0,vim:v7.0001,
 E160neovim:v0.1.0,vim:v7.0001,
@@ -5632,6 +5633,9 @@ E609neovim:v0.1.0,v0.9.0vim:v7.0001,
 E61neovim:v0.1.0,vim:v7.0001,
 E610neovim:v0.5.0,vim:v8.2.1545,v7.3.227
 E6100neovim:v0.3.0,
+E6101neovim:dev,
+E6102neovim:dev,
+E6103neovim:dev,
 E611vim:v8.2.4047,v7.3.227
 E612neovim:v0.1.0,vim:v7.0001,
 E613neovim:v0.1.0,v0.9.0vim:v7.0001,
@@ -12873,6 +12877,7 @@ remote-plugin-exampleneovim:v0.1.0,
 remote-plugin-hostsneovim:v0.1.0,
 remote-plugin-introneovim:v0.1.0,
 remote-plugin-manifestneovim:v0.1.0,
+remote-sshneovim:dev,
 remote.txtneovim:v0.7.0,v0.6.0vim:v7.0001,
 remote_expr()neovim:v0.1.0,v0.8.0vim:v7.0001,
 remote_foreground()neovim:v0.1.0,v0.8.0vim:v7.0001,
@@ -12935,8 +12940,8 @@ rpc-connectingneovim:v0.1.5,
 rpc-introneovim:v0.1.5,v0.4.0
 rpc-remote-uineovim:v0.1.6,v0.2.1
 rpc-typesneovim:v0.1.5,v0.4.0
-rpcnotify()neovim:v0.1.0,
-rpcrequest()neovim:v0.1.0,
+rpcnotify()neovim:v0.1.0,dev
+rpcrequest()neovim:v0.1.0,dev
 rpcstart()neovim:v0.1.0,v0.11.0
 rpcstop()neovim:v0.1.0,v0.4.0
 rrst.vimneovim:v0.3.2,v0.12.0vim:v8.1.0332,
