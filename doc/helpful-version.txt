@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2026-11-05 05:04:13 UTC
+*helpful-version.txt*  Generated: 2026-11-06 05:03:19 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -26970,15 +26970,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |E6101|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |E6102|
 
-    Neovim: +dev 
-
-|E6103|
-
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |E611|
 
@@ -59831,7 +59827,7 @@ A listing of helptags with the versions they became available or were removed.
 
 |remote-ssh|
 
-    Neovim: +dev 
+    Neovim: +nightly 
 
 |remote.txt|
 
@@ -60116,11 +60112,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |rpcnotify()|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
 
 |rpcrequest()|
 
-    Neovim: +v0.1.0 -dev 
+    Neovim: +v0.1.0 -nightly 
 
 |rpcstart()|
 
@@ -72328,7 +72324,15 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +nightly 
 
+|vim.uri.decode_query()|
+
+    Neovim: +nightly 
+
 |vim.uri.encode()|
+
+    Neovim: +nightly 
+
+|vim.uri.encode_query()|
 
     Neovim: +nightly 
 
@@ -72337,6 +72341,18 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +nightly 
 
 |vim.uri.from_fname()|
+
+    Neovim: +nightly 
+
+|vim.uri.join()|
+
+    Neovim: +nightly 
+
+|vim.uri.new()|
+
+    Neovim: +nightly 
+
+|vim.uri.normalize()|
 
     Neovim: +nightly 
 

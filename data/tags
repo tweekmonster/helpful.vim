@@ -5633,9 +5633,8 @@ E609neovim:v0.1.0,v0.9.0vim:v7.0001,
 E61neovim:v0.1.0,vim:v7.0001,
 E610neovim:v0.5.0,vim:v8.2.1545,v7.3.227
 E6100neovim:v0.3.0,
-E6101neovim:dev,
-E6102neovim:dev,
-E6103neovim:dev,
+E6101neovim:nightly,
+E6102neovim:nightly,
 E611vim:v8.2.4047,v7.3.227
 E612neovim:v0.1.0,vim:v7.0001,
 E613neovim:v0.1.0,v0.9.0vim:v7.0001,
@@ -12877,7 +12876,7 @@ remote-plugin-exampleneovim:v0.1.0,
 remote-plugin-hostsneovim:v0.1.0,
 remote-plugin-introneovim:v0.1.0,
 remote-plugin-manifestneovim:v0.1.0,
-remote-sshneovim:dev,
+remote-sshneovim:nightly,
 remote.txtneovim:v0.7.0,v0.6.0vim:v7.0001,
 remote_expr()neovim:v0.1.0,v0.8.0vim:v7.0001,
 remote_foreground()neovim:v0.1.0,v0.8.0vim:v7.0001,
@@ -12940,8 +12939,8 @@ rpc-connectingneovim:v0.1.5,
 rpc-introneovim:v0.1.5,v0.4.0
 rpc-remote-uineovim:v0.1.6,v0.2.1
 rpc-typesneovim:v0.1.5,v0.4.0
-rpcnotify()neovim:v0.1.0,dev
-rpcrequest()neovim:v0.1.0,dev
+rpcnotify()neovim:v0.1.0,nightly
+rpcrequest()neovim:v0.1.0,nightly
 rpcstart()neovim:v0.1.0,v0.11.0
 rpcstop()neovim:v0.1.0,v0.4.0
 rrst.vimneovim:v0.3.2,v0.12.0vim:v8.1.0332,
@@ -15711,9 +15710,14 @@ vim.ui_attach()neovim:v0.8.0,
 vim.ui_detach()neovim:v0.8.0,
 vim.urineovim:v0.10.0,
 vim.uri.decode()neovim:nightly,
+vim.uri.decode_query()neovim:nightly,
 vim.uri.encode()neovim:nightly,
+vim.uri.encode_query()neovim:nightly,
 vim.uri.from_buf()neovim:nightly,
 vim.uri.from_fname()neovim:nightly,
+vim.uri.join()neovim:nightly,
+vim.uri.new()neovim:nightly,
+vim.uri.normalize()neovim:nightly,
 vim.uri.parse()neovim:nightly,
 vim.uri.to_buf()neovim:nightly,
 vim.uri.to_fname()neovim:nightly,
