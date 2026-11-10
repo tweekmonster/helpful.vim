@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2026-11-09 04:39:02 UTC
+*helpful-version.txt*  Generated: 2026-11-10 05:55:48 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -59838,6 +59838,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
 
 |remote-ssh|
+
+    Neovim: +nightly 
+
+|remote-ssh-reconnect|
 
     Neovim: +nightly 
 
