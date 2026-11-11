@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2026-11-10 05:55:48 UTC
+*helpful-version.txt*  Generated: 2026-11-11 04:41:53 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -37767,6 +37767,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +nightly 
 
+|dev-test-plugin|
+
+    Neovim: +nightly 
+
 |dev-theme|
 
     Neovim: +v0.10.0 
@@ -52086,6 +52090,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.8.0 
 
+|luv-address-families|
+
+    Neovim: +nightly 
+
 |luv-async-handle|
 
     Neovim: +v0.8.0 
@@ -52134,9 +52142,17 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.8.0 
 
+|luv-fs-modification-times|
+
+    Neovim: +nightly 
+
 |luv-fs-poll-handle|
 
     Neovim: +v0.8.0 
+
+|luv-functions-vs-methods|
+
+    Neovim: +nightly 
 
 |luv-idle-handle|
 
@@ -52146,6 +52162,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.8.0 
 
+|luv-libuv-in-lua|
+
+    Neovim: +nightly 
+
 |luv-metrics-operations|
 
     Neovim: +v0.8.0 
@@ -52153,6 +52173,10 @@ A listing of helptags with the versions they became available or were removed.
 |luv-miscellaneous-utilities|
 
     Neovim: +v0.8.0 
+
+|luv-module-layout|
+
+    Neovim: +nightly 
 
 |luv-pipe-handle|
 
@@ -52170,6 +52194,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.8.0 
 
+|luv-pseudo-types|
+
+    Neovim: +nightly 
+
 |luv-reference-counting|
 
     Neovim: +v0.8.0 
@@ -52178,13 +52206,33 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.8.0 
 
+|luv-signals|
+
+    Neovim: +nightly 
+
+|luv-socket-types|
+
+    Neovim: +nightly 
+
 |luv-stream-handle|
 
     Neovim: +v0.8.0 
 
 |luv-string-manipulation|
 
-    Neovim: +v0.11.0 
+    Neovim: +v0.11.0 -nightly 
+
+|luv-string-manipulation-functions|
+
+    Neovim: +nightly 
+
+|luv-synchronous-vs-asynchronous-functions|
+
+    Neovim: +nightly 
+
+|luv-tcp-echo-server-example|
+
+    Neovim: +nightly 
 
 |luv-tcp-handle|
 
@@ -52206,6 +52254,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.8.0 
 
+|luv-tty-modes|
+
+    Neovim: +nightly 
+
 |luv-udp-handle|
 
     Neovim: +v0.8.0 
@@ -52213,6 +52265,62 @@ A listing of helptags with the versions they became available or were removed.
 |luv-version-checking|
 
     Neovim: +v0.8.0 
+
+|luv_dir_t:closedir()|
+
+    Neovim: +nightly 
+
+|luv_dir_t:readdir()|
+
+    Neovim: +nightly 
+
+|luv_sem_t:post()|
+
+    Neovim: +nightly 
+
+|luv_sem_t:trywait()|
+
+    Neovim: +nightly 
+
+|luv_sem_t:wait()|
+
+    Neovim: +nightly 
+
+|luv_thread_t:detach()|
+
+    Neovim: +nightly 
+
+|luv_thread_t:equal()|
+
+    Neovim: +nightly 
+
+|luv_thread_t:getaffinity()|
+
+    Neovim: +nightly 
+
+|luv_thread_t:getname()|
+
+    Neovim: +nightly 
+
+|luv_thread_t:getpriority()|
+
+    Neovim: +nightly 
+
+|luv_thread_t:join()|
+
+    Neovim: +nightly 
+
+|luv_thread_t:setaffinity()|
+
+    Neovim: +nightly 
+
+|luv_thread_t:setpriority()|
+
+    Neovim: +nightly 
+
+|luv_work_ctx_t:queue()|
+
+    Neovim: +nightly 
 
 |luvref|
 
@@ -67168,6 +67276,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.8.0 
 
+|uv.address|
+
+    Neovim: +nightly 
+
 |uv.async_send()|
 
     Neovim: +v0.8.0 
@@ -67208,9 +67320,241 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.8.0 
 
+|uv.constants.AF_APPLETALK|
+
+    Neovim: +nightly 
+
+|uv.constants.AF_ATMPVC|
+
+    Neovim: +nightly 
+
+|uv.constants.AF_AX25|
+
+    Neovim: +nightly 
+
+|uv.constants.AF_INET|
+
+    Neovim: +nightly 
+
+|uv.constants.AF_INET6|
+
+    Neovim: +nightly 
+
+|uv.constants.AF_IPX|
+
+    Neovim: +nightly 
+
+|uv.constants.AF_NETLINK|
+
+    Neovim: +nightly 
+
+|uv.constants.AF_PACKET|
+
+    Neovim: +nightly 
+
+|uv.constants.AF_UNIX|
+
+    Neovim: +nightly 
+
+|uv.constants.AF_X25|
+
+    Neovim: +nightly 
+
+|uv.constants.FS_UTIME_NOW|
+
+    Neovim: +nightly 
+
+|uv.constants.FS_UTIME_OMIT|
+
+    Neovim: +nightly 
+
+|uv.constants.SIGABRT|
+
+    Neovim: +nightly 
+
+|uv.constants.SIGALRM|
+
+    Neovim: +nightly 
+
+|uv.constants.SIGBREAK|
+
+    Neovim: +nightly 
+
+|uv.constants.SIGBUS|
+
+    Neovim: +nightly 
+
+|uv.constants.SIGCHLD|
+
+    Neovim: +nightly 
+
+|uv.constants.SIGCONT|
+
+    Neovim: +nightly 
+
+|uv.constants.SIGFPE|
+
+    Neovim: +nightly 
+
+|uv.constants.SIGHUP|
+
+    Neovim: +nightly 
+
+|uv.constants.SIGILL|
+
+    Neovim: +nightly 
+
+|uv.constants.SIGINT|
+
+    Neovim: +nightly 
+
+|uv.constants.SIGIO|
+
+    Neovim: +nightly 
+
+|uv.constants.SIGIOT|
+
+    Neovim: +nightly 
+
+|uv.constants.SIGKILL|
+
+    Neovim: +nightly 
+
+|uv.constants.SIGLOST|
+
+    Neovim: +nightly 
+
+|uv.constants.SIGPIPE|
+
+    Neovim: +nightly 
+
+|uv.constants.SIGPOLL|
+
+    Neovim: +nightly 
+
+|uv.constants.SIGPROF|
+
+    Neovim: +nightly 
+
+|uv.constants.SIGPWR|
+
+    Neovim: +nightly 
+
+|uv.constants.SIGQUIT|
+
+    Neovim: +nightly 
+
+|uv.constants.SIGSEGV|
+
+    Neovim: +nightly 
+
+|uv.constants.SIGSTKFLT|
+
+    Neovim: +nightly 
+
+|uv.constants.SIGSTOP|
+
+    Neovim: +nightly 
+
+|uv.constants.SIGSYS|
+
+    Neovim: +nightly 
+
+|uv.constants.SIGTERM|
+
+    Neovim: +nightly 
+
+|uv.constants.SIGTRAP|
+
+    Neovim: +nightly 
+
+|uv.constants.SIGTSTP|
+
+    Neovim: +nightly 
+
+|uv.constants.SIGTTIN|
+
+    Neovim: +nightly 
+
+|uv.constants.SIGTTOU|
+
+    Neovim: +nightly 
+
+|uv.constants.SIGURG|
+
+    Neovim: +nightly 
+
+|uv.constants.SIGUSR1|
+
+    Neovim: +nightly 
+
+|uv.constants.SIGUSR2|
+
+    Neovim: +nightly 
+
+|uv.constants.SIGVTALRM|
+
+    Neovim: +nightly 
+
+|uv.constants.SIGWINCH|
+
+    Neovim: +nightly 
+
+|uv.constants.SIGXCPU|
+
+    Neovim: +nightly 
+
+|uv.constants.SIGXFSZ|
+
+    Neovim: +nightly 
+
+|uv.constants.SOCK_DGRAM|
+
+    Neovim: +nightly 
+
+|uv.constants.SOCK_RAW|
+
+    Neovim: +nightly 
+
+|uv.constants.SOCK_RDM|
+
+    Neovim: +nightly 
+
+|uv.constants.SOCK_SEQPACKET|
+
+    Neovim: +nightly 
+
+|uv.constants.SOCK_STREAM|
+
+    Neovim: +nightly 
+
+|uv.constants.TTY_MODE_IO|
+
+    Neovim: +nightly 
+
+|uv.constants.TTY_MODE_NORMAL|
+
+    Neovim: +nightly 
+
+|uv.constants.TTY_MODE_RAW|
+
+    Neovim: +nightly 
+
+|uv.constants.TTY_MODE_RAW_VT|
+
+    Neovim: +nightly 
+
 |uv.cpu_info()|
 
     Neovim: +v0.8.0 
+
+|uv.cpu_info.cpu_info|
+
+    Neovim: +nightly 
+
+|uv.cpu_info.cpu_info.times|
+
+    Neovim: +nightly 
 
 |uv.cpumask_size()|
 
@@ -67260,6 +67604,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.8.0 
 
+|uv.fs_copyfile.flags|
+
+    Neovim: +nightly 
+
 |uv.fs_event_getpath()|
 
     Neovim: +v0.8.0 
@@ -67267,6 +67615,10 @@ A listing of helptags with the versions they became available or were removed.
 |uv.fs_event_start()|
 
     Neovim: +v0.8.0 
+
+|uv.fs_event_start.flags|
+
+    Neovim: +nightly 
 
 |uv.fs_event_stop()|
 
@@ -67388,9 +67740,21 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.8.0 
 
+|uv.fs_stat.result|
+
+    Neovim: +nightly 
+
+|uv.fs_stat.result.time|
+
+    Neovim: +nightly 
+
 |uv.fs_statfs()|
 
     Neovim: +v0.8.0 
+
+|uv.fs_statfs.result|
+
+    Neovim: +nightly 
 
 |uv.fs_symlink()|
 
@@ -67432,6 +67796,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.8.0 
 
+|uv.getaddrinfo.hints|
+
+    Neovim: +nightly 
+
 |uv.getgid()|
 
     Neovim: +v0.8.0 
@@ -67440,13 +67808,25 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.8.0 
 
+|uv.getnameinfo.address|
+
+    Neovim: +nightly 
+
 |uv.getpid()|
 
-    Neovim: +v0.8.0 
+    Neovim: +v0.8.0 -nightly 
 
 |uv.getrusage()|
 
     Neovim: +v0.8.0 
+
+|uv.getrusage.result|
+
+    Neovim: +nightly 
+
+|uv.getrusage.result.time|
+
+    Neovim: +nightly 
 
 |uv.getrusage_thread()|
 
@@ -67496,6 +67876,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.8.0 
 
+|uv.interface_addresses.addresses|
+
+    Neovim: +nightly 
+
 |uv.is_active()|
 
     Neovim: +v0.8.0 
@@ -67540,6 +67924,22 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.8.0 
 
+|uv.luv_dir_t|
+
+    Neovim: +nightly 
+
+|uv.luv_sem_t|
+
+    Neovim: +nightly 
+
+|uv.luv_thread_t|
+
+    Neovim: +nightly 
+
+|uv.luv_work_ctx_t|
+
+    Neovim: +nightly 
+
 |uv.metrics_idle_time()|
 
     Neovim: +v0.8.0 
@@ -67547,6 +67947,10 @@ A listing of helptags with the versions they became available or were removed.
 |uv.metrics_info()|
 
     Neovim: +v0.10.0 
+
+|uv.metrics_info.info|
+
+    Neovim: +nightly 
 
 |uv.new_async()|
 
@@ -67628,6 +68032,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.8.0 
 
+|uv.os_get_passwd.passwd|
+
+    Neovim: +nightly 
+
 |uv.os_getenv()|
 
     Neovim: +v0.8.0 
@@ -67668,6 +68076,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.8.0 
 
+|uv.os_uname.info|
+
+    Neovim: +nightly 
+
 |uv.os_unsetenv()|
 
     Neovim: +v0.8.0 
@@ -67675,6 +68087,10 @@ A listing of helptags with the versions they became available or were removed.
 |uv.pipe()|
 
     Neovim: +v0.8.0 
+
+|uv.pipe.fds|
+
+    Neovim: +nightly 
 
 |uv.pipe_bind()|
 
@@ -67836,6 +68252,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.8.0 
 
+|uv.socketinfo|
+
+    Neovim: +nightly 
+
 |uv.socketpair()|
 
     Neovim: +v0.8.0 
@@ -67846,7 +68266,11 @@ A listing of helptags with the versions they became available or were removed.
 
 |uv.spawn-options|
 
-    Neovim: +v0.8.0 
+    Neovim: +v0.8.0 -nightly 
+
+|uv.spawn.options|
+
+    Neovim: +nightly 
 
 |uv.stop()|
 
@@ -67898,15 +68322,15 @@ A listing of helptags with the versions they became available or were removed.
 
 |uv.tcp_write_queue_size()|
 
-    Neovim: +v0.8.0 
+    Neovim: +v0.8.0 -nightly 
 
 |uv.thread.getpriority()|
 
-    Neovim: +v0.10.0 
+    Neovim: +v0.10.0 -nightly 
 
 |uv.thread.setpriority()|
 
-    Neovim: +v0.10.0 
+    Neovim: +v0.10.0 -nightly 
 
 |uv.thread_detach()|
 
@@ -67928,6 +68352,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.11.0 
 
+|uv.thread_getpriority()|
+
+    Neovim: +nightly 
+
 |uv.thread_join()|
 
     Neovim: +v0.8.0 
@@ -67943,6 +68371,10 @@ A listing of helptags with the versions they became available or were removed.
 |uv.thread_setname()|
 
     Neovim: +v0.11.0 
+
+|uv.thread_setpriority()|
+
+    Neovim: +nightly 
 
 |uv.timer_again()|
 
@@ -68004,6 +68436,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.8.0 
 
+|uv.udp_bind.flags|
+
+    Neovim: +nightly 
+
 |uv.udp_connect()|
 
     Neovim: +v0.8.0 
@@ -68031,6 +68467,10 @@ A listing of helptags with the versions they became available or were removed.
 |uv.udp_recv_start()|
 
     Neovim: +v0.8.0 
+
+|uv.udp_recv_start.callback.addr|
+
+    Neovim: +nightly 
 
 |uv.udp_recv_stop()|
 
@@ -68096,6 +68536,106 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.11.0 
 
+|uv.uv_async_t|
+
+    Neovim: +nightly 
+
+|uv.uv_check_t|
+
+    Neovim: +nightly 
+
+|uv.uv_connect_t|
+
+    Neovim: +nightly 
+
+|uv.uv_fs_event_t|
+
+    Neovim: +nightly 
+
+|uv.uv_fs_poll_t|
+
+    Neovim: +nightly 
+
+|uv.uv_fs_t|
+
+    Neovim: +nightly 
+
+|uv.uv_getaddrinfo_t|
+
+    Neovim: +nightly 
+
+|uv.uv_getnameinfo_t|
+
+    Neovim: +nightly 
+
+|uv.uv_handle_t|
+
+    Neovim: +nightly 
+
+|uv.uv_idle_t|
+
+    Neovim: +nightly 
+
+|uv.uv_pipe_t|
+
+    Neovim: +nightly 
+
+|uv.uv_poll_t|
+
+    Neovim: +nightly 
+
+|uv.uv_prepare_t|
+
+    Neovim: +nightly 
+
+|uv.uv_process_t|
+
+    Neovim: +nightly 
+
+|uv.uv_req_t|
+
+    Neovim: +nightly 
+
+|uv.uv_shutdown_t|
+
+    Neovim: +nightly 
+
+|uv.uv_signal_t|
+
+    Neovim: +nightly 
+
+|uv.uv_stream_t|
+
+    Neovim: +nightly 
+
+|uv.uv_tcp_t|
+
+    Neovim: +nightly 
+
+|uv.uv_timer_t|
+
+    Neovim: +nightly 
+
+|uv.uv_tty_t|
+
+    Neovim: +nightly 
+
+|uv.uv_udp_send_t|
+
+    Neovim: +nightly 
+
+|uv.uv_udp_t|
+
+    Neovim: +nightly 
+
+|uv.uv_work_t|
+
+    Neovim: +nightly 
+
+|uv.uv_write_t|
+
+    Neovim: +nightly 
+
 |uv.version()|
 
     Neovim: +v0.8.0 
@@ -68116,6 +68656,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.8.0 
 
+|uv.write_nwritten()|
+
+    Neovim: +nightly 
+
 |uv.wtf8_length_as_utf16()|
 
     Neovim: +v0.11.0 
@@ -68128,29 +68672,125 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.8.0 
 
+|uv_async_t:send()|
+
+    Neovim: +nightly 
+
 |uv_check_t|
 
     Neovim: +v0.8.0 
+
+|uv_check_t:start()|
+
+    Neovim: +nightly 
+
+|uv_check_t:stop()|
+
+    Neovim: +nightly 
+
+|uv_connect_t|
+
+    Neovim: +nightly 
 
 |uv_fs_event_t|
 
     Neovim: +v0.8.0 
 
+|uv_fs_event_t:getpath()|
+
+    Neovim: +nightly 
+
+|uv_fs_event_t:start()|
+
+    Neovim: +nightly 
+
+|uv_fs_event_t:stop()|
+
+    Neovim: +nightly 
+
 |uv_fs_poll_t|
 
     Neovim: +v0.8.0 
+
+|uv_fs_poll_t:getpath()|
+
+    Neovim: +nightly 
+
+|uv_fs_poll_t:start()|
+
+    Neovim: +nightly 
+
+|uv_fs_poll_t:stop()|
+
+    Neovim: +nightly 
 
 |uv_fs_t|
 
     Neovim: +v0.8.0 
 
+|uv_getaddrinfo_t|
+
+    Neovim: +nightly 
+
+|uv_getnameinfo_t|
+
+    Neovim: +nightly 
+
 |uv_handle_t|
 
     Neovim: +v0.8.0 
 
+|uv_handle_t:close()|
+
+    Neovim: +nightly 
+
+|uv_handle_t:fileno()|
+
+    Neovim: +nightly 
+
+|uv_handle_t:get_type()|
+
+    Neovim: +nightly 
+
+|uv_handle_t:has_ref()|
+
+    Neovim: +nightly 
+
+|uv_handle_t:is_active()|
+
+    Neovim: +nightly 
+
+|uv_handle_t:is_closing()|
+
+    Neovim: +nightly 
+
+|uv_handle_t:recv_buffer_size()|
+
+    Neovim: +nightly 
+
+|uv_handle_t:ref()|
+
+    Neovim: +nightly 
+
+|uv_handle_t:send_buffer_size()|
+
+    Neovim: +nightly 
+
+|uv_handle_t:unref()|
+
+    Neovim: +nightly 
+
 |uv_idle_t|
 
     Neovim: +v0.8.0 
+
+|uv_idle_t:start()|
+
+    Neovim: +nightly 
+
+|uv_idle_t:stop()|
+
+    Neovim: +nightly 
 
 |uv_loop_t|
 
@@ -68160,45 +68800,349 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.8.0 
 
+|uv_pipe_t:bind()|
+
+    Neovim: +nightly 
+
+|uv_pipe_t:bind2()|
+
+    Neovim: +nightly 
+
+|uv_pipe_t:chmod()|
+
+    Neovim: +nightly 
+
+|uv_pipe_t:connect()|
+
+    Neovim: +nightly 
+
+|uv_pipe_t:connect2()|
+
+    Neovim: +nightly 
+
+|uv_pipe_t:getpeername()|
+
+    Neovim: +nightly 
+
+|uv_pipe_t:getsockname()|
+
+    Neovim: +nightly 
+
+|uv_pipe_t:open()|
+
+    Neovim: +nightly 
+
+|uv_pipe_t:pending_count()|
+
+    Neovim: +nightly 
+
+|uv_pipe_t:pending_instances()|
+
+    Neovim: +nightly 
+
+|uv_pipe_t:pending_type()|
+
+    Neovim: +nightly 
+
 |uv_poll_t|
 
     Neovim: +v0.8.0 
+
+|uv_poll_t:start()|
+
+    Neovim: +nightly 
+
+|uv_poll_t:stop()|
+
+    Neovim: +nightly 
 
 |uv_prepare_t|
 
     Neovim: +v0.8.0 
 
+|uv_prepare_t:start()|
+
+    Neovim: +nightly 
+
+|uv_prepare_t:stop()|
+
+    Neovim: +nightly 
+
 |uv_process_t|
 
     Neovim: +v0.8.0 
+
+|uv_process_t:get_pid()|
+
+    Neovim: +nightly 
+
+|uv_process_t:kill()|
+
+    Neovim: +nightly 
 
 |uv_req_t|
 
     Neovim: +v0.8.0 
 
+|uv_req_t:cancel()|
+
+    Neovim: +nightly 
+
+|uv_req_t:get_type()|
+
+    Neovim: +nightly 
+
+|uv_shutdown_t|
+
+    Neovim: +nightly 
+
 |uv_signal_t|
 
     Neovim: +v0.8.0 
+
+|uv_signal_t:start()|
+
+    Neovim: +nightly 
+
+|uv_signal_t:start_oneshot()|
+
+    Neovim: +nightly 
+
+|uv_signal_t:stop()|
+
+    Neovim: +nightly 
 
 |uv_stream_t|
 
     Neovim: +v0.8.0 
 
+|uv_stream_t:accept()|
+
+    Neovim: +nightly 
+
+|uv_stream_t:get_write_queue_size()|
+
+    Neovim: +nightly 
+
+|uv_stream_t:is_readable()|
+
+    Neovim: +nightly 
+
+|uv_stream_t:is_writable()|
+
+    Neovim: +nightly 
+
+|uv_stream_t:listen()|
+
+    Neovim: +nightly 
+
+|uv_stream_t:read_start()|
+
+    Neovim: +nightly 
+
+|uv_stream_t:read_stop()|
+
+    Neovim: +nightly 
+
+|uv_stream_t:set_blocking()|
+
+    Neovim: +nightly 
+
+|uv_stream_t:shutdown()|
+
+    Neovim: +nightly 
+
+|uv_stream_t:try_write()|
+
+    Neovim: +nightly 
+
+|uv_stream_t:try_write2()|
+
+    Neovim: +nightly 
+
+|uv_stream_t:write()|
+
+    Neovim: +nightly 
+
+|uv_stream_t:write2()|
+
+    Neovim: +nightly 
+
 |uv_tcp_t|
 
     Neovim: +v0.8.0 
+
+|uv_tcp_t:bind()|
+
+    Neovim: +nightly 
+
+|uv_tcp_t:close_reset()|
+
+    Neovim: +nightly 
+
+|uv_tcp_t:connect()|
+
+    Neovim: +nightly 
+
+|uv_tcp_t:getpeername()|
+
+    Neovim: +nightly 
+
+|uv_tcp_t:getsockname()|
+
+    Neovim: +nightly 
+
+|uv_tcp_t:keepalive()|
+
+    Neovim: +nightly 
+
+|uv_tcp_t:nodelay()|
+
+    Neovim: +nightly 
+
+|uv_tcp_t:open()|
+
+    Neovim: +nightly 
+
+|uv_tcp_t:simultaneous_accepts()|
+
+    Neovim: +nightly 
 
 |uv_timer_t|
 
     Neovim: +v0.8.0 
 
+|uv_timer_t:again()|
+
+    Neovim: +nightly 
+
+|uv_timer_t:get_due_in()|
+
+    Neovim: +nightly 
+
+|uv_timer_t:get_repeat()|
+
+    Neovim: +nightly 
+
+|uv_timer_t:set_repeat()|
+
+    Neovim: +nightly 
+
+|uv_timer_t:start()|
+
+    Neovim: +nightly 
+
+|uv_timer_t:stop()|
+
+    Neovim: +nightly 
+
 |uv_tty_t|
 
     Neovim: +v0.8.0 
 
+|uv_tty_t:get_winsize()|
+
+    Neovim: +nightly 
+
+|uv_tty_t:set_mode()|
+
+    Neovim: +nightly 
+
+|uv_udp_send_t|
+
+    Neovim: +nightly 
+
 |uv_udp_t|
 
     Neovim: +v0.8.0 
+
+|uv_udp_t:bind()|
+
+    Neovim: +nightly 
+
+|uv_udp_t:connect()|
+
+    Neovim: +nightly 
+
+|uv_udp_t:get_send_queue_count()|
+
+    Neovim: +nightly 
+
+|uv_udp_t:get_send_queue_size()|
+
+    Neovim: +nightly 
+
+|uv_udp_t:getpeername()|
+
+    Neovim: +nightly 
+
+|uv_udp_t:getsockname()|
+
+    Neovim: +nightly 
+
+|uv_udp_t:open()|
+
+    Neovim: +nightly 
+
+|uv_udp_t:recv_start()|
+
+    Neovim: +nightly 
+
+|uv_udp_t:recv_stop()|
+
+    Neovim: +nightly 
+
+|uv_udp_t:send()|
+
+    Neovim: +nightly 
+
+|uv_udp_t:set_broadcast()|
+
+    Neovim: +nightly 
+
+|uv_udp_t:set_membership()|
+
+    Neovim: +nightly 
+
+|uv_udp_t:set_multicast_interface()|
+
+    Neovim: +nightly 
+
+|uv_udp_t:set_multicast_loop()|
+
+    Neovim: +nightly 
+
+|uv_udp_t:set_multicast_ttl()|
+
+    Neovim: +nightly 
+
+|uv_udp_t:set_source_membership()|
+
+    Neovim: +nightly 
+
+|uv_udp_t:set_ttl()|
+
+    Neovim: +nightly 
+
+|uv_udp_t:try_send()|
+
+    Neovim: +nightly 
+
+|uv_udp_t:try_send2()|
+
+    Neovim: +nightly 
+
+|uv_work_t|
+
+    Neovim: +nightly 
+
+|uv_write_t|
+
+    Neovim: +nightly 
+
+|uv_write_t:nwritten()|
+
+    Neovim: +nightly 
 
 |v|
 
