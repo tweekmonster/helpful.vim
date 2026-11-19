@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2026-11-11 04:41:53 UTC
+*helpful-version.txt*  Generated: 2026-11-19 05:53:55 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -61684,6 +61684,10 @@ A listing of helptags with the versions they became available or were removed.
 |socketserver-name|
 
        Vim: +v9.1.1651 
+
+|socketserver-security|
+
+       Vim: +v9.2.1365 
 
 |socketserver-x11|
 
