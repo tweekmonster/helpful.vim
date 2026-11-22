@@ -1,4 +1,4 @@
-*helpful-version.txt*  Generated: 2026-11-19 05:53:55 UTC
+*helpful-version.txt*  Generated: 2026-11-22 05:01:58 UTC
 
 A listing of helptags with the versions they became available or were removed.
 
@@ -6348,6 +6348,10 @@ A listing of helptags with the versions they became available or were removed.
     Neovim: +v0.1.0 
        Vim: +v7.0001 
 
+|'tbw'|
+
+       Vim: +v9.2.1375 
+
 |'tc'|
 
     Neovim: +v0.1.5 
@@ -6371,6 +6375,10 @@ A listing of helptags with the versions they became available or were removed.
 
     Neovim: +v0.1.0 -v0.1.6 
        Vim: +v7.0001 
+
+|'termbackgroundwait'|
+
+       Vim: +v9.2.1375 
 
 |'termbidi'|
 
@@ -33638,6 +33646,10 @@ A listing of helptags with the versions they became available or were removed.
 |backers.txt|
 
     Neovim: +v0.10.0 
+
+|background-flash|
+
+       Vim: +v9.2.1375 
 
 |backslash|
 
